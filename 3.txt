@@ -9192,3 +9192,27 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encrypt
 
 vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?encryption=auto&security=tls&type=tcp#None%20TCP-TLS%20%7C%20%40chillguy_vpn
 
+trojan://telegram-id-directvpn@15.188.213.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.213.133:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.213.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://177bf7ef-fcd2-4508-a6c3-d8997353dcec@128.140.2.203:2#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:1040?security=reality&encryption=none&pbk=QGNDB8osX42rKSsOZQZRuA1tzKUZtjHA5bUjAReQHiM&headerType=none&fp=random&spx=%2FP8LS8JbnsvBANB2&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=94a459cfbfd7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fdcf151a-e082-a72d-d558-e575fa920b76@185.143.232.33:2052?path=%2F&security=none&encryption=none&host=prime2.ge9.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a2a74dab-ffc3-8adc-385c-614c04ce7d5b@subgift-production-aeb1.up.railway.app:443?encryption=none&security=tls&sni=subgift-production-aeb1.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=subgift-production-aeb1.up.railway.app&path=%2Fws%2Fa2a74dab-ffc3-8adc-385c-614c04ce7d5b#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://f552a78e-400c-4332-8265-8e5da1c21eeb@de-dp-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://b81410ce-2373-437c-9496-042a953610a7@104.27.89.146:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-77aea2.ezaccess15939d0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-77aea2.ezaccess15939d0.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://b81410ce-2373-437c-9496-042a953610a7@104.27.89.26:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-77aea2.ezaccess15939d0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-77aea2.ezaccess15939d0.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
