@@ -18,3 +18,17 @@ vless://02d3e16f-5ae3-4eb4-98d3-46c7e0fccc53@g1.parhamm1.ir:4001?security=realit
 
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.99.160:443?type=ws&encryption=none&path=%2FGoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=baguette.adaspoloandco.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://7799027a-6565-401c-aeef-8eb8dbe3c5a6@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://5fc905e9-d83c-4f03-85be-ba1042d7455f@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@89.125.151.133:20630?encryption=none&headerType=http&host=google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@194.87.245.93:43357?encryption=none&headerType=http&host=google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@23.26.156.222:37870?encryption=none&headerType=http&host=google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@107.181.155.88:22330?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
