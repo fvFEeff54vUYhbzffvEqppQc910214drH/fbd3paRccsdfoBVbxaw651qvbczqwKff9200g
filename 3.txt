@@ -5594,3 +5594,7 @@ vless://a5470538-2e40-4e0e-a056-14c78ab24cc4@p.gonet.cc.cd:8080?path=%2F&securit
 
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&fp=ios&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@31.177.111.178:443?type=t.me/entryNET&security=reality&pbk=gETV15JkIgc_-i8Yn8OwL2923FmbwDIoe08FBHEp-yE&fp=chrome&sni=5post-gate.x5.ru&serviceName=t.me/entryNET&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
