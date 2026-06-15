@@ -20,3 +20,19 @@ vmess://eyJhZGQiOiAiZmFrZS5pZC53b3JrZXJzLmRldiIsICJhaWQiOiAwLCAiaG9zdCI6ICJmYWtl
 
 vless://49f06093-6a10-464b-81f4-be4e576c34e3@cf.877774.xyz:2087?encryption=none&security=tls&sni=thus2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=thus2.466688.xyz&path=%2Fsecure-xhttp%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22packet-up%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ch-2.bexum.fun#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40igrsdet
+
+trojan://mitivpn@104.16.72.70:443?path=%2Findex.php%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=gamingdll.ir&fp=chrome&type=ws&sni=gamingdll.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40igrsdet
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vmess://eyJhZGQiOiAiaG9obS5taWNyb3NvZnQuY29tIiwgImFpZCI6IDAsICJob3N0IjogImZyMS50cnVtcDIwMjMub3JnIiwgImlkIjogIjJiMjE0MTIyLTE5MDYtNDI4YS1iYmI3LWEwMzljYmI3Y2Q1YyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvOUpaRkRUS0UiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sMiJ9
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.68:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vmess://eyJhZGQiOiAiaHluZXNjb25zdHJ1Y3Rpb24uY29tIiwgImFpZCI6IDAsICJob3N0IjogInNnMS12MnJheS5zc2hraXQub3JnIiwgImlkIjogImM2NzQ3ZGE0LWZiMmUtNGEyYS1iZGI3LTg2MTRiZGQ2YjBiMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3Noa2l0LzQwMTQ1MjY5Ny82MzViNDY0OTIxMTQxLyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wyIn0=
+
+vmess://eyJhZGQiOiAiaWNvb2suaGsiLCAiYWlkIjogMCwgImhvc3QiOiAiaWNvb2suaGsiLCAiaWQiOiAiM2ViMDVjYjYtZDJlMS00YTMxLTlmODItNTE0Y2ZhOThmZTE1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYXk/ZWQ9MjA0OCIsICJwb3J0IjogODAsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wyIn0=
+
