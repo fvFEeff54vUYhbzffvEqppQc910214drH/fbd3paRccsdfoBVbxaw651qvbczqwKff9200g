@@ -4620,3 +4620,23 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=%2Ftsghdws&sec
 
 vless://e709cf03-e614-404e-b6a7-62c0b60d77a2@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%87%B7%F0%9F%87%B4%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=sadszdx.global.ssl.fastly.net.b5r.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@104.18.17.216:443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=//assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.118:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://TrojanPass2026!@2.26.54.174:8448?allowInsecure=1&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
