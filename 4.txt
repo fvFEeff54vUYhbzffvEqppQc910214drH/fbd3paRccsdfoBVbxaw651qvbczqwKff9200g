@@ -8,3 +8,15 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&
 
 vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?security=reality&sni=nl3.panel11.ru&fp=&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&sid=e069bfaf9ba2069c&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://b5730518-4cc5-4922-bd0b-8c0f3da190a6@65.109.191.83:8443?type=ws&path=%2Ftest&host=play.google.com&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://77e97a8f-fa9a-4576-bf44-4277ca9643ad@arvancloud.ir:8880?path=%2F&security=&encryption=none&host=cdn.fanbormil.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arvancloud.ir&fp=random&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&sid=7b07&spx=%2FfCNYfo7wB1m9IQS&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:1080?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.sony.com&sid=8f&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&spx=/9ZlPVZaQN2WQHrp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=%3Fed%3D2048&host=nurenbbbb.appleseraj.ir&sni=nurenbbbb.appleseraj.ir&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
