@@ -8152,3 +8152,17 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&enc
 
 vless://d0371fbb-df6f-4d1b-b451-d78c0a3492bc@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=du.mobileemdad.top#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@18.196.153.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.153.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.196.153.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://329dbf81-2870-4cf4-86ea-4aee54f81201@chi_flexible.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Macintosh%3B%2BIntel%2BMac%2BOS%2BX%2B10_15_7%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%7D%7D&insecure=0&host=daily_info.allcaline.ir&type=xhttp&allowInsecure=0&sni=daily_info.allcaline.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40chillguy_vpn
+
+vless://f1c742c5-f44c-481d-9fbf-2a2ceebd8ab9@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=sd5488ghf26dfsae.another-appleid.ccwu.cc&path=%2F&host=sd5488ghf26dfsae.another-appleid.ccwu.cc&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vmess://eyJhZGQiOiAiNTEuMTUuMTkuMjA2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJkOGQ4YjZjMC0yZWM2LTExZWUtYjgzNi0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1YyUmF5eU5HdnBuIiwgInBvcnQiOiA4MCwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbDIifQ==
+
