@@ -30,3 +30,23 @@ vless://52450a53-ac49-42ff-be36-0899178d34b9@172.67.213.26:2053?ed=2048&eh=Sec-W
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2ray_configs_pool2
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d514f0df-83c5-4690-8a14-398782469654@104.17.147.22:443?encryption=none&type=xhttp&host=&path=%2Fapi%2Fpattern-to-decode&mode=auto&security=tls&sni=api-de-1.021912.xyz&fp=chrome&alpn=h3%2Ch2#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.123:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&packetEncoding=xudp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://d514f0df-83c5-4690-8a14-398782469654@www.speedtest.net:443?encryption=none&type=xhttp&host=api-decoder-3.banananetwork.qzz.io&path=%2Fapi%2Fpattern-to-decode&mode=auto&security=tls&sni=banananetwork.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://d514f0df-83c5-4690-8a14-398782469654@104.17.148.22:443?encryption=none&type=xhttp&host=api-nlpanalyze-1.banananetwork.qzz.io&path=%2Fapi%2Fpattern-to-decode&mode=auto&security=tls&sni=banananetwork.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://d514f0df-83c5-4690-8a14-398782469654@104.17.148.22:80?encryption=none&type=xhttp&host=aPi-DeCoDeR-3.AsSeTs.xX.kG.&path=%2Fapi%2Fpattern-to-decode&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://d514f0df-83c5-4690-8a14-398782469654@www.speedtest.net:80?encryption=none&type=xhttp&host=ApI-FiNdEr-1.AsSeTs.xX.kG&path=%2Fapi%2Fpattern-to-decode&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://d514f0df-83c5-4690-8a14-398782469654@gate3.snet2.ir:443?encryption=none&type=xhttp&path=%2F&mode=stream-up&security=tls&sni=de-1.orgtgju.org&fp=chrome&alpn=h3%2Ch2#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
