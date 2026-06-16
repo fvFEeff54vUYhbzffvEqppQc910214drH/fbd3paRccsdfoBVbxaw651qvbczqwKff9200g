@@ -12282,3 +12282,17 @@ vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@freeyx.cloudflare88.eu.org:2096?enc
 
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@freeyx.cloudflare88.eu.org:2096?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&alpn=h3&fp=random&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+trojan://aqvhh1m6-qv3g-u5jw-ft7x-ppq9ps1u5kc3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://kwb8k2fd-dmhg-c4ou-y75o-t5kiyv0wm0f3@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://3b9foqdk-lthy-2xtg-n6xg-i0grzgoshyg9@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://humanity@141.193.213.21:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?sni=130.94.94.15&peer=130.94.94.15&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-privatevpns@15.188.45.5:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40chillguy_vpn
+
