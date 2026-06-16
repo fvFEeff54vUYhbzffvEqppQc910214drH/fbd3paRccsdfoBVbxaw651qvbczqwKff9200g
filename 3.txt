@@ -12118,3 +12118,9 @@ vless://31830c67-ce15-49d6-83db-7f354dbb7d52@pg.restauranzorban.ir:2052?path=%2F
 
 vless://bbcde690-aca4-48dd-8da7-85fbad4b6d99@72.56.124.220:443?fp=firefox&pbk=TM6YMck66FyZu1mIF766ADrNUE6IohY8IH-_0GH0ZDM&security=reality&serviceName=grpc&sid=34afb6c42580a17e&sni=cdn.lemanapro.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@35.181.74.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.74.227:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.74.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
