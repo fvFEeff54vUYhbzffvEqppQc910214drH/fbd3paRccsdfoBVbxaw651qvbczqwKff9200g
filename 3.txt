@@ -12422,3 +12422,35 @@ vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:1040?encryption=none&
 
 vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:1080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=7da7797d6424&sni=www.sony.com&spx=%2Fd0UUS5hOWfLfdZP&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:4043?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&security=reality&sid=23&sni=www.amd.com&spx=%2FMZoieAAqOLeUaFo&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:8080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=ab4bcd&sni=aws.amazon.com&spx=%2FHn1DYuDtUGL1pEi&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:2096?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=7ce0f89a1f4623&sni=www.cloudflare.com&spx=%2FXNCwcKs9G50k4iv&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&security=reality&sid=7b07&sni=arvancloud.ir&spx=%2FJHPtPXM3jeZD50G&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:2026?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&sid=aaba&fp=chrome&pbk=k_XqDLeMBsuDxeunm-TlN_dDvx2RR292cVWrpL-QvUE&spx=/mGsZu8PhHkWMwFr&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMTA0LjE2LjUyLjE1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogInJhbmRvbSIsICJob3N0IjogIiIsICJpZCI6ICIzYmI1OTA4Ni04NzA2LTQ5ZWYtYWEyNC0xMzI2MTk4NTY2NjgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAieGh0dHAiLCAicGF0aCI6ICIvcGhwL2FkbWluL2xvZy9AdjJib3hfdjIvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjI/ZWQ9MjA0OCIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFhIVFRQLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ0VydE93MS5sT29sT29sT29sT28uY09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJwYWNrZXQtdXAiLCAidiI6ICIyIn0=
+
+vless://a142d5e7-949f-4707-b211-7103d537eafc@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=dns.xelivo.ir&path=/BetForward&sni=dns.xelivo.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ceef8a1e-285a-4085-97b9-42d099217110@45.131.6.203:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2F&sni=GGKMN1.tehranshoop.ir&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://e4007e6a-a1f7-4e81-84f7-18fd23c8b87e@snapp.ir:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=s10.totgloucon.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
+
+vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?security=reality&encryption=none&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=snapp.ir&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://16fdc6cf-f521-4ff7-9b4e-fd8a5adf7b1a@104.18.33.45:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=splithttp&host=DailyConfigs-hhahVSHBbhh56ha.www.speedtest.net.blackoutconnection.ir.&path=%2FDaily_Configs%2CDaily_Configs%2CDaily_Configs#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://54ec5852-2e1b-4e40-b009-a3f9bed89118@104.16.232.2:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool2
+
