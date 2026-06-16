@@ -11516,3 +11516,7 @@ trojan://humanity@45.130.125.96:443?mux=&path=%2Fassignment&security=tls&alpn=ht
 
 trojan://humanity@104.18.152.97:443?mux=&path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:2087?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?path=%2F&security=none&encryption=none&host=vms.lifetime08.workers.dev&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool2
+
