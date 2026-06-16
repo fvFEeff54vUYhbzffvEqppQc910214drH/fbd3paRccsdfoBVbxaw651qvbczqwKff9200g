@@ -20,3 +20,15 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.163:8443/?type=tcp&encryp
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.164:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://61c90969-7f75-444e-8d6c-c0dd65f9edbf@gr2.avenpulse.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://57240095-a64b-4c12-abda-6df334a386d0@reality.fazsphere.ir:2083?mode=gun&security=reality&encryption=none&pbk=Xd9BYMmnpi63lIpxmxkJqZGFl0fimRb-N4pikapZC2g&fp=chrome&spx=%2Fwrwdkjasnk&type=grpc&serviceName=gprc&sni=www.apple.com&sid=0cf566d436127562#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://9779b61e-a3d1-4220-95d7-e64c4b0e766f@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://11977e5a-798b-48bf-b3cf-4492c255dc84@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6244894e-52bb-4d02-8245-890e8b9d0965@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?allowInsecure=1&encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
