@@ -14,3 +14,19 @@ vless://f3837fcb-4867-42f5-b55e-338d12bbf77c@95.182.85.148:2083?security=tls&alp
 
 vless://526a5051-558a-425b-b91d-293cf666fc23@108.61.170.186:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://a8a0bcc3-7e59-4469-a80c-73da3e89f204@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&echfq=none&fp=firefox&allowinsecure=0&type=ws&sni=jahan25.irbazi.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+vless://b97199f6-3a60-4e5d-8346-1f35b12e6ca3@138.201.58.111:2052?mode=auto&path=%2Fprocessing&security=reality&encryption=none&pbk=x_FA0TvtlipBs1AeTmyq68Wb3b_0cTk1qqcksjONr1U&fp=firefox&spx=%2Ffavicon.ico&type=xhttp&sni=www.yahoo.com&sid=854eff#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40FarazV2ray
+
+vless://71153df0-eccd-4476-853d-4f4240491f2b@45.130.125.20:8443?mode=auto&path=%2Fmediammad&security=tls&encryption=none&insecure=0&host=panel.arvan.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.arvan.kdns.fr#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://71153df0-eccd-4476-853d-4f4240491f2b@199.181.197.1:8443?mode=auto&path=%2Fmediammad&security=tls&encryption=none&insecure=0&host=panel.arvan.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.arvan.kdns.fr#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
