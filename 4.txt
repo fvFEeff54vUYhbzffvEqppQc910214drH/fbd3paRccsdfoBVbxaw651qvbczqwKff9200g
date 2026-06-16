@@ -20,3 +20,21 @@ trojan://humanity@104.16.174.117:443?type=ws&security=tls&path=%2Fassignment&hos
 
 vless://v2raydia@45.130.125.76:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=n#%F0%9F%87%B8%F0%9F%87%A8%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://4e38d1dd-1235-4aeb-b937-74f48b058f2d@www.ansooyefilter.ir:2053?path=%2Fonfkjsnkdlvmd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=firefox&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+trojan://humanity@45.130.125.158:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://SoftNetConnect@130.185.121.229:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=0&allowInsecure=0&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://SoftNetConnect@130.185.121.229:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&insecure=0&allowInsecure=0&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://2330f424-ef1f-47ad-a42a-815e5c576820@chatgpt.com:2087?security=tls&type=xhttp&path=%2F&alpn=h2%2Chttp%2F1.1&sni=r1.firefly-service.com&fp=chrome&mode=stream-up&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.176.228:443?encryption=none&security=tls&sni=purnet.gmijcp.workers.dev&fp=randomized&type=ws&host=purnet.gmijcp.workers.dev&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&type=ws&host=vms.lifetime08.workers.dev&path=/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?encryption=none&type=ws&host=index.arcane509.workers.dev&path=/ec4l307nur5g&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
