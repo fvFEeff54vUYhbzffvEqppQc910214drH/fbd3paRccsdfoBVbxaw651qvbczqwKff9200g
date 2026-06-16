@@ -12082,3 +12082,17 @@ trojan://mitivpn@45.130.125.220:443?path=index.html%3Dmitivpn&security=tls&alpn=
 
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.3:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYkszbldiOUhGQVpPVjdyT3RDaDJKMjg1RXhhaGQ3TQ@78.141.215.62:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vmess://eyJhZGQiOiAiNzguMTQxLjIxNS42MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWZkNDU0MTktY2ZmYS00ZjFiLTk5MGEtNTExYWFiNmVlOWFiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBwcnJvZmlsZV9wdXJwbGUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+trojan://humanity@104.18.152.97:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@45.130.125.96:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
