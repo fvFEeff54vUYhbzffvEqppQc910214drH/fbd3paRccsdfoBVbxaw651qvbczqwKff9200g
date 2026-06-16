@@ -10496,3 +10496,17 @@ vless://098ad71d-c5f1-4e61-8df8-d3d21b6fc311@panel.hardvezoo.ir:2476?security=re
 
 trojan://T5mQb1DCbOaJsr5UACQTe0elQ3BBH9Bf_g@185.126.238.78:443?type=tcp&security=tls&headerType=none&sni=www.archiveselector.click&fp=chrome&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@104.16.23.216:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://99ca06ee-d2a4-b993-345f-60beac555d58@shrkh.onrender.com:443?encryption=none&security=tls&type=ws&host=shrkh.onrender.com&path=/ws/99ca06ee-d2a4-b993-345f-60beac555d58&sni=shrkh.onrender.com&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://65c81fb0-f638-48c8-b2a6-925320665175@abrservicetaban.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://65c81fb0-f638-48c8-b2a6-925320665175@188.114.97.4:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=streamer.2gharibe2tadust.ir&fp=qq&type=ws&allowInsecure=0&sni=streamer.2gharibe2tadust.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://65c81fb0-f638-48c8-b2a6-925320665175@188.114.97.4:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=testing2.2gharibe2tadust.ir&fp=android&type=ws&allowInsecure=0&sni=testing2.2gharibe2tadust.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://0092a8e6-bd4f-4274-b65e-c3ad491ac8aa@91.107.185.59:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://2cb4c8ff-7eac-445a-b922-2d4eddce356d@45.133.234.113:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v8KL9RFRj1UlQ7515xNa45K5uhTtjjbSsmeWKGCZkic&sid=BDD9BC8C2A0F60D0&sni=download.amd.com#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
