@@ -10538,3 +10538,9 @@ vless://a3798125-5413-0002-a8eb-267708c85be8@spb.connectv.net:443?security=reali
 
 vless://199cf535-f35e-41c7-90d4-4d99fb9b1020@109.207.175.10:50169?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@85.155.228.62:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#%F0%9F%87%A6%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://d2a11034-9f52-4a06-beb8-c817ae9d8113@191.101.238.134:443?mode=auto&path=%2Fapi&security=reality&encryption=mlkem768x25519plus.native.0rtt.GUijKKscyX32Jb1zTpo_Ix9BQVjFXL62fh1rQXh25GY&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=WSV31Y6N5IyPedByq8fmlnO7_J9anbvmnkQ_3pwrmT4&host=www.samsung.com&fp=chrome&spx=%2FWqK56aZGyQxy7SX&type=xhttp&sni=www.samsung.com&sid=064ea33d7365ce27#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
