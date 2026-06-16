@@ -12118,3 +12118,11 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.60:8443/?type=tcp&encry
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.246:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=7e77e7e2cf2b7a79#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e0e68da8-60ea-4f41-aa83-2185a78c433f@162.159.36.122:443?alpn=h2%2Ch3%2Chttp%2F1.1&encryption=none&fp=firefox&host=h555.hendoone.tr&path=%2F254h2&security=tls&sni=h555.hendoone.tr&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
+
+vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@fi.avenpulse.ir:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
+
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.213.232:1020?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDw@configprxy#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
