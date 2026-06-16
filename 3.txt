@@ -10474,3 +10474,21 @@ vless://f5301995-17c1-4392-8e83-6e50a7f7b05e@45.74.158.3:80?path=%2F&security=no
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNThpvWbklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://im5b6z8g-utsv-8dwh-pfhv-831kbzoy9co5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://paswcf9k-vvbk-1tec-1ofz-84i3u3jo4lsz@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://m03ocaky-ihod-ze60-ta01-z7u7hwebrlvv@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBaXl1biBISyBOZXR3b3JrIFx1MjUwNyA0NS44OS4xMDQuNDIiLCJhZGQiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSIsInBvcnQiOjQ0MywiaWQiOiI5Y2U0NTI2YS1jNTAwLTRjNjYtOTliMC0wNDhlNGI2YjU2NjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvOWNlNDUyNmEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMjkuZmFjYWkyMDI0LmNvbSJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctU1YgXHUyNTA3IDEwNy4xNDkuMTE5LjQzIiwiYWRkIjoiMTA3LjE0OS4xMTkuNDMiLCJwb3J0IjozNzAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMDQwMzE4MTQyNTA3IiwidGxzIjoidGxzIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxMDQuMjYuMTIuNTQiLCJhZGQiOiJ0aW1lLmlzIiwicG9ydCI6NDQzLCJpZCI6ImI1MjY5MjZkLTE0NzQtNGY0MS05ODVlLThiODc3Y2I4NDBjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InRpbWUuaXMiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRpbWUuaXMifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://509dec94-cc08-4351-9ce8-811e76e092c3@31.76.6.138:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=DbpNCOTF5G7L5lGDBUtoiUNsZ_eoKwUgZX__Xhu4nEc&security=reality&sid=add6bfff300435ac&sni=console.cloud.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@2.26.93.250:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=yandex.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=reality&encryption=none&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1128da54b05ec30c#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
