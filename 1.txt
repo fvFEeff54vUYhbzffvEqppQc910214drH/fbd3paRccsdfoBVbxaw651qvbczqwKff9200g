@@ -2,6 +2,22 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://7c352f3b-6535-788f-fb0c-f28a76d6deb6@rvg2-production.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2F7c352f3b-6535-788f-fb0c-f28a76d6deb6&host=rvg2-production.up.railway.app&sni=rvg2-production.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://telegram-id-directvpn@18.157.199.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.199.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.157.199.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://00cba2b0-3c3a-45e7-a9de-7004676d3169@88.216.67.230:443?mode=auto&path=%2FJynMarket%2FTel&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0pPvwXx7ZT20bRf38xUAiQOP21-sgf-VTO9lR3NTnlw&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Pedram.jynmarket.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=Pedram.jynmarket.shop#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:51554?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
 vless://00cba2b0-3c3a-45e7-a9de-7004676d3169@8.6.112.235:443?mode=auto&path=%2FJynMarket%2FTel&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0pPvwXx7ZT20bRf38xUAiQOP21-sgf-VTO9lR3NTnlw&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Pedram.jynmarket.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=Pedram.jynmarket.shop#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -115,20 +131,4 @@ vless://a8301ae5-8530-43c7-b21e-72678f83aec2@fr.ggrandommspg.shop:5050?Telegram=
 vless://e6cc4788-3c45-4df1-94f3-8303504a65bf@173.245.58.48:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=khoda.ak-khoda.workers.dev&sni=khoda.ak-khoda.workers.dev&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.73:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@45.131.6.203:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=GGRU.setmedia.ir&fp=chrome&type=ws&allowInsecure=0&sni=GGRU.setmedia.ir#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@104.16.72.251:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=Kabir.downloadgameiran.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://eeb20348-23b9-4f42-a7c8-ffc3fb9e4ab0@client.jison.ir:443?type=ws&path=%2Fws&host=sdt.jison.ir&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fty.jison.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://ea44e292-d570-40a3-84d4-91c917c15b73@maing.devilfullspeed.com:2053?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.lVhCJfeIfqYQGaJ0nmxkgSlc_RWUiFp9WqsV2p8aGB4&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=DyqLP4s5BioznZx0a0UgBgg8Xw-qqCvosp-chYMdeVc&host=maing.devilfullspeed.com&fp=ios&spx=%2FHSKA9g9bjCuqynf&type=xhttp&sni=play.google.com&sid=2a076a53bc47#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://ea44e292-d570-40a3-84d4-91c917c15b73@main.devilfullspeed.com:8443?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.fFtLIkIxnrB8CCqgxnlaWVp6JJaA7gcYHNf5kdv74S4&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=SGlLaZdgmDlhqvm2PSJIZMxkyqYs-WdLGZsbiMb0fUA&host=main.devilfullspeed.com&fp=ios&spx=%2FfA9ZhEgOdtd4TtN&type=xhttp&sni=github.com&sid=680a#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.211:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40chillguy_vpn
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.147:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?security=&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20GRPC-None%20%7C%20%40v2ray_configs_pool2
 
