@@ -2,20 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://ZuLsmPk%2B1L9s2up%2Ft%2BqOrPUVzZJoiEMDsQR4v6Rz0nQ%3D@89.167.82.102:2080?security=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@www.ntu.edu.sg:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=jy.hhllfly.kdns.fr#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://a0288aa1-3c11-416e-a41d-c4e79b9506ff@www.speedtest.net:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-ad6d6d.vipsubpanel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ad6d6d.vipsubpanel.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.139:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.134:8443?security=tls&alpn=null&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
-
 trojan://telegram-id-directvpn@3.64.2.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.2.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -41,4 +27,22 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.68:8443?security=tls&enc
 vless://befafcda-0ac1-47e9-bd31-3c29f00a9d1a@45.198.91.249:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=bitrix24.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=&encryption=none&host=azsv3.ir5ive.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
+
+vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086?path=%2FeyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&security=&encryption=none&host=cool-hill-7fe5.thenewata.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
+
+vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@45.205.0.58:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=panel.fredomiran.com&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.fredomiran.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2HUBIR
+
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.68:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.196:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.132:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.180:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.187:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
