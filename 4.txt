@@ -50,3 +50,25 @@ vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.37:8443?flow=xtls-rprx-vis
 
 vless://f5a2c547-734e-4655-8069-618e38e2cd5c@2.27.26.140:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&security=reality&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&type=tcp#%F0%9F%87%BB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://2775321a-b11c-b6ec-fea0-e83bd8154f90@66.33.23.75:443?path=%2Fws%2F2775321a-b11c-b6ec-fea0-e83bd8154f90&security=tls&alpn=http%2F1.1&encryption=none&host=subgift-production-1.up.railway.app&fp=chrome&type=ws&sni=subgift-production-1.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+vless://2775321a-b11c-b6ec-fea0-e83bd8154f90@subgift-production-1.up.railway.app:443?path=%2Fws%2F2775321a-b11c-b6ec-fea0-e83bd8154f90&security=tls&alpn=http%2F1.1&encryption=none&host=subgift-production-1.up.railway.app&fp=chrome&type=ws&sni=subgift-production-1.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+vless://6a281777-20c5-467c-844c-b34b3a818492@94.228.125.193:52649?security=reality&encryption=none&pbk=0HtBxWKhB1yfpxPxbrtQllGPN888TY819Cp9mWPGIBs&headerType=none&fp=chrome&spx=%2FT1B8GuptwnruiHa&type=tcp&sni=www.yahoo.com&sid=ff25c4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://10bde67f-98a1-4390-a043-f3da88a4da88@172.67.160.101:443?path=%2F10040&security=tls&encryption=none&insecure=0&host=sspr.bearnetwork.ir&fp=firefox&type=ws&allowInsecure=0&sni=sspr.bearnetwork.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://c35474ed-d6a8-4213-8edb-5c333e5b5f7c@138.124.123.96:443?fp=firefox&path=%2Fmaps_common%2Fv1%2Fdata%2Fsubscriptions%2Fweb&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=d435a0d34ef3b60e&sni=cloud-api.yandex.ru&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&security=reality&sid=53cd45d26d7b53fe&sni=free1.anotherboring.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://60dbde2d-552e-4248-be32-c42272180f7e@46.4.162.63:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&security=reality&sid=9902cda1645757ea&sni=est01.port-server.online&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443?alpn=%40.networld_vpn-&flow=xtls-rprx-vision&fp=firefox&headertype=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=37772edff71b4167&sni=storage.yandex.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@165.215.250.12:2086?ejnhcryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
