@@ -36,3 +36,15 @@ vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none
 
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://b83863af38a54b3b9876072a6fad2126@185.250.41.125:2087?host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
+
+vless://1e72b01d-4e45-4ba4-b0a5-f9c559350e5f@ez-e25f72.ezaccess1a1794b.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=ez-e25f72.ezaccess1a1794b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e25f72.ezaccess1a1794b.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1e72b01d-4e45-4ba4-b0a5-f9c559350e5f@ez-e25f72.ezaccess1a1794b.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-e25f72.ezaccess1a1794b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e25f72.ezaccess1a1794b.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?fp=firefox&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=1680&sni=www.samsung.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://e5f01dff-24be-4ae8-b701-a9b3e783cca0@185.216.71.99:62800?encryption=none&security=reality&type=grpc&sni=yandex.ru&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F&serviceName=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@ams1.fromblancwithlove.com:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
