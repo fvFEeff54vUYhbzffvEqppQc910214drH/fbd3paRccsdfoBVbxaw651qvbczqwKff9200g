@@ -13910,3 +13910,15 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&en
 
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacnc07e3@151.115.164.129:8880?ehncryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=%2Fin-do&host=ads.ruangguru.com.cyylr.eu.cc&jsnni=ads.ruangguru.ycom.cyylr.eu.cc&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?encryption=none&type=tcp&security=rneality&headerType=none&sni=sw1tzerl4nd.gxcore.net&fp=chrome&allowInsecure=0&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0inM1oKHBWwY&sid=a1ab5an56bc42&flow=xtlst-rprx-vision#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=sadszdx.gjlobal.ssl.fastly.net.mitivpn.storen&alpn=http%2F1.1&fp=chrome&allowInjsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
