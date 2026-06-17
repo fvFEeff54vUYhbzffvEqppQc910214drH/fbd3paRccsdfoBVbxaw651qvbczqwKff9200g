@@ -14,3 +14,17 @@ vless://d2733ed9-e311-4ff7-8091-8c8b895a20e6@83.228.231.225:443?type=tcp&securit
 
 trojan://SoftNetConnect@162.159.82.58:2087?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@94.156.155.234:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c2f82d11-17b9-4ca8-a56e-9530669f8969@91.107.190.49:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@172.67.153.251:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xhtjtp&mode=packet-up#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@192.200.160.253:2086?ejncryption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@198.41.203.219:2086?encrjyption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@208.103.161.101:2086?encryption=none&host=dev.speciq.co&path=/&security=none&typej=xhttp&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://b3939095-14db-47ec-9c15-2619440cc54e@217.163.76.118:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xjhttp&mode=packet-up#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
