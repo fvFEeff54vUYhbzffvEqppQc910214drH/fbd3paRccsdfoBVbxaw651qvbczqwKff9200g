@@ -18,3 +18,19 @@ vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@45.196.224.110:8443/?type=tcp&encry
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:7080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2959c801-7615-4852-9186-02f6efff7441@57.131.19.139:5065?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=HTaWvLdegMbv0pS3lXUvWp6J57t16DK7dnl6EO2rZVM&sid=8548e2ee79ca3901#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:8090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:4050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2959c801-7615-4852-9186-02f6efff7441@57.131.19.139:3045?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=1bTPlaHUO84GB77L8d2rCerLjaPLfM8YT_eTAlymmzc&sid=0a4906b5c7196fc8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2aee0a96-1e2e-4901-a480-d592bd90ef9d@104.16.6.70:443?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cd2.rfiksma.top&sni=cd2.rfiksma.top&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&type=tcp&security=tls&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=cdn3-87.vk-cdnvideo.com&alpn=h2%2Chttp%2F1.1&fp=safari&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://ba8a0b8b-4c13-4c2b-be2b-ffba1a6073a6@89.167.82.102:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2FPath&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
