@@ -12,3 +12,7 @@ vless://be5abe11-1c65-4289-b581-a5121a8719a1@87.120.104.81:1443?encryption=none&
 
 trojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://90e35d94-a75c-4bee-b7e8-956527f49478@135.125.184.183:442?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vless://53c6af33-6344-4e53-a14e-028f2122642e@poorivpn.soft20.ir:2083?mode=auto&path=%2FTelegram_%40poori_vpn-poori_vpn-%40poori_vpn-poori_vpn&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&pbk=-fse7czjB6qzjluoSfkeMj48JlwMIzCL-tuVxBnxnmo&host=poorivpn.soft20.ir&fp=firefox&spx=%2F56lnTv1JKN5XNL1&type=xhttp&sni=www.samsung.com&sid=f4012e27f370#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
