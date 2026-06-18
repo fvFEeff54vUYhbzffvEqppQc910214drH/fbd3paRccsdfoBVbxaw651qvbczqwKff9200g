@@ -10,3 +10,15 @@ vless://0762de97-50e6-4a2b-af28-4b5f62005b16@62.60.148.47:8443?Telegram=@Gozarga
 
 vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#%F0%9F%87%B2%F0%9F%87%BD%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%BD%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://011b6925-af4f-4eea-83f0-13a6554fd3b1@37.27.200.55:22290?type=tcp&encryption=none&security=tls&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@188.114.97.6:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?security=tls&type=ws&path=%2Fpoiuyws&host=amoosamiii.net&sni=amoosamiii.net&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@104.16.174.101:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
