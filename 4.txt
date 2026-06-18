@@ -22,3 +22,5 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.88:8443?security=tls&sni
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.104:8443?security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?path=%2F&security=tls&encryption=none&insecure=0&host=filter.elitesilver002.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=filter.elitesilver002.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
