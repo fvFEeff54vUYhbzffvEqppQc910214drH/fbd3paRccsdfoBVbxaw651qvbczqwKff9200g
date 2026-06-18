@@ -24,3 +24,13 @@ vless://51fd7401-7ad7-4573-8940-40b2f2259c3a@162.159.38.87:443?encryption=none&s
 
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?type=tcp&security=reality&encryption=none&sni=www.samsung.com&fp=chrome&alpn=http%252F1.1&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&sid=a13a7cc5&headerType=none&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?fp=firefox&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&security=reality&sid=ffffffffff&sni=ya.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://132160b1-214f-41f3-9442-eeeb32250df1@31.56.188.89:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.kosmosapp.ru&sid=d0a1665d1b96515e#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://132160b1-214f-41f3-9442-eeeb32250df1@91.218.140.27:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz.kosmosapp.ru&sid=d0a1665d1b96515e#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vmess://eyJhZGQiOiAiNTEuMTUuMTkuMjA2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJkOGQ4YjZjMC0yZWM2LTExZWUtYjgzNi0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1YyUmF5eU5HdnBuIiwgInBvcnQiOiA4MCwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbDIifQ==
+
+vless://9c513774-57f1-4047-8d88-67544bb662f3@client.jison.ir:443?type=ws&path=/ws&host=sdt.jison.ir&security=tls&fp=&alpn=h3,h2,http/1.1&sni=fty.jison.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
