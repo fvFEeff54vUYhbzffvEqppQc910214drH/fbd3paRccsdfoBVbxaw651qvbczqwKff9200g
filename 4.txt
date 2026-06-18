@@ -24,3 +24,29 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.33:8443?security=tls&encr
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+trojan://MiTiVPN@104.24.17.0:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+trojan://MiTiVPN@104.24.50.97:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+vless://85e32ad0-0274-400c-a4ae-93fb54b9783f@89.105.217.98:7443?security=reality&encryption=none&pbk=SRx_6rZZrRgWuFz_U7NWxm_INn2kcfYlwC299jk_9nA&headerType=none&fp=chrome&spx=%2FsynXKu3kEt1gPlI&type=tcp&sni=yahoo.com&sid=32b8319bd4635fa6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@cdn-iran3.nimternet.com:2083?path=%2Fapi&security=tls&encryption=none&insecure=0&host=cdn2.nimternet.com&type=ws&allowInsecure=0&sni=cdn2.nimternet.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@ip1.nimternet.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=api.nimternet.com&type=ws&allowInsecure=0&sni=api.nimternet.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@cloud.setiyagame.com:80?path=%2F&security=none&encryption=none&host=cdn-iran5.nimternet.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@cloud.setiyagame.com:80?path=%2F&security=none&encryption=none&host=cdn-iran6.nimternet.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@reality.setiyagame.com:9100?security=reality&encryption=none&pbk=ZYZfFbSGuXc2m-25xysmp009NVuAohn10JArPLweLWE&headerType=none&fp=firefox&spx=%2FApi&type=tcp&sni=play.google.com&sid=4020e1aea5ab85da#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://1b4602f4-8792-4e97-b949-71813caed82d@freesocks.work:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
