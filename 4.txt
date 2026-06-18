@@ -14,3 +14,13 @@ vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.0.7:443?type=ws&encryption=n
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://36375980-bac6-4803-a183-6f1f2dee74bf@xn-ip1.dbssl.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=xn-fr.dbssl.ir&mode=auto&path=%2F&security=tls&sni=xn-fr.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://77f1f68f-3629-4d93-9014-f18baf20b943@eng.wizardx1.com:8085?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://4e441223-73ff-428e-b3e7-9a4da5b0957e@188.114.96.3:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FeyJqdW5rIjoiQlR3VHNNYlFjRnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=broad-moon-00dc.hsvhdyxgdhsj.workers.dev&fp=chrome&type=ws&sni=broad-moon-00dc.hsvhdyxgdhsj.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://77f1f68f-3629-4d93-9014-f18baf20b943@net.wizardx1.com:2045?encryption=none&security=reality&type=grpc&headerType=none&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://77f1f68f-3629-4d93-9014-f18baf20b943@kim3.wiziii.xyz:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F%3Fed%3D2560&host=mmcxx.novinplus.top&sni=mmcxx.novinplus.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
