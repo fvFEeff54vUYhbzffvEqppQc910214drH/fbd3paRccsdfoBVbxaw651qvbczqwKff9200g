@@ -12,3 +12,7 @@ vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&securi
 
 vless://aec7f87e-38eb-46e0-9757-083ea3a425f4@104.18.88.28:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-981c4f.majid1300y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-981c4f.majid1300y.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://47cfbfdf-c8c1-402f-9fcc-712d66b17b7e@46.4.162.63:443?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@45.130.125.126:443?security=tls&alpn=&fp=chrome&sni=www.multiplydose.com&type=ws&path=/assignment&host=www.multiplydose.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
