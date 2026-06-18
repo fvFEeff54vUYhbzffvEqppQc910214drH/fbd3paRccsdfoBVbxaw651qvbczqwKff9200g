@@ -36,3 +36,13 @@ vless://e1330648-d965-4ade-a1bd-a6d16bd8baea@82.47.63.150:44744?security=none&en
 
 vless://d02f96b5-9d92-4b72-8e86-2fe2e184deeb@209.38.234.66:443?encryption=mlkem768x25519plus.native.0rtt.RHOotzuuoo-ImevmMxWexITYUBQEKhuvybb1EeUZPTg&fp=chrome&headerType=http&host=&path=%2F&pbk=UqW3DfuQK6Y77RSPztD1MHMBEooixJnmQMge5BJ9uUU&security=reality&sid=9a&sni=www.sony.com&spx=%2FSU3i8MF8okEqsOy&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJyYW5kb20iLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGM2Y2U4ZmYtNWQwZC00ZGRmLWFkMmQtYjZjMjFiODU0Nzc3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInhodHRwIiwgInBhdGgiOiAiL3BocC9hZG1pbi9sb2cvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ0VydE93MS5sT29sT29sT29sT28uY09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInYiOiAiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+trojan://humanity@www.creationlong.org:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@dubai.gmax12.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
