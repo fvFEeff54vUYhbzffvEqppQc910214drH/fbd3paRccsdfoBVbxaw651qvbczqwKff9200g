@@ -24,3 +24,5 @@ vless://28824a7b-c13d-45e1-8f30-e7c8cbccac52@173.245.58.84:8443?alpn=http/1.1&en
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.220:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9…#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://6cfaba5e-e4d1-4917-aacc-a53cd70c0e10@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
