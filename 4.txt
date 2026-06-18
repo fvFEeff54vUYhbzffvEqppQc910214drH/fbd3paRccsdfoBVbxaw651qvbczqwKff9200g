@@ -26,3 +26,13 @@ vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?encryption=none&
 
 vless://167aea70-ed98-4a28-8fbd-4c4528a2a7cb@my.porsline.site:55095?encryption=none&type=tcp&sid=ef59&sni=www.apple.com&pbk=6jWNc_nIB5995hVwTGYCGizKKyuKGw5URGUc3mqIiDk&fp=chrome&spx=%2FGdFR9GjNu39dzzS&security=reality&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://31436faa-6794-46c6-82d4-09b0a95eae78@fr.mail-appstatus.net:23356?mode=gun&security=reality&encryption=none&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&fp=edge&type=grpc&serviceName=api&sni=apple.com&sid=483d116ad48a4091#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.162:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://SoftNetConnect@194.5.193.150:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.150:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
