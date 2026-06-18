@@ -44,3 +44,9 @@ vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@147.90.250.39:443?security=reality&
 
 vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?security=reality&encryption=none&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amazon.fr&sid=5701e710c025b4b8#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://332fd147-bfdc-4a5d-82b7-72d00f88ca0f@104.17.158.32:2083?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F17.4.1%20Safari%2F605.1.15%22%7D%7D&insecure=0&host=forczech.fairisfair.ir&type=xhttp&allowInsecure=0&sni=forczech.fairisfair.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+trojan://SoftNetConnect@194.5.193.150:42549?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
