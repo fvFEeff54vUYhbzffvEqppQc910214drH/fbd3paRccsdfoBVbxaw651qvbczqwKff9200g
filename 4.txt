@@ -20,3 +20,21 @@ vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality
 
 trojan://b9992b45ea604859@ezaccess-project-2c2ae8.ez-a26533.workers.dev:443?path=%2FeyJqdW5rIjoiSHo2TEdsZW43QmgiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&insecure=0&host=ezaccess-project-2c2ae8.ez-a26533.workers.dev&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://51ae55de-fcec-4222-8a81-796bceb89a62@109.248.161.84:443?encryption=none&security=reality&sni=www.soft98.ir&fp=chrome&pbk=IVCSdFyMXoG-VccBorqmALHE431I89_LNAEW79dBo0Y&sid=e3f272e3e341af&spx=%2Fy2fnKyOE7M6vjy4&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b380c7e5-f81e-43fd-8db9-90b31b3035ab@www.speedtest.net:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=shod.madboy.ir&path=%2FIPF%3Fed%3D2083&security=tls&sni=shod.madboy.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
+
+vless://b44aed8f-def1-4c36-9bc1-e758323a8049@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?security=reality&encryption=none&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=0c1553316a645758#%F0%9F%87%AE%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.49:8443?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.69:8443?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&headerType=none&sni=&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
