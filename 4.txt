@@ -44,3 +44,11 @@ vless://cebd51ec-2d34-4360-b8c0-5b95bc334938@dnb1202.mediatech.lol:443?security=
 
 vless://efcc8f68-3245-43b8-92a9-f1db09ef6662@ez-591b98.nahan908080.workers.dev:2095?path=%2F&security=none&encryption=none&insecure=0&host=ez-591b98.nahan908080.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-591b98.nahan908080.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@15.188.182.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.93:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.182.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://19af3d13-4a9a-41da-8501-efffc6ec317b@turk.nomac.ir:2026?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+
