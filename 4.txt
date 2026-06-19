@@ -32,3 +32,13 @@ vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&
 
 vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80/?type=xhttp&path=%2F%3Fed%3D2048&host=cafepedia7.net&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@3.120.67.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.67.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.120.67.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://de40a1f3-d788-42b7-c76e-d309e967c4cb@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.poravo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.poravo.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fdec49d9-3736-3d10-9145-1ee56bcb071d@162.159.128.208:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=mohammad.amirsoltan57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohammad.amirsoltan57.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
