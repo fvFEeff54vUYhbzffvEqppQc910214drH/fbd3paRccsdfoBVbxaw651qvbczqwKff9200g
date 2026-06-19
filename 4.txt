@@ -14,3 +14,7 @@ vless://0b444497-0746-4833-b52f-478149d28916@104.27.122.202:443?encryption=none&
 
 vless://Hero@web-production-cf89e.up.railway.app:443?path=/ws/Hero&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://a1951590-5c4e-4139-8855-cf4d940a692e@205.237.105.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.kosmosapp.ru&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=qq&security=reality&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://946c8ae3-94bc-42ee-840e-d8a31b906310@35a1-1mr4-msk-bbd-5zx.89-1.yndx-cdn.com:9443?encryption=none&sni=api-maps.yandex.ru&fp=qq&security=reality&type=tcp&headerType=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
