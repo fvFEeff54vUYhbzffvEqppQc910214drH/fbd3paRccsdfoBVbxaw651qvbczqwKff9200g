@@ -16,6 +16,20 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.21:8443?encryption=none&t
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.10:8443?encryption=none&type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+trojan://k2CQ2JboS7@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=s6.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=s6.aananas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NETMelliAnti
+
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.15:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.191:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://278f52f9-99fc-447c-94d0-ada8f9800703@swflyingsupp.com:446?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=uD-Adu6t_iFo4-FoaXOjNfSG0fHPcvPaQmO6v3qL3XY&fp=qq&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.157:8443?encryption=none&type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxNjAuMjUwLjI0Ny43MCIsICJwb3J0IjogNDkxNzgsICJpZCI6ICJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAidmFyemVzaDMuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
 
 vless://74b0db6d-9627-43f0-b23d-796a333630f9@check.helth-check-luckyping.ir:443?encryption=none&security=tls&sni=ge1.support-luckyping.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ge1.support-luckyping.ir&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
