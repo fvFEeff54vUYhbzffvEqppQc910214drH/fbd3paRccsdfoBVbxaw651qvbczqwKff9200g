@@ -34,3 +34,23 @@ trojan://MiTiVPN@172.67.210.215:443?alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&
 
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:443?encryption=none&type=tcp&security=reality&headerType=http&host=www.yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=2ef0f0b1&spx=%2FXsJhYhrwWPeb4qC#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:24250?encryption=none&type=tcp&security=reality&headerType=http&host=www.yahoo.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=13&spx=%2F05ILUskhswJvxDQ#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:15281?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=cc9e62e80aedfb&spx=%2F7lzxWZJnQ1JCESc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=fr.01.naiun.bilibili.com&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:47909?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=is.01.naiun.bilibili.com&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=is.01.naiun.bilibili.com&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?mode=auto&path=%2F&security=none&encryption=none&host=tun2.lesss.ir&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:45553?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=ch.01.naiun.bilibili.com&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
