@@ -8,3 +8,19 @@ ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY=@69.164.240.83:10878#%F0%9F%8C%
 
 vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.166.66:1080?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=249ba9ad&sni=www.sony.com&spx=%2F98o31Dfpe2m6ulH&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
 
+vless://861102ab-8613-4472-a6de-a53f4ce205c3@91.107.240.98:443?security=reality&encryption=none&pbk=vQ_JbWVXN0mN4A4u3PcqyvDGZqDUXDnAM5ly-EZqwhc&headerType=&fp=chrome&spx=%2FCpvdS1wyR43Di7z&type=tcp&sni=www.intel.com&sid=efff#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://AlfredConfig@164.38.155.135:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+ss://AlfredConfig@199.181.197.176:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+ss://AlfredConfig@159.246.55.251:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+ss://AlfredConfig@104.17.107.134:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#%F0%9F%87%B1%F0%9F%87%BB%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:8443?security=tls&type=ws&path=%2FTaha&host=autumn-leaf-474d.tahapassmail.workers.dev&sni=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
