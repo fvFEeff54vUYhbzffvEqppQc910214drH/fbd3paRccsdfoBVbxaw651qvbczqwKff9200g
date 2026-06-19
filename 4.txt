@@ -12,3 +12,7 @@ vless://cadb3fa0-71b7-4af5-b2cf-7fa70356d22c@cctvhikvision.center:2052?path=%2Fa
 
 vless://e8552a40-d914-4259-b3c6-13e60e49f973@46.4.162.63:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://94910009-feb5-41c2-8a88-d0ca12af592f@191.40.5.176:2087?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40vpnplusee_free
+
+vless://223e43ae-8a72-4d55-9618-f0272d898901@cdn.vlessgroup.ru:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn.vlessgroup.ru&alpn=h2%2Chttp%2F1.1&fp=qq&insecure=1&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
