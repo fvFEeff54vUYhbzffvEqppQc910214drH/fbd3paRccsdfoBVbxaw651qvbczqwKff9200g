@@ -40,3 +40,15 @@ vless://2107ef4d-870b-4cbe-9f84-fd64319bc45c@31.129.55.212:443?encryption=none&f
 
 vless://59515b83-63e4-4abf-8cc0-59caad795796@150.241.68.184:1337?flow=xtls-rprx-vision&fp=firefox&pbk=xFfL5fiJgHwVPavg3yommGbEzKYWDDvpCseqXB3GU0U&security=reality&sid=368c44bb&sni=ge2.xanka.best&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+trojan://MiTiVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+trojan://MiTiVPN@199.181.197.176:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vmess://eyJhZGQiOiJnczIuc3VwZXJjb25maWcuaXIiLCJhaWQiOiIwIiwiaG9zdCI6ImdzMi5zdXBlcmNvbmZpZy5pciIsImlkIjoiZTZmMjVmNTQtNjNlZC00NWIzLThhMmMtMzY4ZGYxZmQ0Mzk0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2JpbiIsInBvcnQiOiIyMDc2IiwicHMiOiLwn4ep8J+HqiBHZXJtYW55IEZyYW5rZnVydCBhbSBNYWluIHwg4o+xNTE3bXMgfCDimqExMDA3S0IvcyB8IEBOYW1helZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9`#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiAiMTA0LjE2LjcuNzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXppei5jYXJkZXJyci5jb20iLCAiaWQiOiAiMTE1OTM2ZTQtNGEyZi00NWI1LWJjZGEtYTU3MmVmMjk4MmFhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInhodHRwIiwgInBhdGgiOiAiL3dzYSIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInYiOiAiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiAiZ3MyLnN1cGVyY29uZmlnLmlyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZ3MyLnN1cGVyY29uZmlnLmlyIiwgImlkIjogImU2ZjI1ZjU0LTYzZWQtNDViMy04YTJjLTM2OGRmMWZkNDM5NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYmluIiwgInBvcnQiOiAiMjA3NiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
