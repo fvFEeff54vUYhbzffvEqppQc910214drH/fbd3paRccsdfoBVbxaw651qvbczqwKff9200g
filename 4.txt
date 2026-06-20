@@ -16,3 +16,15 @@ vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@89.124.82.95:443?type=tcp&security=
 
 trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10-Bpb-WOrKer-paneL.pagEs.DeV&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
+trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=my.95r.ir&fp=chrome&type=ws&sni=my.95r.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://MiTiVPN@104.21.18.41:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=blog.95r.ir&fp=chrome&type=ws&sni=blog.95r.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://396791d8-ac63-43f4-8ec2-e17dd6e5dbf8@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@151.101.56.6:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=qoajwksjjsksjksj.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbDIifQ==
+
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@www.ar1.plusmusical8.ir:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ygefuoegfuioy.whiteshopp.com.&fp=chrome&type=ws&allowInsecure=0&sni=ygefuoegfuioy.whiteshopp.com.#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
