@@ -30,3 +30,13 @@ vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@velsanto.online:8443?flow=xtls-rprx
 
 vless://358bccd3-aa6c-4afb-9a39-68cf23f032ea@193.149.189.205:443?security=reality&encryption=none&pbk=ZJQpYoxYzfgkWXRmIasamZKkPvQc_a1PaCUdQ_WVzVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5c438db12cee9c#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&sid=f88fa86f62252dad&type=tcp&headerType=http&host=telewebion.ir&path=%2Fassets#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.us1.f2gate.ir:47228?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=FPwg4_Ajnx_RW2UPn1A1hvkFNIKeQvNgmbARisuFaQs&sid=52b956bba646f549&type=tcp&headerType=http&host=telewebion.ir&path=%2Fassets#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://196ca6dc-62b4-44d2-942c-51a6db53c80d@api.chatgpt.com:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=ir-cdn-dl-09.khorostime.ir&mode=auto&sni=ir-cdn-dl-09.khorostime.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6bf201e1-1d0d-4492-80b1-83ae64fcc5bd@89.116.46.68:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.tiptop-3.top&fp=chrome&type=ws&allowInsecure=0&sni=c.tiptop-3.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@104.18.152.229:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
