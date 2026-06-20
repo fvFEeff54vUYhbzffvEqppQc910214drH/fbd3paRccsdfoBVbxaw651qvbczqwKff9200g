@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://f322ab8b-5aa8-4b30-9550-de18a32d8de1@185.146.173.94:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=1.V2ray.mihanyas.ir.mbj.farsroid.com.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.Com.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool2
-
 vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@rammstein.tagnovolta.workers.dev:443?encryption=none&security=tls&sni=rammstein.tagnovolta.workers.dev&fp=chrome&type=ws&host=rammstein.tagnovolta.workers.dev&path=%2Fdownloader%2F59316#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
@@ -446,6 +444,14 @@ hysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?security=tls&obfs=salam
 
 vless://3e9381fa-b6b0-42c8-8014-4818aa05b346@nl-2.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
 
+vmess://eyJhZGQiOiAidnV0eGdnLmhhcmR2ZXpvby5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDAyZWNhMmEtODQ2NS00MDQzLWI1ZjgtNmExM2UzNzhhN2ZlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzc1NiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?type=tcp&headerType=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 trojan://telegram-id-directvpn@13.39.226.23:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.226.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -747,4 +753,6 @@ vmess://eyJhZGQiOiAiYWxsYWguY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIs
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s8.meoshop.ir:2053?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=baba.meoshop.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://cd52dcc2-9504-48c6-8dd8-46d0b494e3c5@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://f322ab8b-5aa8-4b30-9550-de18a32d8de1@185.146.173.94:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=1.V2ray.mihanyas.ir.mbj.farsroid.com.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.Com.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool2
 
