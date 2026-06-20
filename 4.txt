@@ -20,3 +20,21 @@ trojan://MiTiVPN@104.24.17.0:443#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40
 
 vless://fa46aee0-69a8-4a9a-a330-518077b6feab@45.38.41.237:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yEE21-pgEgQ9Ca4qLlFk9RAZh7qD6AQfQ8eQwc52SjM&security=reality&sid=2d&sni=www.yahoo.com&spx=%2FMdMy2KNUf16VvmG&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@13.38.243.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.243.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.38.243.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://8c158c22-ecaf-441e-8653-91f1a5a4fd15@72.56.112.226:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=gFP8-P4r8FKkN10b0q1keHgL7jjmUOpY9qPAem_3z34&sid=5201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://1ee0113f-4f1d-4bb4-a581-ff8783a51fd2@www.speedtest.net:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=server1.downloadkhand.ir&path=%2Fapi%2Fv2&security=tls&sni=server1.downloadkhand.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://6e25f7b4-efce-425a-af98-3f310623bfa2@87.120.106.210:8044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://1ee0113f-4f1d-4bb4-a581-ff8783a51fd2@45.130.125.2:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=server1.downloadkhand.ir&path=%2Fapi%2Fv2&security=tls&sni=server1.downloadkhand.ir&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+ss://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://fdec49d9-3736-3d10-9145-1ee56bcb071d@162.159.128.208:443?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
