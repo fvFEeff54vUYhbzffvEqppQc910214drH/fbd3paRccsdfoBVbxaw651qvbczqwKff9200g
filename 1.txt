@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.85:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
 vless://070136f6-727e-045f-a9ff-7c985988bb8a@cd6.videobazi.com:443?type=tcp&encryption=none&security=none#%F0%9F%87%B8%F0%9F%87%A8%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
@@ -82,7 +84,9 @@ vless://1ce80c31-d499-44eb-8eb2-4e554331fea0@185.226.93.26:50420?encryption=none
 
 trojan://mitivpn@216.24.57.246:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
-vless://070136f6-727e-045f-a9ff-7c985988bb8a@cd6.videobazi.com:443?encryption=none&security=tls&sni=yellow-firefly-7c08.ping51429.workers.dev&fp=chrome&type=ws&host=yellow-firefly-7c08.ping51429.workers.dev&path=/sync&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://0a6fb0d0-76b3-402c-883d-d502e49ce25e@danap.ir:2053?path=/&security=tls&encryption=none&insecure=0&host=cabton.nyanners.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=cabton.nyanners.ir#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool2
 
 vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.219.2:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -91,6 +95,4 @@ vless://39e01e3e-5161-43e0-9a27-cc3316177466@65.109.219.2:52219?security=reality
 trojan://MiTiVPN@151.101.69.172:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.84:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.85:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
 
