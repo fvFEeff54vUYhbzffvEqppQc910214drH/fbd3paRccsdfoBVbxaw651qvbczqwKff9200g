@@ -24,3 +24,15 @@ vless://245a420e-7811-4296-b347-59bf12bcfc5b@ger39.vlessgroup.com:8443?path=%2Fi
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@13.39.226.23:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.226.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.226.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_Vpn
+
+vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Outline_Vpn
+
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_Vpn
+
