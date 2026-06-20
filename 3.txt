@@ -12368,3 +12368,7 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&security=
 
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro2.postshup.ir&path=/?ed%3D2082&security=none#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool2
 
+vless://bd2b78ab-ec7a-4d13-be51-68e4ebead31d@cf1.helishot.info:443?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2Fwss%3Fed%3D2048&host=figma.rezazzz.ir&sni=6374be2ac0dfdf4d.rezazzz.ir&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://bd2b78ab-ec7a-4d13-be51-68e4ebead31d@cf2.helishot.info:443?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2Fwss%3Fed%3D2048&host=figma.rezazzz.ir&sni=94e10ab0fa9de8d8.rezazzz.ir&fp=firefox&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool2
+
