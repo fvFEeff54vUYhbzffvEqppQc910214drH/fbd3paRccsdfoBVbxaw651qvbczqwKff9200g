@@ -18,3 +18,19 @@ vless://c77d5867-7528-4062-8370-700eaf351560@93.114.98.197:8443?Telegram=@Gozarg
 
 vless://123a18a6-905c-8e7e-cb9c-6673675f827c@rvg-production-e930.up.railway.app:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=rvg-production-e930.up.railway.app&path=/ws/123a18a6-905c-8e7e-cb9c-6673675f827c&sni=rvg-production-e930.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://696cb04f-9da9-4ffc-91e6-3571b24d2c31@152.89.253.227:8443?security=reality&encryption=none&pbk=AedXjhFgYYYSHG3oSst0_tFlcDS5PFVHtVd0ITaHHF8&headerType=&fp=random&spx=%2F9iZSRAZNvA50VvI&type=tcp&sni=www.sony.com&sid=743b73ac31b0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://253414f5-8c40-4a32-a80b-8548b3b6a60b@116.203.6.53:8842?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://253414f5-8c40-4a32-a80b-8548b3b6a60b@116.203.6.53:8841?security=none&encryption=none&host=docs.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1314ef70-4b2a-4ad3-9eff-f816bb94babf@45.130.125.2:2096?encryption=none&security=tls&sni=GlamorOUs-BeGINningd9ilDKYV6F.seOTOOlsfORyou.Co.uk&type=grpc&alpn=h2http/1.1&host=&path=#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=greattehran.hozheen.ir&path=/ws&sni=07e357aa7e747ca4.hOzHeEn.Ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://3823496e-7fdd-4927-b68b-238ab61c3e0d@vip.alimv82.ir:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=mlkem768x25519plus.native.0rtt.BSh9LpANESVt--ytwgySLmbG9gZDfUK62PdkOPxEtUY&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=vip.alimv82.ir&mode=auto&path=%2Fapi&security=tls&sni=vip.alimv82.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B1%F0%9F%87%BB%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
