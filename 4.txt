@@ -14,3 +14,13 @@ vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&secu
 
 vless://62c7426b-38b6-4625-9d31-4a47f7d598bc@swelight.soltankabos.ir:443?encryption=none&fp=chrome&host=amtal.soltankabos.ir&path=%2Fws%3Fed%3D2560&security=tls&sni=amtal.soltankabos.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://1961d0da-1a20-4849-8867-0fb7ff29737b@free1.ziroxcompany.ir:8080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://d555a2de-9f94-44f4-aba9-63584b81a36d@zone.fi1.linkora.ir:49429?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=OQsVeM4sKyLRiGKO1QDfyo4C0xBJJhFB54EhFlcvzGM&sid=62b17aae389bb655&type=tcp&headerType=http&host=telewebion.ir&path=%2Fassets#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8f5803d8-b786-4cb8-8020-317458ba14bb@199.181.197.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-b47845.afghhhhvfxcvvhbbb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-b47845.afghhhhvfxcvvhbbb.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
