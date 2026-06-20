@@ -26,3 +26,9 @@ vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?security=reality&
 
 vless://d8e4078f-2d41-4726-a4e0-5bab41878b58@kamo1.parsianboton.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=kamo.parsianboton.ir&fp=random&type=ws&allowInsecure=0&sni=kamo.parsianboton.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?encryption=none&security=none&type=xhttp&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&path=%2F&mode=packet-up#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://4d3c389c-8477-4875-aa65-dabf2c303de8@116.203.78.220:14099?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?encryption=none&security=reality&sni=music.yandex.ru&fp=chrome&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&sid=48a458b7e7cb52ae&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
