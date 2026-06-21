@@ -10,3 +10,9 @@ vless://8a686780-246d-4761-b895-70dab51fad74@151.101.1.194:80?type=tcp&encryptio
 
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://5a750563-a8de-27ad-16c2-03d690769f9c@199.181.197.124:2053?path=%2FJava&security=tls&encryption=none&insecure=0&host=java.bb9c-asill9over.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=java.bb9c-asill9over.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Config0plus
+
+vless://5a750563-a8de-27ad-16c2-03d690769f9c@199.181.197.124:2096?path=%2FJava&security=tls&encryption=none&insecure=0&host=java.bb9c-asill9over.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=java.bb9c-asill9over.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Config0plus
+
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?security=tls&sni=hk1.sanfen001.pics#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
