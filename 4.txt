@@ -24,3 +24,35 @@ vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?security=realit
 
 vless://207fb1be-e784-4053-94c1-b0e96333152f@plan.opann.ir:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://1👉JKVPN👈@37.156.43.207:41027?encryption=none&fp=chrome&headerType=http&host=www.yahoo.com&path=%2FTELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN--…#None%20TCP-None%20%7C%20%40JKVPN
+
+vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl.mohammadaz2d.ir&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5e4d471e-daee-4ab9-aed3-c6046f3cda3b@ez-e7ab47.ezaccess12cb30b.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=ez-e7ab47.ezaccess12cb30b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e7ab47.ezaccess12cb30b.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5e4d471e-daee-4ab9-aed3-c6046f3cda3b@ez-e7ab47.ezaccess12cb30b.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-e7ab47.ezaccess12cb30b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e7ab47.ezaccess12cb30b.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@185.245.40.220:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://665c11ef-4723-4396-a8a1-45d013e68e6b@103.112.71.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bootnl1.strangerwhale.fun&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=winq35461s-19523160106-direct.irgame.co&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://542adbe5-89c5-4f5c-bb05-a3bd4feec3a2@turk.nomac.ir:2026?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+trojan://MITIVPN@151.101.69.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=speedtest.net&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://FREE@45.144.165.11:80?mode=auto&path=%2F&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#%F0%9F%87%B9%F0%9F%87%AD%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://MITIVPN@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://c03fd834-bb0f-49e4-a8a4-6160f96d66fd@172.66.3.114:8443?mode=auto&path=/PvNetwork?=2048&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22:%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dl2.softarg.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://cfa7d33d-b6b3-4ea7-a54e-220578f45439@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?encryption=none&host=cna.abcdefghijklmnopqrstuvwxyz1234567890.ir&path=%2F&security=none&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://542adbe5-89c5-4f5c-bb05-a3bd4feec3a2@turk.nomac.ir:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
