@@ -26,3 +26,33 @@ vless://4dab0cc3-e3bf-4f72-b2bc-29e49ecdd322@xn-riga.easyodin.ir:80?encryption=n
 
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.23:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=ssj.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@199.232.78.158:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=nesfsheshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@151.101.108.223:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=nesfsheshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=ssd.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=vi.mojaz-persian-music.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=1&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=1&sni=ssj.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://98c9f668-1f2f-4a6d-bd7a-606fab0ac035@151.101.108.223:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://b752c239-8730-4193-9e0a-2eae12886fa9@hm.khoycityman.ir:443?encryption=none&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&security=reality&sid=edd3256dc1&sni=www.yahoo.com&spx=%2F6xAy3KtEqRQvV6U&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b752c239-8730-4193-9e0a-2eae12886fa9@hm.khoycityman.ir:57176?encryption=none&fp=chrome&pbk=0SiYe8YXJTlWr6n0f2nSSGngDeW2riD_fxHWIH-SEUI&security=reality&sid=561e95&sni=www.yahoo.com&spx=%2FgfR1XCaUN5oZC86&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&insecure=0&host=LIVe-21PUD5xl.bALaNcerAPPlb9978.INfo&fp=chrome&type=xhttp&allowInsecure=0&sni=LIVe-21PUD5xl.bALaNcerAPPlb9978.INfo#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://0878c33b-ab5e-47f4-94ec-44206a08069c@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=0f1280fa579b&sni=www.tradingview.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
