@@ -34,3 +34,13 @@ vless://2c6d44ba-6a19-464a-992b-d0c4615b323c@185.226.93.26:34634?encryption=none
 
 vless://2c6d44ba-6a19-464a-992b-d0c4615b323c@185.226.93.26:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://1f47d838-f5b7-4c9c-a73c-b9229f15151c@us-1.easyodin.ir:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cd83b491-64f3-4bb6-9fe4-80cf00e1bcd3@82.38.60.88:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&pbk=cqkIQAlIfDD_24qkjRgBD4qA7khDlUmTInGtZVSuzhM&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:8443?encryption=none&type=ws&security=tls&path=%2F&host=scale17-cdn.mellora.app.&sni=ssl.mellora.app.&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:8443?encryption=none&type=ws&security=tls&path=%2F&host=hzr157-cdn.mellora.app.&sni=ssl.mellora.app.&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://44e1ea79-f3dc-4769-8054-0efaaeaf3a43@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
