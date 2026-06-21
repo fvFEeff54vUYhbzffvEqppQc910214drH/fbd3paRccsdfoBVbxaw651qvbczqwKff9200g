@@ -13252,3 +13252,19 @@ vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&
 
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.138:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQG1lbGlwcm94eXkiLCAiYWRkIjogInZpcDMuc2FuYWllaGRhc3RpLmNvbSIsICJwb3J0IjogIjE1NDYiLCAiaWQiOiAiNmM1ZmNhZTMtMTZlOC00YTkzLWIyOGUtMDU1ODhkNWQ5MzQyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAicGxheS5nb29nbGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+
+vless://e2600ed3-eb3c-420d-9081-389c67b543b8@free.cratel.qzz.io:2083?encryption=none&type=ws&security=tls&path=%2F%40CratelNetwork&host=cratel.qzz.io&sni=cratel.qzz.io&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cFQ1OWVicjN6dERRQ3FI@bfqji.packetnet.de:22807#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+trojan://SoftNetConnect@37.156.45.237:2087?type=grpc&security=reality&authority=185.204.169.129&mode=gun&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
+
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@31.76.32.114:108?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://8b62732c-0d4a-4f8f-80cf-f9d30de33b62@37.156.40.244:2082?encryption=none&type=tcp&security=reality&headerType=http&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&sid=0b&spx=%2FATO3G3JijSXGTSm%2FTELEGRAM--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40manVPN
+
