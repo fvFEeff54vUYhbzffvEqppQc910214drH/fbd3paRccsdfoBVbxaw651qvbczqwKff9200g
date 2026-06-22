@@ -26,3 +26,23 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.2:8443?security=tls&encry
 
 vless://27c2c509-6cd7-4492-9e06-837ee0aa6a21@test.yonesyasin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2Fxh-83bsjkdv4bhv&security=tls&sni=test.yonesyasin.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:29551?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:45012?path=%2F&security=none&encryption=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+trojan://SoftNetConnect@37.156.45.237:42549?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%AD%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://08bf5696-2293-4aa6-9bb8-879b37e438e0@172.67.220.1:2087?path=%2Fapi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=anan.njati.ir&fp=chrome&type=ws&allowInsecure=0&sni=anan.njati.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20GRPC-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://SoftNetConnect@37.156.45.237:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%F0%9F%87%A8%F0%9F%87%AD%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://08bf5696-2293-4aa6-9bb8-879b37e438e0@173.245.58.84:2087?path=%2Fapi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=anan.njati.ir&fp=chrome&type=ws&allowInsecure=0&sni=anan.njati.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://0fbf78f2-9b05-4f6d-af3a-a8b0cc989f97@139.59.192.120:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7AXo3q32WLxsiwm3J0W-bhTQfTEyFK6rnEeQfdBfkS0&security=reality&sid=4d&sni=www.digitalocean.com&spx=%2F4fiBcJcF8dwa3hf&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
