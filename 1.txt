@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://27c2c509-6cd7-4492-9e06-837ee0aa6a21@test.yonesyasin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2Fxh-83bsjkdv4bhv&security=tls&sni=test.yonesyasin.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:29551?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -37,6 +33,8 @@ vless://28dc6916-3f4e-4c18-a7c3-2e60671951bc@c2.puffy-shop.ir:443?encryption=non
 vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@167.104.223.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=fcd9787f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.193.73:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=gateway.icloud.com&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sid=3b0b73e5#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
 vless://688521eb-f77c-4922-a311-80d09e07cbad@Malavang.hardvezoo.ir:6764?security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -103,4 +101,8 @@ trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&peer=www.multiplyd
 vless://2b1ac370-10f9-4af3-8005-765568c4046c@omid.digifactory.digifactorydez.shop:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=Mot_13wHwW_t_Omz1YW6xa0Lrr-itTAmONtjRLeDX3c&sid=7b6546#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.2:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://27c2c509-6cd7-4492-9e06-837ee0aa6a21@test.yonesyasin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2Fxh-83bsjkdv4bhv&security=tls&sni=test.yonesyasin.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
