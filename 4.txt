@@ -26,3 +26,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@207.2.120.46:3
 
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@us1-197.466688.xyz:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
 
+trojan://telegram-id-directvpn@15.237.161.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.161.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.237.161.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@us1-206.466688.xyz:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://c9f829a6-2f60-4bd9-8189-06df479d0488@162.55.98.167:8443?encryption=none&type=xhttp&security=reality&path=%2Fcdn-data&mode=auto&sni=www.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=VrWXAqq3fCtgo-VTe35BHHXme2kMsSWqopmac-GzOlQ&sid=be8318&spx=%2Ffavicon.ico#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://ad7a0934-4d8d-4343-8b6f-efa10ed54fc2@2.27.22.238:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
