@@ -26,3 +26,21 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?path=%2Fdownload.
 
 vless://43e02f55-266c-4e87-84b0-f50c9fa66aea@31.76.93.39:8070?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://53e27a99-ba97-4575-b3fa-f146229f3e49@b008291e0bac3a06.stream.deldadehtarin.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmess_ir
+
+vless://53e27a99-ba97-4575-b3fa-f146229f3e49@b3ec28d8285f4bb7.stream.deldadehtarin.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesc
+
+trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
+
+vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vexikopq012.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://28f32c33-de69-43ab-a2d0-f7cada58c6e3@138.197.187.178:8443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://%40Net2ray@91.223.61.22:6666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c0a0ecba-a94b-4a85-a2fc-0611ebce219e@206.168.213.184:443?mode=auto&security=reality&encryption=none&pbk=MJsIaoeYt-qnokhHqSKjLQri0cddD7lKXQAGV34v3TI&fp=edge&type=xhttp&sni=www.amd.com#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://967064b5-3272-431e-8dce-9519acfb94be@91.224.87.168:8084?security=reality&encryption=none&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&fp=firefox&type=grpc&serviceName=events&sni=myzh.pro&sid=823257b7b9ab9d02#%F0%9F%87%BA%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool2
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
