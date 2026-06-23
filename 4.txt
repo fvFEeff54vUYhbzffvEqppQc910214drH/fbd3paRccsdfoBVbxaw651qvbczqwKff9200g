@@ -22,3 +22,23 @@ vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&headerT
 
 vless://0b71acf0-b8bb-413e-9e52-dfdaef540d8f@p4.hoomankh.info:62692?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
 
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@77.223.120.222:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://d6ef367c-4b0f-44ec-a8c4-8c5947ec747b@re2.losthonor.ir:443?encryption=none&fp=chrome&pbk=XU_UcD815BdmBJPoXIjCo-jBWaWDzz909WbNsxX3ESk&security=reality&sid=171532396a322e32&sni=www.samsung.com&spx=%2FulkEwSseOx8vRbS&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://d6ef367c-4b0f-44ec-a8c4-8c5947ec747b@re1.wantedhonor.ir:443?encryption=none&fp=chrome&pbk=XU_UcD815BdmBJPoXIjCo-jBWaWDzz909WbNsxX3ESk&security=reality&sid=171532396a322e32&sni=www.samsung.com&spx=%2FulkEwSseOx8vRbS&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8484a24d-19bd-4516-a2ba-1e253d450ada@free1.playon.ir:443?security=tls&type=ws&headerType=&path=%2Faros-free&host=free1.playon.ir&sni=free1.playon.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://SoftNetConnect@37.156.44.6:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+trojan://SoftNetConnect@37.156.44.6:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+trojan://SoftNetConnect@37.156.44.6:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://03635ef5-8a47-4f06-b1d5-986a1ee25608@ez-aedc75.ezaccess1559cdc.workers.dev:8443?path=/&security=tls&encryption=none&insecure=0&host=ez-aedc75.ezaccess1559cdc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-aedc75.ezaccess1559cdc.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool2
+
