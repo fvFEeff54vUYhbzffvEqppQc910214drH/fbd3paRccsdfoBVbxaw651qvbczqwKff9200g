@@ -2,16 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@45.130.125.2:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=7.globalmanagment.ir&sni=7.globalmanagment.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@45.130.125.2:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D1024&host=6.globalmanagment.ir&sni=6.globalmanagment.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
-
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@143.14.59.75:8044?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
-
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
-
 vless://c1e79d6a-19ce-44f5-bab5-dcceb6b004ec@uupload.itzaydin1.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fws%3Fed%3D2580&sni=dl-3.itzaydin1.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream-one&path=%2Fzal&security=tls&encryption=none&alpn=h2&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -131,4 +121,14 @@ trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&alpn=http%2F
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@167.68.42.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool2
 
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.85.119.140:80?path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.92.9.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#%F0%9F%87%A8%F0%9F%87%BE%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.213.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@103.160.204.140:80?path=Telegram&security=&encryption=none&host=s5.868001.xyz&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://MITIVPN@199.232.78.157:443?path=%2Fed&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.234.239.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#%F0%9F%87%BB%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool2
 
