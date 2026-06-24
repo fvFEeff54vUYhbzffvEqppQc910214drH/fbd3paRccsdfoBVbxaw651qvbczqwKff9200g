@@ -22,3 +22,27 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?security=
 
 vless://0b131633-074c-4db0-8b75-7d65d85f3762@167.68.42.141:443?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=de1.uploadsho.com&fp=firefox&type=ws&sni=de1.uploadsho.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
 
+vless://686d0500-31f1-45ea-93a4-44423e3465e4@fr.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.janusgate.org&sid=e66ba6fa6c81c875¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Raiv2mmr
+
+vless://686d0500-31f1-45ea-93a4-44423e3465e4@fr.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.janusgate.org&sid=e66ba6fa6c81c875#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://5e9ef304-567a-4226-fa8c-3d2e007b564f@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+trojan://NISHIKUITAN222@104.18.63.120:443?#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://0864e026-b41e-4c4b-96fa-511eff4edce8@116.203.6.53:8844?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://auto@162.159.44.192:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+trojan://NISHIKUITAN222@173.245.59.202:443?#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+trojan://auto@172.67.70.31:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool2
+
+vless://0864e026-b41e-4c4b-96fa-511eff4edce8@jd1d.themonji.com:8844?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool2
+
+vless://111db1d5-0c3d-43c3-8c05-de4c3bd77604@92.222.217.16:80?encryption=none&security=none&type=ws&host=fr2.v2vless.xyz&path=%2Fvless#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool2
+
+vless://b4600925-669c-4742-fbd9-82570035f0d9@167.235.239.212:443?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool2
+
