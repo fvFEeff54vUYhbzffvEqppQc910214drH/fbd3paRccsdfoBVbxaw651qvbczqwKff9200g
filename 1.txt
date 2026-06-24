@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b92b370b-c62e-4f0c-8aff-be32faaa837d@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-orbit-portal-ac36.nova-c6202c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-portal-ac36.nova-c6202c.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@188.164.248.193:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d1486f14-ccaf-431c-82e5-e47a51cbf0d9@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-pearl-core-cb58.nova-ff069e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-core-cb58.nova-ff069e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://811c2c7f-c637-43cd-868c-e88079a7c399@141.193.213.10:2087?path=%2F&security=tls&encryption=none&insecure=0&host=nova-luna-node-9a02.nova-c50bec.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-luna-node-9a02.nova-c50bec.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAbWVsaXByb3h5eSIsICJhZGQiOiAiNjkuODQuMTgyLjQ5IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS56dWxhLnVwbGFvZC1tdXNpYy5pci4iLCAicGF0aCI6ICIvIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
@@ -32,9 +26,21 @@ vless://736bb26e-5237-4e0a-b2e6-dbf566153917@89.116.46.68:2087?path=%2Fxnxx&secu
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.209.35:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
-vless://8062e5ed-20b0-4304-b90b-e1652cfc72fa@103.100.158.25:443?security=reality&encryption=none&pbk=Z_vc5I8x9a1herQ7jaX5noyWMHv_aqihSKLAmhS2iwk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=59b1745606085b9c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+trojan://telegram-id-directvpn@13.39.209.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnFqMVFpOWJLdkZmSU0w@20.234.9.106:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+trojan://telegram-id-privatevpns@13.39.209.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@tr.erissub.xyz:2083?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@ltv.erisrtg.ir:2083?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@iv.erissub.xyz:2083?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@iv.erisrtg.ir:2083?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@t2.erisrtg.ir:2083?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_freex
 
 vless://f2c1b733-24bf-414d-93b5-617ee9c12633@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
@@ -63,4 +69,10 @@ vless://b328a006-d5b2-4cef-8159-bbd9c3206a76@188.164.248.193:443?path=%2F&securi
 vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://811c2c7f-c637-43cd-868c-e88079a7c399@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-luna-node-9a02.nova-c50bec.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-luna-node-9a02.nova-c50bec.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b92b370b-c62e-4f0c-8aff-be32faaa837d@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-orbit-portal-ac36.nova-c6202c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-portal-ac36.nova-c6202c.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://69de2fc8-d12f-451c-82b3-d5b578120e50@188.164.248.193:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d1486f14-ccaf-431c-82e5-e47a51cbf0d9@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-pearl-core-cb58.nova-ff069e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-core-cb58.nova-ff069e.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
