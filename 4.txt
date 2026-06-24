@@ -16,3 +16,9 @@ vless://c48520d8-8fdf-46f1-9f78-6dd9fb3dd287@188.68.218.70:443?encryption=none&t
 
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=/o7Aaf6fjwgbitolAe&type=tcp&path=/#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
 
+vless://1372fd84-3f5b-4497-9e50-38fa0130bdfb@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://g0z9mwojbllcblos@104.17.195.20:443?alpn=h2%2Chttp%2F1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=fll.dbssl.ir&mode=auto&path=%2F&security=tls&sni=fll.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@82.39.213.150:443?security=reality&encryption=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cd8971da5a669139#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool2
+
