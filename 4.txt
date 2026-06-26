@@ -32,3 +32,13 @@ vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.103:8443?encryption=none&
 
 vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
 
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=38.60.202.163#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40ShadowProxy66
+
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40ShadowProxy66
+
+vless://f77bcbf0-76ac-462f-b789-22f99838bcd9@d2.cvbesty.ir:39980?security=reality&encryption=none&pbk=rvASQZqW6BWYuVuV_wfzoaTz3kPXRB1i6VJlUYUwZB4&fp=chrome&spx=%2F&type=grpc&sni=play.google.com&sid=3e64c3#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40ShadowProxy66
+
+vless://85b62084-d81e-52cd-a016-944f261d34a0@bm.xq-vpn.com:80?mode=auto&path=%2F&security=&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#%F0%9F%87%B9%F0%9F%87%AD%20XHTTP-None%20%7C%20%40ShadowProxy66
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40ShadowProxy66
+
