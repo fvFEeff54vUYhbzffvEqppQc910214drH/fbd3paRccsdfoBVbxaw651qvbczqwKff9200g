@@ -26,3 +26,21 @@ trojan://g68znHRAdQXOOtQdud8HFw@sv4.hosttbd.ir:10004?security=none&headerType=no
 
 vless://4719a039-54ec-4269-a783-12cdbe24e715@164.92.210.231:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-72db84.hamidrezayazdani845.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-72db84.hamidrezayazdani845.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.39.35.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.35.91:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.35.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://a31f890e-e7ff-43ca-be7d-e7fc91fa166e@127.0.0.1:1?encryption=none&security=none&type=ws&headerType=none&path=/api/v3#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b989ca1f-0d70-45aa-bffc-6e13e50f9b4a@161.145.150.6:443?security=tls&type=xhttp&headerType=&path=%2Fone&host=54b6bca2b7deac06.tinfar.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=54b6bca2b7deac06.tinfar.ir&fp=firefox&alpn=h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://04719045-8365-4cec-ac41-7d690715c602@95.38.188.205:2053?encryption=none&fp=chrome&pbk=Og5m9KKXt0ov_B-zM5EB-wjEv6c_sUuGvy8GFNGk1T0&security=reality&sid=d594c04e0a027054&sni=www.filimo.com&spx=%2FaoZh3rGoxE6B3GS&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
