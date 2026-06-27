@@ -6104,3 +6104,35 @@ vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&sec
 
 vmess://eyJhZGQiOiIxMDQuMjUzLjEzNC45MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMTBhNjEwNi05NjBhLTRhM2MtOTRkMy00MTBhNTBjMTIxOWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEzOTMyIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCDij7E0OTVtcyB8IOKaoTEuME1CL3MgfCBATmFtYXpWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
 
+trojan://telegram-id-directvpn@13.36.124.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.124.82:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.36.124.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://4aa8a9c5-db16-4d44-9276-dc139384e0b6@162.159.90.45:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=IfoRgeTHowthEweStwAswOn.faIRisfAir.ir&mode=auto&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36%22%7D%7D&sni=RgeTHowthEweStwAswOn.FaIrisFair.IR#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://864cf6fe-3cb5-4846-9279-877175c89bab@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@mci.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@mci.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://wi+1az7Lv9kH61GIfjjzlLFIp2GGjAUPcZfvQH74ZCLT0MSFDaDc+ZDTVt0ognwbQmckami3N9i60xJLoKHrZbR6/OQCNtbKXgaHE4Mh9edLI0YSBdauuqYwCX9KtmS72gIA/I+1LjhEHuEQNBW/HGTxnhrhH2NcMAAJ7KLlDRrtFb7qSoqPHCfGXZcamx00whjpd8C0U29zlzCvEo8KjlZJcf8KSrsIsQY+Tbvhp0Ap1V/62f2X7NbvY17pbhhoLXdKV9Nhbo6GK91HOK2jllY5FIi1UgO94F/a5B5PPDuQJIAFtKEOG7uGDBKpQNX4UsL02gHCevsAFJharxHq7w==`#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
