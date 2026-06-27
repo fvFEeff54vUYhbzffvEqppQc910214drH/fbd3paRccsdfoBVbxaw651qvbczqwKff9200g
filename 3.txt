@@ -6354,3 +6354,17 @@ vless://24ae739f-e7b7-45df-bd55-12ac982c5649@zeus-panel-2vxg7a.kingworkerpeekcon
 
 vless://24ae739f-e7b7-45df-bd55-12ac982c5649@zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev:2053?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@18.159.170.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.170.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.159.170.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://4a4b4059-55af-4760-92e4-910b9bd24dd8@143.110.163.93:20309?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://26ac1dac-81ef-4892-4e17-e7b6181c24cc@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&path=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
