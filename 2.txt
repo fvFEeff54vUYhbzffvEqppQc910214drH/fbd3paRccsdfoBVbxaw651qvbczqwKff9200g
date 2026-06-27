@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyBcdTI1MDcgTm9uZSIsImFkZCI6InRyLmdhbWVjZW50ZXJ2aXAuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJkNDllMmJmMC1jNjUyLTRhNzItYjE1My1iMTIyYWIyZjIzZDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -224,7 +220,23 @@ vless://05d31d4f-12c6-4535-148b-d713ed734f9a@s2.zynavo.ir:2087?mode=auto&path=%2
 
 vless://87df4771-f4ad-4221-0f62-df287ca60bbc@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+vless://32b61d73-5466-4f6f-a2e3-be2c20aa6eaa@zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev:2096?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_ir
+
+vless://32b61d73-5466-4f6f-a2e3-be2c20aa6eaa@zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev:8080?path=%2F&security=none&encryption=none&host=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev&fp=chrome&type=ws&sni=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40vmesc
+
+trojan://BxceQaOe@54.46.109.132:22657?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
+
+vless://32b61d73-5466-4f6f-a2e3-be2c20aa6eaa@zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+vmess://eyJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJhaWQiOiAwLCAiaWQiOiAiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ2IjogIjIifQ==
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiIxMDQuMjUzLjEzNC45MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMTBhNjEwNi05NjBhLTRhM2MtOTRkMy00MTBhNTBjMTIxOWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEzOTMyIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCDij7E0MDFtcyB8IOKaoTk3OEtCL3MgfCBATmFtYXpWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9`#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9`#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiIxMDQuMjUzLjEzNC45MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMTBhNjEwNi05NjBhLTRhM2MtOTRkMy00MTBhNTBjMTIxOWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEzOTMyIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCDij7E0OTVtcyB8IOKaoTEuME1CL3MgfCBATmFtYXpWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9`#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
 
 vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmF0aW9uIjogIiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzZXJ2ZXJQb3J0IjogMCwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
@@ -467,4 +479,8 @@ trojan://maiv199z-25rx-s9qp-inj4-j1e9xagnc35m@127.0.0.1:1080?security=tls&type=t
 trojan://sxu965nv-3hby-c8ia-9do4-86dvygki8w57@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://bev4ohz3-e5nz-jnbb-annz-yhpytliqflll@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyBcdTI1MDcgTm9uZSIsImFkZCI6InRyLmdhbWVjZW50ZXJ2aXAuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJkNDllMmJmMC1jNjUyLTRhNzItYjE1My1iMTIyYWIyZjIzZDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
