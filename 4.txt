@@ -30,3 +30,23 @@ vless://360c5784-2abd-4e5d-ab41-11394b06e4a5@servers.xvon.in:55657?type=tcp&secu
 
 vless://0239395e-f490-4473-b0ae-4f3b37c75f01@185.200.196.68:5635?security=reality&encryption=none&pbk=74GNMrWP02eGR9FP2hBA8nyjHoAKKAqBnz3qNFah2w4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=85229882bd386e72#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
 
+trojan://telegram-id-directvpn@13.39.71.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.71.117:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.71.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@172.66.213.38:2095?path=%2F&security=none&encryption=none&host=gr1.monopolitass.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://99f47101-c1d9-45ac-b8e6-21bb121b56f2@zeus-panel-6px42t.kingworker1111peekconfig.workers.dev:2096?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://99f47101-c1d9-45ac-b8e6-21bb121b56f2@zeus-panel-6px42t.kingworker1111peekconfig.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://99f47101-c1d9-45ac-b8e6-21bb121b56f2@zeus-panel-6px42t.kingworker1111peekconfig.workers.dev:8080?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLVRMUyB8IEB2MnJleWE4OCIsICJhZGQiOiAiOC4yMTEuMTQ5LjMwIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiYzgyYjhlMC0wMjZiLTRiN2UtOGZhNy02OTk3N2I2ZDlkYzAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLyIsICJob3N0IjogInBvbGFydGltZS5saW5rIiwgInRscyI6ICJ0bHMiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@206.82.3.131:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?security=reality&type=tcp&packetEncoding=xudp&sni=pol1.hatvpn.org&fp=chrome&flow=xtls-rprx-vision&sid=19d6296d2621d9fa&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+
