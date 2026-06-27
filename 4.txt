@@ -8,3 +8,13 @@ vless://50ab6b59-4596-4b28-9440-fde9f5540514@3.70.132.250:2053?encryption=none&f
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&security=reality&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
+vless://4f9e22a8-d191-4913-a28d-6aa6c1616599@45.38.37.184:443?security=tls&type=xhttp&headerType=&path=%2Fnet&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=2fdb41ec8e6ec5ac.erisrtg.ir&fp=#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://4f9e22a8-d191-4913-a28d-6aa6c1616599@91.216.104.66:443?security=tls&type=xhttp&headerType=&path=%2Fnet&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=031a28a767fa3727.erisrtg.ir&fp=#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bb1168cc-97ec-4d2f-977c-359b57ffd4f9@test.monak2.ir:443?authority=&encryption=none&fp=chrome&pbk=1YVncDCrQDVsnO1jUgLgIAeXam_fRuFXhJ87XsSdtgY&security=reality&serviceName=Grpc&sid=87&sni=www.yahoo.com&spx=%2FlM1mj1oTW4o1j3n&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://bb1168cc-97ec-4d2f-977c-359b57ffd4f9@tamiz.monak2.ir:2083?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=proxied.monak2.ir&path=%2F&security=tls&sni=proxied.monak2.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
+
+vless://bb1168cc-97ec-4d2f-977c-359b57ffd4f9@tamiz.monak2.ir:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=proxied.monak2.ir&mode=auto&path=%2F&security=tls&sni=proxied.monak2.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
