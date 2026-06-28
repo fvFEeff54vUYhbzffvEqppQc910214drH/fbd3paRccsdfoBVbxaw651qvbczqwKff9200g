@@ -14,3 +14,13 @@ vless://d6553e77-6ae7-4f1a-9016-c2e028291b59@91.224.74.241:443?security=reality&
 
 vless://4b4cb7dd-b741-4218-ac99-7009e78e37fc@v2py.zynexo.ir:1080?security=reality&encryption=none&pbk=ZbLRIfp7JIWgMCIAzn8OYLpTLODdU9kclqDXzQE2c3U&headerType=none&fp=firefox&spx=%2F8onrjgUssawAjQp&type=tcp&sni=play.google.com&sid=837366093533865c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=%2Fus-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+trojan://telegram-id-directvpn@15.236.45.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.45.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.45.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://77d59f0a-285a-45be-9c18-6f5dfff562f1@zeus-panel-txdli6.wqrewr43r32f.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-txdli6.wqrewr43r32f.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=zeus-panel-txdli6.wqrewr43r32f.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
