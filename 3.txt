@@ -6322,3 +6322,7 @@ vless://f659ae31-0281-4dcf-acf5-5736ec0a58cc@199.232.78.143:443?path=%2F%3Fed%3D
 
 vless://b34dc88e-5235-441a-89f9-faf73d34ae62@162.159.94.225:443?allowInsecure=0&encryption=none&path=%2F&sni=cs1.gozar7.ir&security=tls&type=httpupgrade&insecure=0&alpn=h2%2Ch3%2Chttp%2F1.1&fp=chrome&host=cs1.gozar7.ir#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
 
+vless://bc6bb563-7476-42df-932f-ed15cdaf52b0@188.114.97.0:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ys.dbssl.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ys.dbssl.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://f7587b28-a35d-4dc9-9186-01545da216e8@voidlatency-lx52cy.ezaccess166a8c2.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=voidlatency-lx52cy.ezaccess166a8c2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=voidlatency-lx52cy.ezaccess166a8c2.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
