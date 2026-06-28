@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vmess://eyJhZGQiOiAiODUuMTMzLjI0MC4xOSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJjZmNhZmU4Ny0wOGFhLTQyZTMtYjAzZS05YTI5OGFlNDU1NzYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE0MDUwIiwgInBzIjogIlx1ZDgzY1x1ZGRmMVx1ZDgzY1x1ZGRmYiBUQ1AtTm9uZSB8IEB2MnJleWE4OCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
 vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?path=%2F&type=ws&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&insecure=0&security=tls&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&fp=chrome&allowInsecure=0&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://64eb3621-6a5a-494a-8900-0475f1271243@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -19,6 +17,8 @@ vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:8
 vless://3806606a-82d0-4c7f-907a-9e040088e1b2@172.66.47.69:2087?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=apii.dbssl.ir&mode=auto&path=%2F&security=tls&sni=apii.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0%3D@85.198.9.136:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vmess://eyJhZGQiOiAiODUuMTMzLjI0MC4xOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaWQiOiAiY2ZjYWZlODctMDhhYS00MmUzLWIwM2UtOWEyOThhZTQ1NTc2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwb3J0IjogIjE0MDUwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEB2MnJleWE4OCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://e51468db-3e44-449c-92f0-490dd6df956f@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F25753%2Fmehdi#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40v2reya88
 
@@ -6183,4 +6183,14 @@ vless://74cc7d1e-65c8-4dec-8005-f682f0fa96ab@38.244.20.164:443?encryption=none&f
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
 
 vless://b1165f57-9c8a-443a-aa09-660e9b32ff4c@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://b7e5b539-111d-438b-0dd1-0e3db83ba092@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://10c863a3-617b-4220-2750-12426d9d1ff2@s1.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://fa420bad-1a7a-46b9-ab44-05caa7255931@65.109.186.44:45026?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?security=tls&type=xhttp&headerType=&path=%2Fclud%3Fed%3D2048&host=&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=noloz.dtvialon.com&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
