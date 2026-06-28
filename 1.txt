@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Shh_Proxy
-
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Shh_Proxy
 
 vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@jc.20120222.xyz:10443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
@@ -14,9 +12,19 @@ vless://24fa5e2c-6026-47f0-9110-e74a854e671c@5.75.207.247:44004?type=tcp&encrypt
 
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&security=reality&sid=eaa8&sni=play.google.com&spx=%2FgiyWVcXDg48T294&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
+trojan://telegram-id-directvpn@3.123.202.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-vless://MATiN@45.38.42.238:8880?encryption=none&host=45.38.42.238&path=%2Fws&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.202.198:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40FreakConfig
+
+vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40FreakConfig
+
+vless://e6d988a1-f5e8-431d-820c-7e15997e8c7a@5.75.197.164:10950?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.130.125.158:2096?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=ios&type=ws&allowInsecure=0&sni=newgen14.hozheen.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40FreakConfig
 
 vless://32eae87d-cb5b-4155-9a60-218f44d52b3d@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Shh_Proxy
 
@@ -25,4 +33,6 @@ vless://f5c01a38-a92a-46a1-8968-a0582f4e2f2a@104.16.107.139:8880?path=%2Fpyip%3D
 vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@www.baipiao.eu.org:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=shy-wind-a26f.182-104.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Shh_Proxy
 
 trojan://BxceQaOe@18.163.56.230:3941?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Shh_Proxy
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Shh_Proxy
 
