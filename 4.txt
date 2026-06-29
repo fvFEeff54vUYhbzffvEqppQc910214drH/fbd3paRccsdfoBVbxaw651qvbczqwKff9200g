@@ -12,3 +12,11 @@ vless://10646efa-0e83-4cb1-c90c-d141ddcea85d@s1.zynavo.ir:2087?mode=auto&path=%2
 
 vless://b5ec0836-4448-4762-b45d-33e5ec87057f@bmi.ir.marandcity.com:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.37.37.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.37.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.37.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://69b7e3f8-214c-419c-a6ec-e40ba5706149@104.16.17.254:443?path=%2F&security=tls&encryption=none&host=zeus-panel-6lpifx.younesitgvlod-6e54.workers.dev&fp=ios&type=ws&sni=zeus-panel-6lpifx.younesitgvlod-6e54.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
