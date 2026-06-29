@@ -6,3 +6,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&securit
 
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-TLS%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@35.180.163.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.163.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.180.163.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@v2raytz_64543.knife.dns.zyros.cfd:80?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=e239c8e5f76a7307.cfp1.ch1.aireacondicionadomurcia.eu&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
