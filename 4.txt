@@ -14,3 +14,9 @@ trojan://telegram-id-privatevpns@63.186.80.111:22222?security=tls&alpn=http/1.1&
 
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2reya88
 
+trojan://telegram-id-directvpn@63.186.80.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.186.80.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#%F0%9F%8C%90%20WS-None%20%7C%20%40v2reya88
+
