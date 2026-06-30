@@ -22,3 +22,13 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.37:443?path=%2Fdownload
 
 vless://2977ddae-0f86-2501-d6df-d09c91759115@tmesubgift.up.railway.app:443?path=%2Fws%2F2977ddae-0f86-2501-d6df-d09c91759115&security=tls&encryption=none&alpn=http%2F1.1&host=tmesubgift.up.railway.app&fp=chrome&type=ws&sni=tmesubgift.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.236.68.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.68.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.68.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://bd347896-c0c7-45bb-a70c-167d29a12a35@82.40.62.192:41279?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=&fp=chrome&type=grpc&serviceName=#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.191:8443?path=%2FRoBeRt&security=tls&encryption=none&host=interim.adaspoloandco.com&type=ws&sni=interim.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
