@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b32d498e-bbac-4f5f-92bb-ea49d5d6ee94@104.25.150.137:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-2f4a7e.ezaccess15c2114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-2f4a7e.ezaccess15c2114.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://telegram-id-directvpn@35.156.135.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.135.140:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@35.156.135.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
@@ -67,4 +63,14 @@ vless://98d54794-fff3-4fe3-949e-7afb1021a633@162.19.128.217:719?security=none&ty
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@65.109.221.3:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@51.89.5.96:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b32d498e-bbac-4f5f-92bb-ea49d5d6ee94@104.25.150.137:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-2f4a7e.ezaccess15c2114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-2f4a7e.ezaccess15c2114.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e6ec767d-9cd8-464b-b8e8-3ff1f806a983@91.107.154.30:44016?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://1ee6a293-80e4-4c4c-8117-1fa5d65a087f@panel.1.ircom.hrnimbot.ir:30674?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@35.156.135.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
