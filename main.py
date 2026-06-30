@@ -218,8 +218,8 @@ def run():
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    # استخراج کانفیگ‌های ۳۰ دقیقه اخیر (۱۸۰۰ ثانیه) و ۳ ساعت اخیر (۱۰۸۰۰ ثانیه)
-    pool_30m = [item for item in unique_pool if now - float(item[0]) <= 1800]
+    # استخراج کانفیگ‌های 60 دقیقه اخیر (3600 ثانیه) و ۳ ساعت اخیر (۱۰۸۰۰ ثانیه)
+    pool_30m = [item for item in unique_pool if now - float(item[0]) <= 3600]
     pool_3h = [item for item in unique_pool if now - float(item[0]) <= 10800]
 
     # اعمال استخرهای زمانی به منطق چرخشی فایل‌های ۱ و ۲
