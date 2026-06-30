@@ -6132,3 +6132,17 @@ vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.52.20:2083?encryption=none&s
 
 ss://YWVzLTI1Ni1nY206c0Y0azVCemsrOTdBUmoxSmxteDgwYTA1QjhScElyWHB1ZUo2SElGR3hjWT0@redirect.docsfmufo.ir:8443#%F0%9F%8C%90%20TCP-None%20%7C%20%40NPV_78
 
+vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.106.140:2053?encryption=none&security=tls&sni=test0.testregular0.workers.dev&fp=random&type=ws&host=test0.testregular0.workers.dev&path=%2F%3Fu%3D0999a8fa74#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b3a491a6-a576-473f-bbad-d425653734c9@87.107.163.60:2053?mode=stream-up&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&pbk=UG_aFXjPIAtVE1WapMKm5wFFfHKo3P_3KEyc2MJIWBk&fp=chrome&type=xhttp&sni=www.aparat.com&sid=239fd92240218681#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWjVGdWN2dm1ITHllTkVDWHMxdzJjX3o5aTdtU01pZw@87.107.163.60:1011#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e339e42e-aed6-45b6-a5a9-99753d5462fc@free.propackonline.ir:8080?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=VoofCGRExig1vc40g-aYyUnjDPdj5yviR4NcKyH5iwM&sid=df42&spx=%2FuIaFsNWFDaYxDeu&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e339e42e-aed6-45b6-a5a9-99753d5462fc@free.propackonline.ir:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=2_iPiplms2b1gpH7uX3LX3cjnY6S4mfcf3rwgeTxIGo&sid=f48e&spx=%2F7xLiUZRrOfFbj7C&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e339e42e-aed6-45b6-a5a9-99753d5462fc@free.propackonline.ir:80?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=oTS35wHesEHyVspawT3caUhDWGE-SXkzPeScjRzrggY&sid=6d&spx=%2Fow37NpoN2zcSWm5&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
