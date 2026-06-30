@@ -10,3 +10,13 @@ vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?encryption=none
 
 vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?path=%2Fws%2Fc5997b46-9a9b-030f-fada-60efaff29de5&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8dd9.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
 
+trojan://telegram-id-directvpn@52.59.13.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.13.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.59.13.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2reya88
+
