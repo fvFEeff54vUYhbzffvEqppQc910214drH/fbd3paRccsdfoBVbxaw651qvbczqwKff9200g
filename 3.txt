@@ -5720,3 +5720,11 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=%2Fpoiu
 
 vless://343ffedb-38e0-4493-8103-42ad1bb0fffa@sub.1.polnejat.ir:4720?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://94ef5f6f-ac63-4cde-b479-abe32b2f5bf8@168.222.43.61:443?security=reality&encryption=none&pbk=Xa_iieA3fzOIdVTtBTpTtthiyqVIOvkA1-nvZ0JkFRk&headerType=http&fp=chrome&spx=%2FpqGZSNsQclle2Do&type=tcp&sni=www.yahoo.com&sid=ffdd0ca907#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0638aac2-2075-4b5f-aa79-cb3ec2f13035@104.17.153.140:8443?path=%2F&security=tls&encryption=none&insecure=0&host=node-1156018316-429f05.studentsnaap-irr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=node-1156018316-429f05.studentsnaap-irr.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-dfeb.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-dfeb.up.railway.app&path=%2Fws%2F147182ba-946d-9ef2-a209-dbfcccec9231#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://45a4bc71-2eb7-4e08-8d8c-8646c22a47be@178.83.45.122:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
