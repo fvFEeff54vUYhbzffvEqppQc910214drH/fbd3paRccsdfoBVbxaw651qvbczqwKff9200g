@@ -2,6 +2,14 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://a3a92954-00bd-4650-aa19-18b93aab1b0e@cdn.maf-opnsat.ir:80?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.maf-opnsat.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.maf-opnsat.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray_fa3t
+
+vless://da3a4454-bae4-4337-80ae-3ab3c0ffbb71@cdn.maf-opnsat.ir:8080?path=%2F&security=none&encryption=none&host=8080&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_fa3t
+
+vmess://eyJhZGQiOiAiY2RuLm1hZi1vcG5zYXQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNjNzNmNmI0LTgzMTctNDZlMS04ZmI3LTdjNDYyOWVjMzE0ZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEB2MnJheV9mYTN0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://da81985d-9323-4fad-bb9c-0a9e43f467c5@185.18.250.157:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cDn.MaF-OpNsAt.iR&fp=chrome&type=ws&allowInsecure=0&sni=cDn.MaF-OpNsAt.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_fa3t
+
 vless://0be63518-1cc3-48de-8aad-b9e4e6028739@cdn.maf-opnsat.ir:2052?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=SfORnOQhB2JDVwLBPemWnSzXIqwILVzn3dtoEdUmJyw&host=cdn.maf-opnsat.ir&fp=chrome&spx=%2F&type=xhttp&sni=www.sony.com&sid=6dbe#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_fa3t
 
 vless://f658d8b1-716e-4846-aed7-e6f714c71917@cdn.maf-opnsat.ir:8443?mode=gun&security=reality&encryption=none&pbk=FUH83h7I113jTGwszEPKoyEP786UutfON9rQVCC8b3Q&fp=chrome&spx=%2F&type=grpc&sni=aws.amazon.com&sid=fe8b307d8d89#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40v2ray_fa3t
@@ -131,12 +139,4 @@ trojan://dsb2c3ov-3mx6-c2r3-am6d-loi073s4h7nu@127.0.0.1:2080?security=tls&type=t
 trojan://kyuykl7f-mtik-b3su-rrv9-cqc9121dp7pa@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-vless://a3a92954-00bd-4650-aa19-18b93aab1b0e@cdn.maf-opnsat.ir:80?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.maf-opnsat.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.maf-opnsat.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray_fa3t
-
-vless://da3a4454-bae4-4337-80ae-3ab3c0ffbb71@cdn.maf-opnsat.ir:8080?path=%2F&security=none&encryption=none&host=8080&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_fa3t
-
-vmess://eyJhZGQiOiAiY2RuLm1hZi1vcG5zYXQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNjNzNmNmI0LTgzMTctNDZlMS04ZmI3LTdjNDYyOWVjMzE0ZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEB2MnJheV9mYTN0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-vless://da81985d-9323-4fad-bb9c-0a9e43f467c5@185.18.250.157:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cDn.MaF-OpNsAt.iR&fp=chrome&type=ws&allowInsecure=0&sni=cDn.MaF-OpNsAt.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_fa3t
 
