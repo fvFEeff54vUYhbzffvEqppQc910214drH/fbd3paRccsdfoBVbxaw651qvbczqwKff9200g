@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&sid=e1a78782#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?type=tcp&security=reality&sni=telegraph.co.uk&flow=xtls-rprx-vision&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sid=deee73#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 trojan://2p768e9o-twkw-fxv0-ck9k-88aim32bbfbn@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -84,6 +86,12 @@ vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=%2F%3Fed%3D2560&s
 
 vless://7e6b06bd-5b44-478f-f122-e6a8acb6ba70@s1.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@18.158.177.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.177.160:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.158.177.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.160:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%B8%F0%9F%87%A8%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40ConfigV2rayNG
@@ -123,12 +131,4 @@ vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@swe.fast-cone.com:443?security=real
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?security=reality&encryption=none&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stockholmresilience.org&sid=b378#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?security=reality&encryption=none&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swe.fast-cone.com&sid=44#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn4.portalcode.ir:2095?path=%2F&security=none&encryption=none&host=wjqd.monopolitass.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigV2rayNG
-
-vless://1917fc5b-f461-4dcd-97e6-b2b1e88052c4@8.221.112.154:8433?security=reality&encryption=none&pbk=Ong0MfnCO7eWpuNUW2ZK2gZQyaiJiD70Vl7J_LoCWnE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=eb86f55d8a679d17#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
