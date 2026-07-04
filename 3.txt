@@ -4958,3 +4958,37 @@ vless://199436d3-2fa2-4e34-a1de-844419de5a4f@ns-fi.onlinernet.ir:20018?encryptio
 
 vless://bbe20750-1718-414c-8ac6-041899cb0216@185.226.93.174:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
+vless://921773fd-9d64-475c-a032-64e5a07bac72@v8.fixgsmpro.com:443?security=reality&encryption=none&pbk=tdYUowmZeJVI0Dp3PWUAcKE5dxlOWm3bo2k9_CNg5CM&fp=firefox&spx=%2FOBCl7KEzGaHMltB&type=grpc&sni=yahoo.com&sid=ea6cb7274fa0#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:65535?path=%2Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=geri.alis1.ir&fp=random&type=httpupgrade&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2095?security=none&encryption=none&host=Snapp.IR&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2098?mode=multi&security=reality&encryption=mlkem768x25519plus.native.0rtt.xxwO1AZ1UXK0hN3JH-g_o3BL8N79GLTjfl1ziuAqKmc&pbk=tmijSRaz8qkLLJZIOLoCAAOtr_KHB9eoYieTM3_VNkk&fp=random&spx=%2F4y3lg5Q4pz1tjL2&type=grpc&serviceName=grpc-speed-tunnel&sni=android.com&sid=6278#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:553?path=%2Fvpn&security=tls&encryption=mlkem768x25519plus.native.0rtt.DyVy3dbOPLJMu3EKHbNlAcRTxC1bptmG0zpTccheMRo&insecure=0&host=geri.alis1.ir&fp=random&type=ws&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:346?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=tvvN3IlRntSyoxIIm-oyaiBkpnNfScLvwtzvcFNvtxc&fp=random&spx=%2FNJ24SMpySHqKrq3&type=xhttp&sni=yahoo.com&sid=a6d60e63#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2103?security=tls&encryption=mlkem768x25519plus.native.0rtt._lcc1LwbjKMmgrwcpi6M9ldFVjJkbjX8tcqO7WH01Do&insecure=0&host=Snapp.IR&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:10002?path=%2Fggi&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2104?security=reality&encryption=none&pbk=BuyIWWE5ehhU8cUibKg-NNowtVZM0pyFeOpERdiWlUA&host=Snapp.IR&headerType=http&fp=random&spx=%2F2xMFOrTndzHmRxz&type=tcp&sni=www.samsung.com&sid=9613a5dec0ff#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:9080?path=%2Fggi&security=tls&encryption=none&insecure=0&host=geri.alis1.ir&fp=random&type=ws&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:36825?path=%2Fed%3D2560&security=none&encryption=none&host=geri.alis1.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2101?security=none&encryption=none&host=Snapp.IR&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:27032?path=%2Fggi&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:554?mode=multi&security=reality&encryption=none&pbk=GwdzgfDsBptQvFDV-UIB4OVzA3KUH5zyGSH8p__9aAg&fp=random&spx=%2FnI6qfYRNdOxo6wr&type=grpc&sni=speedtest.net&sid=97f28618#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:446?mode=auto&path=%2Fmy&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=ndmMYMRqnalEV8Hfy_Dl5AG-2UJKaMjFPlyiDRCdexg&host=geri.alis1.ir&fp=random&spx=%2Fax5mQUC2ontNfEB&type=xhttp&sni=www.yahoo.com&sid=d46323#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:10001?path=%2Fggi&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=geri.alis1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Bega_arvan@geri.alis1.ir:2102?security=none&encryption=none&host=Snapp.IR&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
