@@ -10,3 +10,25 @@ trojan://SoftNetConnect@213.108.20.209:2087?type=grpc&security=reality&authority
 
 vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
 
+vless://cc0d91cd-3e23-44b7-6020-7ae322a23044@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@88.216.67.230:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=api.devilishez.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@api7.devilishez.com:2060?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@172.66.47.69:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.zinkivps.ir&path=%2F&security=tls&sni=panel.zinkivps.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@172.66.47.69:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=api.devilishez.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@45.131.4.118:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=api.devilishez.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@104.16.72.42:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=api.devilishez.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@104.16.72.42:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.zinkivps.ir&path=%2F&security=tls&sni=panel.zinkivps.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@91.193.58.201:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.zinkivps.ir&path=%2F&security=tls&sni=panel.zinkivps.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@88.216.67.230:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.zinkivps.ir&path=%2F&security=tls&sni=panel.zinkivps.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@45.131.4.118:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.zinkivps.ir&path=%2F&security=tls&sni=panel.zinkivps.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
