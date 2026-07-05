@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.3:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://SoftNetConnect@147.45.70.129:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://89049f79-320b-48a0-b1cf-110165cae30c@147.45.70.129:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FL#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 trojan://SoftNetConnect@147.45.70.129:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 trojan://SoftNetConnect@147.45.70.129:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
@@ -109,6 +101,8 @@ vless://e64036be-7033-4efc-611f-75f1d75c50c2@s2.zynavo.ir:2087?mode=auto&path=%2
 trojan://enjfekod73pp9fg3@mhzedir.qzz.io:6071?security=reality&pbk=WTcxFGYjGbeKxQhqcoZYxPMAIl6hE3SGHCQkRilcEQ8&headerType=none&fp=chrome&spx=%2FMDHpkAXKpQwDbac&type=tcp&sni=support-shield.nvidia.dk&sid=294a431d4e97#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://89049f79-320b-48a0-b1cf-110165cae30c@147.45.70.129:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8442?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -5321,4 +5315,16 @@ vless://27f6e686-4f6d-44bf-8cc9-eaabf0e06150@q.telewebion.ir.varzesh3.com.de:443
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 hysteria2://t-me-V2RayyNGvpN@91.107.152.188:40460?sni=www.amd.com&insecure=1&allowInsecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=…#None%20TCP-Reality%20%7C%20%40vpnsal
+
+vless://c95db890-712a-4323-e08d-06d182f3b764@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.46:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.130:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.194:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.122:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
