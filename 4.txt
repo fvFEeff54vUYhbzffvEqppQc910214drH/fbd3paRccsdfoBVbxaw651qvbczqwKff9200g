@@ -10,3 +10,15 @@ vless://43710aca-1401-148f-1ea1-1d0fafd46c54@arg-production-8b86.up.railway.app:
 
 vless://aba0d78f-9fab-49ea-a48b-972fbe9f4722@support.filimo.com:443?encryption=none&security=tls&sni=ir-cdn-dl-09.khorostime.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ir-cdn-dl-09.khorostime.ir&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.236.170.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.170.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.170.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.182:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn6-49.yahoo.com&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fdc3d0a6-11d7-8dcb-a825-3425011fb60d@arg-production-8b86.up.railway.app:443?encryption=none&security=tls&sni=arg-production-8b86.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=arg-production-8b86.up.railway.app&path=%2Fws%2Ffdc3d0a6-11d7-8dcb-a825-3425011fb60d#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=sevenfeshab.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
