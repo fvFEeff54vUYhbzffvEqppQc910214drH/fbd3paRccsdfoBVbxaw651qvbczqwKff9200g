@@ -5316,3 +5316,13 @@ vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&e
 
 hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
+vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?security=reality&encryption=none&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=abcd1234#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://486ebf01-0b45-4c38-9ef6-198aa0f9d2c3@104.16.107.139:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=&encryption=none&host=quiet-feather-19f3.410-a69.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
+
+vless://cbafcab9-9c80-40bb-802e-041d53523a27@89.125.78.88:443?security=reality&encryption=none&pbk=I3ogCvnMWrELiNBqWV0g3DOvqmXalX2ePsrXcTkokRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=ba48fa8e7a0f3202#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
