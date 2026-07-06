@@ -5454,3 +5454,7 @@ vless://1cb8c791-264c-443d-9810-4c8bc060dab0@hayabusa.proxy.rlwy.net:29044?mode=
 
 vless://5e27d2ba-8185-4729-9c90-69a28d1160eb@193.84.255.91:28110?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?sni=fast2.screw.page&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://c777e5b5-9904-4644-947a-e4208a0329d0@es204.mechvpn.online:443?alpn=h3%2Ch2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2nodes
+
