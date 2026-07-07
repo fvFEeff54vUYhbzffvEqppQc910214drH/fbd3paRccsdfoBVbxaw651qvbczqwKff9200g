@@ -4090,3 +4090,13 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&t
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxa1JOTmhzSXJ6VTZxbmtM@20.223.221.41:443?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_freex
 
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@204.10.192.79:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cdn1.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=frr.monopolitass.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+trojan://MITIVPN@140.248.185.252:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dusa&security=tls&alpn=http%2F1.1&host=mitivpn--------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://MITIVPN@199.232.2.79:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&host=mitivpn--------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&sni=bsw-wwlslw-w.Maqror.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
