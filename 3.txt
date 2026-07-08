@@ -3842,3 +3842,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8
 
 vless://e0a69598-605b-4d16-96d0-ae466484f4c0@w-website.iramnewmax.ir:443?security=none&type=httpupgrade&host=play.google.com&path=%2F&encryption=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@3.69.137.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.137.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.69.137.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://8c3e7faa-d0eb-7be7-e0ac-4fa73fcd0599@foloki-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=foloki-production.up.railway.app&path=/ws/8c3e7faa-d0eb-7be7-e0ac-4fa73fcd0599&sni=foloki-production.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5ee4ce84-c0b1-4230-ae32-b5266621cbf6@yout.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
