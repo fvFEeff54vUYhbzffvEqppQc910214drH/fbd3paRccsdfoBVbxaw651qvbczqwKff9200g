@@ -2,18 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&security=reality&sid=40a5eaec20abf1&sni=helsinki.fi&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.243:8449/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-vless://a2ffcac0-5758-43bc-8d85-d224027aec0c@104.18.33.14:2096?encryption=none&type=ws&host=nova-falcon-core-ec15.nova-52b887.workers.dev&path=/&security=tls&fp=chrome&sni=nova-falcon-core-ec15.nova-52b887.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:6443?security=reality&encryption=none&pbk=rmElFjgHFvEfoDxHyWh9c6PeQQGGPszM_m9pFGZpQiE&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?encryption=none&type=ws&security=tls&path=%2F&sni=server-ir-7.ariyuz.org&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.50:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
@@ -1592,7 +1580,11 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.161:8449?security=tl
 
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.168:8449/?insecure=1&sni=sni.fi-m247-02.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
 
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.243:8449/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
+
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
+
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
 
 trojan://MITIVPN@140.248.185.252:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSA&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_Extractor
 
@@ -4131,4 +4123,6 @@ vless://e9c56342-e57b-47f0-8da0-b79bc04d8305@146.75.119.82:80?path=ws%2F%3Fed%3D
 vless://ce3fb7e2-de4b-4ad4-be77-24d7b3435d4c@sfdata.aghayradical.space:50665?security=&encryption=none&host=Play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ce3fb7e2-de4b-4ad4-be77-24d7b3435d4c@sndata.aghayradical.space:20357?path=%2F&security=&encryption=none&host=play.google.com&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
