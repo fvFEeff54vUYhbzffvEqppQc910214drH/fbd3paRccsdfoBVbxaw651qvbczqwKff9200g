@@ -8,3 +8,23 @@ vless://675a0e2d-4eda-4126-9bd5-c98c0158c6b9@ge-nn.jorzel.ir:2060?mode=auto&path
 
 vless://675a0e2d-4eda-4126-9bd5-c98c0158c6b9@nlll.serendpiti.ir:2060?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=90cecfbf0c0a21ec#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@51.45.36.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.36.122:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.45.36.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://675a0e2d-4eda-4126-9bd5-c98c0158c6b9@italy-nm.serendpiti.ir:2060?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=90cecfbf0c0a21ec#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://3a9d300b-ccd9-c036-773e-9300b21689a1@x4g-production-13a0.up.railway.app:443?path=%2Fws%2F3a9d300b-ccd9-c036-773e-9300b21689a1&security=tls&alpn=http%2F1.1&encryption=none&fp=ios&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56fde86d-7985-4385-bc75-276b29a70e44@179.237.75.21:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sni=yahoo.com&sid=ce741cbe468babc7#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://56fde86d-7985-4385-bc75-276b29a70e44@178.83.121.85:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.136.109:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56fde86d-7985-4385-bc75-276b29a70e44@45.86.228.237:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
