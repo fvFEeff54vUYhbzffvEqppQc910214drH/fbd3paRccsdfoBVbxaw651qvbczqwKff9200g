@@ -22,3 +22,9 @@ trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2
 
 trojan://MiTiVPN@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://9b086522-eac5-f138-7c25-19ca15a01345@x4g-production-1aff.up.railway.app:443?path=%2Fws%2F9b086522-eac5-f138-7c25-19ca15a01345&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-1aff.up.railway.app&fp=chrome&type=ws&sni=x4g-production-1aff.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://63799b8b-df83-81fb-1fee-9cf67dd2d4db@x4g-production-6820.up.railway.app:443?path=%2Fws%2F63799b8b-df83-81fb-1fee-9cf67dd2d4db&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-6820.up.railway.app&fp=ios&type=ws&sni=x4g-production-6820.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://7c57c089-6351-4621-863c-b82a55bb4537@finland9011-tswe.horlutr.ir:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_freex
+
