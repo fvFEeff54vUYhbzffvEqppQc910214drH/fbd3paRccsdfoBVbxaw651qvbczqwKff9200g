@@ -26,6 +26,16 @@ vless://8b18e160-9a3d-4f2d-9b56-b9894d3b2743@mtnnet.sanaiehdasti.com:1418?securi
 
 vless://8b18e160-9a3d-4f2d-9b56-b9894d3b2743@plw.sanaiehdasti.com:1418?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://f2c39c53-ffb2-491a-8d4e-346891b377e3@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5dec493b-22c2-4def-976e-9c5d4c954ebd@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://806158d6-f11e-4523-a032-9f865efb05b9@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://netherlands@69.46.46.35:443?path=%2Fws%2Fnetherlands&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=node-7946883854-bfd146-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=node-7946883854-bfd146-production.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 trojan://telegram-id-directvpn@63.177.32.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.32.122:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
