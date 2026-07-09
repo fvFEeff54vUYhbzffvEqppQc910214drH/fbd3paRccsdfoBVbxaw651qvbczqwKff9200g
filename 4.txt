@@ -146,3 +146,11 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443?security=realit
 
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
 
+trojan://e2706e57-690b-fd2e-0c53-9c34e1805162@104.20.30.73:443?path=%2Fsync&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=purple-rain-4512.erfan22.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2083?path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=fans.liverpool.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=fans.liverpool.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9a50f494-e264-fcef-406d-52c5eb6dc2df@69.46.46.55:443?type=ws&security=tls&fp=chrome&sni=x4g-production-f37e.up.railway.app&path=/ws/9a50f494-e264-fcef-406d-52c5eb6dc2df&host=x4g-production-f37e.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:443?Telegram=@v2ray_configs_pools&encryption=none&security=tls&type=ws&host=&path=/ws/6e475ace-9410-5f61-8ea9-f05fadd1f604&sni=&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
