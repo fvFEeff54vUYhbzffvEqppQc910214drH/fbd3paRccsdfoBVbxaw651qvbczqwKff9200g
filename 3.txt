@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&type=ws&host=deicl.redstone-vex.sbs&path=/sea&security=tls&sni=deicl.redstone-vex.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@3.66.180.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.180.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -226,6 +220,8 @@ trojan://ZfzFChpuN4h08FphLPk52NOuMCve8nMU@145.63.136.171:10001?security=none&hea
 
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
+
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://0ae9e91e-bf8c-44e4-b9c2-a7e3a6c3a335@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -293,6 +289,8 @@ vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:553?path=%2
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=MzGvUtTz7.MaKeAcHeCk.oRg&fp=firefox&type=ws&allowInsecure=0&sni=MzGvUtTz7.MaKeAcHeCk.oRg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
 vless://d06da982-4d89-4374-8170-23e7c1082c81@104.18.15.211:2053?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-c21n42.hmidhoti.workers.dev&fp=random&type=ws&allowInsecure=0&sni=zeus-panel-c21n42.hmidhoti.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
 vless://1fe9f078-554e-4c26-b605-6bff3c6f1ca0@tun.star-direct.ir:8880?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
