@@ -10,9 +10,13 @@ trojan://MiTiVPN@104.16.71.48:443?path=&security=tls&alpn=http%2F1.1&insecure=1&
 
 vless://d1c28c23-79c7-449d-a7b4-e1960dc20484@165.245.220.234:8443?security=reality&encryption=none&pbk=0_K5eYgpXJdqr7Rl_GTMJbUZfGln7e4EKD8dQN6IOxo&headerType=none&fp=safari&spx=%2F7bFlkKLiNMXwLeY&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=638672df31#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_ir
 
+vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40FreakConfig
+
 trojan://------------BanV2ray------------@179.237.75.217:16369?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=firefox&spx=%2Fo6A0DkyYzJ6oG5O&type=tcp&sni=promotion.yahoo.com&sid=4aa2#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40FreakConfig
 
 trojan://MiTiVPN@167.82.101.252:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://c766f6d6-2e0e-45ac-a5e2-f2189ee594d3@zvc.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6115f6a9eb8467c6#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
 
 trojan://------------BanV2ray------------@179.237.75.217:1232?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=firefox&spx=%2FD3hjGXEe9vzucLn&type=tcp&sni=promotion.yahoo.com&sid=21c11ba53c#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40FreakConfig
 
@@ -50,13 +54,11 @@ vless://421e489e-dc97-45d0-a0c0-2fe45950bba6@46.8.231.126:17333?security=none&en
 
 vless://17e5cb2d-bd76-405b-82bf-a7eaadb880a9@ariyant2.up.railway.app:443?path=%2Fwe&security=tls&encryption=none&insecure=0&host=ariyant2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ariyant2.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40GiveVPN
 
-vless://87dc9072-662c-4288-bf7a-0621b8d09927@fa395521329bc522.mechanicir.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=b7c8604c2d6dbfd6#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@172.66.1.62:2096?path=%2F&security=tls&encryption=none&insecure=0&host=dry-pine-155d.maryamw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dry-pine-155d.maryamw.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://a47543fd-ae74-473f-823a-cfdf42c52190@pl.wubbalubbadubdubb.ir:1013?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&sid=701d699e06514eab#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+vless://b2e7573a-4211-4376-8934-a572363c4c3a@168.119.52.80:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://83518691-3491-4ac2-80bf-f2c9ac67d6e7@87.120.106.254:443?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=0JIn6taGHs9O5GedFWoMom9x7MOFL2hJ78p7eIaW1mo&sid=9df3f297&spx=%2FfiqKUmBQf2JQ6g6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+vless://7be1c6dc-ad55-4fa7-8e40-4fc00814c638@es-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=08#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://d0bb0042-7b55-43dd-bd3b-7661c0adc4e5@courtois.aminsec.ir:22338?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
-
-vless://MAconnectt@hayabusa.proxy.rlwy.net:12502?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&sni=is1-ssl.mzstatic.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5qUmBg-yImwiQ1Fuw18hUKRK15uqpp5Fq-73oyqEjgQ&sid=646aec27&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40meliproxyy
+vless://e7cb2361-ea46-4ca3-9e32-648140c4e84b@2.144.25.196:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=api.bcdnjs.site&alpn=h2&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
