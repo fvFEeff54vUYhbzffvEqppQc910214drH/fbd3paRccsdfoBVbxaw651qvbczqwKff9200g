@@ -28,3 +28,5 @@ vless://c115c8c5-fa02-479b-8193-26f334e8e88b@172.67.65.111:8443?encryption=none&
 
 vless://76c28b9c-d73f-4eee-9d31-5eb3782313c4@allnet.sanaiehdasti.com:1323?security=&encryption=none&host=www.icloud.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a5d6acb2-d494-f5c2-f865-7c606b3854b1@x4g-production-7fdc.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-7fdc.up.railway.app&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-7fdc.up.railway.app&path=%2Fws%2Fa5d6acb2-d494-f5c2-f865-7c606b3854b1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
