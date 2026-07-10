@@ -6,3 +6,11 @@ vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc
 
 vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg6.auragg.org:443?sni=argg6.auragg.org&alpn=h2%2Chttp/1.1&type=grpc&serviceName=media.session.poll&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2nodes
 
+vless://4d2171b8-bd77-4db9-8e58-5049a330863b@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e45d7a71-d172-491e-a623-c81fbe364b01@tun-1.globalmymusic2.com:2096?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=0ouzIHeI5RiPpryhmaQ99LRARPD_qNm33zAwpM-L6CA&fp=chrome&type=xhttp&sni=www.filimo.com&sid=02803e1debaa961f#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://e45d7a71-d172-491e-a623-c81fbe364b01@tun-1.globalmymusic2.com:8444?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=0ouzIHeI5RiPpryhmaQ99LRARPD_qNm33zAwpM-L6CA&fp=chrome&type=xhttp&sni=www.filimo.com&sid=02803e1debaa961f#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://4d2171b8-bd77-4db9-8e58-5049a330863b@fast.motorbazan.com:443?encryption=none&type=ws&host=sevenfeshab.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
