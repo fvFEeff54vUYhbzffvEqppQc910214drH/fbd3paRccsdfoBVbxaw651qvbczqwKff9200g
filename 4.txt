@@ -14,3 +14,11 @@ vless://f8cae104-2eaa-4b16-b258-65be28281b70@u-cvds-s-vfdsds-a-dc.codesystem.ir:
 
 vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAicmFuZG9tIiwgImhvc3QiOiAibkV0SDIuTG9PbG9PbG9PbG9PLkNPTS4iLCAiaWQiOiAiMDBkYmE5ZjktMzRiNC00YjQyLWI2YmUtN2QwZTZjYzFkN2U2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL3RlbGVncmFtLUBMb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSx0ZWxlZ3JhbS1Mb29raWJpYSxoc2ludjJyYXluZy1WMnJheW5naHNpbi10ZWxlZ3JhbS1ob3NlaW4tdjJyYXk/ZWQ9MjA1NiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgSFRUUFVwZ3JhZGUtVExTIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJuRXRIMi5Mb09sb09sb09sb08uQ09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
+trojan://telegram-id-directvpn@35.157.167.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.167.148:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.157.167.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://e6d34b8b-b02c-0a56-5f53-3eae74e1c9cf@netmelll-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=netmelll-production.up.railway.app&path=/ws/e6d34b8b-b02c-0a56-5f53-3eae74e1c9cf&sni=netmelll-production.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
