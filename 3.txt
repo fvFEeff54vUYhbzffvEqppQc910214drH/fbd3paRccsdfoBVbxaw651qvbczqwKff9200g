@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://d3ed4cb7-cf16-4ec6-bfcf-cf3ead1c8625@138.124.114.29:40443?security=reality&encryption=none&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@13.37.210.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.210.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -113,6 +109,8 @@ vless://02f3633d-71a6-491a-94ac-b0b1dbecc12a@Bbbhhgf.dadashinet10.ir:2044?encryp
 vless://02f3633d-71a6-491a-94ac-b0b1dbecc12a@sdfg13199135.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://02f3633d-71a6-491a-94ac-b0b1dbecc12a@Nkoihgf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&security=reality&sni=prod.de-node-01.security-sbrf.ru&fp=firefox&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
 
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&security=reality&sni=prod.de-node-01.security-sbrf.ru&fp=firefox&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=mtmvpn---v2ray_configs_pools#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
 
@@ -5121,4 +5119,14 @@ vless://4b54bc81-d091-88f2-1061-502c76cbf2b5@stanet1.up.railway.app:443?path=%2F
 vless://7c330496-70ad-4a2e-8626-4161f142bf81@esfahan-dental-clinic.ir:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-v7q5kq.zeus-n9tz52.workers.dev&fp=android&type=ws&allowInsecure=0&sni=zeus-panel-v7q5kq.zeus-n9tz52.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
 
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf3.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&type=ws&host=cfoo-146.pages.dev&path=%2Fqianglietuijian%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://f19bbfdc-0d46-4b32-8b92-82ecd47da2c9@nova-orbit-spark-b52f.nova-b339f7.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-orbit-spark-b52f.nova-b339f7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-spark-b52f.nova…#None%20WS-TLS%20%7C%20%40vpnsal
+
+vless://9b42c6e6-a327-2bec-93dd-9c57d7577a3e@x4g-production-8da8.up.railway.app:443?path=%2Fws%2F9b42c6e6-a327-2bec-93dd-9c57d7577a3e&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-8da8.up.railway.app&fp=ios&type=ws&sni=x4g-production-8da8.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&host=pan21.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://62a29659-0e6e-cebe-7728-b526933174ab@x4g-production-4140.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-4140.up.railway.app&path=/ws/62a29659-0e6e-cebe-7728-b526933174ab&sni=x4g-production-4140.up.railway.app&fp=firefox&alpn=h2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://852f4d8d-022d-c2f3-039a-c14d11cb092d@x4g-production-4ce4.up.railway.app:443?path=%2Fws%2F852f4d8d-022d-c2f3-039a-c14d11cb092d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4ce4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4ce4.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
