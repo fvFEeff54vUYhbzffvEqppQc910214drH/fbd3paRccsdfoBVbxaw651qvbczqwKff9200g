@@ -12,3 +12,11 @@ vless://b9808bb6-69bd-4370-ac79-97e1e535966e@94.183.207.211:443?security=&encryp
 
 vless://9b19d03b-3e90-42cc-bff5-26213ad41ad4@49.13.140.158:3030?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxymaann
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://150f4338-86c0-b91a-9dfd-1f4aeafd2d77@x4g-production-dac6.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-dac6.up.railway.app&path=/ws/150f4338-86c0-b91a-9dfd-1f4aeafd2d77&sni=x4g-production-dac6.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://53b070bd-a91c-a9b9-187f-8b0cf28e72fb@foloki-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=foloki-production.up.railway.app&path=/ws/53b070bd-a91c-a9b9-187f-8b0cf28e72fb&sni=foloki-production.up.railway.app&fp=chrome&alpn=h2%2Chttp/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://729f315b-01e3-4543-849a-a1482f69349a@31.57.28.16:8080?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=opJtSOP5IDRUindFufbrBBdWVWnrNAyfIbPHGnaBW1Y&host=De.emperorr.sbs&fp=ios&type=xhttp&sni=play.google.com&sid=3dc10c875cf37011#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
