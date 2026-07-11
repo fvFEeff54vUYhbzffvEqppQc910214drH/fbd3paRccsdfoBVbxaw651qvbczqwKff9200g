@@ -5130,3 +5130,7 @@ vless://62a29659-0e6e-cebe-7728-b526933174ab@x4g-production-4140.up.railway.app:
 
 vless://852f4d8d-022d-c2f3-039a-c14d11cb092d@x4g-production-4ce4.up.railway.app:443?path=%2Fws%2F852f4d8d-022d-c2f3-039a-c14d11cb092d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4ce4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4ce4.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://94fb0e5b-eb40-4c06-a465-5dd7a9d2f6d2@3x-ui-upgrade-production-9831.up.railway.app:443?mode=auto&path=%2F&security=tls&encryption=none&host=3x-ui-upgrade-production-9831.up.railway.app&fp=chrome&type=xhttp&sni=3x-ui-upgrade-production-9831.up.railway.app#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
