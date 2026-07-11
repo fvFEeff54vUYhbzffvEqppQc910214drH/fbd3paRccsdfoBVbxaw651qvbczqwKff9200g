@@ -4548,3 +4548,7 @@ vless://003f8262-28b1-4f80-acd0-af251777a7b8@n4.zeneco.ir:8443?security=tls&encr
 
 vless://11db68c2-c044-2d76-b53d-a9ca73a56c88@x4g-production-10d0.up.railway.app:443?path=%2Fws%2F11db68c2-c044-2d76-b53d-a9ca73a56c88&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-10d0.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-10d0.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
+vless://8826eb89-04cf-4c7d-9f4b-ded8fa6133fb@fr.codmob1.ir:12474?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6e2c1d3c-4150-4c2d-b8b4-04907412fe59@om.corecloud.space:42268?path=%2F&security=&encryption=none&host=play.google.com&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
