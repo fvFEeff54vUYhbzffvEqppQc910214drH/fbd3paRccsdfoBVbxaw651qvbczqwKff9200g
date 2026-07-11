@@ -8,3 +8,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22224?encryption=none&
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
 
+vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://5b25a339-bf7e-2673-1960-919233576ee0@trollhastambotrvg-production-162c.up.railway.app:443?encryption=none&security=tls&type=ws&host=trollhastambotrvg-production-162c.up.railway.app&path=/ws/5b25a339-bf7e-2673-1960-919233576ee0&sni=trollhastambotrvg-production-162c.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://b397e981-b635-a787-fb7a-1165f36962b1@trollhastambotrvg-production-162c.up.railway.app:443?security=tls&type=ws&host=trollhastambotrvg-production-162c.up.railway.app&path=/trojan-ws&sni=trollhastambotrvg-production-162c.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Join%2Ctelegram%3AX_RAY_VPN1@91.107.150.246:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
