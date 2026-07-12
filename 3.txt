@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40BigSmoke_Config
-
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
-
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg6.auragg.org:443?sni=argg6.auragg.org&alpn=h2%2Chttp/1.1&type=grpc&serviceName=media.session.poll&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2nodes
-
 vless://4d2171b8-bd77-4db9-8e58-5049a330863b@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e45d7a71-d172-491e-a623-c81fbe364b01@tun-1.globalmymusic2.com:2096?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=0ouzIHeI5RiPpryhmaQ99LRARPD_qNm33zAwpM-L6CA&fp=chrome&type=xhttp&sni=www.filimo.com&sid=02803e1debaa961f#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
@@ -33,6 +27,8 @@ trojan://MiTiVPN@172.67.75.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%4
 vless://101e0f08-f0bc-4c87-89d1-774085c9721c@falkoraz.sav-savteam.iR:55555?encryption=none&security=reality&sni=yahoo.com.&fp=chrome&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&sid=880eeeef4927eed5&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://7faaf62a-40c4-f72c-f227-0b239248f087@ca.sannest.ir:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&sid=bd&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -491,6 +487,8 @@ trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concis
 trojan://XG59623478@intense-basilisk.rooster465.autos:443?allowInsecure=0&sni=intense-basilisk.rooster465.autos#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray_Extractor
 
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray_Extractor
+
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2ray_Extractor
 
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray_Extractor
 
@@ -4785,4 +4783,12 @@ vless://ad747d7b-29c8-718b-387d-58e1c19d164f@x4g-production-1c57.up.railway.app:
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40daily_configs
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+vless://83f61e10-2242-4e33-82fe-045a3e58e3d2@sos.oakcup.ir:2052?encryption=none&security=none&type=ws&host=test.naicoacademy.ir&path=%2Fapi#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@37.9.4.22:443?security=reality&encryption=none&pbk=n1uGKWu7avfpa33tzCB2BnZa0R5SkP49zK5_Md6f2mQ&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2b61a792-15c7-4cc1-a385-a9af1cc9a7c3@tk1.degeristir.ir:443?security=reality&encryption=none&pbk=nTQpZ24z-O7ok4J2hIU2QhFTY67h1B3uXMGEsoWts3U&headerType=none&fp=qq&spx=%2FbrGewX7Tni5W6hn&type=tcp&sni=play.google.com&sid=b175#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
