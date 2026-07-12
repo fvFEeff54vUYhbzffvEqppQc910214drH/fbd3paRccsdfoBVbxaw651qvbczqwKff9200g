@@ -14,3 +14,9 @@ vless://8f7da343-e799-4601-b097-05ab61f7ee42@bot.goldhadi.ir:443?type=tcp&encryp
 
 vless://8f26321f-c2b5-47a2-a6c0-7d099443608b@zeus-panel-spzoqa.fgbfbfb.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-spzoqa.fgbfbfb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-spzoqa.fgbfbfb.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://a2292e36-fafb-6634-051d-1d99f45503c7@46.101.97.182:8379?mode=packet-up&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=reality&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%2210000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&host=google.com&fp=firefox&spx=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&type=xhttp&sni=play.google.com&sid=07529200e1fe#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40daily_configs
+
+vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@servge0.auragg.org:443?sni=servge0.auragg.org&alpn=h2%2Chttp/1.1&type=grpc&serviceName=media.session.poll&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
+
