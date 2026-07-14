@@ -2,6 +2,10 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=%2Fws%2Fcc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
+
+trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=%2Fws%2Fcc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http%2F1.1&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
+
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=%2F&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40FreakConfig
 
 trojan://bacaabc-abca-bcaa-dcab-baababbcccac@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
@@ -19,6 +23,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaGRKTkxuYkFsQ1FyaTFmbW1IWmhj@62.133.60.60:2
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.com&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://31aa0950-eb19-45ff-94a2-af416deb3b90@45.130.125.207:8443?path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
 
 trojan://telegram-id-directvpn@18.119.60.131:22222?sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
@@ -47,8 +57,4 @@ vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40FreakConfig
 
 vless://5aca6fb1-b21a-4f63-9cab-54986613f6aa@91.148.135.191:54217?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
-
-vless://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=%2Fws%2Fcc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
-
-trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=%2Fws%2Fcc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http%2F1.1&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
 
