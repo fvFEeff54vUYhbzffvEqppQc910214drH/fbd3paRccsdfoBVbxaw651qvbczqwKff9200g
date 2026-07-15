@@ -26,3 +26,11 @@ vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&al
 
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@0.0.0.0:443?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8441?security=&encryption=none&host=10.30.89.17&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8442?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://a81001a4-e1bf-06c2-b220-8ae776de392a@x4g-production-ea08.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-ea08.up.railway.app&path=/ws/a81001a4-e1bf-06c2-b220-8ae776de392a&sni=x4g-production-ea08.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://dae910e7-cec0-405e-9bcc-2bbf9db84cf4@germany10gb.spectrum.vu:443?encryption=none&fp=&mode=auto&pbk=fbRr9O-5B9cIWhd6x81d7jRgL-7IzaRWq1AqeBXS5Ss&security=reality&sni=germany10gb.spectrum.vu&type=xhttp#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
