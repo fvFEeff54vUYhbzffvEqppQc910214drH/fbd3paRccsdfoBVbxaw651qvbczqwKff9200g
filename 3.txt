@@ -4572,3 +4572,19 @@ vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-W
 
 vless://e#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
 
+trojan://telegram-id-privatevpns@13.48.233.22:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYmFhYWMtY2JhYS1iYWNhLWFjZGItY2JjYWNjYWJhYWJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBASG9wZV9OZXQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+trojan://auto@162.159.152.212:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@107.181.155.244:55330#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://1a53c752-814f-4268-b3e6-2e9bc7b6af94@104.21.57.86:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-m2eg76.zeus-5swkti.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-m2eg76.zeus-5swkti.workers.dev&fragment=200-3000,1-2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
