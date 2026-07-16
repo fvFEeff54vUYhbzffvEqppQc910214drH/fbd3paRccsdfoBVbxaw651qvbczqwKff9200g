@@ -6050,3 +6050,19 @@ vless://cccbbeff-4295-4476-b440-a9cc9b15c155@45.154.96.46:8080?security=reality&
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.133.160:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://88903f70-b50b-11ed-8775-f23c9164ca5d@176.32.35.167:1007?security=tls&sni=97e355d4-sjlts0-sjblbk-wk2w.ru.z7zi.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://aaccabb-caab-aacb-cbad-abaccabccbba@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjE2Mi4xNTkuMTQwLjMzIiwgInBvcnQiOiAiMjA4NiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImlwMS4xNzg5MDM0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiVVNcdTdmOGVcdTU2ZmQxMSJ9
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#%F0%9F%87%AA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40NPV_78
+
+vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@cdn1.portalcode.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=434df2a384e0a10f.rainzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=434df2a384e0a10f.rainzone.ir#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40NPV_78
+
