@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgImFkZCI6ICIxNzIuMjMzLjExNi4zMyIsICJwb3J0IjogIjgwODEiLCAiaWQiOiAiY2NlYTZkNTUtMjMwOS00MDU5LTkzZGMtYTYyY2U3Y2QzZjdjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiZGl2YXJjZG4uY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjE1In0=
-
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5003#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-trojan://tg-dns68@162.159.153.110:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.64.199:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@119.65.118.27:16051?path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=hd.ylks.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
 vless://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@81.31.211.110:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
 vless://522e84a6-2f0b-4109-901d-dbf05b60ce59@90.156.218.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -5241,4 +5227,12 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?security=tls&sn
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.95:8118#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%252chttp%252f1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=chrome&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiNDUuNjMuMTE3LjI3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxYzc5OTIwNS01MjUxLTRmYjItODE2Ny01NmQzZTg5NWM4YzUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjUwMTUiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
 
