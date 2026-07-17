@@ -9,23 +9,53 @@ import urllib.parse
 from datetime import datetime, timezone
 
 # =============================================================
-#  بخش تنظیمات (Settings)
+#  بخش تنظیمات عمومی (General Settings)
 # =============================================================
-PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91",
-]
-
 MY_CHANNEL_ID = ""
 CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
 
+PINNED_CONFIGS = [
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91",
+]
+
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-EXPIRY_HOURS = 48       # تاریخ انقضا کانفیگ برای حذف شدن از دیتابیس
-SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر
-ROTATION_LIMIT = 65      
-ROTATION_LIMIT_2 = 1000   
-ROTATION_LIMIT_3 = 100000   
+# مدت زمان (ساعت) برای نگهداری کانفیگ‌ها در دیتابیس موقت (data.temp)
+DB_EXPIRY_HOURS = 48       
+
+# حداکثر به عقب برگشتن در تلگرام برای پیدا کردن پیام‌های جدید در هر بار اجرای اسکریپت
+SCRAPER_SEARCH_LIMIT_HOURS = 1   
+
+# =============================================================
+#  تنظیمات اختصاصی فایل‌های خروجی (Output Files Configuration)
+# =============================================================
+FILE_CONFIGS = {
+    '1.txt': {
+        'limit': 65,
+        'target_minutes': 60,       # اولویت اول: کانفیگ‌های ۱ ساعت اخیر
+        'use_fallback': True,       # اگر کمتر از limit بود، زمان را گسترش بده تا پر شود
+        'use_rotation': True        # اگر بیشتر از limit بود، از سیستم چرخشی استفاده کن
+    },
+    '2.txt': {
+        'limit': 1000,
+        'target_minutes': 180,      # اولویت اول: کانفیگ‌های ۳ ساعت اخیر
+        'use_fallback': True,
+        'use_rotation': True
+    },
+    '3.txt': {
+        'limit': 100000,
+        'target_minutes': None,     # بدون محدودیت زمانی (کل استخر دیتابیس)
+        'use_fallback': False,
+        'use_rotation': False       # برداشتن مستقیم از انتهای لیست (منطق قبلی شما)
+    },
+    '4.txt': {
+        'limit': None,              # بدون محدودیت تعداد
+        'target_minutes': 5,        # فقط ۵ دقیقه اخیر
+        'use_fallback': False,
+        'use_rotation': False
+    }
+}
 # =============================================================
 
 def get_only_flag(text):
@@ -50,25 +80,17 @@ def get_config_fingerprint(config):
     """ ساخت یک اثر انگشت منحصر به فرد و نرمال شده برای تشخیص دقیق تکراری‌ها """
     try:
         config = config.strip()
-        # 1. مدیریت VMess (چون JSON است)
         if config.startswith("vmess://"):
             data, ok = parse_vmess_uri(config)
             if ok:
-                # استخراج فیلدهای حیاتی و مرتب‌سازی آن‌ها
                 keys = ['add', 'port', 'id', 'net', 'tls', 'path', 'host', 'sni']
                 return "vmess:" + "|".join(str(data.get(k, '')).lower() for k in keys)
         
-        # 2. مدیریت سایر پروتکل‌ها (VLESS, Trojan, SS, ...)
         base_part = config.split('#')[0]
         parsed = urllib.parse.urlparse(base_part)
-        
-        # استخراج پارامترها و مرتب‌سازی حروف الفبایی برای خنثی کردن جابه‌جایی
         query_params = urllib.parse.parse_qsl(parsed.query)
-        # حذف پارامترهای غیرفنی مثل نام یا رمارک که ممکن است در کوئری باشد
         filtered_params = sorted([(k.lower(), v.lower()) for k, v in query_params if k.lower() not in ['remark', 'ps', 'name']])
         normalized_query = urllib.parse.urlencode(filtered_params)
-        
-        # ترکیب: پروتکل + یوزر و آدرس (حروف کوچک) + مسیر + پارامترهای مرتب شده
         return f"{parsed.scheme}:{parsed.netloc.lower()}{parsed.path.lower()}?{normalized_query}"
     except:
         return config
@@ -91,7 +113,6 @@ def analyze_and_rename(config, channel_name):
                 data['ps'] = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        # سایر پروتکل‌ها
         base_url, raw_fragment = config.split('#', 1) if '#' in config else (config, "")
         flag = get_only_flag(raw_fragment)
         
@@ -110,7 +131,6 @@ def analyze_and_rename(config, channel_name):
         if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
         elif config.startswith(('ss://', 'shadowsocks://')):
             transport, security = "TCP", "None"
-            # بررسی پلاگین در شدوساکس
             plugin = urllib.parse.unquote(params.get('plugin', '')).lower()
             if 'tls' in plugin or 'ssl' in plugin: security = "TLS"
             if 'ws' in plugin or 'websocket' in plugin: transport = "WS"
@@ -149,9 +169,9 @@ def run():
                 if len(parts) == 3: db_data.append(parts)
 
     now = datetime.now().timestamp()
-    all_raw_seen = {d[2] for d in db_data} # برای جلوگیری از سنگین شدن دیتابیس در همان لحظه
+    all_raw_seen = {d[2] for d in db_data}
 
-    # دریافت کانفیگ‌های جدید
+    # دریافت کانفیگ‌های جدید از کانال‌ها
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -161,7 +181,7 @@ def run():
                 time_tag = wrap.find('time')
                 if not time_tag: continue
                 msg_time = datetime.fromisoformat(time_tag['datetime'])
-                if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SEARCH_LIMIT_HOURS * 3600): continue
+                if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SCRAPER_SEARCH_LIMIT_HOURS * 3600): continue
                 msg_text = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text: continue
                 for c in extract_configs_logic(msg_text):
@@ -170,13 +190,12 @@ def run():
                         all_raw_seen.add(c)
         except: continue
 
-    # فیلتر انقضای دیتابیس (فقط حذف موارد قدیمی‌تر از 144 ساعت)
-    valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    # فیلتر انقضای دیتابیس اصلی
+    valid_items = [item for item in db_data if now - float(item[0]) < (DB_EXPIRY_HOURS * 3600)]
 
-    # === سیستم فیلتر تکراری‌های هوشمند برای فایل‌های خروجی ===
+    # سیستم فیلتر تکراری‌های هوشمند
     unique_pool = []
     fingerprints_seen = set()
-    # افزودن پین شده‌ها به لیست "دیده شده"
     for pin in PINNED_CONFIGS: fingerprints_seen.add(get_config_fingerprint(pin))
     
     for item in valid_items:
@@ -185,55 +204,70 @@ def run():
             unique_pool.append(item)
             fingerprints_seen.add(fp)
 
-    # مدیریت پوینتر و چرخش
+    # خواندن پینتر چرخشی قبلی
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
             with open('pointer.txt', 'r') as f: current_index = int(f.read().strip())
         except: current_index = 0
-    
+
     pool_size = len(unique_pool)
     if current_index >= pool_size: current_index = 0
 
-    # تغییر داده شده: اضافه شدن پشتیبانی از استخرهای مجزا برای حفظ منطق چرخشی
-    def get_rotated_batch(size, specific_pool=None):
-        target_pool = specific_pool if specific_pool is not None else unique_pool
-        t_size = len(target_pool)
-        if t_size == 0: return []
-        
-        # تنظیم ایندکس بر اساس سایز لیست جدید تا در بازه مجاز بماند
-        idx = current_index % t_size
-        actual_size = min(size, t_size)
-        
-        if idx + actual_size <= t_size:
-            return target_pool[idx : idx + actual_size]
-        else:
-            return target_pool[idx:] + target_pool[:actual_size - (t_size - idx)]
-
-    # ذخیره فایل‌های متنی
+    # تابع فرعی برای ذخیره خروجی‌ها
     def save_output(filename, batch):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    # استخراج کانفیگ‌های 60 دقیقه اخیر (3600 ثانیه) و ۳ ساعت اخیر (۱۰۸۰۰ ثانیه)
-    pool_30m = [item for item in unique_pool if now - float(item[0]) <= 3600]
-    pool_3h = [item for item in unique_pool if now - float(item[0]) <= 10800]
+    # پردازش و اعمال منطق داینامیک برای هر فایل
+    for filename, cfg in FILE_CONFIGS.items():
+        limit = cfg['limit']
+        target_mins = cfg['target_minutes']
+        
+        # ۱. فیلتر کردن بر اساس استخر زمانی مشخص شده
+        if target_mins is not None:
+            sub_pool = [item for item in unique_pool if now - float(item[0]) <= (target_mins * 60)]
+        else:
+            sub_pool = list(unique_pool)
 
-    # اعمال استخرهای زمانی به منطق چرخشی فایل‌های ۱ و ۲
-    save_output('1.txt', get_rotated_batch(ROTATION_LIMIT, pool_30m))
-    save_output('2.txt', get_rotated_batch(ROTATION_LIMIT_2, pool_3h))
-    save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
-    save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
+        # ۲. پیاده‌سازی مکانیزم Fallback در صورت کم بودن تعداد کانفیگ‌ها از لیمیت
+        if cfg['use_fallback'] and limit is not None and len(sub_pool) < limit:
+            # کل استخر دیتابیس را بر اساس زمان (از جدیدترین به قدیمی‌ترین) مرتب می‌کنیم
+            sorted_global_pool = sorted(unique_pool, key=lambda x: float(x[0]), reverse=True)
+            # به تعداد لیمیت از جدیدترین‌ها برمی‌داریم
+            final_batch = sorted_global_pool[:limit]
+            # مجدداً بر اساس منطق دیتابیس (قدیمی به جدید) چیدمان می‌کنیم تا ساختار روتین به هم نخورد
+            final_batch.reverse()
+        
+        # ۳. پیاده‌سازی سیستم Rotation در صورت بیشتر بودن کانفیگ‌ها از لیمیت
+        elif cfg['use_rotation'] and limit is not None and len(sub_pool) > limit:
+            t_size = len(sub_pool)
+            idx = current_index % t_size
+            if idx + limit <= t_size:
+                final_batch = sub_pool[idx : idx + limit]
+            else:
+                final_batch = sub_pool[idx:] + sub_pool[:limit - (t_size - idx)]
+        
+        # ۴. حالت عادی (یا کل استخر زمانی یا محدود شده به انتهای لیست طبق منطق فایل ۳ و ۴)
+        else:
+            if limit is not None:
+                final_batch = sub_pool[-limit:]
+            else:
+                final_batch = sub_pool
 
-    # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
+        # ذخیره فایل مربوطه
+        save_output(filename, final_batch)
+
+    # بروزرسانی دیتابیس موقت
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
     
-    # ذخیره پوینتر جدید
+    # ذخیره و بروزرسانی پینتر چرخشی بر اساس ظرفیت فایل اول (1.txt)
+    rotation_step = FILE_CONFIGS['1.txt']['limit']
     with open('pointer.txt', 'w', encoding='utf-8') as f:
-        f.write(str((current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0))
+        f.write(str((current_index + rotation_step) % pool_size if pool_size > 0 else 0))
 
 if __name__ == "__main__":
     run()
