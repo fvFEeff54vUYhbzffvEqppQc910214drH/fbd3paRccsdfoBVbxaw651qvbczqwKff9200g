@@ -14,3 +14,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22223?security=none&e
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://MiTiVPN@151.101.1.194:443?path=&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
