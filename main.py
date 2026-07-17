@@ -28,34 +28,14 @@ DB_EXPIRY_HOURS = 48
 SCRAPER_SEARCH_LIMIT_HOURS = 1   
 
 # =============================================================
-#  تنظیمات اختصاصی فایل‌های خروجی (Output Files Configuration)
+#  تنظیمات اختصاصی فایل خروجی 1.txt
 # =============================================================
-FILE_CONFIGS = {
-    '1.txt': {
-        'limit': 65,
-        'target_minutes': 60,       # اولویت اول: کانفیگ‌های ۱ ساعت اخیر
-        'use_fallback': True,       # اگر کمتر از limit بود، زمان را گسترش بده تا پر شود
-        'use_rotation': True        # اگر بیشتر از limit بود، از سیستم چرخشی استفاده کن
-    },
-    '2.txt': {
-        'limit': 1000,
-        'target_minutes': 180,      # اولویت اول: کانفیگ‌های ۳ ساعت اخیر
-        'use_fallback': True,
-        'use_rotation': True
-    },
-    '3.txt': {
-        'limit': 100000,
-        'target_minutes': None,     # بدون محدودیت زمانی (کل استخر دیتابیس)
-        'use_fallback': False,
-        'use_rotation': False       # برداشتن مستقیم از انتهای لیست (منطق قبلی شما)
-    },
-    '4.txt': {
-        'limit': None,              # بدون محدودیت تعداد
-        'target_minutes': 5,        # فقط ۵ دقیقه اخیر
-        'use_fallback': False,
-        'use_rotation': False
-    }
-}
+FILE_1_LIMIT = 65            # حد نصاب تعداد کانفیگ‌ها برای فایل ۱
+FILE_1_TARGET_MINUTES = 60   # بازه زمانی مد نظر (۱ ساعت اخیر)
+
+# لیمیت‌های سایر فایل‌ها (طبق منطق ثابت قبلی شما)
+ROTATION_LIMIT_2 = 1000   
+ROTATION_LIMIT_3 = 100000   
 # =============================================================
 
 def get_only_flag(text):
@@ -171,7 +151,7 @@ def run():
     now = datetime.now().timestamp()
     all_raw_seen = {d[2] for d in db_data}
 
-    # دریافت کانفیگ‌های جدید از کانال‌ها
+    # دریافت کانفیگ‌های جدید
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -190,7 +170,7 @@ def run():
                         all_raw_seen.add(c)
         except: continue
 
-    # فیلتر انقضای دیتابیس اصلی
+    # فیلتر انقضای دیتابیس
     valid_items = [item for item in db_data if now - float(item[0]) < (DB_EXPIRY_HOURS * 3600)]
 
     # سیستم فیلتر تکراری‌های هوشمند
@@ -204,7 +184,7 @@ def run():
             unique_pool.append(item)
             fingerprints_seen.add(fp)
 
-    # خواندن پینتر چرخشی قبلی
+    # مدیریت خواندن پینتر چرخشی قبلی برای فایل ۱
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -214,60 +194,63 @@ def run():
     pool_size = len(unique_pool)
     if current_index >= pool_size: current_index = 0
 
-    # تابع فرعی برای ذخیره خروجی‌ها
+    # تابع ذخیره فایل متنی خروجی
     def save_output(filename, batch):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    # پردازش و اعمال منطق داینامیک برای هر فایل
-    for filename, cfg in FILE_CONFIGS.items():
-        limit = cfg['limit']
-        target_mins = cfg['target_minutes']
+    # =============================================================
+    #  منطق اختصاصی پردازش فایل 1.txt
+    # =============================================================
+    # جداسازی استخر کانفیگ‌های بازه زمانی مد نظر (مثلا ۱ ساعت اخیر)
+    pool_target_time = [item for item in unique_pool if now - float(item[0]) <= (FILE_1_TARGET_MINUTES * 60)]
+    
+    # سناریو ۱ و ۲: تعداد کمتر از حد نصاب یا دقیقاً برابر با آن است -> چیدمان از جدید به قدیم بدون پوینتر
+    if len(pool_target_time) <= FILE_1_LIMIT:
+        # مرتب‌سازی کل دیتابیس بر اساس زمان نزولی (جدیدترین‌ها در ابتدا)
+        global_sorted_desc = sorted(unique_pool, key=lambda x: float(x[0]), reverse=True)
+        # برداشتن فیکس به تعداد حد نصاب
+        file_1_batch = global_sorted_desc[:FILE_1_LIMIT]
         
-        # ۱. فیلتر کردن بر اساس استخر زمانی مشخص شده
-        if target_mins is not None:
-            sub_pool = [item for item in unique_pool if now - float(item[0]) <= (target_mins * 60)]
+    # سناریو ۳: تعداد کانفیگ‌های ۱ ساعت اخیر بیشتر از حد نصاب است -> اعمال سیستم پوینتر روی استخر زمانی
+    else:
+        t_size = len(pool_target_time)
+        idx = current_index % t_size
+        if idx + FILE_1_LIMIT <= t_size:
+            file_1_batch = pool_target_time[idx : idx + FILE_1_LIMIT]
         else:
-            sub_pool = list(unique_pool)
+            file_1_batch = pool_target_time[idx:] + pool_target_time[:FILE_1_LIMIT - (t_size - idx)]
+        
+        # بروزرسانی و ذخیره پوینتر فقط در صورتی که وارد این سناریو (چرخش) شویم انجام می‌شود
+        with open('pointer.txt', 'w', encoding='utf-8') as f:
+            f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
-        # ۲. پیاده‌سازی مکانیزم Fallback در صورت کم بودن تعداد کانفیگ‌ها از لیمیت
-        if cfg['use_fallback'] and limit is not None and len(sub_pool) < limit:
-            # کل استخر دیتابیس را بر اساس زمان (از جدیدترین به قدیمی‌ترین) مرتب می‌کنیم
-            sorted_global_pool = sorted(unique_pool, key=lambda x: float(x[0]), reverse=True)
-            # به تعداد لیمیت از جدیدترین‌ها برمی‌داریم
-            final_batch = sorted_global_pool[:limit]
-            # مجدداً بر اساس منطق دیتابیس (قدیمی به جدید) چیدمان می‌کنیم تا ساختار روتین به هم نخورد
-            final_batch.reverse()
-        
-        # ۳. پیاده‌سازی سیستم Rotation در صورت بیشتر بودن کانفیگ‌ها از لیمیت
-        elif cfg['use_rotation'] and limit is not None and len(sub_pool) > limit:
-            t_size = len(sub_pool)
-            idx = current_index % t_size
-            if idx + limit <= t_size:
-                final_batch = sub_pool[idx : idx + limit]
-            else:
-                final_batch = sub_pool[idx:] + sub_pool[:limit - (t_size - idx)]
-        
-        # ۴. حالت عادی (یا کل استخر زمانی یا محدود شده به انتهای لیست طبق منطق فایل ۳ و ۴)
+    save_output('1.txt', file_1_batch)
+
+    # =============================================================
+    #  منطق اصلی و بدون تغییر سایر فایل‌ها (طبق ساختار اورجینال شما)
+    # =============================================================
+    def get_rotated_batch_original(size, specific_pool):
+        t_size = len(specific_pool)
+        if t_size == 0: return []
+        idx = current_index % t_size
+        actual_size = min(size, t_size)
+        if idx + actual_size <= t_size:
+            return specific_pool[idx : idx + actual_size]
         else:
-            if limit is not None:
-                final_batch = sub_pool[-limit:]
-            else:
-                final_batch = sub_pool
+            return specific_pool[idx:] + specific_pool[:actual_size - (t_size - idx)]
 
-        # ذخیره فایل مربوطه
-        save_output(filename, final_batch)
+    pool_3h = [item for item in unique_pool if now - float(item[0]) <= 10800]
 
-    # بروزرسانی دیتابیس موقت
+    save_output('2.txt', get_rotated_batch_original(ROTATION_LIMIT_2, pool_3h))
+    save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
+    save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
+
+    # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
-    
-    # ذخیره و بروزرسانی پینتر چرخشی بر اساس ظرفیت فایل اول (1.txt)
-    rotation_step = FILE_CONFIGS['1.txt']['limit']
-    with open('pointer.txt', 'w', encoding='utf-8') as f:
-        f.write(str((current_index + rotation_step) % pool_size if pool_size > 0 else 0))
 
 if __name__ == "__main__":
     run()
