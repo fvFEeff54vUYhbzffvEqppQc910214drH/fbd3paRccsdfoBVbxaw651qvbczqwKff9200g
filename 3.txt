@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@141.164.34.194:443?security=reality&encryption=none&pbk=2Xjlg3G-jNhmaS-1KLG6gNQlhVfGTdVExHF9ljW5ISI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=889dad4baac2436f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.255.123.232:443?security=reality&encryption=none&pbk=zMaV6LBSLVX1ksUF67CwQCvNtcVlHkGP_85aVmkpxXk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.grab.com&sid=4929ddcb86e785f7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@92.243.65.31:443?security=reality&encryption=none&pbk=uPyLlFYQaCUEnBbEZMy_qIx7i2kAqMDU0h9b34Y8oVo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=unpkg.com&sid=a1b2c3d4e5f67890#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@64.176.168.53:443?security=reality&encryption=none&pbk=Nk6QRe0SNNzTXTDnJLOBDm1yGVFBovm7vJ1lL-FGGWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sap.com&sid=555fd87c44d272a4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://b4d25a40-6ce2-4b43-8cc5-8b50d947d084@185.211.56.216:3053?security=none&type=tcp&host=speedtest.net&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
@@ -5073,4 +5063,8 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.123:443?encryption=none&s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.44.198:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@208.103.161.110:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@172.64.147.24:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@104.18.0.55:443?encryption=none&security=tls&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
