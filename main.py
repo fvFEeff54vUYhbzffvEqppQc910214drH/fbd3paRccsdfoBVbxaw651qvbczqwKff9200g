@@ -21,19 +21,15 @@ PINNED_CONFIGS = [
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-# مدت زمان (ساعت) برای نگهداری کانفیگ‌ها در دیتابیس موقت (data.temp)
 DB_EXPIRY_HOURS = 48       
-
-# حداکثر به عقب برگشتن در تلگرام برای پیدا کردن پیام‌های جدید در هر بار اجرای اسکریپت
 SCRAPER_SEARCH_LIMIT_HOURS = 1   
 
 # =============================================================
 #  تنظیمات اختصاصی فایل خروجی 1.txt
 # =============================================================
-FILE_1_LIMIT = 65            # حد نصاب تعداد کانفیگ‌ها برای فایل ۱
-FILE_1_TARGET_MINUTES = 60   # بازه زمانی مد نظر (۱ ساعت اخیر)
+FILE_1_LIMIT = 65            
+FILE_1_TARGET_MINUTES = 60   
 
-# لیمیت‌های سایر فایل‌ها (طبق منطق ثابت قبلی شما)
 ROTATION_LIMIT_2 = 1000   
 ROTATION_LIMIT_3 = 100000   
 # =============================================================
@@ -57,7 +53,6 @@ def parse_vmess_uri(config):
         return None, False
 
 def get_config_fingerprint(config):
-    """ ساخت یک اثر انگشت منحصر به فرد و نرمال شده برای تشخیص دقیق تکراری‌ها """
     try:
         config = config.strip()
         if config.startswith("vmess://"):
@@ -151,7 +146,6 @@ def run():
     now = datetime.now().timestamp()
     all_raw_seen = {d[2] for d in db_data}
 
-    # دریافت کانفیگ‌های جدید
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -170,10 +164,8 @@ def run():
                         all_raw_seen.add(c)
         except: continue
 
-    # فیلتر انقضای دیتابیس
     valid_items = [item for item in db_data if now - float(item[0]) < (DB_EXPIRY_HOURS * 3600)]
 
-    # سیستم فیلتر تکراری‌های هوشمند
     unique_pool = []
     fingerprints_seen = set()
     for pin in PINNED_CONFIGS: fingerprints_seen.add(get_config_fingerprint(pin))
@@ -184,7 +176,6 @@ def run():
             unique_pool.append(item)
             fingerprints_seen.add(fp)
 
-    # مدیریت خواندن پینتر چرخشی قبلی برای فایل ۱
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -194,7 +185,6 @@ def run():
     pool_size = len(unique_pool)
     if current_index >= pool_size: current_index = 0
 
-    # تابع ذخیره فایل متنی خروجی
     def save_output(filename, batch):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
@@ -209,7 +199,6 @@ def run():
     if len(pool_target_time) <= FILE_1_LIMIT:
         global_sorted_desc = sorted(unique_pool, key=lambda x: float(x[0]), reverse=True)
         file_1_batch = global_sorted_desc[:FILE_1_LIMIT]
-        
     else:
         t_size = len(pool_target_time)
         idx = current_index % t_size
@@ -217,9 +206,6 @@ def run():
             file_1_batch = pool_target_time[idx : idx + FILE_1_LIMIT]
         else:
             file_1_batch = pool_target_time[idx:] + pool_target_time[:FILE_1_LIMIT - (t_size - idx)]
-        
-        with open('pointer.txt', 'w', encoding='utf-8') as f:
-            f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
     save_output('1.txt', file_1_batch)
 
@@ -243,27 +229,30 @@ def run():
     save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
     # =============================================================
-    #  جدید: سیستم شناسایی کانال‌های غیرفعال (بدون کانفیگ معتبر در دیتابیس)
+    #  سیستم شناسایی کانال‌های غیرفعال
     # =============================================================
-    # استخراج نام کانال‌هایی که حداقل یک کانفیگ معتبر و منقضی‌نشده در valid_items دارند
     active_channels = {item[1].strip().lower() for item in valid_items}
-    
     inactive_channels = []
+    
     for ch in channels:
         ch_clean = ch.strip()
         if ch_clean.lower() not in active_channels:
-            # فرمت‌دهی به صورت @channel
             formatted_ch = ch_clean if ch_clean.startswith('@') else f"@{ch_clean}"
             inactive_channels.append(formatted_ch)
 
-    # ذخیره کانال‌های غیرفعال در فایل اختصاصی
     with open('inactive_channels.txt', 'w', encoding='utf-8') as f:
         for ch_name in inactive_channels:
             f.write(ch_name + "\n")
 
-    # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
+    # =============================================================
+    #  بروزرسانی نهایی فایل‌های سیستمی (دیتا و پوینتر)
+    # =============================================================
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
+
+    # پوینتر همیشه آپدیت می‌شود تا فایل‌های دیگر (مثل ۲) به چرخش خود ادامه دهند
+    with open('pointer.txt', 'w', encoding='utf-8') as f:
+        f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
 if __name__ == "__main__":
     run()
