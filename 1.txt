@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@108.61.210.223:57785?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@108.61.210.223:55867?type=httpupgrade&path=%2F#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@108.61.210.223:18354?type=ws&path=%2Fws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@get.onetimeok.com:443?encryption=none&security=reality&sni=get.onetimeok.com&fp=chrome&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&sid=cfb882e7dcf03ef2&type=grpc&authority=&serviceName=api.v2.ApiService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
@@ -123,10 +129,4 @@ vless://2ec2dd06-b166-f1da-d706-7d2af96988a6@x4g-production-8eb3.up.railway.app:
 vless://f7500a4f-5e70-0716-d4b6-ce58f13ee6e6@x4g-production-8eb3.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-8eb3.up.railway.app&path=/ws/f7500a4f-5e70-0716-d4b6-ce58f13ee6e6&sni=x4g-production-8eb3.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
 
 vless://28e3703c-b92d-ae69-c217-0fbba3f1e309@x4g-production-8eb3.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-8eb3.up.railway.app&path=/ws/28e3703c-b92d-ae69-c217-0fbba3f1e309&sni=x4g-production-8eb3.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@assets.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=assets.onetimeok.com&sid=89e97b6542785ca6#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?security=reality&encryption=none&pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=172e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
