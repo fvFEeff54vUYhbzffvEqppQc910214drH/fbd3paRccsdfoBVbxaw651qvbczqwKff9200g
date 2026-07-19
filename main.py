@@ -119,30 +119,35 @@ def analyze_and_rename(config, channel_name):
 def extract_configs_logic(msg_div):
     extracted = []
     
-    # ۱. استخراج مستقیم از لینک‌ها
+    # ۱. استخراج مخفی از لینک‌ها (بدون حذف)
     for a in msg_div.find_all('a'):
         href = a.get('href', '')
         for proto in SUPPORTED_PROTOCOLS:
             if href.startswith(proto):
                 extracted.append(href.strip())
-                a.decompose() 
                 
-    # ۲. جایگزینی ایموجی‌های پرمیوم
+    # ۲. جایگزینی ایموجی‌های پرمیوم با متن
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'): 
             img.replace_with(img['alt'])
             
-    # ۳. دریافت متن با تبدیل شکستگی‌های HTML به فاصله
+    # ۳. ذوب کردن (Unwrap) تگ‌های اینلاین برای جلوگیری از تکه تکه شدن متن
+    inline_tags = ['a', 'b', 'i', 'u', 'em', 'strong', 'span', 'code', 'wbr', 'del', 'strike']
+    for tag in msg_div.find_all(inline_tags):
+        tag.unwrap()
+        
+    # ۴. استخراج متن خام با حفظ فاصله‌ها برای تگ‌های بلاک (مثل br و div)
     full_text = html.unescape(msg_div.get_text(separator=' '))
     
-    # ۴. پاکسازی کاراکترهای نامرئی
+    # ۵. پاکسازی کاراکترهای نامرئی
     full_text = re.sub(r'[\u200b\u200c\u200d\ufeff\u2060]', '', full_text)
     
-    # ۵. الگوریتم ترمیم: چسباندن مجدد کانفیگ‌هایی که در خطوط مختلف شکسته شده‌اند
-    # این خط تمام فاصله‌های قبل و بعد از علائم حیاتی کانفیگ را از بین می‌برد تا یکپارچه شوند
-    full_text = re.sub(r'\s*([?&=#:@\-])\s*', r'\1', full_text)
+    # ۶. الگوریتم جادویی ترمیم (Auto-Heal) - چسباندن کانفیگ‌های شکسته شده
+    full_text = re.sub(r'(?<=\S)\s*([?&#@.:/])\s*(?=\S)', r'\1', full_text)
+    full_text = re.sub(r'(?<=[a-zA-Z0-9])\s+([=\-])\s*(?=[a-zA-Z0-9])', r'\1', full_text)
+    full_text = re.sub(r'(?<=[a-zA-Z0-9])\s*([=\-])\s+(?=[a-zA-Z0-9])', r'\1', full_text)
     
-    # ۶. جستجوی هوشمند
+    # ۷. جستجوی هوشمند
     pattern = r'(?i)(' + '|'.join(SUPPORTED_PROTOCOLS) + r')\S+'
     for match in re.finditer(pattern, full_text):
         config = match.group(0).strip()
@@ -177,7 +182,6 @@ def run():
                 msg_time = datetime.fromisoformat(time_tag['datetime'])
                 if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SCRAPER_SEARCH_LIMIT_HOURS * 3600): continue
                 
-                # تغییر بسیار مهم: حالا کل حباب پیام (شامل کپشن ویدئو، دکمه‌ها و نقل‌قول‌ها) پردازش می‌شود
                 for c in extract_configs_logic(wrap):
                     if c not in all_raw_seen:
                         db_data.append([str(now), ch, c])
