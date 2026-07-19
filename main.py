@@ -117,19 +117,40 @@ def analyze_and_rename(config, channel_name):
         return config
 
 def extract_configs_logic(msg_div):
-    for img in msg_div.find_all("img"):
-        if 'emoji' in img.get('class', []) and img.get('alt'): img.replace_with(img['alt'])
-    for br in msg_div.find_all("br"): br.replace_with("\n")
-    full_text = html.unescape(msg_div.get_text())
     extracted = []
-    for line in full_text.split('\n'):
-        line = line.strip()
+    
+    # ۱. اولویت اول: استخراج مستقیم از لینک‌ها (بدون قطعی و کامل‌ترین حالت ممکن)
+    for a in msg_div.find_all('a'):
+        href = a.get('href', '')
         for proto in SUPPORTED_PROTOCOLS:
-            if proto in line:
-                start_idx = line.find(proto)
-                extracted.append(line[start_idx:].strip())
-                break
-    return extracted
+            if href.startswith(proto):
+                extracted.append(href.strip())
+                # حذف این تگ از ساختار تا در مرحله بعدی دوباره پردازش نشود
+                a.decompose() 
+                
+    # ۲. جایگزینی ایموجی‌های پرمیوم تلگرام با متن جایگزین
+    for img in msg_div.find_all("img"):
+        if 'emoji' in img.get('class', []) and img.get('alt'): 
+            img.replace_with(img['alt'])
+            
+    # ۳. جایگزینی اینترها با فاصله (تا اگر کانفیگی در متن خام بود، پاره نشود)
+    for br in msg_div.find_all("br"): 
+        br.replace_with(" ")
+        
+    # ۴. دریافت متن، و پاکسازی کاراکترهای نامرئی و فواصل مجازی تلگرام
+    full_text = html.unescape(msg_div.get_text(separator=' '))
+    full_text = re.sub(r'[\u200b\u200c\u200d\ufeff]', '', full_text)
+    
+    # ۵. جستجوی هوشمند کانفیگ‌ها در متن‌های عادی با استفاده از Regex
+    pattern = r'(?i)(' + '|'.join(SUPPORTED_PROTOCOLS) + r')\S+'
+    for match in re.finditer(pattern, full_text):
+        config = match.group(0).strip()
+        # حذف کاراکترهای اضافه‌ای (مثل پرانتز یا کوتیشن) که ممکن است به ته کانفیگ چسبیده باشند
+        config = re.sub(r'[>)"\'\]]+$', '', config)
+        extracted.append(config)
+        
+    # ۶. حذف موارد تکراری و بازگرداندن لیست نهایی
+    return list(dict.fromkeys(extracted))
 
 def run():
     if not os.path.exists('channels.txt'): return
