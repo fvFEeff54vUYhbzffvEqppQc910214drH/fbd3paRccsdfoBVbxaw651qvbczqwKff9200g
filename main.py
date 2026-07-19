@@ -117,44 +117,19 @@ def analyze_and_rename(config, channel_name):
         return config
 
 def extract_configs_logic(msg_div):
-    extracted = []
-    
-    # ۱. استخراج مخفی از لینک‌ها (بدون حذف)
-    for a in msg_div.find_all('a'):
-        href = a.get('href', '')
-        for proto in SUPPORTED_PROTOCOLS:
-            if href.startswith(proto):
-                extracted.append(href.strip())
-                
-    # ۲. جایگزینی ایموجی‌های پرمیوم با متن
     for img in msg_div.find_all("img"):
-        if 'emoji' in img.get('class', []) and img.get('alt'): 
-            img.replace_with(img['alt'])
-            
-    # ۳. ذوب کردن (Unwrap) تگ‌های اینلاین برای جلوگیری از تکه تکه شدن متن
-    inline_tags = ['a', 'b', 'i', 'u', 'em', 'strong', 'span', 'code', 'wbr', 'del', 'strike']
-    for tag in msg_div.find_all(inline_tags):
-        tag.unwrap()
-        
-    # ۴. استخراج متن خام با حفظ فاصله‌ها برای تگ‌های بلاک (مثل br و div)
-    full_text = html.unescape(msg_div.get_text(separator=' '))
-    
-    # ۵. پاکسازی کاراکترهای نامرئی
-    full_text = re.sub(r'[\u200b\u200c\u200d\ufeff\u2060]', '', full_text)
-    
-    # ۶. الگوریتم جادویی ترمیم (Auto-Heal) - چسباندن کانفیگ‌های شکسته شده
-    full_text = re.sub(r'(?<=\S)\s*([?&#@.:/])\s*(?=\S)', r'\1', full_text)
-    full_text = re.sub(r'(?<=[a-zA-Z0-9])\s+([=\-])\s*(?=[a-zA-Z0-9])', r'\1', full_text)
-    full_text = re.sub(r'(?<=[a-zA-Z0-9])\s*([=\-])\s+(?=[a-zA-Z0-9])', r'\1', full_text)
-    
-    # ۷. جستجوی هوشمند
-    pattern = r'(?i)(' + '|'.join(SUPPORTED_PROTOCOLS) + r')\S+'
-    for match in re.finditer(pattern, full_text):
-        config = match.group(0).strip()
-        config = re.sub(r'[>)"\'\]]+$', '', config)
-        extracted.append(config)
-        
-    return list(dict.fromkeys(extracted))
+        if 'emoji' in img.get('class', []) and img.get('alt'): img.replace_with(img['alt'])
+    for br in msg_div.find_all("br"): br.replace_with("\n")
+    full_text = html.unescape(msg_div.get_text())
+    extracted = []
+    for line in full_text.split('\n'):
+        line = line.strip()
+        for proto in SUPPORTED_PROTOCOLS:
+            if proto in line:
+                start_idx = line.find(proto)
+                extracted.append(line[start_idx:].strip())
+                break
+    return extracted
 
 def run():
     if not os.path.exists('channels.txt'): return
@@ -181,8 +156,9 @@ def run():
                 if not time_tag: continue
                 msg_time = datetime.fromisoformat(time_tag['datetime'])
                 if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SCRAPER_SEARCH_LIMIT_HOURS * 3600): continue
-                
-                for c in extract_configs_logic(wrap):
+                msg_text = wrap.find('div', class_='tgme_widget_message_text')
+                if not msg_text: continue
+                for c in extract_configs_logic(msg_text):
                     if c not in all_raw_seen:
                         db_data.append([str(now), ch, c])
                         all_raw_seen.add(c)
@@ -215,6 +191,9 @@ def run():
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
+    # =============================================================
+    #  منطق اختصاصی پردازش فایل 1.txt
+    # =============================================================
     pool_target_time = [item for item in unique_pool if now - float(item[0]) <= (FILE_1_TARGET_MINUTES * 60)]
     
     if len(pool_target_time) <= FILE_1_LIMIT:
@@ -230,6 +209,9 @@ def run():
 
     save_output('1.txt', file_1_batch)
 
+    # =============================================================
+    #  منطق اصلی سایر فایل‌ها
+    # =============================================================
     def get_rotated_batch_original(size, specific_pool):
         t_size = len(specific_pool)
         if t_size == 0: return []
@@ -246,6 +228,9 @@ def run():
     save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
     save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
+    # =============================================================
+    #  سیستم شناسایی کانال‌های غیرفعال
+    # =============================================================
     active_channels = {item[1].strip().lower() for item in valid_items}
     inactive_channels = []
     
@@ -259,9 +244,13 @@ def run():
         for ch_name in inactive_channels:
             f.write(ch_name + "\n")
 
+    # =============================================================
+    #  بروزرسانی نهایی فایل‌های سیستمی (دیتا و پوینتر)
+    # =============================================================
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
 
+    # پوینتر همیشه آپدیت می‌شود تا فایل‌های دیگر (مثل ۲) به چرخش خود ادامه دهند
     with open('pointer.txt', 'w', encoding='utf-8') as f:
         f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
