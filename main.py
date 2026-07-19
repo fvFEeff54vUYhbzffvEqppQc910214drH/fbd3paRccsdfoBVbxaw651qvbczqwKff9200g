@@ -119,37 +119,36 @@ def analyze_and_rename(config, channel_name):
 def extract_configs_logic(msg_div):
     extracted = []
     
-    # ۱. اولویت اول: استخراج مستقیم از لینک‌ها (بدون قطعی و کامل‌ترین حالت ممکن)
+    # ۱. استخراج مستقیم از لینک‌ها
     for a in msg_div.find_all('a'):
         href = a.get('href', '')
         for proto in SUPPORTED_PROTOCOLS:
             if href.startswith(proto):
                 extracted.append(href.strip())
-                # حذف این تگ از ساختار تا در مرحله بعدی دوباره پردازش نشود
                 a.decompose() 
                 
-    # ۲. جایگزینی ایموجی‌های پرمیوم تلگرام با متن جایگزین
+    # ۲. جایگزینی ایموجی‌های پرمیوم
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'): 
             img.replace_with(img['alt'])
             
-    # ۳. جایگزینی اینترها با فاصله (تا اگر کانفیگی در متن خام بود، پاره نشود)
-    for br in msg_div.find_all("br"): 
-        br.replace_with(" ")
-        
-    # ۴. دریافت متن، و پاکسازی کاراکترهای نامرئی و فواصل مجازی تلگرام
+    # ۳. دریافت متن با تبدیل شکستگی‌های HTML به فاصله
     full_text = html.unescape(msg_div.get_text(separator=' '))
-    full_text = re.sub(r'[\u200b\u200c\u200d\ufeff]', '', full_text)
     
-    # ۵. جستجوی هوشمند کانفیگ‌ها در متن‌های عادی با استفاده از Regex
+    # ۴. پاکسازی کاراکترهای نامرئی
+    full_text = re.sub(r'[\u200b\u200c\u200d\ufeff\u2060]', '', full_text)
+    
+    # ۵. الگوریتم ترمیم: چسباندن مجدد کانفیگ‌هایی که در خطوط مختلف شکسته شده‌اند
+    # این خط تمام فاصله‌های قبل و بعد از علائم حیاتی کانفیگ را از بین می‌برد تا یکپارچه شوند
+    full_text = re.sub(r'\s*([?&=#:@\-])\s*', r'\1', full_text)
+    
+    # ۶. جستجوی هوشمند
     pattern = r'(?i)(' + '|'.join(SUPPORTED_PROTOCOLS) + r')\S+'
     for match in re.finditer(pattern, full_text):
         config = match.group(0).strip()
-        # حذف کاراکترهای اضافه‌ای (مثل پرانتز یا کوتیشن) که ممکن است به ته کانفیگ چسبیده باشند
         config = re.sub(r'[>)"\'\]]+$', '', config)
         extracted.append(config)
         
-    # ۶. حذف موارد تکراری و بازگرداندن لیست نهایی
     return list(dict.fromkeys(extracted))
 
 def run():
@@ -177,9 +176,9 @@ def run():
                 if not time_tag: continue
                 msg_time = datetime.fromisoformat(time_tag['datetime'])
                 if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SCRAPER_SEARCH_LIMIT_HOURS * 3600): continue
-                msg_text = wrap.find('div', class_='tgme_widget_message_text')
-                if not msg_text: continue
-                for c in extract_configs_logic(msg_text):
+                
+                # تغییر بسیار مهم: حالا کل حباب پیام (شامل کپشن ویدئو، دکمه‌ها و نقل‌قول‌ها) پردازش می‌شود
+                for c in extract_configs_logic(wrap):
                     if c not in all_raw_seen:
                         db_data.append([str(now), ch, c])
                         all_raw_seen.add(c)
@@ -212,9 +211,6 @@ def run():
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    # =============================================================
-    #  منطق اختصاصی پردازش فایل 1.txt
-    # =============================================================
     pool_target_time = [item for item in unique_pool if now - float(item[0]) <= (FILE_1_TARGET_MINUTES * 60)]
     
     if len(pool_target_time) <= FILE_1_LIMIT:
@@ -230,9 +226,6 @@ def run():
 
     save_output('1.txt', file_1_batch)
 
-    # =============================================================
-    #  منطق اصلی سایر فایل‌ها
-    # =============================================================
     def get_rotated_batch_original(size, specific_pool):
         t_size = len(specific_pool)
         if t_size == 0: return []
@@ -249,9 +242,6 @@ def run():
     save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
     save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
-    # =============================================================
-    #  سیستم شناسایی کانال‌های غیرفعال
-    # =============================================================
     active_channels = {item[1].strip().lower() for item in valid_items}
     inactive_channels = []
     
@@ -265,13 +255,9 @@ def run():
         for ch_name in inactive_channels:
             f.write(ch_name + "\n")
 
-    # =============================================================
-    #  بروزرسانی نهایی فایل‌های سیستمی (دیتا و پوینتر)
-    # =============================================================
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
 
-    # پوینتر همیشه آپدیت می‌شود تا فایل‌های دیگر (مثل ۲) به چرخش خود ادامه دهند
     with open('pointer.txt', 'w', encoding='utf-8') as f:
         f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
