@@ -204,17 +204,12 @@ def run():
     # =============================================================
     #  منطق اختصاصی پردازش فایل 1.txt
     # =============================================================
-    # جداسازی استخر کانفیگ‌های بازه زمانی مد نظر (مثلا ۱ ساعت اخیر)
     pool_target_time = [item for item in unique_pool if now - float(item[0]) <= (FILE_1_TARGET_MINUTES * 60)]
     
-    # سناریو ۱ و ۲: تعداد کمتر از حد نصاب یا دقیقاً برابر با آن است -> چیدمان از جدید به قدیم بدون پوینتر
     if len(pool_target_time) <= FILE_1_LIMIT:
-        # مرتب‌سازی کل دیتابیس بر اساس زمان نزولی (جدیدترین‌ها در ابتدا)
         global_sorted_desc = sorted(unique_pool, key=lambda x: float(x[0]), reverse=True)
-        # برداشتن فیکس به تعداد حد نصاب
         file_1_batch = global_sorted_desc[:FILE_1_LIMIT]
         
-    # سناریو ۳: تعداد کانفیگ‌های ۱ ساعت اخیر بیشتر از حد نصاب است -> اعمال سیستم پوینتر روی استخر زمانی
     else:
         t_size = len(pool_target_time)
         idx = current_index % t_size
@@ -223,14 +218,13 @@ def run():
         else:
             file_1_batch = pool_target_time[idx:] + pool_target_time[:FILE_1_LIMIT - (t_size - idx)]
         
-        # بروزرسانی و ذخیره پوینتر فقط در صورتی که وارد این سناریو (چرخش) شویم انجام می‌شود
         with open('pointer.txt', 'w', encoding='utf-8') as f:
             f.write(str((current_index + FILE_1_LIMIT) % pool_size if pool_size > 0 else 0))
 
     save_output('1.txt', file_1_batch)
 
     # =============================================================
-    #  منطق اصلی و بدون تغییر سایر فایل‌ها (طبق ساختار اورجینال شما)
+    #  منطق اصلی سایر فایل‌ها
     # =============================================================
     def get_rotated_batch_original(size, specific_pool):
         t_size = len(specific_pool)
@@ -247,6 +241,25 @@ def run():
     save_output('2.txt', get_rotated_batch_original(ROTATION_LIMIT_2, pool_3h))
     save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
     save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
+
+    # =============================================================
+    #  جدید: سیستم شناسایی کانال‌های غیرفعال (بدون کانفیگ معتبر در دیتابیس)
+    # =============================================================
+    # استخراج نام کانال‌هایی که حداقل یک کانفیگ معتبر و منقضی‌نشده در valid_items دارند
+    active_channels = {item[1].strip().lower() for item in valid_items}
+    
+    inactive_channels = []
+    for ch in channels:
+        ch_clean = ch.strip()
+        if ch_clean.lower() not in active_channels:
+            # فرمت‌دهی به صورت @channel
+            formatted_ch = ch_clean if ch_clean.startswith('@') else f"@{ch_clean}"
+            inactive_channels.append(formatted_ch)
+
+    # ذخیره کانال‌های غیرفعال در فایل اختصاصی
+    with open('inactive_channels.txt', 'w', encoding='utf-8') as f:
+        for ch_name in inactive_channels:
+            f.write(ch_name + "\n")
 
     # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
     with open('data.temp', 'w', encoding='utf-8') as f:
