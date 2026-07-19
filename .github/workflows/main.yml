@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update configs" || exit 0
+          git add 1.txt 2.txt 3.txt 4.txt data.temp pointer.txt inactive_channels.txt || git add .
+          git commit -m "Update configs and inactive channels list" || exit 0
           git push
