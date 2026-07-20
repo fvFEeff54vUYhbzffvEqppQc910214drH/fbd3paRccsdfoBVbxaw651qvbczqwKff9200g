@@ -5100,3 +5100,19 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.32.227:22223?security=none&e
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.32.227:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://93b99881-df03-4597-9146-0c11e46387f7@47.245.113.31:57146?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cfv.cscfwoker.fun#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@185.146.173.32:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://bacbaac-acba-baca-cbda-cccaabbcbbaa@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://bcaabac-caba-acba-acdb-abacabccabcb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.246:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=random&alpn=h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+ss://bm9uZTphYmNhYmFjLWFiY2EtYmNhYS1hZGJjLWFiYmJjY2JhYWNhYw==@127.0.0.1:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16YzNZakJrWmkwNU4yTTBMVFJtTjJRdE9HUmhZeTB5TlRsall6VTFNRGczTkRn@free.2weradf.xyz:36213#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaFpXVTVaalF3WkMwMU56ZGhMVFEyTWpRdFlXUTVPQzAyTnpRMU1qTXpNV0ptTkRn@free.2apzhfa.xyz:31245#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
