@@ -34,3 +34,15 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=
 
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=%2F%3F&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&fp=chrome&alpn=http%2F1.1&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&security=none#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&sni=%2F&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40v2ray_configs_pools&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
