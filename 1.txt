@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+ss://YWVzLTI1Ni1nY206TkRJNE1qWXdPV0ptWXpKaFpUbGlNVEZtWmpSa1pqQTNZalEzTTJKaw@37.32.10.251:9114#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_ir
+
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=g18.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=g18.vcommunity.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmess_ir
 
 vmess://eyJhZGQiOiAiMTA0LjE5LjMyLjg4IiwgImFpZCI6IDAsICJob3N0IjogImlwNS00LmZyZWVncmFkZWx5Lnh5eiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODYsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
@@ -127,6 +129,4 @@ vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80?security=none&type
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.edge-9d7c.com&fp=safari&insecure=1&allowInsecure=1&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40NormanV2ray
 
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&sid=ee0cddbe17fc&spx=%2FCVdQgonYXvEQSvP#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40NormanV2ray
-
-vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@51.77.109.92:2053?encryption=none&type=grpc&security=reality&serviceName=api.v1.data&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40NormanV2ray
 
