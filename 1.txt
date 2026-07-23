@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.160:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEhvcGVfTmV0IiwgImFkZCI6ICIxMzguMi44Ni40MyIsICJwb3J0IjogIjMyNTc0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2ZTBhYWU1NS0yMzBjLTQ1YTAtODU5MS03ZmNlMWVjN2EzMjYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMzguMi44Ni40MyIsICJ0bHMiOiAiIn0=
+
+vless://a6f19f47-963a-1d57-6895-6ff958ce2b33@channel-production-eca.up.railway.app:443?encryption=none&security=tls&type=ws&host=channel-production-eca.up.railway.app&path=/ws/a6f19f47-963a-1d57-6895-6ff958ce2b33&sni=channel-production-eca.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY1XHVkODNjXHVkZGVkIFdTLU5vbmUgfCBAdjJyZXlhODgiLCAiYWRkIjogIjYxLjI0NS4xMS42MCIsICJwb3J0IjogIjgwIiwgImlkIjogImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiODAiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
@@ -121,12 +129,4 @@ vless://d7a55270-00f9-4054-865d-0e2fbad22ca9@151.101.2.219:443?security=tls&sni=
 trojan://------------BanV2ray-----------@37.156.45.60:4384?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=fc1849f57be0&spx=%2F4de517c4e954d88&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@198.41.209.87:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2reya88
-
-vless://f36a2564-7ccd-4d1a-89f0-9d408954878e@us.samanehha.io:800?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=us.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40LonUp_M
-
-vless://86e3f2cb-47a4-4d90-adc1-4b02b3b29c96@62.60.184.102:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
-
-vless://b71d03e2-fa61-4206-8354-46b6228ccf5d@static2.hexogate.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=66d6d3d24148fc1f&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://13b4ef57-e993-425f-9c41-5dd9af9751a7@104.17.147.22:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht90.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Hope_Net
 
