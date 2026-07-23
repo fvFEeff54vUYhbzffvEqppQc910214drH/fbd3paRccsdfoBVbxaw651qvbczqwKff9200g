@@ -26,6 +26,8 @@ trojan://MiTiVPN@104.18.34.13:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%
 
 vless://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?security=reality&encryption=none&pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&headerType=http&fp=firefox&spx=%2Fnaranv2ray&type=tcp&sni=play.google.com&sid=d7b62fdf683ad6#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
 
+vless://c39baa8a-623b-4c0a-083a-d3be4ba98b41@x4g-production-aerdy65k.up.railway.app:443?path=%2Fws%2Fc39baa8a-623b-4c0a-083a-d3be4ba98b41&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-aerdy65k.up.railway.app&fp=ios&type=ws&sni=x4g-production-aerdy65k.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
 trojan://MITIVPN@104.18.16.56:443?type=ws&security=tls&path=---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Ddes&host=mhv---MiTiVPN---MiTiVPN.aPp-cLoud.IR&sni=i---7-MiTiVPN----o.aPp-cLoud.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
@@ -127,6 +129,4 @@ vless://145cf561-d565-42e6-9fe4-2006629758f8@185.146.173.58:8080?path=%2Fservern
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9EQXpZMk01TlMwM1pUZ3pMVFF6T0RjdE9EUXpaUzAzWm1Oak1URXlNalF6TWpR@free.2apzhfa.xyz:31611#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek9EQXpZMk01TlMwM1pUZ3pMVFF6T0RjdE9EUXpaUzAzWm1Oak1URXlNalF6TWpR@free.2apzhfa.xyz:31215#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?path=%2Ffp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40V2HUBIR
 
