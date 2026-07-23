@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&type=ws&security=tls&path=%2Fdownload.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://1b04b3f0-d253-4b70-bb93-e11e6555d35d@91.107.254.224:3290?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
 trojan://telegram-id-directvpn@3.97.131.250:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
 vless://77d19746-328e-4938-92b5-faf379be7046@151.101.130.219:80?type=ws&host=barkatc2.ir&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
@@ -188,6 +182,8 @@ vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?encryp
 
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?encryption=none&path=%2F&security=tls&sni=ad-020.limaklhc6.info&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40orange_vpns
+
 trojan://----------------BanV2ray---------------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:42351?type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&sid=e5d7#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40orange_vpns
 
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@86.38.214.33:8080?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=blogfin--gfdg321-8q25f24a.xraypro.sbs&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40orange_vpns
@@ -195,6 +191,8 @@ vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@86.38.214.33:8080?encryption=none&t
 vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@ips-----pro-----vip.nininet.xyz:1418?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40orange_vpns
 
 trojan://----------------BanV2ray---------------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43321?type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&sid=95f1#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40orange_vpns
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&type=ws&security=tls&path=%2Fdownload.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40orange_vpns
 
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&insecure=1&allowInsecure=1&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40orange_vpns
 
@@ -7319,4 +7317,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22224?security=&encryp
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&security=tls&encryption=none&insecure=1&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=1&sni=shegeftihaaa.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
