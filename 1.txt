@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
+
 vless://18141f52-3898-490d-95f1-1608f412bf86@173.245.58.121:443?path=%2F&security=tls&encryption=none&insecure=0&host=node-1156018316-84eadd.silimem566.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=node-1156018316-84eadd.silimem566.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
 vless://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?path=%2FeyJqdW5rIjoiR1BxUFhYR0w1TlBLMTRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=0&host=ez-98919a.motoricb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-98919a.motoricb.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
@@ -125,8 +129,4 @@ vless://4d9aa337-82a0-41e2-a207-cf3ab2580056@190.93.247.56:8080?path=%2Ftelegram
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40v2reya88
 
 vless://ffb5c61f-bdf7-4e6d-8a88-449b4f39b581@soskeynets-306801962-60778c-production.up.railway.app:443?sni=node-306801962-60778c-production.up.railway.app&alpn=http/1.1&type=ws&host=node-306801962-60778c-production.up.railway.app&path=/ws/ffb5c61f-bdf7-4e6d-8a88-449b4f39b581?ed=2048fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2nodes
-
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2nodes
-
-vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?type=grpc&serviceName=vless#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%7C%20%40v2nodes
 
