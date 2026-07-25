@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://7b745ce7-5501-4cf7-89e8-54d386be205f@89.39.121.131:10001?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://7b745ce7-5501-4cf7-89e8-54d386be205f@151.101.117.84:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=status.fastly.com&fp=&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TUpXb2hLUkY3TWc5YWJrOUpIMkh3@89.39.121.131:1080#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 trojan://telegram-id-privatevpns@51.21.36.169:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
@@ -121,12 +129,4 @@ trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&type=ws&
 trojan://telegram-id-directvpn@15.222.167.168:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
 trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@SpeedTest.org:80?security=none&type=ws&headerType=&path=&host=wWw.SpEedTeSt.nEt.ZuLa.Ir.IkCoSaLeS.Ir.D662599.v24.dIgIkAlAcOmIrDiVaRiR.CoM.#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.86:8888#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
-
-vless://76721725-687e-4c0d-b4bc-c783822c38bb@185.118.15.114:443/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@leviko986.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=Leviko_v2ray&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=a8ae#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray1_ng
 

@@ -6864,3 +6864,11 @@ vless://64466fd7-00d0-4e7f-ae47-1749932601da@104.18.152.233:8080?mode=auto&path=
 
 vless://7b745ce7-5501-4cf7-89e8-54d386be205f@v2speed:10001?security=tls&type=tcp&headerType=&path=%2FLunex&host=&sni=v2speed_vpns&fp=&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2reya88
 
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://7b745ce7-5501-4cf7-89e8-54d386be205f@89.39.121.131:10001?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://7b745ce7-5501-4cf7-89e8-54d386be205f@151.101.117.84:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=status.fastly.com&fp=&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TUpXb2hLUkY3TWc5YWJrOUpIMkh3@89.39.121.131:1080#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
