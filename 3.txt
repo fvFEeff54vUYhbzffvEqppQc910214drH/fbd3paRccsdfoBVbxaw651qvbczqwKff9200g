@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8220283b-dd8a-4d37-baf6-348958c8058e@nl2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl2.janusgate.org&sid=04e65b7e170a5a4d#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40FreakConfig
-
-trojan://a3fbc071f3a9c14@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2FKW4lqfORk8uXWXv&type=tcp&sni=google.com&sid=08c8f4b33c#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://7f7cabf9-30e6-4252-d2dd-9a67a602c0a1@x4g-production-0f83.up.railway.app:443?path=%2Fws%2F7f7cabf9-30e6-4252-d2dd-9a67a602c0a1&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-0f83.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-0f83.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://ff8e7195-0ff1-ee52-f67c-33e4c1e768cf@rokervpn-production-bbae.up.railway.app:443?path=%2Fws%2Fff8e7195-0ff1-ee52-f67c-33e4c1e768cf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rokervpn-production-bbae.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rokervpn-production-bbae.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://3a5c35c9-101c-4bfc-a636-9eee8a7f7d58@storybot.aigcsoft.site:443?path=%2F42766%2Fnobitex.ir&security=tls&encryption=none&insecure=0&host=michal.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni2.irandoc.info#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://dfb28501-ecb2-438a-bb3c-7ae77d320c30@storybot.aigcsoft.site:443?path=%2F36288%2Fnobitex.ir&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://544fd259-8ce4-2663-ea8d-6cfec14a96c2@nh5.skyfanta.sbs:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=b73cff#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
 
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
@@ -91,6 +77,8 @@ vless://78a1da80-7383-4ff6-b0ff-b6626b2f72cd@64.226.83.251:440?security=&encrypt
 vless://6fa08837-7c1b-4f58-8858-f55faa63e533@165.245.222.232:44713?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
 
 vless://69c0e64c-363f-46da-865c-88d5075a9356@ninja.monak2.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.LEJ8wckviL_EblQfulnTbSpqeUr1-DDqyghpUwWW6HE&pbk=YlDfPynfSCScT4WG0K37lusY94qBaHdoo8YCyUtCCmM&fp=chrome&spx=%2FNu3ZJDoXFlAj9kU&type=grpc&serviceName=grpc&sni=www.yahoo.com&sid=6c70#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
+
+vless://544fd259-8ce4-2663-ea8d-6cfec14a96c2@nh5.skyfanta.sbs:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=b73cff#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://4618309c-a461-481d-b4be-677e0b668df1@er3.serverkingomz.ir:8083?security=reality&encryption=none&pbk=fArnHR5MH-Zuvlt-GxLOql_DoK9lJdWgpH1NPX_jhiY&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=28011937bf0e3bba#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
