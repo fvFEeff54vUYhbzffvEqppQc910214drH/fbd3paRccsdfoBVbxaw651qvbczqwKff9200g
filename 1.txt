@@ -1,5 +1,15 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://oysb8waj-f12z-cpk3-g6yj-70yooixkmfop@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://bkzas7j2-n27l-dmll-kysv-jezqeyr95j5x@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://xtsujvyz-bu7d-8i0k-5r0p-zp0bkqcmsivv@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@RONINVPN1.iranlast.com:7009?type=tcp&security=reality&sni=yahoo.com&fp=qq&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@s.avrilon.us:443?type=tcp&security=reality&sni=cdn.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=pak_xgMOqICE2oAimyRphnruNEP7HptVJVI5p1HjGmA&sid=0bad329e858e70da#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?security=tls&sni=yv.ylkszy.eu.org&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://42b53885-3675-4a8c-cb15-103505d2c78b@104.21.42.250:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
@@ -119,14 +129,4 @@ vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=&encr
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&encryption=none&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7551ed1b#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40V2HUBIR
-
-vless://07107d99-86d9-4334-8829-98d32d5c72e4@212.192.2.193:13206?security=reality&encryption=none&pbk=UVOpIaI37TfaKsksHvDEC5cg9qLsc1YOmlBrceD8CXA&headerType=http&fp=qq&spx=%2F&type=tcp&sni=play.google.com&sid=f2a3e53d4f058a#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40V2HUBIR
-
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MCIsInBzIjoi8J+HuvCfh7ggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055/?type=tcp&encryption=none&flow=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2rayeagle
 
