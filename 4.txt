@@ -56,3 +56,11 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&securi
 
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.43.174:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_Extractor
 
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+trojan://tg-dns68@162.159.152.93:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://tg-dns68@162.159.152.213:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
