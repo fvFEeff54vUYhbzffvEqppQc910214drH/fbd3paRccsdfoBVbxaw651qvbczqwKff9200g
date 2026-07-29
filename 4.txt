@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.160:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=/?proxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://be8982d4-6ec8-46af-87e0-1447ae683fcd@104.31.16.95:8880?security=none&type=ws&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasgermanyvip.name.ng.&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-trojan://telegram-id-directvpn@34.252.208.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-trojan://telegram-id-privatevpns@13.50.145.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
-
-vless://-Shh-Proxy-@www.speedtest.net:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:1997?fp=chrome&path=%2F&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&security=reality&sid=fa355d1584&sni=www.samsung.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40UnlimitConfig
-
-vless://2307c7cc-63c6-42ba-a9c0-f5490d4077c1@172.86.94.102:2083?pbk=SH9Y-bDCkUJkxkcQ4mHWLT_Nik35MO5J_OmOs3ACGyU&spx=%2FCVIDsERGybuYm68&mode=auto&fp=chrome&sni=www.amd.com&extra=%7B%0A++%22scMaxEachPostBytes%22+%3A+%221000000%22%2C%0A++%22xPaddingBytes%22+%3A+%22100-1000%22%0A%7D&sid=279d86ae07cc85&encryption=none&type=xhttp&path=%2F&security=reality#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40UnlimitConfig
-
 hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@80.66.78.105:443?security=tls&insecure=0&sni=80.66.78.105.nip.io#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
 vless://2307c7cc-63c6-42ba-a9c0-f5490d4077c1@104.194.151.208:2083?security=reality&encryption=none&pbk=KyAOA8SzZCKVJLnBWg9zH3oIdnuYvnejPx-Abjm6BQg&headerType=none&fp=chrome&spx=%2F6JfgJFgcupQI75B&type=tcp&sni=www.sony.com&sid=1eac5254530c7dce#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -29,4 +13,8 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?mode=gun&security
 vless://852d3ea6-a777-4710-a25d-6f31a4b83ce5@23.poki-pakipon.ir:30348?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.oLJx7UZoPG6AdgJVrRnUauEZsJyPPvVZV1Y8G1vIeF4&pbk=gN81uilhCyYPBm1meg5yQOsMrzM12vAYmTYUOHAbgjE&fp=firefox&type=grpc&serviceName=BanV2ray&sni=it.search.yahoo.com&sid=2b132c60850f61db#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2ray_confiig
 
 vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?encryption=none&security=none&fp=chrome&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?encryption=none&security=tls&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=google.com&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20TCP-None%20%7C%20%40UnlimitConfig
 
