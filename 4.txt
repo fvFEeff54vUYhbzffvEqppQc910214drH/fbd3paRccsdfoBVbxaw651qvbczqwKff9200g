@@ -46,3 +46,31 @@ vless://f421241e-572f-481e-93ab-961812437fe6@167.99.48.117:24665?security=realit
 
 trojan://humanity@45.130.125.126:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:57820?path=/&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20066?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://0d5c67f0-58e7-2328-bfb1-01f021b56b1d@89.208.231.191:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir&alpn=http/1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://419ce48a-884b-4464-adaf-d4e91105b8b8@46.8.18.48:16923?encryption=none&fp=chrome&mode=gun&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=disk.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://f72c7175-4b29-467a-85ba-52c7856a69ee@176.109.92.219:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=KJUVvApjTYpz5QQwN-QnQM4DqfzFIY8S6gv-xyWx9mQ&security=reality&sid=fb7bcadf992e2411&sni=ads.x5.ru&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.36:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&path=/#%F0%9F%87%B5%F0%9F%87%AD%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b318242471ba4f5b&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://95d4c83e-20ec-4dc3-ba3f-ae48283bea34@46.254.17.226:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://6ca270a7-a10d-4e02-8ae0-1e4c27a5d099@51.250.66.16:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&path=/#%F0%9F%87%B5%F0%9F%87%AD%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
