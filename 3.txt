@@ -8846,3 +8846,21 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?flow=xtls-rprx-vi
 
 trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://9fed1566-7a38-4e8e-b7a3-cfff39d6cbd0@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://7d176d39-58b7-40ec-8a89-933516169116@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
+
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://1402f2fb-7c54-4de0-bbf6-48b09dfdfec4@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&path=/#%F0%9F%87%B5%F0%9F%87%AD%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.9:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.9:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
