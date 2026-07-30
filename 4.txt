@@ -74,3 +74,15 @@ vless://22573991-de57-4a31-b6ec-56b1bab4112c@77.110.113.103:443?encryption=none&
 
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA==@50.114.177.134:20188#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
 
+vless://2235f9b2-e86f-4f42-bd24-81da7222dd7a@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.117:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@172.67.175.34:8443?security=tls&type=ws&path=/&host=ad-018.cloud25075.info&sni=ad-018.cloud25075.info&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@172.67.152.71:8880?encryption=none&host=morning-silence-7b1b.222-46c.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://62eeae2f-2691-4a6b-bd55-54e8e0348082@185.91.54.126:8445?authority=360.yandex.ru&encryption=none&fp=qq&mode=gun&pbk=-22oLFCHao66M820QocQMqCdKF0ckLuVYMtcth92vjk&security=reality&serviceName=ns&sni=360.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
