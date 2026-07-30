@@ -50,3 +50,15 @@ vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@104.21.56.8:8443?security=tls&type=
 
 vless://3fe5c47b-f46c-4baf-9336-c868feb6545e@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
 
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@nl-direct.doctor-alan-cloud.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=1234567890abcdef#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2056?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=1234567890abcdef#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@direct.doctor-alan.ir:2053?security=reality&type=grpc&headerType=&serviceName=real-grpc&authority=&mode=multi&sni=www.yahoo.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=1234567890abcdef#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:8080?security=none&type=ws&headerType=&path=%2Fv-ws&host=nl-cdn.doctor-alan-cloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:2052?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=nl-cdn.doctor-alan-cloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
