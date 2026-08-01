@@ -86,6 +86,8 @@ vless://22bc361e-72a2-48e3-ada0-74c16f1926bc@www.speedtest.net:80?type=ws&path=/
 
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@141.11.139.80:18666?security=tls&sni=dns68.putata.eu.org&type=ws&path=/#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
+vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
+
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.46:8080?type=tcp&security=none&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.167:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A8%F0%9F%87%AD%20GRPC-Reality%20%7C%20%40LonUp_M
@@ -127,6 +129,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8
 trojan://521314@104.16.99.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@138.124.112.197:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&sni=node6.mxvpn.dev#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&type=tcp&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=mold.speedload.online&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%7C%20%40LonUp_M
 
