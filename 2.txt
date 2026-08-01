@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://MITIVPN@104.20.6.134:443?sni=MiTiVPN---MiTiVPN-7.Maqror.ir&peer=MiTiVPN---MiTiVPN-7.Maqror.ir&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 trojan://BxceQaOe@16.162.122.119:38961?sni=t.me/RONINVPN1&peer=t.me/RONINVPN1&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://BxceQaOe@219.79.214.159:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -284,6 +286,18 @@ vless://43cd1297-a13c-4566-80da-c44c5a3c792d@V.zymora.ir:2020?security=&encrypti
 
 vless://29ca503d-e6b8-4509-b666-48133f450857@cu.877774.xyz:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&fp=chrome&type=ws&sni=learn00.evany.de5.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
 
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:43293?authority=&encryption=none&security=none&serviceName=&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:32073?encryption=none&host=&path=%2F&security=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:51370?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:27594?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:56051?encryption=none&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22header%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22type%22%3A%22mkcp-legacy%22%7D%5D%7D&mtu=1350&security=none&tti=20&type=kcp#%F0%9F%87%B1%F0%9F%87%BB%20KCP-None%20%7C%20%40LonUp_M
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.159:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%F0%9F%87%B5%F0%9F%87%AD%20TCP-Reality%20%7C%20%40UnlimitConfig
+
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://8e4fa786-f3d1-42b3-8d52-67a3f5433c30@157.245.68.190:443?security=reality&pqv=W4giHfjfmBrsEySnGiVsYaxhvRocNpSjfpSmOvNRz70KRMicFOPEY7TkJAspKwW9g6tPVXr2V48mKev2zgdbv5im3HrzGaTm8rICYkI1IKj0LxImA9Hqn0xm-KKDiGXi_aOKpF21usJA6S14LYXPLSnKJgv8GzgMfzlhgBL-WvX9qRrpPlzHdSL0sVFZEvDDCqrs1qcXyd9PxdLO9d6ZO01QJhOTGyXBAk1Nr10gRoGsJnUx4UbNlmfpWv8yAutva7erIWBwf7iKNnaM5At8PD_F5JtTbB2yi-5Yqf_B7Y_uE2ND1Vs_GOJj6T4auYqU9Mp4TnCklu1s2HvmqAtDKycEmySGxWL1XxRlFeA6TDmGsUCjSFQMXSbQrchJiensv7iXNgrKS2VNXfo-YWfm2y0n9sl2P3hlxyVPLfPVMmKDFX0vP1IFOcN7vpTquHkfGhIzeBAmhrJGpZUvQmjBwKGHX8EnEdSJL52Qp82OWCMWzhna8MLUzjZZhvpcv7imHch28aFnRzgbksbLZJ0_Ofkqx0YsvRnnyuguE_IhI8fdDG3e7zMS9W3qXzqv6ib955-PJ0bOK_XyJyphi1Pke82ho5aldb3TzmEKMAL5rgNp3KTZKppnsTQPig0TftDe1bufP6zfkTU9PEl2Mn3O-yCg0MGdT1GpxMhpDCMwqgTr9yJt4dihcsKnw9pYaSrs7tXMdPJAFY4KaMiEkHcyN2LNDHtQPxRKtkAuc7v5ZHqmPj8qvBCaF6StUB4T6V9rkawGTehtA3lVoIvdBzfNNBotnfT_QMhtTOUQEVd-rXt_c06DDhKrCEPGW346pcva0QCIi53PEoqg0pDFjJk8j7dKjxmuIti4YOAITrRgP4iRoF1vXIRJaxqE-lWVLZJVeF9NCRlyTxcHl8eQ3Tkv-GqVW5fL8C2kRXCDhvn7QsFXWx-OU4q0FVRT01Qn-z4jj0s8m6O8WWVfZuZPF2B5tSrQWZ7jwwPn1q3Y2NstxGo087h62FDhhflJ-v0LlnoAcu5YeMdLMM1sKNen7endjTxphHPf_sZpbZvXx64DAagjzZUKIDNmmAhktYfMn1uEjQoAC3TWnpbyzXaujvbln9zhk2BxcyJg1QaZbDcgd2wrRQUYGLcsamx2obh87kwfaU5136Xidnko7wM-IRJf4f8eC99Y5Bl4tZcz_bRxeMdgdhXAuRaUltJevSyVxOLvLe8aL692Ff80-552eCZ-3xW718jnIjxweuIWFluQO70KcLDAGUBgzHA9DrQSzBP7LBigV8o5IR9W1INoGWrQL7Ffj32ToFypoylcBnsftQKMz5wZehYepCc15dWy_h5--4TFTJfqTIW5k-gJ7TRTqzaUvGM8RhnWN611WZ-3wZzq3zd8ZHMPJiUZwYr5STvk-YHYV2sZFV2s50UMwJqCVjUAjfAWtViOWEMLOYyI82j_q8P93IEf57dSOto-jPXdJf-RrsZJiY-XA9Ty8IUHeoCEKE320HXyZ9gt9cx7agJfJmQoPvoHHBSoWao11r6ZgGEJ8qpzrWq98a4BPzsWPiY7OL0GQpQ1VnOC6nFAs505Y1-PelzHyxo4vQQ8Vv4B68vej7NzLfu42-2xXVSaHPABqNYhs8hmm0mDugB5luMZXiQqBFKnPgEvjbgiWd8PnU_KVZOjyVDmdWeZI1A-kzaIXK5BB-h1WLbopXMUwDToA7k1hohdBuDA5gTVed8ZAOzfPwrBLWJum2p-3E5j6am9Sehj-QAizg1_O8Iiwa0Bv8#None%20TCP-Reality%20%7C%20%40irconfiig
@@ -369,6 +383,4 @@ trojan://wtwpvagy-itqj-vkbw-5nd9-pi5duah1rxy7@127.0.0.1:1080?security=tls&type=t
 trojan://3hfkz6kw-ktzu-eonn-vmab-1spinsj1in5x@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://tq52jvwx-e78k-3ttc-52jg-3cf62r022a64@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://MITIVPN@104.20.6.134:443?sni=MiTiVPN---MiTiVPN-7.Maqror.ir&peer=MiTiVPN---MiTiVPN-7.Maqror.ir&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
