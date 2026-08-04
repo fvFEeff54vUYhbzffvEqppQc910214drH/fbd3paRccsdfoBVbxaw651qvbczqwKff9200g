@@ -12,3 +12,19 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=h
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.127:443?security=tls&sni=zdye.kpcloud.eu.org&type=ws&path=/blue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
+trojan://ND91608427@fancy-skink.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://41e08548-679b-56ba-42d2-48523a168cff@line-vpn-production-7798.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-7798.up.railway.app&path=/ws/41e08548-679b-56ba-42d2-48523a168cff&sni=line-vpn-production-7798.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://3d164933-17d7-4ee1-8a99-9be47536d132@193.227.99.54:2052?path=%2Foopksl%3F&security=none&encryption=none&host=banjog.lorqino.ir&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
+vless://3d164933-17d7-4ee1-8a99-9be47536d132@104.17.121.110:2052?path=%2Foopksl%3F&security=none&encryption=none&host=banjog.lorqino.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&security=tls&type=ws&host=epge.muarua.filegear-sg.me&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443?security=tls&sni=vpn-fr-002.fastervpn.world&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+vless://527451fe-ee1f-4e6f-94ca-808f055f7c9b@05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev:443?allowInsecure=0&sni=05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev&path=%2Fvl%2FERYN0G44hia16zhR&alpn=http%2F1.1&security=tls&type=ws&host=05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev&fp=chrome&encryption=none&insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
