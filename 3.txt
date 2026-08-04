@@ -7686,3 +7686,19 @@ vless://6d60d9a8-401a-4f99-968e-ccae68a6c2f4@45.59.125.165:443?encryption=none&e
 
 vless://86116530-320b-4545-8f97-d8129d6ca946@panel.degeris.ir:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@77.239.112.123:443?type=xhttp&security=tls&fp=firefox&sni=ne1.tunnelx.space&path=/assets&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+trojan://521314@172.67.118.45:443?type=ws&sni=tjplay.lxdxo.kdns.fr&path=%2FLeviko_v2ray&host=tjplay.lxdxo.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f0b752da-101e-46dd-9860-3f089e71ec91@89.19.223.155:8443?encryption=none&type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?path=---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---@soskeynets---#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@e-spectacular.ru:443?security=reality&encryption=none&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=e-spectacular.ru&sid=825d392c67e4#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&fp=chrome&sni=speedtest.tinkoff.ru&type=tcp&insecure=1&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://a4ca19ef-51fc-4104-9cff-c870f9f854ae@marzban-node-production-fdff55555.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-fdff55555.up.railway.app&sni=marzban-node-production-fdff55555.up.railway.app&fp=ios&alpn=h2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
