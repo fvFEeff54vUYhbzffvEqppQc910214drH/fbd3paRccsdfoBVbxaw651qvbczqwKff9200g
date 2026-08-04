@@ -20,3 +20,11 @@ vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZw
 
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiAiMTU5Ljg5LjI5LjEzNiIsICJhaWQiOiAiMCIsICJob3N0IjogImN4LmNvbSIsICJpZCI6ICJkMjBkNmVkZS00MzNjLTExZWQtYjgxZi1jZmQ5MDVkZjk5NTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLU5vbmUgfCBATG9uVXBfTSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+
+vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@cold-bush-a762.lidrezvpn.workers.dev:8880?encryption=none&type=ws&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&host=cold-bush-a762.lidrezvpn.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://71c92c65-61d4-445a-a307-aa163a41c180@germany.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.gujz8w_24dfztN4inkaIAOa9Fw8u-hXxE0Axd-4zsC0&pbk=wXs2Zk6eIv4p2Rj1MQqXeT8h7z6-ff6ALExacKW71DQ&headerType=none&fp=chrome&spx=%2F35463cdcc69c3b2&type=tcp&flow=xtls-rprx-vision&sni=semiconductor.samsung.com&sid=60e1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
