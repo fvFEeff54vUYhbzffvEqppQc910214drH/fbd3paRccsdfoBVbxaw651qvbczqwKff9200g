@@ -7414,3 +7414,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.195:800#%F0%9F%8
 
 vless://aababcc-aabc-baac-cbda-acaabbbcacbc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
 
+vless://d836f217-2fa5-4d67-b357-35c4493d9311@89.34.230.226:33891?encryption=none&security=reality&type=tcp&headerType=none&sni=www.lovelive-anime.jp&fp=chrome&pbk=zMg7NKqkBdIdCp-SrjQhMIU4v7nMFvxvl4YVUATbx1A&sid=73f026d8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://d836f217-2fa5-4d67-b357-35c4493d9311@89.34.230.226:56335?encryption=none&security=reality&type=grpc&headerType=none&serviceName=r41covdh&mode=gun&sni=www.lovelive-anime.jp&fp=chrome&pbk=YTE6hcOPSTSlEqkyCgq6tXtlrjgGDe1xG22aizo7YGc&sid=9e246964#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://d836f217-2fa5-4d67-b357-35c4493d9311@89.34.230.226:48748?encryption=none&security=none&type=ws&headerType=none&path=%2Fefo3w90c2m#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiODkuMzQuMjMwLjIyNiIsICJhaWQiOiAiMCIsICJpZCI6ICJhMWM4MzUwMy02NDI5LTRlMTctYjM5OC01MDg0OTk3ODI5YzIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3I3cnk3eDVpenkiLCAicG9ydCI6IDMyNjQ2LCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vmess://eyJhZGQiOiAiODkuMzQuMjMwLjIyNiIsICJhaWQiOiAiMCIsICJpZCI6ICJhMWM4MzUwMy02NDI5LTRlMTctYjM5OC01MDg0OTk3ODI5YzIiLCAibmV0IjogInRjcCIsICJwb3J0IjogMzUwMzMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+trojan://7sJy7sqVAWNvWpGF-ZhJvGRw1_uBPgru@89.34.230.226:54415?security=none&type=ws&headerType=none&path=%2Fqv1m6deyko#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3827ea2a-f011-05c6-208b-dd53e66ec66d@node-5528338330-b1ac32-production.up.railway.app:443?mode=auto&path=%2Fxhttp-siz10%2F3827ea2a-f011-05c6-208b-dd53e66ec66d&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=node-5528338330-b1ac32-production.up.railway.app&fp=ios&type=xhttp&allowInsecure=0&sni=node-5528338330-b1ac32-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://3c641412-bb55-9ded-1186-d75c2dfccf6b@node-5528338330-b1ac32-production.up.railway.app:443?path=%2Fws%2F3c641412-bb55-9ded-1186-d75c2dfccf6b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=node-5528338330-b1ac32-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=node-5528338330-b1ac32-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
