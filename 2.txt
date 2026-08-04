@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAicHJvLm16d2VibS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkbDNuYW1lLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldCIsICJpZCI6ICJmMjFkMjdhZS02NDEyLTRkNGEtODc4ZC1hNWVkYzUxY2YwNDMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlwbWF4IiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBARnJlYWtDb25maWciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40manVPN
-
-vless://8887d7e2-1c73-49b1-9d60-ce7546053370@all49-vip.f-sub.com:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
-
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.7.kfc-520.com:10015?security=reality&flow=xtls-rprx-vision&pbk=ikCB12OSZuP08JB3pfGfS1QE02Xw7Ddm9k1RDS3ZWmE&sid=e38d&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40Mi40OSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTEuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==
-
-vless://7509f896-2115-4420-b487-501c9103bebd@112.187.240.245:33185?security=tls&sni=ccs.443888.xyz&type=ws&path=/vless?ed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.196:443?security=tls&sni=jpe.ylks01.eu.org&type=ws&path=/?proxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@137.184.200.33:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Hope_Net
@@ -381,4 +365,28 @@ vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&headerType=none&security=none&encryption=none#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?mode=gun&security=reality&encryption=none&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiAicHJvLm16d2VibS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkbDNuYW1lLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldCIsICJpZCI6ICJmMjFkMjdhZS02NDEyLTRkNGEtODc4ZC1hNWVkYzUxY2YwNDMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlwbWF4IiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBARnJlYWtDb25maWciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://a43e8266-33f3-456e-8896-dbeec3d3292e@107.189.19.254:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=g2GBIGI6smS4p_nqwJYqFQFHx_n-QXWSnCfn0AJ7r38&fp=chrome&spx=%2FVMwWsvh3qdVsJ28&type=xhttp&sni=www.amd.com&sid=764a#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40vmesskhodam
+
+vless://f0b752da-101e-46dd-9860-3f089e71ec91@89.19.223.155:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesskhodam
+
+vless://41e08548-679b-56ba-42d2-48523a168cff@line-vpn-production-7798.up.railway.app:443?path=%2Fws%2F41e08548-679b-56ba-42d2-48523a168cff&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=line-vpn-production-7798.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=line-vpn-production-7798.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.131:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.93:46197?security=reality&encryption=none&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F2Ffdded5f9698d939&type=tcp&sni=updates.cdn-apple.com&sid=f24c17bb7fc284#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://8957414e-9e89-45bc-ac4b-ea2f561eed6c@199.232.78.159:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.7.kfc-520.com:10015?security=reality&flow=xtls-rprx-vision&pbk=ikCB12OSZuP08JB3pfGfS1QE02Xw7Ddm9k1RDS3ZWmE&sid=e38d&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40Mi40OSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTEuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==
+
+vless://7509f896-2115-4420-b487-501c9103bebd@112.187.240.245:33185?security=tls&sni=ccs.443888.xyz&type=ws&path=/vless?ed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
