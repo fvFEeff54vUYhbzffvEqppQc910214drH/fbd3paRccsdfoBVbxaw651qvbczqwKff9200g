@@ -16,3 +16,7 @@ vless://ded5ee4f-9f6c-426d-971d-d817b1c2a618@172.66.213.38:2052?path=%2F&securit
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.106:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://29ca503d-e6b8-4509-b666-48133f450857@172.66.44.97:443?encryption=none&security=tls&sni=learn00.evany.de5.net&type=ws&host=learn00.evany.de5.net&path=%2Fsg-melbi#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ISVvpn
+
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.165:8443?encryption=none&security=tls&sni=learn00.evany.de5.net&type=ws&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci!txt#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ISVvpn
+
