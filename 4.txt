@@ -10,3 +10,5 @@ vless://e6975922-245b-4507-8d12-61b3a5434bc4@69.46.46.54:443?path=%2Fws%2Fvless%
 
 trojan://e6975922-245b-4507-8d12-61b3a5434bc4@69.46.46.208:443?path=%2Fws%2Ftrojan%2Fe6975922-245b-4507-8d12-61b3a5434bc4%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ezaccess1-luffy-ezaccess1-ab56.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=ezaccess1-luffy-ezaccess1-ab56.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.93:62145?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
+
