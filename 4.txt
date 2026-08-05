@@ -46,3 +46,13 @@ trojan://lq1dk8m7-rtl3-wqns-whtz-9zd23kmz9c91@127.0.0.1:4080?security=tls&type=t
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
+vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
+
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?security=&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40V2HUBIR
+
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?security=reality&encryption=none&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&sid=6a2e3af684799b19#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@email.swiftraci.org:443?security=reality&encryption=none&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f7c5599376a0#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40V2HUBIR
+
