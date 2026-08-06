@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8383?encryption=none&type=ws&insecure=0&security=tls&allowInsecure=0&host=vip.dokhtaroune.ir&path=live&sni=vip.dokhtaroune.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
+
 vless://9560e15a-71e5-d624-4190-c280730d2b0e@69.46.46.100:443?path=%2Fws%2F9560e15a-71e5-d624-4190-c280730d2b0e&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-989b.up.railway.app&fp=ios&type=ws&sni=rvg-production-989b.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBMb25VcF9NIiwgImFkZCI6ICJTdHJFYU1Db3JFbm9EZTgtYXBJTElOa0hVYjQtTmVUd0ViR2F0ZS5DbG9VRHNZbmM5LmNPbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiY2Q3OGE0ZmYtYTg4MC00MGMzLTg0MTctZTZhMmEzOGM4OTYzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiU1RSZWFtQ29SRU5vZEU4LUFQaUxJbktIdWI0LW5ldHdFQkdBVEUuY2xvdURTWU5DOS5DT20iLCAiYWxwbiI6ICJodHRwLzEuMSIsICJwYXRoIjogIi9tVTVPM0xOQmMwQnluMUJnb1loOCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJzVFJFQU1jb1Jlbk9EZTgtYXBJbGlOS0h1YjQtbkV0V2ViZ0F0RS5DbE9VRFNZbmM5LkNPTSIsICJmcCI6ICJjaHJvbWUiLCAiZnJhZ21lbnQiOiAiNzAtMTEwLDUtMTIsdGxzaGVsbG8iLCAibWMiOiAxfQ==
@@ -127,6 +129,4 @@ vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:443?alpn=h2%2Chttp%2F
 vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:8443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=&sni=&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40LonUp_M
 
 vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=%40Black_Raven_ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=random&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@hcaptcha.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=deir.ramzshadi.ir&type=httpupgrade&allowInsecure=0&sni=ramzshadi.ir#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
 
