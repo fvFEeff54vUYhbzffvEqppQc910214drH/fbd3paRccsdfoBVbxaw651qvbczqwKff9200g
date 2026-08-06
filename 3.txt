@@ -7220,3 +7220,15 @@ trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=raw&sni=15
 
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=/api/v1/&security=tls&sni=deu683.lackerdeu.org&type=xhttp#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40chillguy_vpn
+
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2reya88
+
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.43:443?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.236.248.20:20071?security=reality&flow=xtls-rprx-vision&sni=www.lamer.com&type=tcp&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9#%F0%9F%87%BA%F0%9F%87%A6%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40UnlimitConfig
+
