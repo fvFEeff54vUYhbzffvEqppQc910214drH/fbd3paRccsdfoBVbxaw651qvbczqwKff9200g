@@ -7728,3 +7728,7 @@ vless://e6b9b2c9-a14b-43b0-aa52-1ce0e121940e@162.159.152.2:8080?security=none&ty
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.18.196:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
+vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=%40Black_Raven_ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=random&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@hcaptcha.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=deir.ramzshadi.ir&type=httpupgrade&allowInsecure=0&sni=ramzshadi.ir#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
