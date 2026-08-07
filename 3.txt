@@ -7870,3 +7870,17 @@ vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-
 
 vless://be1a1a70-b4d8-42a7-a7eb-2c849d344d6b@104.18.151.14:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=10.mobilezahra.com&mode=auto&sni=10.mobilezahra.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
+
+vless://1a9cf116-5578-4858-82ef-8778a5cf5aac@31.15.18.162:38370?authority=&encryption=none&fp=chrome&pbk=LXx8jqs9QVdo7p1ImjWwxLBAIGRSkx8xg_ygeurCmjc&security=reality&serviceName=gRPC&sid=f3&sni=play.google.com&spx=%2Fc9524f77294a76a&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://d1a19775-826d-46d6-b464-4069bd4f8ef0@95.182.114.74:443?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=web.max.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
