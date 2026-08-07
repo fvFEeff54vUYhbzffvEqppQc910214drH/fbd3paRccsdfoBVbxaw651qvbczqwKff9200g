@@ -18,3 +18,5 @@ vless://905b2467-3d01-42f8-946d-1fd5e576ba05@104.17.147.22:443?security=tls&sni=
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://a95b6f06-af75-4cf8-bcb0-15bcdcec7b64@193.104.58.45:59167?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
+
