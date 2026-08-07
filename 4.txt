@@ -30,3 +30,11 @@ vless://c47b7032-5184-4034-9a81-346c35c61fc5@okb.lorqina.ir:40813?encryption=non
 
 vless://c47b7032-5184-4034-9a81-346c35c61fc5@hc.lorqina.ir:15029?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
 
+vless://3bbef30d-9e00-7825-ab5d-8a69f9169d89@x4g-production-5360.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-5360.up.railway.app&path=/ws/3bbef30d-9e00-7825-ab5d-8a69f9169d89&sni=x4g-production-5360.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://72285958-052f-9fb9-1afa-2ea31f69f5e5@dl12sw.cdn-ir-prime.shop:2053?security=reality&type=grpc&headerType=&encryption=none&serviceName=&authority=&mode=gun&sni=yahoo.com&fp=chrome&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&sid=f1e1aa97&spx=%2F#%F0%9F%87%A8%F0%9F%87%AD%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://6dde1138-4f6d-4202-9c40-a4bed38c1121@Sosis.horlutr.ir:11458?mode=gun&security=reality&encryption=none&authority=play.google.com&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&fp=chrome&type=grpc&sni=play.google.com&sid=7de83d0e31eb75ef#%F0%9F%87%A8%F0%9F%87%AD%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://e265fe95-a329-4d74-ac9c-827bb22ccf66@188.114.96.0:443?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2F&host=amirhosseinir.kdns.fr&sni=amirhosseinir.kdns.fr&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
