@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://622de396-fcbe-4004-af19-af010c85e8cc@tk.degeris.ir:2053?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://fff5f85e-fcff-4bab-8f0e-95774e9d90b3@95.182.101.14:443?encryption=none&type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=LAHWmYZfjc083W0OmYCkuvvJ_5z2QoImx89NpLIQU2M&sid=dd37673ec1&spx=/HesarWeb#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
-vless://f95d3096-d69f-4338-b16a-d628b00b8691@104.18.18.18:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=v1.sub1vpn.dpdns.org&mode=auto&path=%2Fapi&security=tls&sni=v1.sub1vpn.dpdns.org&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40UnlimitConfig
-
-vless://a1c8157e-c336-4983-a37b-999a678068e7@ir.golden98.ir:21230?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=%2F&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesskhodam
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesskhodam
@@ -11087,4 +11077,26 @@ vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.41:2096?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
 
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.251:2083?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@165.245.211.3:28890?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.251:2083?allowInsecure=0&sni=edgc.aimercc.dpdns.org&alpn=h3&type=ws&host=edgc.aimercc.dpdns.org&path=/?ed=2560fp=random&security=tls#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.242:8443?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.242:8443/?type=ws&encryption=none&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccj.ambercc.filegear-sg.me&alpn=h3&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.234:8443/?type=ws&encryption=none&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccq.aimercc.filegear-sg.me#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.230:8443/?type=ws&encryption=none&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccy.ambercc.filegear-sg.me#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.208:443?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.207:443/?type=ws&encryption=none&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccr.aimercc.filegear-sg.me#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.136:443/?type=ws&encryption=none&host=edccj.ambercc.filegear-sg.me&security=tls&sni=edccj.ambercc.filegear-sg.me&alpn=h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
+
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path==ts.hpc.tw#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
 
