@@ -32,3 +32,19 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@RONINVPN1.mxvpn.dev:443?type=tcp&se
 
 vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
+vless://f7559b56-fe33-41d0-b54e-8ebdfb491dbd@cloudinohost.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+
+vless://f739f7e6-98b5-40a5-9c8e-037124e1c1ee@190.93.247.155:80?path=%2Fvless&security=none&encryption=none&host=Nl1.vless.site.&type=ws&sni=nl1.vless.site#%F0%9F%8C%90%20WS-None%20%7C%20%40v2reya88
+
+vless://f720249e-7c82-4ca9-bfeb-c8c8df1cd584@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2reya88
+
+vless://f720249e-7c82-4ca9-bfeb-c8c8df1cd584@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2reya88
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://MiTiVPN@151.101.130.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
+
