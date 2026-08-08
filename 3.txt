@@ -11976,3 +11976,9 @@ vless://f692629b-3557-488a-9c9b-60775331e423@31.58.50.8:8443?flow=xtls-rprx-visi
 
 vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?security=tls&encryption=none&type=ws&host=c12.com&path=/&sni=ssl.fastly.com&fp=firefox&alpn=h2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://a4635959-0692-424d-bca1-d746efb648c1@209.97.139.142:28292?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://8f046c7d-2e11-46b3-91c6-d20c240fd202@167.99.197.22:24522?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
