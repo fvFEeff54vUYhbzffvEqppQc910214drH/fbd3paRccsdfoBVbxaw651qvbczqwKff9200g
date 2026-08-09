@@ -18,3 +18,21 @@ ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.42:8080#%F0%9F%87%B3
 
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@91.98.154.118:57775?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40LonUp_M
 
+vless://4da654d0-67c1-40f8-3b58-d8b0ff31c910@s2.zynetraq.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=%2FBetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-d2c4faaab05a@104.27.201.25:443?encryption=none&security=tls&sni=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&path=%2Fstream%2FTrexBridge%2Fd2c4faaab05a#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-d2c4faaab05a@104.27.201.25:2053?encryption=none&security=tls&sni=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&path=%2Fstream%2FTrexBridge%2Fd2c4faaab05a#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-d2c4faaab05a@104.24.240.33:443?encryption=none&security=tls&sni=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&path=%2Fstream%2FTrexBridge%2Fd2c4faaab05a#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-d2c4faaab05a@104.24.240.33:2053?encryption=none&security=tls&sni=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=trexbridgepanel-j1mo9z.trexbridge-rikrw1.workers.dev&path=%2Fstream%2FTrexBridge%2Fd2c4faaab05a#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2087?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:8443?encryption=none&fp=chrome&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&security=reality&sid=7e3065b281&sni=www.intel.com&spx=%2Fz11iVdzHCExb0ve&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&security=reality&sid=c59dc48e&sni=www.nvidia.com&spx=%2FxeCuEkJ7ERtgNRj&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40UnlimitConfig
+
