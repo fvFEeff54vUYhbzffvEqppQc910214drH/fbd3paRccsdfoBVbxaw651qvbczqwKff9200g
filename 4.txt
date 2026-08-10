@@ -18,3 +18,7 @@ vless://271e3f7b-6afe-4104-b65b-afc2950f1638@mind.cnaviptech.com:8090?security=n
 
 vless://8918b670-d08f-49c5-aeb7-e8159f365418@mind.cnaviptech.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52076?security=tls&obfs=salamander&obfs-password=zducqb7ro143x0t2&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%A8%F0%9F%87%B4%20Hysteria-TLS%20%7C%20%40v2rayNG_Matsuri
+
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52050?security=tls&obfs=salamander&alpn=h3&obfs-password=gv77dpwof5y7lm3n&insecure=0&sni=assets.gateway-stream.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2rayNG_Matsuri
+
