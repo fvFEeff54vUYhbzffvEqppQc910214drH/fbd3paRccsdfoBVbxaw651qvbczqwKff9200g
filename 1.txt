@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://00b41e07-68e6-46b0-928f-a02becd4e398@awex.awexcl.ir:8080?security=reality&encryption=none&pbk=hgnVPfqR1hHnQDsYglNwxp7LNhjXEWBrg5wt7qCGMFs&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=52eed0630dd320c7#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://366ef9ec-1af2-4390-8e27-9a11a76bbc25@wislore.kdns.fr:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=wislore.kdns.fr&sni=wislore.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://697c7d23-bb48-4bbb-bd6d-87eeadad93b2@165.232.114.117:32067?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@108.162.192.64:443?path=%2F&security=tls&encryption=none&insecure=0&host=2026081000.yja.de5.net&type=ws&allowInsecure=0&sni=2026081000.yja.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://d2d546bd-1ca2-4796-84d1-fe7cc43f2835@www.ranlixa.ir:443?security=&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@108.162.198.188:443?path=%2F&security=tls&encryption=none&insecure=0&host=2026081000.yja.de5.net&type=ws&allowInsecure=0&sni=2026081000.yja.de5.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:8444?mode=packet-up&path=%2F735521b13c66&security=&encryption=none&host=193.58.122.41&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40V2HUBIR
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bFdXV3B4aGg3UEFmWFNOUldkamE2WHZpK2NnSkc0YlBienMwNFpjbnhUMD06U0pEcGZySzhQYXk0aUV0cm5wVktXSU44VGRCd3J6QzdtWmlnRUZ2emc4WT0%3D@138.124.92.103:28572#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
-
-ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc%3D@173.212.251.231:51058#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://5b9f5d49-2b4d-40d7-b41d-8a7d6cf31a87@31.57.228.37:45689?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%A6%20TCP-None%20%7C%20%40V2HUBIR
-
 vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:8080?path=%2F81b4e2c08ceb&security=&encryption=none&host=193.58.122.41&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40V2HUBIR
 
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40V2HUBIR
@@ -32,9 +12,11 @@ vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:2096?mode=gun&securit
 
 vless://de9fe68c-d7ff-4fed-8c24-9cf89e14e54a@155.254.35.31:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
 
-vless://5d42cfb4-2c66-12bd-0ba7-c87be92c0093@69.46.46.42:443?path=%2Fws%2F5d42cfb4-2c66-12bd-0ba7-c87be92c0093&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-102a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-102a.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
+vless://366ef9ec-1af2-4390-8e27-9a11a76bbc25@pasarguard-node-production-e959.up.railway.app:443?encryption=mlkem768x25519plus.native.0rtt.7gmH-x45CHXc88kSsdS7MVqBQDEP4Abf8zRSQ2WPbB8&security=tls&type=ws&headerType=none&path=%2F&host=pasarguard-node-production-e959.up.railway.app&sni=pasarguard-node-production-e959.up.railway.app&fp=ios&alpn=h2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
 
-vless://5b9f5d49-2b4d-40d7-b41d-8a7d6cf31a87@31.57.228.37:45689?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2reya88
+vless://b9c4f23e-5ab8-4bad-b31a-5b2eebce4e31@media.cdkshop.ir:443?security=reality&encryption=none&pbk=SJdAKRmq9WVXSd1T92Nbk-JftCM7JZMNpBaNCnhLYjk&headerType=none&fp=chrome&spx=%2Fc018f773a68a82e&type=tcp&sni=myclub.snapp.ir&sid=722b4dbcc2#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@nex1.liiliil.ir:2053?security=reality&encryption=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&headerType=none&fp=ios&spx=%2FHpBSTEEFl9XaNwx&type=tcp&sni=play.google.com&sid=d40e7c9920906dbd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://34376d1b-efcb-4e9d-81b8-914f63b79ff1@104.21.69.44:8080?Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
@@ -51,6 +33,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.236.235:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625us.ok365.cyou:443?allowInsecure=1#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2reya88
 
 vless://bee374de-0715-4ac1-b17f-0f301e7293a3@199.232.191.146:80?mode=auto&path=%2F&security=none&encryption=none&host=de-ultran.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40FreakConfig
 
@@ -129,4 +113,20 @@ trojan://kzj1io5j-qd21-aryo-p0ny-a3yjjsb9s3wl@127.0.0.1:1080?security=tls&type=t
 trojan://0gybt4wj-zbur-5t65-ki3f-xip0778wur00@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://c295259u-hq54-5bpb-rnga-ir9xti8wd1mj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?type=tcp&security=reality&sni=www.samsung.com&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.118:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+trojan://ic55zlex-dxq5-g94a-7e89-dcrcmr5vwjl1@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://vnot8vxx-5d92-p604-y96w-3gczhfv8e85c@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://jqv7biui-bqp7-5bia-gw33-605q9mxmjwq5@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@162.159.17.189:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
