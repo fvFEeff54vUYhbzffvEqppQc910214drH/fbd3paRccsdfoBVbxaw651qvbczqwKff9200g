@@ -72,3 +72,7 @@ vless://00b41e07-68e6-46b0-928f-a02becd4e398@awex.awexcl.ir:8080?security=realit
 
 vless://366ef9ec-1af2-4390-8e27-9a11a76bbc25@wislore.kdns.fr:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=wislore.kdns.fr&sni=wislore.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://697c7d23-bb48-4bbb-bd6d-87eeadad93b2@165.232.114.117:32067?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@108.162.192.64:443?path=%2F&security=tls&encryption=none&insecure=0&host=2026081000.yja.de5.net&type=ws&allowInsecure=0&sni=2026081000.yja.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40V2HUBIR
+
