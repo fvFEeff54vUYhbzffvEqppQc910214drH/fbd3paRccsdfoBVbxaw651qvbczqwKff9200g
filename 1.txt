@@ -1,5 +1,15 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@176.96.138.198:443?fp=firefox&security=reality&sni=www.ya.ru&flow=xtls-rprx-vision&type=tcp&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&headerType=none&sid=837fa04e73d6b581&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@nl.n.belka.network:443?fp=firefox&security=reality&sni=max.ru&flow=xtls-rprx-vision&type=tcp&pbk=U8yhhQTieIzorSj_S2ZGKlac4zfbP1d_ywFAn-7NGDs&headerType=none&sid=8f3e9c4b1a8d6e53&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@de.n.belka.network:443?headerType=none&sni=yahoo.com&fp=firefox&sid=7f2e9c4b1a8d6e53&flow=xtls-rprx-vision&security=reality&type=tcp&encryption=none&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://ed720ae2-e1ab-41d4-8c9c-ca9ab3cfee70@18.162.173.112:443?fp=chrome&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&type=tcp&pbk=0EtR_KBpH13wngvWn6rXJjINlWjb2nW8fgXrR46bz3E&headerType=none&sid=bd685806015172ca&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://7781929f-165f-4a94-b07b-689edf7913e2@20.89.106.34:443?headerType=none&sni=www.stanford.edu&fp=chrome&sid=73122674fa25a3ab&flow=xtls-rprx-vision&security=reality&type=tcp&encryption=none&pbk=mFfDWNmPFHIN3ojAw2GENgpklJUCOvfj1i_zix8Pnkc#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40UnlimitConfig
+
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?encryption=none&type=grpc&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40chillguy_vpn
@@ -119,14 +129,4 @@ trojan://MiTiVPN@104.21.55.230:443?sni=wbjj-bbcs-.App-Cloud.ir&peer=wbjj-bbcs-.A
 trojan://MiTiVPN@104.21.40.208:443?sni=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&peer=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://l7hs4fim-7732-jvly-3wlw-f4xrxxw6y2oi@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://fdzrgzsn-g3ha-5e7p-th05-gjp3ul952le4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://4xehhxne-fz1n-yd78-sssq-wtjf2rwbz2zj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://ND91608427@RONINVPN1-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&peer=internal-sunbird.rooster465.autos&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://MITIVPN@104.17.148.22:443?sni=Duss-a-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S-s-S.iR&peer=Duss-a-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S-s-S.iR&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.112.103:13868?security=reality&encryption=none&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.epicgames.com&sid=e852dc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
