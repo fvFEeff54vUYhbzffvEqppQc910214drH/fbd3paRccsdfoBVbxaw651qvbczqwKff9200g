@@ -6196,3 +6196,5 @@ vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?security=reali
 
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://70dac37d-3f38-9b3b-6cbe-ec016e01f5b9@69.46.46.20:443?path=%2Fws%2F70dac37d-3f38-9b3b-6cbe-ec016e01f5b9&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-9989.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-9989.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
