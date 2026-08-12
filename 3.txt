@@ -5284,3 +5284,27 @@ vless://d7c4acc4-a577-44f5-a47b-5850996db408@188.166.146.23:24568?security=none&
 
 vless://b0340cdd-abd4-02a3-4e3a-fb8d2b21c027@line-vpn-production-5cbc.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-5cbc.up.railway.app&path=/ws/b0340cdd-abd4-02a3-4e3a-fb8d2b21c027&sni=line-vpn-production-5cbc.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ae.pro-power-space.com:11125?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@bh.hyperlinkbt.com:11151?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@iq.hyperlinkbt.com:11148?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@qa.hyperlinkbt.com:11146?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://160201ba-df99-4a03-a0c2-9c4aa7a5fb57@221gr2144sdafdsfa.clonecloudcenter.ir:44607?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=nnHXxcgDfH9G80UhHw4a_49rqpDljsEaDKfWua_80EU&fp=chrome&type=xhttp&sni=icloud.com&sid=a16506792b1a28e4#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://160201ba-df99-4a03-a0c2-9c4aa7a5fb57@221gr2144sdafdsfa.clonecloudcenter.ir:60236?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=ng_M6KfXFeiEByUd5uBT85OvpB9yViL8O9RrGqWIyWk&fp=firefox&type=xhttp&sni=icloud.com&sid=e863be6aad85a1f0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://160201ba-df99-4a03-a0c2-9c4aa7a5fb57@1213tr12213safsadfsaf.clonecloudcenter.ir:57198?security=reality&encryption=none&pbk=roxgdl1HRVFXoZcFVHGGD8k-9JdDBELQs0ebNAzLR0M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=aee9551d55b7830e#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://a99af3a1-1ce0-45d8-9f28-90c91bced7fa@frmn.plasdomain.ir:31993?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=JJi5mLuFJwe8_EFfNIND5HBNqPDhWweYwGUdegdTwWI&sid=1caec57b4daf9f8f#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://a99af3a1-1ce0-45d8-9f28-90c91bced7fa@swa.plasdomain.ir:14548?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cdn-apple.com&fp=firefox&pbk=HKdzWVfBjDqY3EysqFGSx_Yz_MTcOrsA3ehY2DxBUwQ&sid=c0fd2c82751776c7#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://a99af3a1-1ce0-45d8-9f28-90c91bced7fa@swa.plasdomain.ir:31993?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=JJi5mLuFJwe8_EFfNIND5HBNqPDhWweYwGUdegdTwWI&sid=1caec57b4daf9f8f#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
