@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://c97eb410-3660-1c5c-0b7d-a58e8d4220bd@69.46.46.10:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fc97eb410-3660-1c5c-0b7d-a58e8d4220bd&host=rvg-production-fb65.up.railway.app&sni=rvg-production-fb65.up.railway.app&alpn=http%2F1.1&fp=ios&insecure=0&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
-
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40UnlimitConfig
-
 vless://9325718d-cc25-4f26-b460-392056885413@138.124.90.40:53932?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=hWwqKiL0I4FeHoveP3UllVVyOJBX0cc0-zPm7xXDIVM&sid=f213a838&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100…#None%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
@@ -51,6 +47,8 @@ vless://2a12bb81-f3a3-0065-99ab-36febf676b4a@130.78.216.194:443?security=reality
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40irconfiig
 
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.216:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40irconfiig
+
+vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40irconfiig
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40irconfiig
 
