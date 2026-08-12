@@ -36,3 +36,5 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52003?sec
 
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?security=&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
