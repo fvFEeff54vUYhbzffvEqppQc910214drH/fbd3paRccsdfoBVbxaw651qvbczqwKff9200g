@@ -102,6 +102,8 @@ trojan://ND91608427@RONINVPN1-gull.rooster465.autos:443?sni=relaxed-gull.rooster
 
 trojan://humanity@104.16.72.41:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40FreakConfig
+
 vless://92f25a19-c763-4173-cac1-81596eeb17d6@i4.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
 
 vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
@@ -127,6 +129,4 @@ vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
 
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
-
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40v2ray_Extractor
 
