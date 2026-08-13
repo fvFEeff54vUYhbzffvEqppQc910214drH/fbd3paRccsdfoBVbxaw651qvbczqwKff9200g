@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=rpc.v1.SyncService&allowInsecure=0&sni=edge1.numberoneok.com#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-TLS%20%7C%20%40V2HUBIR
+
+vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2086?mode=auto&path=%2F&security=&encryption=none&host=Lat.kabotarkhiyali.ir&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40V2HUBIR
+
+vless://c433fd91-8279-4c46-96c7-3b93b37a7e51@us03hk.lockdwn.com:443?security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40V2HUBIR
+
+vless://a1ca84ee-6328-4a3f-936b-9c8652b8f101@104.16.6.70:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=shop-1.bexait.ir&mode=auto&sni=shop-2.bexait.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6c2eec3f-9ab1-43f3-9d02-74a52a6a557e@www.chatgpt.com:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&path=%2Ftsar-tun&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=server.hastim.dpdns.org&fp=unsafe&type=ws&allowInsecure=0&sni=server.hastim.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a1ca84ee-6328-4a3f-936b-9c8652b8f101@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.133:62145?type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.217.4:62145?type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
+
 trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2nodes
 
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
@@ -113,20 +129,4 @@ vless://a746a471-0339-41ae-9750-d1f572bde296@104.21.84.47:443?path=%2Fvl%2FValSU
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@194.93.63.227:443?security=reality&encryption=none&pbk=FiGwAuKMy_5VK62hqCxDZn1jUjrplWTM1RmAwoA5o1w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lbvzo.falsemirrov.com&sid=0d6c02fda165f38c#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?&security=reality&flow=xtls-rprx-vision&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&fp=chrome&sni=www.epicgames.com&type=tcp&headerType=&host=www.epicgames.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://37cbf67e-4445-41c3-8d48-e59233175117@unamecf3.xn--ghqu5fm27b67w.com:443?type=ws&encryption=none&host=usa7.xn--ghqu5fm27b67w.com&path=%2Fpq%2Fus7&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usa7.xn--ghqu5fm27b67w.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A8%F0%9F%87%A6%20Hysteria-TLS%20%7C%20%40LonUp_M
-
-vless://502ab974-22ed-4621-a1d6-d15b78f677c2@webcam.dearhossein-taktaz.ir:443?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt._O1WVuyKcYcdbSISPM-Oq689DC6_JJ-B1CyA_xflCBw&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=webcam.dearhossein-taktaz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=webcam.dearhossein-taktaz.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40SPARTAN_YT
-
-vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2reya88
-
-vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@k1.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-ss://YWVzLTI1Ni1nY206T0daalpXUmtOV1JqT1RnMVl6WTNNak13TmpGa04ySTJZV1k1TXpjMQ@95.38.167.78:9102?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=qq&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
-
-vless://mahanvpn-mahanvpn@104.17.148.22:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
 
