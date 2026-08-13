@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://89q9t6ir-x1pb-htwt-br1d-joztqwrl1zo1@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://d4umtdgq-gsko-egde-qndl-fe8yvhjt8a2d@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://MiTiVPN@104.26.2.173:443?sni=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&peer=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://SoftNetConnect@83.228.230.226:2087?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
 trojan://MiTiVPN@151.101.56.8:443?sni=default.fastly.com&peer=default.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://3qkc6xl7-a8rk-785b-nojp-kjgpjqx4vw7j@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -67,12 +75,6 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?sni=de1.sferav
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?sni=62.210.7.139&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
 
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh%23%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&security=reality&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&mode=auto&path=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40ISVvpn
-
-vless://01f45602-330b-48e4-9c48-29b4c317a995@kr.riverveil.com:16073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cisco.com&fp=chrome&security=reality&pbk=yuEg_NhFbqDqYarxP3LMnvImQA59RNTknyqTHCQtyw0&sid=6ba85179e30d4fc2#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://0d5e6a2c-4c90-4f25-abf9-f5e17f286a36@cu.riverveil.com:27164/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cu.riverveil.com&fp=chrome&security=reality&pbk=pNHIe1axnPYjj8ImUbJqv6hjO81FknvRZTy2L5R9IEg&sid=6ba85179e30d4fc2#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://d0eca1e1-c4ec-43dc-a6e9-25e5d29d9fe5@193.39.9.240:1200?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=m8hOnhxPNmdXtfOky4MHI9FhArP3qqfH7lxcopcQfQA&fp=chrome&spx=%2F5hTXohV7JQ13R13&type=xhttp&sni=www.intel.com&sid=84e5e84350c46895#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
@@ -183,12 +185,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1O
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbGliYWJhIFVTIFRlY2hub2xvZ3kgQ28uLCBMdGQuIFx1MjUwNyA0My4xMDAuMzIuMTIiLCJhZGQiOiJuMTc0NzYyNDI3NC40dTltYS5pY3UiLCJwb3J0Ijo0NDMsImlkIjoiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
 trojan://6kkhbn2c-9u50-6o7w-kf57-q0ouw1uyyqhm@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://89q9t6ir-x1pb-htwt-br1d-joztqwrl1zo1@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://d4umtdgq-gsko-egde-qndl-fe8yvhjt8a2d@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://MiTiVPN@104.26.2.173:443?sni=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&peer=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://SoftNetConnect@83.228.230.226:2087?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
