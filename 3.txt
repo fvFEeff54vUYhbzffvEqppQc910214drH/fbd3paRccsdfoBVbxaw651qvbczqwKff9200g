@@ -5056,3 +5056,7 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.99.227:22224?type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@de.smotri-shop.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ya.ru&fp=firefox&pbk=tszWkJf8EdAkXhxvD-T_xA08SjU_x7lf15lXrPCLVn8&sid=3c88b649989ffa95&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
