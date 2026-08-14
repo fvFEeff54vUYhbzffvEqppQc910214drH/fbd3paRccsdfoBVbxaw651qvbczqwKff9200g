@@ -1,8 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
+vless://%58pnTeam-40@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+vless://%58pnTeam-40@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+vless://%58pnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@162.159.135.232:8080?encryption=none&type=httpupgrade&path=%2F&host=xn-deplay.google.com.dbsll.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40chillguy_vpn
 

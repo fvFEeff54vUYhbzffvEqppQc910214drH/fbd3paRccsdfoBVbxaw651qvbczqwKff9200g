@@ -1,5 +1,15 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://%58pnTeam-40@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-40@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@162.159.135.232:8080?encryption=none&type=httpupgrade&path=%2F&host=xn-deplay.google.com.dbsll.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40chillguy_vpn
+
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
@@ -119,14 +129,4 @@ vless://6b222876-01c4-4fcf-b8a3-68b522c83736@66.33.22.221:26734?mode=auto&path=%
 vless://a5ab5c3a-c637-45ed-8129-c132368bb2aa@213.188.223.161:443?path=%2F%3Fu&security=tls&encryption=none&insecure=0&host=sunny-poppy-077a.moma5637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sunny-poppy-077a.moma5637.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://32203a18-d3ce-5fac-a9e6-39d79159c553@199.232.78.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
-
-vless://24f8209b-6689-4e7a-b067-f886e04dfc43@est-1.p-esmy.icu:2066?flow=xtls-rprx-vision&fp=qq&sni=ads.x5.ru&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&encryption=none&headerType=none&security=reality&sid=1b2a3f&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://d3007143-f42a-b7cc-e687-bf60f915ca80@F.tl-germ.ir:80?headerType=http&security=none&type=tcp&host=play.google.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
-
-vless://c4bf72d1-a74d-4ffc-8c81-a0f8b2047f2e@104.24.32.2:443?mode=auto&path=%2Fapi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&host=sub1.sub017.dpdns.org&fp=chrome&type=xhttp&sni=sub1.sub017.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@Citizenofishhazen.pravio.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
