@@ -4,3 +4,15 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22224?encryption=none
 
 vless://13a6ab01-2d58-4a4c-b96b-8648f7aca2ee@146.75.119.82:80?type=ws&encryption=none&path=ws%2F%3Fed%3D2048%2F%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%2F%3F2048&host=rb24.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
+trojan://FH72359861@bold-eagle.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
+
+trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
+
+vless://1aeb853b-f5c9-487f-a8cb-930b7cd14fbf@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://1aeb853b-f5c9-487f-a8cb-930b7cd14fbf@lon.edgeptr.org:443?mode=auto&path=%2Fapi%2Fv1%2Fdata&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=%2Fassets%2Fimg%3Fv%3D2&type=xhttp&sni=ajax.aspnetcdn.com&sid=f0eb800bd980b00b#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&insecure=0&host=95r.ir&type=ws&allowInsecure=0&sni=95r.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://2246f00c-dc5a-467e-30d5-f6277e065e5b@s3.zynetraq.ir:2087?pcs=1b995919865b4b061a1768296995613e66d1afad274f8b227d70521038e56c2b&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s3.zynetraq.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.zynetraq.ir&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
+
