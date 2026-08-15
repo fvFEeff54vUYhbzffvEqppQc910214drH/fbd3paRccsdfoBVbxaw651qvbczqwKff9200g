@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?security=reality&encryption=none&pbk=NJrlB9wz9ctlwMOIK8Jp7Ml25j77QlFOjpha1lEktkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a9acf81b8773e1e#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=%2Fvless%2F&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=fi1.hys.braidx.tech&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=calm-panther.cdn.cachefleet.com&fp=random&insecure=1&allowInsecure=1&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-trojan://humanity@104.16.72.50:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://369f316c-2905-405d-9027-f8405ace9d3c@167.233.102.230:31981?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
 vless://70f6663a-4f3a-4538-9658-78459fe7da0b@146.75.119.82:80?encryption=none&security=none&type=ws&host=rb24.ir&path=ws%2F%3Fed%3D2048%2F%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1----%40VPNine1%2F%3F2048#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
 vless://%58pnTeam-37@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
@@ -5085,4 +5073,16 @@ vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@159.89.111.250:12899?security=none&
 vless://fd919d3f-464f-43f1-9b6d-705c8f1ca3c6@185.218.139.146:1200?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=C8oWirjYL_yGBmMKU-5oIJMX8yjvCWONqDGdNaXBUTY&sid=2a518a5bf289c2&spx=%2FoOIuKgH0MPgJghA&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://fd919d3f-464f-43f1-9b6d-705c8f1ca3c6@185.218.139.146:500?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=f1JRjNNbeEYEBHfa4cW3qaukkaprWDo0rl979Ev8Egg&sid=39&spx=%2FYjy7Ghj1yRqHJLL&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@172.67.74.10:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?security=reality&encryption=none&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=0240e83f65a25e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?security=reality&encryption=none&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F37e22857a63bac7&type=tcp&sni=www.cloudflare.com&sid=02f1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.155:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
