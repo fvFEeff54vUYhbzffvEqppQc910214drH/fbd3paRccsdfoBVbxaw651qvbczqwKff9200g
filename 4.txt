@@ -28,3 +28,23 @@ trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&insecure=0&
 
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
 
+vless://15e8deb3-9cf3-431a-9ae3-f1d7c4c3520f@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c573bbeb-6017-4eed-a993-a70db527d9eb@85.234.69.21:4433?security=none&encryption=mlkem768x25519plus.native.0rtt.x8aqjdnbhG43IMHOMLr5--GGXGxf1CFLwjlXHp4gDWM&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://65530edc-4b95-49c5-927b-9cf74b3a3b8d@ir1.mahye.ir:2011?type=tcp&encryption=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://1486d86f-4676-4786-b9de-72fa8ee5f376@140.248.186.45:80?encryption=none&host=echopress-bot-1444-ad1.global.ssl.fastly.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
+
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.104.11:80?type=ws&host=Fastapi.Org&path=%2F#%F0%9F%87%AE%F0%9F%87%B3%20WS-None%20%7C%20%40LonUp_M
+
+vless://7754078c-37c9-4f3e-9e06-3f98fc0c8684@me8.echo-license.gr:443?encryption=none&fp=firefox&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=82d5f832a84df8&sni=matrix-client.matrix.org&spx=%2F1zB91UbtkMKLMl0&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
