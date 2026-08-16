@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=%2F&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
-
-vless://55fb2ccb-a702-4fe8-ac25-9c86f44764c3@lahes.xelfona.ir:2095?encryption=none&host=pol.xelfona.ir&path=%2FODP-IPSPZ-IOS&security=none&type=httpupgrade#%F0%9F%87%B5%F0%9F%87%B1%20HTTPUpgrade-None%20%7C%20%40LonUp_M
-
-vless://55e612d3-1a0e-4290-b880-a9ae48868515@65.109.186.63:55764?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
-
 ss://chacha20-ietf-poly1305:3jh4AaJTlphrzU7THNjvY05I5dyO8rw6@93.119.195.172:14#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 vless://224398db-7e90-421d-95be-178ec8c9d653@91.107.144.202:18020?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=0xLgsE7IR5ewIl8gbBvO4199a9Av1_asmucL6V9u6nw&sid=e31e363bd206f49d&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -122,11 +116,17 @@ vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@rf6.o4ka-internet.com:443?type=tcp&
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
 
-ss://YWVzLTI1Ni1nY206TXpReVpEUmxNRGhqWWpnek5EYzVPREF6TW1SaVpHVTNaVEV3WkRndw@singapore02.npvnot.com:443#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40VlessConfig
 
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.6.106:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
 
-vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@164.37.105.2:443?security=reality&encryption=none&pbk=lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pnnsh.falsemirrov.com&sid=bc609efa3b2d052f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
+vless://d4381eda-187c-cb1a-67d8-7592b2169c2f@rvg-production-bdae.up.railway.app:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2Fd4381eda-187c-cb1a-67d8-7592b2169c2f&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=rvg-production-bdae.up.railway.app&fp=ios&type=xhttp&allowInsecure=0&sni=rvg-production-bdae.up.railway.app#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
