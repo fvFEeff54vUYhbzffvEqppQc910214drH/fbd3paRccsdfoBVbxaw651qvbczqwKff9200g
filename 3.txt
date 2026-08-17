@@ -1,16 +1,10 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://d2aeb078-90db-4f90-b334-623bcbea8d31@144.31.237.76:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sid=da8198896a34e6ec&pbk=xxqv2JF09vb9H5GUrGXvXZx46-dlNtNvdTNgOe_W1A0&sni=cdnjs.cloudflare.com&encryption=none&fp=firefox#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUNrYVkvRWdBMTA2RWMvY2VXSTJBNEk3QlhJZ2JEVUo2aFJuRGlDV1g2MD0@134.65.62.195:61312?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206WmpObFpUZ3dNekU0Tnpnek9HUm1ZVFkzTlRrd05UY3lPVEpsWkRjeA@95.38.167.78:9114?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://mahanvpn-mahanvpn@104.17.147.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@144.31.237.76:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sid=da8198896a34e6ec&pbk=xxqv2JF09vb9H5GUrGXvXZx46-dlNtNvdTNgOe_W1A0&sni=cdnjs.cloudflare.com&encryption=none&fp=firefox#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 ss://YWVzLTI1Ni1nY206WmpObFpUZ3dNekU0Tnpnek9HUm1ZVFkzTlRrd05UY3lPVEpsWkRjeA@95.38.167.78:9114?#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://mahanvpn-mahanvpn@104.17.147.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://529e5b98-d9f6-4b76-9f4e-d22cca9303bd@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -255,6 +249,8 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryptio
 vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.45.6:80?encryption=none&security=none&type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40DeamNet_proxy
 
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUNrYVkvRWdBMTA2RWMvY2VXSTJBNEk3QlhJZ2JEVUo2aFJuRGlDV1g2MD0@134.65.62.195:61312#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://7f2e9f73-816e-138a-4dd6-852fd6c1f4c7@rvg-production-ebf8.up.railway.app:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2F7f2e9f73-816e-138a-4dd6-852fd6c1f4c7&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=rvg-production-ebf8.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-ebf8.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
 
@@ -2399,6 +2395,8 @@ vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v938014.hosted-by-vdsina.com:443?ty
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@172.67.118.45:443?type=ws&security=tls&sni=de-new.ariyuz.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://b1caa247-da46-4e79-834b-8ab083512ff8@212.104.128.85:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=mad.sub017.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&insecure=0&host=mad.sub017.dpdns.org&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206WmpObFpUZ3dNekU0Tnpnek9HUm1ZVFkzTlRrd05UY3lPVEpsWkRjeA@95.38.167.78:9114?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -9445,4 +9443,14 @@ vless://99d4a8ec-67b2-4dab-a860-e44ce23cd097@netherland.zelnora.ir:64584?securit
 vless://7f3c6d59-e19f-47e4-8004-5facb77b1211@65.109.181.6:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
 
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?type=tcp&headerType=none&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://11d304ea-f806-4d6d-9f80-0edff64abc1f@176.53.17.240:6051?security=none&type=tcp&headerType=http&path=%2Fapi%2Faksujdfghuuyfs7887fyh8%2F&host=amp-api-edge.apps.apple.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2rayNG_Matsuri
+
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.77.215:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://FH72359861@16.146.11.254:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=live-stallion.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.245.94:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
