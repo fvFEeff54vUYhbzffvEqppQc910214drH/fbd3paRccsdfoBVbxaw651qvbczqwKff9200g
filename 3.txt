@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&sni=www.ibm.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-dm1.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-dm1.netsnap.ir.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
 ss://YWVzLTI1Ni1nY206WVdNeU1tUXhPVGxrWmpneE0ySXdNbVUxT1RobE1qaGhOMkZtT1dJNQ@95.38.167.78:9147?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
@@ -7433,4 +7421,12 @@ vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encrypt
 vless://633c112c-11dd-48d3-8595-e151dd589ef4@85.234.86.105:2053?type=grpc&security=reality&fp=chrome&pbk=XrNOGI1TNjL2rcq65LBsjw8ouZ9PQMOZt466XeJt8XE&sid=dd70b6a4e3e9e7ce&sni=www.google.com&mode=gun&serviceName=grpc&spx=/#%F0%9F%87%B5%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://63fe208d-b866-477e-9f77-a699ef190a5e@199.232.244.7:443?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiAiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwgImFpZCI6IDAsICJob3N0IjogIkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6IDQ0MywgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsICJ0bHMiOiAidGxzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
