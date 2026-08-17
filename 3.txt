@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?headerType=none&security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://50414e45-4c5f-5a45-5553-9568000eed47@104.17.154.178:443?encryption=none&security=tls&sni=urzpn8e9ub5s.shoameni2.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://50414e45-4c5f-5a45-5553-9568000eed47@104.16.147.125:443?encryption=none&security=tls&sni=urzpn8e9ub5s.shoameni2.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://50414e45-4c5f-5a45-5553-9568000eed47@104.25.117.90:443?encryption=none&security=tls&sni=urzpn8e9ub5s.shoameni2.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&security=none&encryption=none&host=parsi.parsi.sbs&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
@@ -25,6 +15,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
 
 ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
+
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
@@ -117,6 +109,8 @@ vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&ty
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?path=%2Fpyip&encryption=none&type=ws&host=tiny-feather-4c41.227.workers.dev&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=qq&type=tcp&headerType=none&sni=play.google.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_Extractor
+
+vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?headerType=none&security=none&type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
 
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
@@ -7483,4 +7477,30 @@ vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?type=raw&securit
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.10.165.209:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&pbk=p3sQ8oByv8AXIm2jaOdFvAmxTeMGjr9uwCqyFvHpJz0&sid=d6c4636b81237396#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://ae6f014e-c539-4278-8f21-66c7ad2bbb47@183.107.137.157:36389?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://60bd45e4-a363-492a-8a7f-41aaeedbb497@bot-ep-i6kok3.samanidempire.org:443?path=%2Fd288f756&security=tls&encryption=none&alpn=http%2F1.1&host=bot-ep-i6kok3.samanidempire.org&type=ws&sni=bot-ep-i6kok3.samanidempire.org#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL---ELiV2RAY-ELiV2RAY.IR&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&host=CHANNEL--ELiV2RAY---ELiV2RAY.IR&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&host=CHANNEL-ELiV2RAY-ELiV2RAY.IR&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3522a57e-f223-4715-b3e1-ddd539b0ccdf@ger1.ez0535.ir:443?type=tcp&security=reality&pbk=Ocq-wUqC2Gl7Iz1fcKDzFjSdDSUcmalNETBMu8mHTn0&sni=yahoo.com&fp=firefox&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
