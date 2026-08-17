@@ -46,6 +46,13 @@ def get_only_flag(text):
 def parse_vmess_uri(config):
     try:
         b64_str = config[8:]
+        # رفع باگ اول: استخراج خالص‌ترین بخش Base64 و دور ریختن پسماندهای تگ‌های HTML یا متون اضافه
+        match = re.match(r'^[A-Za-z0-9+/=_-]+', b64_str)
+        if not match: return None, False
+        b64_str = match.group(0)
+        
+        # استانداردسازی کاراکترها
+        b64_str = b64_str.replace('-', '+').replace('_', '/')
         b64_str += "=" * (-len(b64_str) % 4)
         data = json.loads(base64.b64decode(b64_str).decode('utf-8'))
         return data, True
@@ -83,10 +90,12 @@ def analyze_and_rename(config, channel_name):
             if ok:
                 flag = get_only_flag(data.get('ps', ''))
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
-                transport = t_map.get(data.get('net', 'tcp').lower(), 'TCP')
-                security = 'TLS' if data.get('tls', '').lower() == 'tls' else 'None'
+                # رفع باگ دوم: استفاده از ()str برای جلوگیری از کرش در مواجهه با مقادیر Null
+                transport = t_map.get(str(data.get('net', 'tcp')).lower(), 'TCP')
+                security = 'TLS' if str(data.get('tls', '')).lower() == 'tls' else 'None'
                 data['ps'] = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
-                return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
+                # رفع باگ سوم: استفاده از separators برای حذف فاصله‌های اضافی در JSON
+                return "vmess://" + base64.b64encode(json.dumps(data, separators=(',', ':')).encode('utf-8')).decode('utf-8')
 
         base_url, raw_fragment = config.split('#', 1) if '#' in config else (config, "")
         flag = get_only_flag(raw_fragment)
