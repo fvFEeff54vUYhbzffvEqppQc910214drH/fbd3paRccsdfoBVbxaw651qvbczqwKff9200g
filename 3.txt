@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=tls&fp=chrome&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://b10a6e5e-3743-43ab-b32f-cd4a9643567f@130.185.122.175:8888?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AGL%2BDQBeAAAgACCjjXdAYQrcIEGiyI2hOi8jtLCdxjV%2Fp351r3%2BVXZ2vawAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xMzAuMTg1LjEyMi4xNzUAAA%3D%3D&type=ws&allowInsecure=0&sni=#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://b10a6e5e-3743-43ab-b32f-cd4a9643567f@91.228.186.215:8787?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&ech=AGH%2BDQBdAAAgACDc9liBPVqanMn8T6ZnBbk6ZZZoUHspAdcRMmdrOI4WYgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA45MS4yMjguMTg2LjIxNQAA&type=xhttp&allowInsecure=0&sni=#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40UnlimitConfig
-
-vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&sid=02f1&spx=%2F37e22857a63bac7&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40orange_vpns
-
-vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=lnW0ggGLrSk5E4Iabw30DGHretuTV2KQcWlqDCcVKmc&sid=526a2c8a4326dad0&spx=%2F3077e4a605954fa&allowinsecure=0&type=xhttp&mode=auto&path=%2Fassets&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%2270-50%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40orange_vpns
-
-vless://01f441ab-00e1-4865-90ca-6b2eff143506@68.183.41.47:36180?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40orange_vpns
-
-vless://7d3963b5-4029-4878-a251-2437deaebcd7@apn.zyro-lab.com:1324?encryption=none&security=none&type=ws&host=api16-access-wf-sg.pangle.io&path=%3Fed%3D2560#%F0%9F%8C%90%20WS-None%20%7C%20%40orange_vpns
-
-vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@104.17.122.116:2052?encryption=none&security=none&type=xhttp&mode=packet-up&host=www.digikala.com.www.speedtest.net.savteam2.ip-ddns.coM.&path=%2FMoltivers%3Fed%3D2095#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40orange_vpns
-
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
 
 trojan://AE62539071@worthy-labrador.rooster465.autos:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_Extractor
@@ -1108,6 +1090,8 @@ vless://31711abf-a3c8-45f7-aa8b-f46195ce8d8f@5.75.209.192:443?pcs=21%3A17%3AFD%3
 
 vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?path=%2F&security=&encryption=none&host=j03.sahanwickramasinghe.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40V2HUBIR
 
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40V2HUBIR
+
 vless://5f2041b7-6eca-4700-9e15-a17cd1b2b26a@1telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://5f2041b7-6eca-4700-9e15-a17cd1b2b26a@2telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -1374,11 +1358,17 @@ vless://1d40b834-2538-4799-d29a-f0004d3c20b4@s3.zynetraq.ir:2087?alpn=h2%2Chttp%
 
 vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
+vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&sid=02f1&spx=%2F37e22857a63bac7&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://01f441ab-00e1-4865-90ca-6b2eff143506@68.183.41.47:36180?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
+
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2FTelegram-MTMVPN-Telegram-MTMVPN-Telegram-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPNMTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40SPARTAN_YT
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40SPARTAN_YT
+
+vless://7d3963b5-4029-4878-a251-2437deaebcd7@apn.zyro-lab.com:1324?encryption=none&security=none&type=ws&host=api16-access-wf-sg.pangle.io&path=%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
 vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -2159,6 +2149,8 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?encryption=
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&fp=chrome&sni=ov.iran-servers.shop#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ND91608427@fr1.levikogjgfdd.ir:443?type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=tls&fp=chrome&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%7C%20%40LonUp_M
 
