@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@94.103.2.91:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://010d7dc9-776b-4495-a85c-44794f3da49c@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://348b1b7d-fe7b-43f9-84b5-a2917925c8a8@nl.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@mold1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold1.panel11.ru&fp=firefox&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%7C%20%40LonUp_M
@@ -1569,6 +1563,8 @@ trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&insecure=0&
 trojan://humanity@104.18.9.83:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -8935,4 +8931,6 @@ vless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=%2Fdownload.php
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?encryption=none&type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?encryption=none&type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
