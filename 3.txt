@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
-
-vless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=%2Fws%2F1e3332a1-82d4-3c60-166b-5c54db9ff355&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-01ad.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-01ad.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40FreakConfig
-
-vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=%2Fws%2F93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40FreakConfig
-
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40FreakConfig
-
-vless://ca599ed4-f7a0-4ddf-a45d-3cb6276d6cd7@67.159.42.154:443?insecure=0&fp=firefox&type=ws&encryption=none&allowInsecure=0&path=%2Fapi%2Fconnect%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&alpn=http%2F1.1&sni=cli-q.bosx.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?security=reality&encryption=none&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=e0331b94eb540116#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://b3764969-ffeb-4436-8f83-ca9f1774edb9@72.56.7.195:4100?encryption=none&security=none&type=ws&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
 
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&security=tls&sni=ov.iran-servers.shop&fp=chrome&allowinsecure=0&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
@@ -127,6 +111,8 @@ vless://5e18094c-18b1-4198-b211-96b40518cecf@email.swiftraci.org:443?security=re
 vless://a7df571e-62c3-43e8-874c-f3baefab278c@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@Erlingbrathalland.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&sid=e0331b94eb540116&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://4b44c6f1-a2a3-4179-91ed-5a9be1b708d7@cctvhikvision.center:2052?encryption=none&type=ws&path=%2F%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io#%F0%9F%8C%90%20WS-None%20%7C%20%40orange_vpns
 
@@ -6404,6 +6390,10 @@ vless://56ad412e-2496-8d0f-f70c-7a19d75a4280@rvg-production-ab3b7.up.railway.app
 
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=%2Fws%2F1e3332a1-82d4-3c60-166b-5c54db9ff355&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-01ad.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-01ad.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=%2Fws%2F93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://9934e311-783e-4ae6-91e4-81247b2c3774@sakura.proxy.rlwy.net:53994?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2Fassets&security=none&encryption=mlkem768x25519plus.native.0rtt.RXd0cP3r7QmDJbZm-Kc99dqLlP_uj9NAG-wyZTy1Ujk&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
 vless://56ad412e-2496-8d0f-f70c-7a19d75a4280@rvg-production-ab3b7.up.railway.app:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=ws&host=&path=/ws/56ad412e-2496-8d0f-f70c-7a19d75a4280&sni=&fp=ios&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -8725,6 +8715,8 @@ vless://98950131-7300-4b69-8fcf-3d707798c5fa@www.speedtest.net:8080?encryption=n
 trojan://09ca66181ccb484087d8e9ec6c7eb14e@micro-svc-2337e0.amiralihsp27.workers.dev:443?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=tls&path=%2Ftr%2FBmarM5b0CCvalWjhG%3Fed%3D2560&sni=miCRO-sVC-2337E0.amiraLIhSp27.wOrkErS.dEV&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://f1dd9ca3-8900-d355-8056-690e2d903d08@tgf35bot-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=tgf35bot-production.up.railway.app&path=/ws/f1dd9ca3-8900-d355-8056-690e2d903d08&sni=tgf35bot-production.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
 
 vless://7f897a20-6062-47c0-80f0-ce02274fd10d@it.uarlixo.ir:3050?security=reality&encryption=none&pbk=m9qa-h8IRAgNClJ2_ktXKWufJ8WXTCjKHDLmFPyDmAY&headerType=none&fp=chrome&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=a6ca5fa542af7884#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
 
