@@ -24,3 +24,13 @@ trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=&fp=chr
 
 vless://7b7cf64b-1f03-4865-1a2e-d0cd9dc93ca3@rvg-production-ab3b7.up.railway.app:443?encryption=none&security=tls&type=ws&host=rvg-production-ab3b7.up.railway.app&path=/ws/7b7cf64b-1f03-4865-1a2e-d0cd9dc93ca3&sni=rvg-production-ab3b7.up.railway.app&fp=ios&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?path=%2F11030%2Fapi1&security=tls&encryption=none&insecure=0&host=onisni.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=onisni.irandoc.info#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40FreakConfig
+
