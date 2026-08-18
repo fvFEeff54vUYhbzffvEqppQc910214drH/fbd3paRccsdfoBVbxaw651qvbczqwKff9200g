@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@172.67.149.60:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_cartel
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_cartel
-
-trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_cartel
-
-vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@94.237.30.228:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=play.google.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
-vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@95.182.98.196:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=play.google.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#%F0%9F%87%AB%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
-vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?type=ws&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B3%20WS-None%20%7C%20%40UnlimitConfig
-
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
 
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
@@ -639,6 +625,8 @@ vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?Telegram=@GozargahAz
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@91.196.35.146:443?encryption=none&type=tcp&security=reality&headerType=none&sni=russia.cendora.ru&fp=edge&insecure=1&allowInsecure=1&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=%2Fdownload.php&security=tls&encryption=none&host=chopin.adaspoloandco.com&type=ws&sni=chopin.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -2805,6 +2793,8 @@ vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053/?type=tcp&encrypt
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@94.237.30.228:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=play.google.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@217.60.68.179:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=de13.fast-connect-service.site&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -8740,6 +8730,8 @@ vless://58984fe1-5f01-486b-bb68-c2f8352d7a92@132.243.212.205:41503?security=real
 
 vless://a8a44720-ef90-f52a-351b-fc63bf7761f2@sss.cncoo.ir:443?path=%2Fws%2Fa8a44720-ef90-f52a-351b-fc63bf7761f2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sss.cncoo.ir&fp=chrome&type=ws&allowInsecure=0&sni=sss.cncoo.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
+trojan://humanity@172.67.149.60:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://baadeb43-ab3d-40f2-b1e6-5e3d4104f06c@2.58.56.215:2054?mode=gun&security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&fp=chrome&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=423bccc9c13fb509#%F0%9F%87%AB%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pol3.freeinternat.com&sid=ff776ff77be48b88#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_Vpn
@@ -9255,6 +9247,8 @@ trojan://humanity@104.18.152.143:443?security=tls&sni=www.ignitelimit.com&insecu
 vless://122097ba-f4c4-4177-9085-7f0b352195f5@fr6.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://8e348ebd-1258-4d83-9721-81f922d314e9@178.239.145.21:101?security=none&encryption=none&host=mci.neteaderType=htp&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://afd63042-1c62-472f-9b56-5904d71e44d1@104.18.153.188:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=de-cdn.trxlnsnet.ir&type=xhttp&allowInsecure=0&sni=de-cdn.trxlnsnet.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40UnlimitConfig
 
