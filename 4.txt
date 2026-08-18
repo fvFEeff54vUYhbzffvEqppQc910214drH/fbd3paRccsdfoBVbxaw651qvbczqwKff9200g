@@ -8,3 +8,19 @@ vless://1b7e722e-a8e1-4314-9463-9440e6fe6a66@iman.dexterr.ir:12555?encryption=no
 
 vless://1a22ccf1-7d1d-4043-8a90-1026b15fa2df@fr.pollcenter.site:34156?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&sid=d6cdfdd9a21f8d23&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://1b7e722e-a8e1-4314-9463-9440e6fe6a66@104.21.81.165:443?encryption=none&fp=chrome&host=cdn.dexterr.ir&path=%2F&security=tls&sni=cdn.dexterr.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://1b7e722e-a8e1-4314-9463-9440e6fe6a66@104.21.68.12:443?encryption=none&fp=chrome&host=cdn.dexterr.ir&path=%2F&security=tls&sni=cdn.dexterr.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://1b7e722e-a8e1-4314-9463-9440e6fe6a66@iman.dexterr.ir:48979?encryption=none&fp=chrome&pbk=Z-BjkiEoEAruWC7BmxSaXX2fU4bnp-eYbkhbYGTu4FE&security=reality&sid=cd70692be3e501e9&sni=www.cloudflare.com&spx=%2Fa39aa994688bc86&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c1690430-9cd5-4fb0-90bf-c709c86326bf@5.75.193.204:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://c7333a4e-b8c9-44d4-aee6-f73bfe203902@france3.spaidan.ir:35974?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
+trojan://_Hqs2tyFXRK3mDAOZZocRqL_uWa95ssL@dns.devmrzero.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=tcp.devmrzero.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://ac23b89c-42d7-4490-8e59-397788c48574@167.104.217.23:443?type=xhttp&security=tls&sni=nlnew7.denverpresents.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://b98e3ee9-a67f-465a-a8f9-1e59e3cda6a8@nl.cryptoofarm.com:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nl.cryptoofarm.com&fp=firefox&pbk=KnTz_Vm-xJnmWu9bREZPqaE2z1JBa3vY5mFAq8ywQXs&sid=20f2019b8755f6f3&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
