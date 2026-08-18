@@ -44,6 +44,8 @@ vless://2aa12a72-19c9-488c-ba28-c857c4b10f7a@spider-panel-production-7745.up.rai
 
 vless://b9367540-c1bd-4c2c-b128-7b373c1359e9@62.238.49.122:58134?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
 vless://fa4babae-cea3-49b1-9d6f-342495a46ea9@201.24.49.62:3?type=tcp&headerType=none&path=%2F#%F0%9F%87%A7%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40FreakConfig
@@ -117,6 +119,4 @@ vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?encryption=none
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%B0%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://493dea8b-0d8d-42bf-b96b-1efee4d5102a@hope.tutdesignstudio.site:443?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=hope.tutdesignstudio.site#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2nodes
 
