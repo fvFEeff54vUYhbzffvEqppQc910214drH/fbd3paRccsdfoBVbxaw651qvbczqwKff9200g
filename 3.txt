@@ -8388,3 +8388,7 @@ hysteria2://8b01385249158f87c650b2da0de7688d@45.88.14.120:443?insecure=1&sni=eda
 
 vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?sni=translate.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://EQ30679154@direct-hawk.rooster465.autos:443?allowInsecure=0&sni=direct-hawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2nodes
+
