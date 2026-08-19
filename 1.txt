@@ -14,7 +14,13 @@ vless://48c622d6-3cdd-47d5-8cd8-29855f7716d1@2.26.7.249:554?fp=firefox&sni=api-m
 
 vless://8f9fb0bc-cf5a-428c-b8dd-35841ed5b851@tandfonline.com:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=mad.sub017.dpdns.org&mode=auto&path=%2Fapi&security=tls&sni=mad.sub017.dpdns.org&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.0.7:443?path=%2FGoorBah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?path=%2FGoorBah&security=tls&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.21.83.56:443?path=%2FGoorBah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -113,10 +119,4 @@ vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?security=reality
 vless://2638ebe2-0685-46ec-9c24-24a3923062d3@212.104.128.85:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=mad.sub017.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&insecure=0&host=mad.sub017.dpdns.org&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40chillguy_vpn
 
 vless://2638ebe2-0685-46ec-9c24-24a3923062d3@212.104.128.82:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=mad.sub017.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A6%7D%7D&insecure=0&host=mad.sub017.dpdns.org&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40chillguy_vpn
-
-vless://418dd153-4582-40cf-b88a-6898dfa8845b@65.20.91.19:443?security=reality&encryption=none&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ce702769abcbc729#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.193.180:54?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://d5412d3f-aa3e-4eb8-8798-4e71448457ea@pt-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=aefc7f3722#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
 
