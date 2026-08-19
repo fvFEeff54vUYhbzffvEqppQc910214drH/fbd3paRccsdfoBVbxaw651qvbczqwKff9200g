@@ -6460,3 +6460,7 @@ vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?encryption=none&ty
 
 vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://%58pnTeam-15@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://%58pnTeam-15@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
