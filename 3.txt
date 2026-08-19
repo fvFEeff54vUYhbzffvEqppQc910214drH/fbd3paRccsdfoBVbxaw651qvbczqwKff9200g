@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cisco.com&fp=chrome&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&sid=b7bbbeeeb367bf3a&spx=/&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.124:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://0be5a3fd-c752-4387-922e-06eb246e7eb0@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@185.244.163.223:8443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=id.tutdesignstudio.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@213.219.212.146:8443?encryption=none&fp=firefox&mode=gun&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&security=reality&sid=a1b2c3d4&sni=max.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://4a334454-22f7-0002-9bec-583e1e8a2773@51.250.7.143:2096?type=grpc&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=strm.yandex.net&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://0c4b8cf6-d8fd-07d0-b4c9-80270f89cc49@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40UnlimitConfig
-
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gb1.murhost.network&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&sid=84f9881951050a30&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ISVvpn
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ISVvpn
@@ -66,17 +46,25 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@95.169.201.169:13868?security=reali
 
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
+vless://0be5a3fd-c752-4387-922e-06eb246e7eb0@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40LonUp_M
+
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&peer=wanted-marmoset.rooster465.autos&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
 
 trojan://qf7taucb-ww3z-vlox-1alt-egc61sixqi6x@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
 
 trojan://wljtsjws-cl0y-iyzw-q9jq-ee9dmx3xtcfx@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
 
+vless://0c4b8cf6-d8fd-07d0-b4c9-80270f89cc49@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@185.244.163.223:8443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=id.tutdesignstudio.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?security=reality&type=raw&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 trojan://honhjrsd-c1mh-6l3v-dz3p-18d218w7gku4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
 
 trojan://06pr0f05-986a-8afz-1s1y-l3ilaxio2fvc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -211,6 +199,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.199.26.134:22222?encryption=none
 vless://62a08ea5-0564-47b4-a92c-25be07ad6358@93.152.223.214:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 trojan://ON38567014@lucky-marmot.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://FH72359861@aware-coyote.rooster465.autos:443#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -897,6 +887,8 @@ vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443/?type=tcp&encryp
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.255:8443/?type=ws&encryption=none&flow=&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://4984930f-4a7a-4dfa-8edc-5d21bbf5ca13@185.113.11.136:1443?mode=gun&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=firefox&type=grpc&serviceName=grpc&sni=sw.pubconverter.com&sid=361c68748712c743#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40FarazV2ray
 
