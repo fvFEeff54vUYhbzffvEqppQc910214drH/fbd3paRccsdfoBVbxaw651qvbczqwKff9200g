@@ -14,3 +14,11 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?type=tcp&head
 
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://36b78162-4e57-4e08-b3d0-ef13b788f7ec@95.38.184.199:995?path=%2Fmmd&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://08491b3d-0479-4d51-8076-a5e91a6c1937@81.12.54.200:2010?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://08491b3d-0479-4d51-8076-a5e91a6c1937@it1.speedit.ir:2095?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.21.15.245:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nl.chick-team.ru&fp=chrome&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&sid=0894e51863b5c395&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
