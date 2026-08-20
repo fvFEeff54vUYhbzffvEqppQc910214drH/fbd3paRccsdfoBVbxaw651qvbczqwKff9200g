@@ -1,20 +1,14 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?allowInsecure=1&sni=ru-5b7331.atlanta-games.com&alpn=h2&type=grpc&serviceName=ajv#%F0%9F%87%AA%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
-
-trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://a390d188-091b-4644-9804-14a2539ad6c7@69.46.46.15:443?sni=web-production-878d1.up.railway.app&alpn=http/1.1&type=ws&host=web-production-878d1.up.railway.app&path=/ws/vless/a390d188-091b-4644-9804-14a2539ad6c7?ed=2048fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2nodes
-
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40v2nodes
-
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&sni=nordic.cendora.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
 vless://493dea8b-0d8d-42bf-b96b-1efee4d5102a@hope.tutdesignstudio.site:443?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=hope.tutdesignstudio.site#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&extra=%7B%0A%20%20%22headers%22%20%3A%20%7B%0A%20%20%20%20%22User-Agent%22%20%3A%20%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%0A%20%20%7D%2C%0A%20%20%22noGRPCHeader%22%20%3A%20true%2C%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hKeepAlivePeriod%22%20%3A%2012%2C%0A%20%20%20%20%22maxConcurrency%22%20%3A%20%226%22%0A%20%20%7D%0A%7D&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40LonUp_M
 
 vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?encryption=none&fp=&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&security=reality&sid=3f080f861d7f&sni=www.github.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -6465,4 +6459,16 @@ vless://1deba0ae-6369-4214-8e8f-b35383397773@data6.horqen.ir:21289?security=none
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://6dc55f52-1054-4666-a122-c90eacb25f54@ne.configfast.site:11021?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai%2Cweb.splus.ir%2Cigap.net&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCbFJ0anlZbGoxOGtZY3JFTC84d2NiU3lxTktTUEVTaXdTRER2aXN1OStvPQ==@e2.cover20.ir:30874#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+trojan://AE62539071@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://AE62539071@54.249.33.71:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2nodes
+
+trojan://FH72359861@52.68.147.250:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+
+vless://50c8b5db-c138-4074-9eb5-9bb04c338eef@1.1.1.1:2053?security=reality&type=tcp&headerType=&path=&host=&sni=sub.hardvezoo.ir&fp=chrome&pbk=3iNzp-pmBEEgVjYiUICrKcnsnm5pBxtCTE7Y7v8KKxk&sid=0765afe2b1c63628#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
 
