@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22222?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22222?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.21.12:22222?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.247.99:22222?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
-
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40UnlimitConfig
-
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2FDaily-Configs%2CDaily-Configs%2CDaily-Configs%2CDaily-Configs%2CDaily-Configs%2CDaily-Configs%2CDaily-Configs%2CDaily-Configs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
 vless://5d1be7ae-8143-4b9a-9419-7a04e9301b96@clinet.speedit.ir:6067?encryption=mlkem768x25519plus.native.0rtt.Ksyng-9h5K9VQHZZp50_lKceGEnNUrUv_I4o7NLUzns&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AGHlWx1ol_3uO7Krt9kYBG9J1rsLyxYE1Gs48vGADjA&sid=06075d&spx=%2F07d6e732db7b099&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
@@ -649,6 +639,8 @@ trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&i
 trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40ConfigV2rayNG
+
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://AE62539071@13.193.221.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=main-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
