@@ -6422,3 +6422,11 @@ vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@ru.vpn-sword-art.online:8452?encryp
 
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&security=none&fp=edge&type=tcp&headerType=none&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647/?type=tcp&encryption=none&flow=#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
+
