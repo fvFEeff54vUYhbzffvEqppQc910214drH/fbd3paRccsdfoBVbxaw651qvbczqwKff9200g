@@ -6458,3 +6458,15 @@ vless://15e83ced-7544-422e-863d-deafe29a1dbe@144.31.237.77:443?security=reality&
 
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?path=%2FCMlsadnCISdss&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=random&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
+vless://4af34a72-9750-4f6f-9668-bac1c5db1709@sos.speedit.ir:2086?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://7a7b8fae-ff91-4b15-bd81-e6609a12b381@75.119.151.16:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
+
+vless://6b767ca4-7570-420d-9b92-9110c2fb37e5@213.156.152.234:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.52.42:443?flow=xtls-rprx-vision&headerType=none&encryption=none&sni=eda.x5.ru&sid=226509f017e4c36d&type=tcp&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&fp=firefox&security=reality#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?headerType=none&encryption=none&type=tcp&security=none#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
+
+vless://15e83ced-7544-422e-863d-deafe29a1dbe@2.26.224.100:8444?mode=stream-one&sni=www.amd.com&extra=%7B%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&encryption=none&sid=635a76c25a4b1820&path=%2Fxh&security=reality&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40LonUp_M
+
