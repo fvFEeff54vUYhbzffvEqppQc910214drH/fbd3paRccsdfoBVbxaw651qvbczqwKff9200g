@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40UnlimitConfig
-
 trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?allowInsecure=1&sni=ru-5b7331.atlanta-games.com&alpn=h2&type=grpc&serviceName=ajv#%F0%9F%87%AA%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
 
 trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
@@ -785,6 +783,8 @@ vless://392ed37c-c0cd-472e-8765-a94677005b0b@104.21.88.129:8880?encryption=none&
 vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B8%F0%9F%87%A8%20WS-None%20%7C%20%40DeamNet_proxy
 
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=firefox&spx=%2Fb46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
+
+vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
 
 vless://48b1d8af-1720-4462-a0ec-de493331ceb3@104.21.88.129:8880?encryption=none&security=none&type=ws&host=square-mountain-1d69.356-977.workers.dev&path=%2Fpyip%3Dproxyip.kr.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
 
