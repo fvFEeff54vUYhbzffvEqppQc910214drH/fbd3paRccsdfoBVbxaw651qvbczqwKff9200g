@@ -18,3 +18,27 @@ vless://658f7138-93c2-414d-a6c2-f332c94d4034@2.26.122.101:8443?type=grpc&headerT
 
 trojan://EQ30679154@3.120.37.181:443?sni=many-cricket.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
+
+vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&security=reality&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&sid=29ff8963a9fe281c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://PQ05174892@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://PQ05174892@57.180.40.220:443?sni=brief-flamingo.rooster465.autos&fp=chrome&type=tcp&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://PQ05174892@18.201.47.180:443?sni=healthy-panda.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://553de958-b515-4e0d-b39c-943b5f8d86c2@138.124.4.128:443?encryption=none&type=tcp&security=reality&pbk=q6kGq9xjd1-dpAYhM3UNUQ_H424z2ZFLF-3txqvpaQ4&sid=5edc2176&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@45.137.60.6:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&sni=node5.mxvpn.dev#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://PQ05174892@57.180.27.225:443?sni=picked-guinea.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://c551976d-6fd8-4574-957f-28b6129bf7ab@185.143.232.245:2095?path=%2F%3Fed%3D2048&security=&encryption=none&host=em.phpl.ir&fp=chrome&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
