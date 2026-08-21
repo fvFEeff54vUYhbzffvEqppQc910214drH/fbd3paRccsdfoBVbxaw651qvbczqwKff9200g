@@ -7000,3 +7000,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encr
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&security=tls&sni=deproxy2.lckdwn.ru&fp=firefox&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40meliproxyy
+
