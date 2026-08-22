@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40daily_configs
+
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&security=tls&sni=deproxy2.lckdwn.ru&fp=firefox&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
+
+vless://f92259d6-7cc1-4b47-b469-48a7863b8b09@alirezapan.vanguardia.ir:30903?encryption=mlkem768x25519plus.native.0rtt.rPW8pXayEtxBkyZNGYSePgq0pmVbEWS5TLUwulMtcFc&security=none&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40daily_configs
+
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.240.87:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2rayNG_Matsuri
 
 vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.90.51:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2rayNG_Matsuri
@@ -111,12 +119,4 @@ trojan://4zjlm02r-u3jb-r2x4-fo7p-dznap16r4fhs@127.0.0.1:4080?security=tls&type=t
 vless://ad192c6d-c5ee-4a21-a6bf-85218caa4ef9@192.220.15.222:8443?type=xhttp&security=reality&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&sni=www.amd.com&fp=chrome&pbk=lfOSEE80tv3mvi9fSBcj-oLKDJm2lmdj1PIMLvKwxRc&sid=69#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
 
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?type=tcp&security=reality&sni=tesla.com&fp=qq&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?type=tcp&security=reality&sni=pl.healthy-connected.com&fp=edge&flow=xtls-rprx-vision&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&sid=30e570274c0c72cc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-trojan://ywdmjkvz-8bl3-vyjw-d9y1-zo2ytrtqzwt7@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://m5p3v4jd-ixbb-b9tl-x3d3-w1m22nw21cv0@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://st7kqu90-7iaj-nckr-254g-zsyhiwcntw0d@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
