@@ -26,3 +26,7 @@ vless://20df893e-dcf4-491d-8261-6dbb24f9566b@mchq2tvxva.740.laviroso.click:443?e
 
 vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&sid=fe1a104caf309f5a&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f33f1b4d-6cab-0714-07e3-da2ef49ba427@irhub-production-4401.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production-4401.up.railway.app&path=/ws/f33f1b4d-6cab-0714-07e3-da2ef49ba427&sni=irhub-production-4401.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
