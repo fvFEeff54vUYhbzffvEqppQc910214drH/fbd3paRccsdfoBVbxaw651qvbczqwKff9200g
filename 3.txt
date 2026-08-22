@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.13.47:62145?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.93.61.30:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=cdnjs.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://15e83ced-7544-422e-863d-deafe29a1dbe@94.183.221.165:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&sid=635a76c25a4b1820&sni=www.amd.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&fp=ios&security=tls&serviceName=grpc&sni=derman.neobo-tooth.ru&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40LonUp_M
@@ -3382,6 +3372,8 @@ vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?alpn=h2%2Chttp%2
 
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?encryption=none&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray_Extractor
+
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_Extractor
 
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:8444?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fv1%2Fdevices%2Fd5e8188467%2Ftelemetry&security=tls&sni=nl7.unlockvpn.online&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_Extractor
@@ -6667,4 +6659,14 @@ vless://15e83ced-7544-422e-863d-deafe29a1dbe@177.3.212.94:443?security=reality&e
 vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@104.18.39.196:8880?path=%2Fpyip&security=none&encryption=none&host=red-disk-58df.153-2ce.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 trojan://Telegram_healer_config@104.21.68.68:443?path=%2Ftr%2Fkp0IOvZwWV0X35ln0vIh%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=47HR9isJ-655383snD63HjAp38q6T.k-f3VPQAltFSxbTaxe.WorkERS.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.240.87:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2rayNG_Matsuri
+
+vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.90.51:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2rayNG_Matsuri
+
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%A8%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2rayNG_Matsuri
+
+vless://813c984d-f361-4da8-8d3f-ef62ac974d65@104.16.53.11:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=auTh.AzERStarTUPs.org.&type=ws#%F0%9F%87%AE%F0%9F%87%B3%20WS-None%20%7C%20%40v2rayNG_Matsuri
+
+vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.84.214:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40v2rayNG_Matsuri
 
