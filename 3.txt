@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://f04037b7-125e-4666-841f-4b6bdbc9823d@jhmq-16fdqod.henghesoft.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cFmHbKSQO1BQnCBGd26-EA0CU-zYmduwk0Wqu0fhuT0&sid=7e8d2954eb836947&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCbFJ0anlZbGoxOGtZY3JFTC84d2NiU3lxTktTUEVTaXdTRER2aXN1OStvPQ==@e2.cover20.ir:30874#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
 trojan://AE62539071@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
@@ -441,6 +439,8 @@ vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&
 vless://b4b3b4e3-5b3c-48f7-800a-ce69aeb25c51@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
 
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40mtmvpn
+
+vless://f04037b7-125e-4666-841f-4b6bdbc9823d@jhmq-16fdqod.henghesoft.net:443?fp=chrome&pbk=cFmHbKSQO1BQnCBGd26-EA0CU-zYmduwk0Wqu0fhuT0&sid=7e8d2954eb836947&sni=www.cloudflare.com&flow=xtls-rprx-vision&host=www.cloudflare.com&path=%2F&type=tcp&security=reality&encryption=none&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@104.16.98.215:8880?path=%2Fpyip&security=none&encryption=none&host=divine-sound-9e93.22-be2.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayBaaz
 
@@ -6655,4 +6655,8 @@ vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?mode=pa
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ovh14-cdn.soren-app.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.soren-app.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://20df893e-dcf4-491d-8261-6dbb24f9566b@85.209.157.25:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=732.stream-host.site&fp=firefox&pbk=bO6oE5j-3-ONc3nqNsicX1hs6UhmrNLS5g_aMIRDUEc#%F0%9F%87%AE%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.25:62145?type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.151:62145?type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20TCP-None%20%7C%20%40UnlimitConfig
 
