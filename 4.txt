@@ -64,3 +64,15 @@ trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?sni=www.nintendogam
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.97:10901#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2e9d3568-f977-4cea-800d-fd9a876e7252@ai.riotvpn.eu:8443?security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=static.vkimages.io&sid=844352756c1fabba#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@85.155.230.58:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa7.api3-max.ru#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@auth.sso.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa8.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa8.api3-max.ru#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol4.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pol4.freeinternat.com&sid=ff776ff77be48b88#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
