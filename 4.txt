@@ -24,3 +24,25 @@ vless://52f86c87-afd4-48e4-8371-7874590b999b@104.16.250.153:443?path=%2F%3Fu%3Du
 
 vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:7090?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
 
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@sw2.nihaovpn.ru:443?security=reality&encryption=none&pbk=74SXgBukkhFPB8lpegdqaqbOStHLaR3RT24DuvXMZnY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=3f5c0f7f7af1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
+
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@neth1.nihaovpn.ru:443?security=reality&encryption=none&pbk=KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a8a897f350b14b20#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://cddd0717-87b6-4079-9d37-6967c449805f@tun.cellser.ir:2082?mode=auto&path=%2Fvideo&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=g9ZWk2159T5S3B_XFQgc41L6nJtC10TW9YKdhPr692I&host=skyroom.online&fp=chrome&spx=%2FSakaXlao&type=xhttp&sni=www.yahoo.com&sid=1b5ead#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40daily_configs
+
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa4.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa4.api3-max.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
+
+vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:7080?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:8055?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:4049?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:3366?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:4046?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
