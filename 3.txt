@@ -6374,3 +6374,11 @@ vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8080?encryptio
 
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@200.165.232.160:443?encryption=none&fp=firefox&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-Reality%20%7C%20%40LonUp_M
 
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?type=tcp&security=tls&fp=firefox&sni=neth.lckdwn.ru#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@ql6k-m23nix.logicara.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg&security=reality&sid=01d72fe094c8f6ef&sni=www.bing.com&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://b60f1c21-f73f-4dfa-8410-fb203bd3a7d6@ip4.ihoma2.site:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=d5.ihoomayon.ir&fp=firefox&type=ws&allowInsecure=0&sni=d5.ihoomayon.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
+
