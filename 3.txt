@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?security=tls&sni=fala.zafarinoco.ir&type=ws&host=fala.zafarinoco.ir&path=/&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://05214830-5d65-4ee1-a3d4-68f36cbea637@45.131.211.210:443?encryption=none&security=tls&sni=api5.htve.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=api5.htve.ir&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
@@ -1033,6 +1029,10 @@ vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:58761?security=none&
 vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:55889?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.L_A3SF1eDuiZR6PS7qhbYz82QaGqBbUDNqSnTTzbh0Q&host=bobo.badrangteb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40irconfiig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40irconfiig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40irconfiig
 
 vless://14f4c4f4-baa6-4269-85b7-08e395130701@new.pythonsaz.ir:17198?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40irconfiig
 
@@ -6193,4 +6193,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%F0%9F%87%BA%F0%9
 vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?path=%2Fplay&security=&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
 
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@pol1.panel11.ru:443?burmalda=3d2f5f65&flow=xtls-rprx-vision&fp=firefox&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&security=reality&sid=ff993907a731979a&sni=pol1.panel11.ru&type=tcp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://FixPingBot@69.46.46.122:443?path=%2Fws%2Fvless%2FFixPingBot%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://FixPingBot@69.46.46.10:443?path=%2Fws%2Fvless%2FFixPingBot%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://FixPingBot@69.46.46.69:443?path=%2Fws%2Fvless%2FFixPingBot%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
