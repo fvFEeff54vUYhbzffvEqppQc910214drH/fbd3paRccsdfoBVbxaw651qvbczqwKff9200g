@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-ss://chacha20-ietf-poly1305:rKE5OchHqTrkamzx@94.245.92.85:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 vless://8ea7fa05-26ed-87b0-cd17-5c3b51d70e95@69.46.46.103:443?path=%2Fws%2F8ea7fa05-26ed-87b0-cd17-5c3b51d70e95&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=asho-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=asho-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -11,6 +9,8 @@ vless://a49e04d8-427e-789a-2ee5-28de156e61a6@69.46.46.104:443?path=%2Fws%2Fa49e0
 vless://03e1f9fc-eda7-ffb0-ca09-c83212f97218@69.46.46.100:443?path=%2Fws%2F03e1f9fc-eda7-ffb0-ca09-c83212f97218&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ghol-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=ghol-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://a5fcced3-23ea-35fb-c161-3eed34a6380a@69.46.46.102:443?path=%2Fws%2Fa5fcced3-23ea-35fb-c161-3eed34a6380a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=shik-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=shik-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://chacha20-ietf-poly1305:rKE5OchHqTrkamzx@94.245.92.85:443#%F0%9F%87%AE%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@77.37.33.249:443?security=tls&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%20GRPC-TLS%20%7C%20%40LonUp_M
 
@@ -6185,4 +6185,6 @@ vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://c80c8d1c-4de9-44ba-98f9-90a61efb8a87@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=edge&spx=%2Fa367a68b9348617&type=tcp&sni=perplexity.ai&sid=f26c8fd2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
