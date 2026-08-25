@@ -6034,3 +6034,9 @@ vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@188.114.97.6:8880?path=/pyip=ProxyI
 
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEBMb25VcF9NIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoxODAsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6ImFkcy54NS5ydSIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmZiBDWiA2MiJ9
 
+trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.mythos-wargame.fun:443?sni=eeb.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
+
