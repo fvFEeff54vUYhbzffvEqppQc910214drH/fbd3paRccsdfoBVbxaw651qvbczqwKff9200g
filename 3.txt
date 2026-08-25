@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://NajaVPN-EkhtelanShkn@69.46.46.44:443?path=%2Fws%2FNajaVPN-EkhtelanShkn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=naja-shop-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=naja-shop-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCJhZGQiOiJjbjA0LmRvd25sb2FkbW92aWUuY24iLCJwb3J0IjoiNjUwMjUiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yb2NrZXQiLCJob3N0IjoiJTdCJTIySG9zdCUyMjolMjJjbjA0LmRvd25sb2FkbW92aWUuY24lMjIlN0QiLCJ0bHMiOiIifQ==
 
 trojan://telegram-id-directvpn@3.77.112.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
@@ -149,6 +147,8 @@ vless://959bd27a-bcc8-45b4-bec7-d8902c986f55@173.234.76.175:51359?encryption=non
 vless://2cfd6ca4-1763-4953-b3e0-edddbb25f8ad@server1.freemiga.com:443?path=%2Fvlesspath&security=tls&encryption=none&insecure=0&host=panel1.persepolisconstruction.co.uk&fp=chrome&type=ws&allowInsecure=0&sni=panel1.persepolisconstruction.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22224?encryption=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://NajaVPN-EkhtelanShkn@69.46.46.44:443?encryption=none&type=ws&security=tls&path=%2Fws%2FNajaVPN-EkhtelanShkn&host=naja-shop-production.up.railway.app&sni=naja-shop-production.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
 
@@ -6189,4 +6189,16 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F
 vless://53042463-db3c-442f-aced-c6dc507ec494@anet2.pinkiola.shop:443?security=reality&encryption=none&pbk=QbEFPAfsgGgCqXjaKCnHi7dEDQdWIWzirr0bN3xowWI&headerType=none&fp=edge&spx=%2F6b76541c2930d88&type=tcp&sni=play.google.com&sid=0df159#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://901f0222-0b4a-4964-9f42-08bca24693aa@213.165.44.101:12787?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6bc1a7e1-4a6d-499b-aacb-22b2ae2b89b2@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://9ee2b2d7-7518-469e-9390-2565d81be673@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=edge&spx=%2F29a276eac8e5de4&type=tcp&sni=perplexity.ai&sid=0102#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@172.239.26.211:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&encryption=none&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0809f782a29a2030#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
 
