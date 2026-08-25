@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
+
+vless://6a3b74be-eb71-43c8-98af-07799f2a88f4@web-production-402d8.up.railway.app:443?path=%2Fws%2F6a3b74be-eb71-43c8-98af-07799f2a88f4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@81.19.135.191:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
@@ -115,8 +119,4 @@ vless://dbabde9e-c843-4a36-9835-b5056f4adaef@trk.asan-ps.ir:443?security=reality
 vless://dbabde9e-c843-4a36-9835-b5056f4adaef@direct.asan-ps.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=yahoo.com&fp=firefox&pbk=9OUSkOh5ZW6DZRtcNHvR7WeoXnZP9AwCrPT-5rW5fhM&sid=caa5c6067742710d#%F0%9F%87%A6%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.232.43.195:443?mode=auto&path=%2Fweb%2Fcdn%2Fv2%2Fassets&security=reality&encryption=none&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&fp=firefox&type=xhttp&sni=ya.ru&sid=2b5b1ffa8a6a1a68#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40chillguy_vpn
-
-trojan://oq3hngu8-ca9k-4fq3-et9q-cr5aj68znd63@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://0aznw9n3-qx6u-xqw8-kqkp-503lx6dt5gz4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
