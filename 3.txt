@@ -6026,3 +6026,19 @@ vless://4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34@104.171.128.225:443?encryption=none
 
 vless://d900a139-8b5f-4758-8a32-389c6f36fc86@104.171.128.225:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
 
+vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=clode.fastaichat.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40mtmvpn
+
+vless://82d145c1-d691-4eef-9de1-9c316db4859a@104.171.128.225:443?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@182.16.61.5:45647?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40LonUp_M
+
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&fp=firefox&serviceName=app.v1.PushService&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c&security=reality&type=grpc&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?sni=md1.univesalsrv.com&type=grpc&security=reality&fp=firefox&sid=221ba6174224ca5b&mode=gun&serviceName=hub.v1.RelayService&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://7513d771-8ed6-4c7c-a1d9-112503b18d21@linevpnco-production-e46f.up.railway.app:443?encryption=none&security=tls&type=ws&host=linevpnco-production-e46f.up.railway.app&path=/vl-ws&sni=linevpnco-production-e46f.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://b2dbc58c-3a92-448f-aa95-6c8fdfffb282@109.169.85.138:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=slashdot.org&fp=chrome&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&sid=1dc6d8a2045a7c9d&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
+
