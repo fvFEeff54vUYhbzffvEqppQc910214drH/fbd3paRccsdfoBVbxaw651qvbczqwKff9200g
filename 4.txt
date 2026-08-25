@@ -4,3 +4,21 @@ vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?encryption=none
 
 vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=www.rumedia-cdn.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
+
+trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
+
+trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2nodes
+
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
+
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%7D&pbk=uUJJTIzw37fc46Ywh-LJIcobqF2Dim7JPCFm1VuMfFg&fp=chrome&type=xhttp&sni=play.google.com&sid=c0c3011371b97459#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?security=reality&encryption=none&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&headerType=http&type=tcp&sni=play.google.com&sid=9e0fac51cc19d2#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206TVRWbE5HRmtZalpsT0RBd1pqTmtNV1V4TURjMU5EbG1NVGs1TW1NNQ@iran.tonanimalia.com:10117#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.168.165:62145?#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
