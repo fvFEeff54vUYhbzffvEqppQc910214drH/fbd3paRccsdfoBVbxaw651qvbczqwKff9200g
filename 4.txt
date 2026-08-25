@@ -16,3 +16,7 @@ vless://--V2RAXX--@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,
 
 vless://6b98729a-2d57-4915-b2a2-fe4026c9fbcf@5.202.12.194:4443?security=none&type=tcp&host=speedtest.net&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
+vless://80e34bdc-31c9-4e4d-ac78-f33d9340b8ef@cdn.sebra.ir:2096?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2F&sni=sezar.sebra.ir#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
+vless://5461acdc-7352-4182-91d2-ff30c94ebe60@69.46.46.123:443?path=%2Fws%2F5461acdc-7352-4182-91d2-ff30c94ebe60&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
