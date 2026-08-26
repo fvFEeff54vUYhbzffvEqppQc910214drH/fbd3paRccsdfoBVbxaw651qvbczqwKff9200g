@@ -1,12 +1,22 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
+vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@77.91.66.178:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de1.hat.onl&sid=76132b3b39704c44#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray1_ng
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
-vless://33053d0a-eb3a-458b-b943-dd447a077523@46.8.225.71:30311?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://e5d917f5-fc78-455e-bbb5-81d08715f3d6@95.154.196.61:443?security=reality&encryption=none&pbk=2ATxqiR22wlo3yXOHc43LFHM5NzWCdSGZLdBay_vJgM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=e4a1b53b03eff60d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
-vless://61fef26e-b6d3-4082-8d1d-69f3d285dafd@130.185.122.106:442?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.163.203.82:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rf5.freeinternat.com&sid=ff776ff77be48b88#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&host=mao.kipfel.kdns.fr&fp=unsafe&type=ws&allowInsecure=0&sni=mao.kipfel.kdns.fr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://c895720b-1b6e-45bf-904c-f2fdce03fd6e@62.238.51.238:3443?pcs=8c11501c6042dd5e11d5b55c99ac535b0976ebe9bc55b67fd47dd7bafd9c55c1&path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=tehran.chapjavan.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&type=tcp&sni=www.google.com&sid=7af95330630a7327#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
+hy2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000/?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
 
