@@ -72,6 +72,8 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none
 
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&fp=ios&security=tls&serviceName=grpc&sni=derman.neobo-tooth.ru&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2ray_Extractor
 
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?encryption=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
+
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:10808#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
@@ -117,6 +119,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFRDUC1Ob25lIHwgQHYy
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@5.61.46.9:443?&security=tls&fp=chrome&sni=vod.ensf.top&type=ws&headerType=none&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@b2n.ir:443?type=xhttp&encryption=none&path=%2FTiMbErSaW&host=beaver.kaftarkakolbesarwifi.com&mode=auto&x_padding_bytes=16-64&extra=%7B%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=beaver.kaftarkakolbesarwifi.com#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@b2n.ir:443?type=xhttp&encryption=none&path=%2FChOpIn&host=chopin.kaftarkakolbesarwifi.com&mode=auto&x_padding_bytes=16-64&extra=%7B%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=chopin.kaftarkakolbesarwifi.com#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
