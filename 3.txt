@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@104.17.148.22:443/?type=ws&encryption=none&host=7f905f51.garywelch.pages.dev&path=%2F&security=tls&sni=7f905f51.garywelch.pages.dev&alpn=h3&fp=randomized#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&flow=xtls-rprx-vision&encryption=none&sni=api-maps.yandex.ru&security=reality&fp=firefox&type=tcp&headerType=none&sid=01e4de88#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://27f15763-1c35-424a-9527-f96ab5ad352a@194.55.239.164:443?sni=ads.vk.ru&type=tcp&security=reality&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=d2d2&fp=firefox&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
 
 vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=www.rumedia-cdn.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -975,6 +969,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22224?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40FreakConfig
 
 vless://XpnTeam-37@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -5459,4 +5455,6 @@ vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8051?encryption=none&
 vless://002e61b9-e5e2-6b39-799c-69bbe16bd61b@marz-production-4445.up.railway.app:443?encryption=none&security=tls&type=ws&host=marz-production-4445.up.railway.app&path=/ws/002e61b9-e5e2-6b39-799c-69bbe16bd61b&sni=marz-production-4445.up.railway.app&fp=ios&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://445a3a7a-59aa-4f3d-8258-d54713ea6475@146.75.119.82:80?type=ws&encryption=none&path=ws%2F%3Fed%3D2048%2F%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%2F%3F2048&host=rb24.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
+
+vless://4fc1ab3d-3d33-4ca3-957c-24ff40feb800@shop.jarorobo.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=random&spx=%2Fec5d777230c7dd2&type=tcp&sni=github.com&sid=358dad31#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
