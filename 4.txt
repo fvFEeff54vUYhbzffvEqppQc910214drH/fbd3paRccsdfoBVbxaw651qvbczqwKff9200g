@@ -16,3 +16,7 @@ vless://436251af-af1b-4f91-9a86-cb9faf2e9d91@go.lumen.com:2052?path=%2F&security
 
 vless://767fcb3f-6ab3-49c1-8023-d09230d04647@go.lumen.com:2052?security=none&type=ws&headerType=&path=%2F&host=fin.v2shop.xyz#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
 
+vless://50414e45-4c5f-5a45-5553-47772a228a58@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F47772a228a58&security=tls&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://50414e45-4c5f-5a45-5553-47772a228a58@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F47772a228a58&security=tls&insecure=0&host=&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
