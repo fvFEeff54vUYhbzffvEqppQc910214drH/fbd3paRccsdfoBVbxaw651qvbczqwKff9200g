@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&sid=97ac193c0962477c&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?encryption=none&security=reality&sni=www.yahoo.com&fp=firefox&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&security=reality&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&type=grpc&authority=&serviceName=app.v1.PushService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@iranserver.com:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://34647ada-f376-4e9f-a6a7-25838542ee67@5.75.193.127:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://682a4151-082f-4986-b2d8-d5f0db3687bb@b2n.ir:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@157.173.7.200:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40cpy_teeL
 
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40cpy_teeL
@@ -212,7 +190,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UTN2YXJ5SjNaaFNZVEE0@20.87.2.40:443?#%F0%9F
 
 vless://e24ad7a8-385b-475d-b063-5e6a19d50700@69.46.46.38:443?path=%2Fws%2Fvless%2Fe24ad7a8-385b-475d-b063-5e6a19d50700%3Fed%3D2048&security=tls&alpn=h3&encryption=none&insecure=0&host=web-production-cfc50.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-cfc50.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
 vless://e24ad7a8-385b-475d-b063-5e6a19d50700@69.46.46.10:443?path=%2Fws%2Fvless%2Fe24ad7a8-385b-475d-b063-5e6a19d50700%3Fed%3D2048&security=tls&alpn=h3&encryption=none&insecure=0&host=web-production-cfc50.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-cfc50.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
+
+vless://34647ada-f376-4e9f-a6a7-25838542ee67@5.75.193.127:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40FarazV2ray
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40FarazV2ray
 
@@ -302,6 +284,8 @@ vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&
 
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
+
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.159.92.161:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2ray_official
@@ -321,6 +305,8 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?encryption=none&
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40meliproxyy
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&security=reality&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&type=grpc&authority=&serviceName=app.v1.PushService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
 
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40meliproxyy
 
@@ -379,6 +365,10 @@ vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=%2
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
 vless://9801df34-5fb1-4e85-bd90-7c4090ce7c96@5.252.26.108:4433?security=tls&encryption=mlkem768x25519plus.native.0rtt.Rqq_oQdbYOW5Ykp408vD7nFVc1Ps4fncDjB5pMXlrXU&insecure=0&host=play.google.com&headerType=http&type=tcp&allowInsecure=0&sni=c6frrxgc74e0.vtret.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40meliproxyy
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiV1ZQQTE3LzRjNS9PdUJTNU12UHVBd2tLVk9Ub1hyOHdBTkU5VENOSC9jPQ@e3.cover20.ir:56985#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
@@ -6941,4 +6931,14 @@ vless://10b0d394-1216-4956-afbc-b91f688fd3f8@72.56.32.106:7443?alpn=h2&encryptio
 vless://252c9a3d-3c88-493a-ab3b-342bc2097660@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://32e9b0a7-1d5d-4102-9ffb-240a152a2184@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://79f23148-970d-48b3-860e-739f7feec8cd@pon.fereshtehagonahnemikonnad.ir:2083?security=reality&encryption=mlkem768x25519plus.native.0rtt.WY7iAauO44xtI2DN6xyV6HA3AruiUHT_6m33r7NLnBg&pbk=j4JiRjGdRBuUK5R4gKVnek1WR8cNiX9hrMTzP6C1iWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=d1bb8670a95a23aa#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@de.alertyagency.com:443?security=reality&encryption=none&pbk=wDJibB6Rd20xkiSeIKLLo60DsKqB3il6gtXlpYxITj4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=977aa6df#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://f81362b3-ba06-467e-8d3e-821bdf4ffd8d@panel.homelanderwins.com:443?path=%2F&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=panel.homelanderwins.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiJ4LXVpLnp4aGgudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZhYWMwMjQxLTBjNjYtNGJlYy05NDJkLWU4YThkOWIxMWEzYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTMzODUiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+vless://7687a041-9ae7-4e9b-833a-2ff1a682818b@sakhrenab.Sav-savteAm.iR:6969?path=%2FMelinetNew%3Fed%3D2095&security=none&encryption=none&host=sakhrenab.Sav-savteAm.iR&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40LonUp_M
 
