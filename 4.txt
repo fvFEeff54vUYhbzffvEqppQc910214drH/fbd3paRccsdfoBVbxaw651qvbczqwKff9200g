@@ -10,3 +10,5 @@ vless://51b842b8-950a-4001-a980-59902c832761@69.46.46.57:443?path=%2Fws%2F51b842
 
 vless://85b27fbd-33d6-4a3a-bf5b-c3cf97772893@tr.privatevip.ir:2502?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=tr.privatevip.ir#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
 
+vless://51b842b8-950a-4001-a980-59902c832761@spiderpanel-production-3c0e.up.railway.app:443?path=%2Fws%2F51b842b8-950a-4001-a980-59902c832761&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
