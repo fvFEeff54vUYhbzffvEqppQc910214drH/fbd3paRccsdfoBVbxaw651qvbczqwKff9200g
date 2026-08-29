@@ -7262,3 +7262,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 
 vless://7caa0746-72d9-47b7-b829-8a1e1ba642ac@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://11992f2b-181b-403a-9521-813fcd7927a8@91.228.227.112:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://11992f2b-181b-403a-9521-813fcd7927a8@91.228.227.112:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&encryption=none&insecure=0&host=&fp=unsafe&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=none&encryption=none&host=&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
+
+trojan://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&insecure=0&host=&fp=unsafe&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
