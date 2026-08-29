@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=none&encryption=none&host=r0z7tee8ugxs.tlzzfveeuqcs.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
 
 vless://11992f2b-181b-403a-9521-813fcd7927a8@144.172.119.9:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
@@ -84,19 +82,21 @@ vless://0fa9412d-272a-488e-a631-7e50c373286f@144.172.119.9:8080?security=none&en
 
 vless://0fa9412d-272a-488e-a631-7e50c373286f@144.172.119.9:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
-vless://11992f2b-181b-403a-9521-813fcd7927a8@91.228.227.112:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+trojan://z131oq71-lb8c-k804-c0gf-e48zv78ain5f@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
-vless://11992f2b-181b-403a-9521-813fcd7927a8@91.228.227.112:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+trojan://mn7cirgf-r19l-jcam-sa2g-6ej22hvusx2m@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
-vless://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&encryption=none&insecure=0&host=&fp=unsafe&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+trojan://u4mhlbr8-ft9h-6s4u-w6hk-fny1rjh76w2w@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
-vless://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=none&encryption=none&host=&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:443?type=tcp&security=reality&sni=eu-west.cendora.ru&fp=qq&flow=xtls-rprx-vision&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
-trojan://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&insecure=0&host=&fp=unsafe&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+vless://43a13764-23dd-4e01-8b79-cde8a16e13ce@204.48.20.223:30906?type=tcp&security=reality&sni=www.cloudflare.com&pbk=HnQ_s7eu3XUu6upzLoe0jj5ZgsYvM7KXuMG41IwN4R0&sid=17a94dc584e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10991#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?type=xhttp&security=reality&path=/&sni=ya.ru&fp=chrome&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
 
-vless://b9bcc3f6-389d-41b1-a673-4596fbf120e8@45.144.176.39:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&fp=chrome&type=grpc&serviceName=nss&sni=id.pervye.ru#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+trojan://80aqxwfc-welv-u4bk-okgz-mjlyebwgjpt9@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
-trojan://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&insecure=0&host=r0z7tee8ugxs.tlzzfveeuqcs.workers.dev&type=ws&allowInsecure=0&sni=r0z7tee8ugxs.tlzzfveeuqcs.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+trojan://rkx90t93-580z-g171-xlut-ujz220wrhgnw@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://wz6ww9ru-86lq-9qik-y860-4vxvihuixb7z@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
