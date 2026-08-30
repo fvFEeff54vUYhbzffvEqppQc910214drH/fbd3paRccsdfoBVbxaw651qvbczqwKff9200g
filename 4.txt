@@ -18,3 +18,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22224?encryption=none
 
 vless://XpnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22222?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
+

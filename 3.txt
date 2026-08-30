@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://4b4ab26b-ced5-4bf5-8d9f-ad04d36a748a@151.242.168.238:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&headertype=none#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40DeamNet_proxy
-
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&sid=c87bfa39a28a95b9&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@144.31.40.96:2053?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.max.ru&fp=firefox&pbk=DophD0TUx8mYl11BY3mQdYI-5hG6mwIfE1EN8DkPJ3w&sid=5979d7a79c264488&headertype=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
 vless://d900a139-8b5f-4758-8a32-389c6f36fc86@93.93.207.105:443?mode=gun&security=reality&encryption=none&pbk=bj4GN5p31ILpE4DZL7FLPHUbB0rzcgWKYzdQ3SKhtVM&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
@@ -6285,4 +6281,6 @@ vless://1ebdb8ff-1217-4a94-b69d-d0f84b25fea9@hokm-a8.igatel.com:8526?security=re
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22224?encryption=none&%3Bsecurity=none&%3Btype=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://XpnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22222?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
