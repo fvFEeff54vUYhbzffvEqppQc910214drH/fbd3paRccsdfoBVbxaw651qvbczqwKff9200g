@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://b4c5a66f-1f66-4262-b72d-c6aa661abc2c@sv-fr2.cdnturbo.net:443?security=reality&encryption=none&pbk=0jolgptjjXxVsUgMPN_mcoyHET2uHQ7onbAMZ7uCc2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8d0a77a398415b0e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://03cfb17d-c452-458f-b3f5-35762924f316@yelos.frizan.ir:2053?security=none&encryption=mlkem768x25519plus.native.0rtt.4ABzCb9yeBZzvV-bRT5Tqpb3kejYBGn4Vib4PJiSyUg&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
-
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
 hysteria2://19f4kufiitwvpyy3@giftcard.gateway-stream.com:52085?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%7C%20%40LonUp_M
@@ -237,6 +231,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEhUVFBVcGdyYWRlLU5v
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEhUVFBVcGdyYWRlLU5vbmUgfCBATG9uVXBfTSIsImFkZCI6IjE2OS40MC4zMi40OCIsInBvcnQiOiI1MDU2IiwiaWQiOiJmNTRlOTNkMS1jZDhlLTQzNGYtODEyMi00ODg3ZTYyYzk3ZjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTY5LjQwLjMyLjQ4IiwicGF0aCI6Ii9uZGl3bndpZGllODJJc21zaU9wIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEhUVFBVcGdyYWRlLU5vbmUgfCBATG9uVXBfTSIsImFkZCI6IjE2OS40MC4zMi40OCIsInBvcnQiOiI1MDcxIiwiaWQiOiJmNTRlOTNkMS1jZDhlLTQzNGYtODEyMi00ODg3ZTYyYzk3ZjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTY5LjQwLjMyLjQ4IiwicGF0aCI6Ii9uZGl3bndpZGllODJJc21zaU9wIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://c336bfe7-7611-4996-9b54-cb81827e0344@lans1.milkabeb#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
 
@@ -6275,4 +6271,6 @@ vless://e8788cf0-d28f-4701-928c-ea809b554468@104.194.149.74:2083?encryption=none
 vless://e8788cf0-d28f-4701-928c-ea809b554468@104.194.149.74:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=BMGc30DfAT9d9lX0xGOlCBwAqUB3ywpHJWiMJGIdKmk&security=reality&sid=1eb494&sni=amp-api-edge.apps.apple.com&spx=%2FAqDRVGsE0wvyhgw&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-Reality%20%7C%20%40UnlimitConfig
 
 vless://bbac1651-62e2-45e6-8882-8866d1370ce1@45.154.96.51:52845?encryption=none&type=xhttp&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-None%20%7C%20%40UnlimitConfig
+
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:8080?path=%2F&security=none&encryption=none&host=freeuse.firta.ru&type=ws#%F0%9F%87%AE%F0%9F%87%B1%20WS-None%20%7C%20%40v2rayNG_Matsuri
 
