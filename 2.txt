@@ -66,6 +66,10 @@ vless://50414e45-4c5f-5a45-5553-cfe2811bf0fc@104.25.0.3:443?path=%2Fstream%2FPAN
 
 vless://50414e45-4c5f-5a45-5553-3a2eeec5969f@104.16.0.63:443?path=%2Fstream%2FPANEL_ZEUS%2F3a2eeec5969f&security=tls&fragment=200-3000%2C1-2&encryption=none&insecure=0&host=ez-6cdceb.iaznp3e6ujbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-6cdceb.iaznp3e6ujbs.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?type=raw&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40UnlimitConfig
+
 vless://7fa84611-065f-477d-be7a-88db3ecdfaca@178.104.202.46:4433?encryption=none&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&path=%2F%40Marisa_kristi#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
