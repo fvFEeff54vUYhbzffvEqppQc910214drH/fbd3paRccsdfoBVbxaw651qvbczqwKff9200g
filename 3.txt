@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://1e78f247-1e3e-400e-bf1f-bb0c908b9a60@mci.v2plus.ovh:80?encryption=none&security=none&sni=worker3.laton16859.workers.dev&type=ws&host=worker3.laton16859.workers.dev&path=%2FGXXYmLBSqSttMjgI#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@95.133.240.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=eng4.helper-internet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@94.183.209.239:8443?type=grpc&security=reality&serviceName=b58a1e2940&sni=www.cloudflare.com&pbk=SW9zmLl7IOPgwf55QKT7Hlc6Ruv6KEwO_wEXdOLwIz8&sid=0d81677f74c9a6bf&fp=firefox&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
-vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?fp=firefox&security=tls&sni=google.com&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://6da4f62b-187b-4b00-a810-1655622004aa@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
@@ -129,6 +117,8 @@ trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2_mod_shop
 
 vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=reality&encryption=none&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=wyrebyte.com&sid=2757df499273bcb2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2_mod_shop
+
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2_mod_shop
 
 vless://92b70bdd-e665-492b-872e-fceeb8615ceb@170.39.216.98:1007?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
 
@@ -2511,6 +2501,8 @@ vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?mode=auto&path=%
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=%2F&security=none&encryption=none&host=derman.neobo-tooth.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
 vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_Extractor
 
