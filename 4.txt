@@ -20,3 +20,17 @@ vless://f7e8a87f-e472-4fca-a393-fb9cc5b5dfa9@91.107.242.197:51815?security=none&
 
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.82.1:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=play.google.com&fp=firefox&sid=98fa0b00d09419f7&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://36c770a7-4949-449b-0c00-c3d1a0d729cb@s4.zynetraq.ir:2087?pcs=1aeacc25d232c936f0199a487fc17da95ba59fb6c06656846214cec835d3ac23&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s4.zynetraq.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s4.zynetraq.ir&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://11cb0c12-7d9f-4286-759d-3428e7505337@s5.zynetrax.ir:2087?pcs=52c36f3722d73827cc3977541830ab65967d8335c6e7122dd5ff810de57252bb&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s5.zynetrax.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s5.zynetrax.ir&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+trojan://50414e45-4c5f-5a45-5553-7c0e5b2f7cd7@c6zorwebux8s.mosinp777.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F7c0e5b2f7cd7&security=tls&insecure=0&host=c6zorwebux8s.mosinp777.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=c6zorwebux8s.mosinp777.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-7c0e5b2f7cd7@c6zorwebux8s.mosinp777.workers.dev:8443?path=%2Fstream%2FPANEL_ZEUS%2F7c0e5b2f7cd7&security=tls&encryption=none&insecure=0&host=c6zorwebux8s.mosinp777.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=c6zorwebux8s.mosinp777.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://50414e45-4c5f-5a45-5553-7c0e5b2f7cd7@c6zorwebux8s.mosinp777.workers.dev:2083?path=%2Fstream%2FPANEL_ZEUS%2F7c0e5b2f7cd7&security=tls&encryption=none&insecure=0&host=c6zorwebux8s.mosinp777.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=c6zorwebux8s.mosinp777.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
