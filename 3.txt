@@ -5918,3 +5918,7 @@ trojan://6gWB1XO7xC@104.167.199.251:23?security=none&type=kcp&headerType=dns&see
 
 vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://02406c31-fda3-48ac-a19e-0d822b908849@switchback.proxy.rlwy.net:26807?encryption=mlkem768x25519plus.native.0rtt.wYw5yBDGcmYLulZQc4n3o1JDwARN0LlvXty8N7zxdgo&security=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
+
+vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@yx.zhourf2006.dpdns.org:443?encryption=none&security=tls&sni=yx.zhourf2006.dpdns.org&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
