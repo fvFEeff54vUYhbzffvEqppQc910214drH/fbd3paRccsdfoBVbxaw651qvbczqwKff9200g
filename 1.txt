@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40V2ray_confiig&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2ray_confiig
-
-vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&host=%2F%3FBIA_TELEGRAM%40V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
-
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?mode=gun&security=tls&encryption=none&authority=%2F%3FTELEGRAM%40V2ray_confiig&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=derman.neobo-tooth.ru#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40V2ray_confiig
-
 vless://d62d49cb-a9b5-4f1f-90a4-316ecc3dadc4@192.142.37.217:443?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&host=%2F%3FBIA_TELEGRAM%40V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
 
 vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&host=%2F%3FBIA_TELEGRAM%40V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
@@ -30,7 +24,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUkFUU2JWRjBxMTI0enZ0ODM2OTFqZURYWmFkUHRkaQ@
 
 vless://4c4b644f-10ab-41b6-8067-bdebeaf28733@de-server-1.zelnora.ir:64584?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4%20TCP-None%20%7C%20%40DeamNet_proxy
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t17.qifei.app:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.amazon.com&fp=ios&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
+
+vless://b0187a1c-2258-4deb-be51-fb2282327186@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soulful.host#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://1f9480a7-ea9e-4c30-8df5-9b4ac4f869ea@89.124.115.125:443?security=reality&encryption=none&pbk=d4yc90PciJ40ZoEd_b1_nJEAbT2H8hUXqrFupAOobWA&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=ai.android&sid=05afd49302dd#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 hysteria2://tnnls%3Ab735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
 
@@ -99,4 +97,6 @@ vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?path=&security=t
 vless://50414e45-4c5f-5a45-5553-6221afad00a6@104.18.59.44:443?path=%2Fstream%2FPANEL_ZEUS%2F6221afad00a6%2Floc-0&security=tls&encryption=none&insecure=0&host=v1z4pne1ufas.turquoise43.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=v1z4pne1ufas.turquoise43.workers.dev&fragment=200-3000%2C1-2%2Ctlshello#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://50414e45-4c5f-5a45-5553-6221afad00a6@0.0.0.0:1?encryption=none&security=none&type=ws&host=v1z4pne1ufas.turquoise43.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F6221afad00a6#%F0%9F%8C%90%20WS-None%20%7C%20%40LonUp_M
+
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&security=tls&sni=be2.wba-pn.ru&allowinsecure=0&type=ws&path=%2F#%F0%9F%87%A7%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
