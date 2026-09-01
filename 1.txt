@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@159.195.115.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&security=reality&sid=f3a9d2b1c7d4f608&sni=api-as.data-media-social.org&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@188.114.97.6:443?encryption=none&security=tls&type=ws&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F%3Fed%3D2560&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?path=&security=tls&encryption=none&insecure=0&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
 vless://50414e45-4c5f-5a45-5553-6221afad00a6@104.18.59.44:443?path=%2Fstream%2FPANEL_ZEUS%2F6221afad00a6%2Floc-0&security=tls&encryption=none&insecure=0&host=v1z4pne1ufas.turquoise43.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=v1z4pne1ufas.turquoise43.workers.dev&fragment=200-3000%2C1-2%2Ctlshello#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://50414e45-4c5f-5a45-5553-6221afad00a6@0.0.0.0:1?encryption=none&security=none&type=ws&host=v1z4pne1ufas.turquoise43.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F6221afad00a6#%F0%9F%8C%90%20WS-None%20%7C%20%40LonUp_M
@@ -52,7 +58,11 @@ vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6Imgy
 
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@104.19.45.195:8443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40DeamNet_proxy
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?type=raw&security=tls&sni=borat-hopp.bumbleshrimp.com&headertype=none#%F0%9F%87%B0%F0%9F%87%BF%20TCP-TLS%20%7C%20%40DeamNet_proxy
+
+vless://be4494a3-9544-4eb6-b166-5a733706d505@ru-1.videoproeditor.com:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=ru-1.videoproeditor.com&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&headertype=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40DeamNet_proxy
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEF3bGl4X2lyIiwiYWRkIjoiYXdsaXg0LnBjanhxLmRpZ2l0YWwiLCJwb3J0IjoiODQ0MyIsImlkIjoiOWRjYjhkNzMtY2MwYi00ZmNjLWExMmQtZDdhZmZiNTYyNjdjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
 
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-d%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -89,14 +99,4 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.133.35.168:443?security=tls&sni
 vless://05214830-5d65-4ee1-a3d4-68f36cbea637@23.227.39.123:443?security=tls&sni=api5.htve.ir&type=ws&host=api5.htve.ir&path=/&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://f6aa39a5-1aa7-484d-ba53-fc3a7de9c2d1@104.19.170.20:443?security=tls&sni=xn--mgbctcjq5l.pinocchio1.ir.&type=grpc&fp=firefox&alpn=http/1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.3.30:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjB1Uk4ycjhDQUNpMXRxT3NaTjNuNWpfSWN5cWNFbQ==@Irj.jobwebs.ir:25341#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?encryption=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40V2HUBIR
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUkFUU2JWRjBxMTI0enZ0ODM2OTFqZURYWWFkUHRkaQ==@104.167.196.170:1080#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://4c4b644f-10ab-41b6-8067-bdebeaf28733@de-server-1.zelnora.ir:64584?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
 
