@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://a7759aa2-93bc-4bd5-acd5-ad549b6fb7d8@1-netvia.tdomainasite.ir:64428?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%225%22%2C+%2294%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22109%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%22355%22%7D%7D%5D%7D&insecure=0&host=freeuse.firta.ru&fp=unsafe&type=ws&allowInsecure=0&sni=freeuse.firta.ru#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://dbf2e78a-a424-4d45-a6c2-c6c3b928d726@88.216.127.132:443?security=reality&encryption=none&pbk=C9EsOs8mah5MmjJmaavNFjjZRf1CQlwjXuVZt5cbr34&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ltv.nnj.moscow&sid=75fbd2be1baeca9a#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?security=reality&encryption=none&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&sid=f3c4d918e7c4f744#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -155,6 +147,8 @@ vless://533895c1-c9c4-a99a-51f8-68137bc8b24a@69.46.46.20:443?path=%2Fws%2F533895
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40V2HUBIR
 
 vless://87c771f9-f42c-4a29-8281-ce9135c1802f@marzban-node1-production-ef8e.up.railway.app:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&insecure=0&host=&fp=ios&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=freeuse.firta.ru&fp=unsafe&type=ws&allowInsecure=0&sni=freeuse.firta.ru#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://31f0e05b-2126-46ea-8f47-34e60defaa1b@tr2.diginoisb.ir:54178?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
@@ -1321,6 +1315,8 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&se
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40TOOTFFARANGI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40NPV_78
 
 vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&encryption=none&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&host=%2F%3FTELEGRAM%40TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=162.35.231.31.sslip.io&sid=f41bc0b00ca1a978#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40NPV_78
+
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40NPV_78
 
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40NPV_78
 
