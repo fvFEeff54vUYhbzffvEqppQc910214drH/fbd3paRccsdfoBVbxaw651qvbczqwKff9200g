@@ -22,3 +22,5 @@ vless://2df97868-3721-470a-b501-df691417ccb3@199.232.78.159:443?path=%2F&securit
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
