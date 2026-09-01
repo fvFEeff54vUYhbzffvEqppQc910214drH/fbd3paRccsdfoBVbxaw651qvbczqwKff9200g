@@ -4,8 +4,6 @@ vless://64f4d1c3-12fc-8070-c36f-774aaacca63f@69.46.46.50:443?path=%2Fws%2F64f4d1
 
 vless://ff2eda48-42a0-4214-bd1f-a969d0c46964@web-production-3b1c1.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-3b1c1.up.railway.app&path=/vl-ws&sni=web-production-3b1c1.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--TOOTFFARANGI&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
@@ -99,4 +97,6 @@ vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality
 vless://42afec8a-7879-4138-92f4-136146a73e85@176.97.218.225:2020?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiJhcjEuZ3NtdnB0dW4uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJtcnpvbGQxLmRhZGVocGFyZGF6ZXNoaXJhbi5pciIsImlkIjoiODgwZDQ3MzktN2ZjYS1jM2IxLWI2NzktMWE4YWM0ZDFkMTI3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIHwgQExvblVwX00iLCJhZGQiOiIxMDMuMjQwLjE5Ny4xMTIiLCJwb3J0IjoiNTUzMTQiLCJpZCI6ImJkYjY4NjI5LTFjNmEtNGVlZC04MDgzLTdkNDM3OWEyZGQ1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 
