@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://%4d%69%54%69%56%50%4e@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&allowinsecure=0&type=ws&host=mitivpn-ss-ss.global.ssl.fastly.net&path=%2F---%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e%2F---%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e%2F---%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e%2FD-e2%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e%2F---%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e%2F---%40%4d%69%54%69%56%50%4e---%40%4d%69%54%69%56%50%4e#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
-
-vless://a45b1b14-30c3-43dc-9187-f7e9934d1f3d@grl2.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
-
-vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.220.163:15443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=cpoZcpYNYSvFXGGB21tByHUoNd7-FYrJ0UP7ZDfSFCs&sid=a1b2c3d4&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
-
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@estonia.spacexiphone.cyou:29968?security=&encryption=mlkem768x25519plus.native.0rtt.30T9radrs8DguTl4zY1xMKcgW5BIViXneqwtM2eiWh0&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@core.ippointtome.spacexiphone.cyou:32708?security=&encryption=mlkem768x25519plus.native.0rtt.k23fw4ymngVYUjyYKopEpdrk316eKZJEEJC5bK0EdGk&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
@@ -21,8 +15,6 @@ vless://2df97868-3721-470a-b501-df691417ccb3@199.232.78.159:443?path=%2F&securit
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=%2F&security=&encryption=none&host=derman.neobo-tooth.ru&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
 
@@ -99,4 +91,12 @@ vless://a45b1b14-30c3-43dc-9187-f7e9934d1f3d@grl2.mechanicir.ir:10694?security=r
 vless://50414e45-4c5f-5a45-5553-90a51d022c96@104.27.122.18:443?path=%2Fstream%2FPANEL_ZEUS%2F90a51d022c96&security=tls&encryption=none&host=ez-6dbaee.zeus-qihhyk.workers.dev&fp=ios&type=ws&sni=ez-6dbaee.zeus-qihhyk.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@217.60.24.23:8443?mode=gun&security=reality&encryption=none&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&fp=chrome&type=grpc&sni=cdn.shopify.com&sid=f747a7a5793b5714#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&sni=estproxy4.lockdwn.com#%F0%9F%87%AA%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@185.220.100.168:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://7dacf3a4-3784-4c71-98fd-e0507b9fa79e@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=7wwwspeedtestnet.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://8f1e07a7-73b0-4bfd-936f-579908c72362@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
