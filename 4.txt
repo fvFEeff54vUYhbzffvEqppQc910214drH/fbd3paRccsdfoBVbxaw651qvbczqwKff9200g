@@ -8,3 +8,19 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&type=raw&security=reality&sni=ibm.com&fp=firefox&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&sid=a09ff9f8&headertype=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40DeamNet_proxy
+
+vless://e8c5d791-ce76-4a41-b165-ca22e930b21d@tp.paydar.site:28110?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40GiveVPN
+
+vless://aaab254f-a9bf-4c57-96a0-50f4269ab784@s1.orangesms.ir:3389?security=reality&encryption=none&pbk=fJgfoeTonZ3FfIXETWnn65nJeuioFkRcwlqFzwlAlwU&host=token.safebrowsing.apple&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=25e1eaeece23a4ca#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://2569614f-879b-43de-9cd9-9bb304b68856@144.31.179.21:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=get4s.skystreamgame.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://52b140a1-1e12-4410-9532-ebaee7cec3a1@150.241.64.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.deutsche-bank.de&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?encryption=none&type=grpc&mode=multi&serviceName=grpc-tunnel&security=reality&fp=qq&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#%F0%9F%87%BA%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://d3acf458-5fa4-49f4-887e-8d65866bc772@mamadoslh.up.railway.app:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.c08WPE0PFrBMYmVGm6Crgq1NuiedM35fCJ_K15lwFUw&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=mamadoslh.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://4c4b644f-10ab-41b6-8067-bdebeaf28733@82.40.62.44:22189?mode=auto&path=%2F&security=none&encryption=none&host=amp-api-edge.apps.apple.com&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-None%20%7C%20%40LonUp_M
+
