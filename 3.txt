@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesskhodam
-
-vless://54f3d606-f92f-462c-8c63-0718943c9ac5@66.33.22.220:18333?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmesskhodam
-
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
-
-vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://c5d3a1f3-4882-4d7a-9f8c-d3c5793b62f9@fo1.karmatel.ir:8080?encryption=none&host=xn-deplay.google.com.dbsll.ir&path=%2F&security=none&type=httpupgrade#%F0%9F%87%B9%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40UnlimitConfig
-
-vless://49739922-a02a-4afe-9344-ee7d0f12da45@65.109.217.127:31862?security=none&encryption=none&host=git.xpkg.ru&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://a64ae61d-4c20-4072-930b-7c23c8687031@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://38222a83-76bd-4420-b3f0-5473a9bb0d6e@206.1.96.49:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40v2ray1_ng
 
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Tunder_vpn
@@ -248,6 +230,8 @@ vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reali
 
 vless://86c2939c-4506-4028-cdc9-6fe073890e81@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
 
+vless://a64ae61d-4c20-4072-930b-7c23c8687031@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
+
 vless://40c81dcc-bc8a-4690-abdf-75ea8530234b@178.105.134.66:101?security=reality&alpn=h3%2Ch2&encryption=none&pbk=VxFkVk2SKEQrRnBnhzvl29UpHlS2i5t6Is__HGPmuRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=03e5ac759d2e7e90#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://40c81dcc-bc8a-4690-abdf-75ea8530234b@49.12.244.56:101?security=reality&alpn=h3%2Ch2&encryption=none&pbk=VxFkVk2SKEQrRnBnhzvl29UpHlS2i5t6Is__HGPmuRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=03e5ac759d2e7e90#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -469,6 +453,8 @@ vless://15e9c884-4541-f430-cf55-66401979319d@69.46.46.10:443?path=%2Fws%2F15e9c8
 vless://20660fcf-c99e-4ed5-8cb7-46b6923140ba@206.1.96.49:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://fa98d471-930d-4961-82ff-46dc073a7a70@82.40.62.210:37430?security=reality&encryption=none&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -837,6 +823,8 @@ vless://50414e45-4c5f-5a45-5553-90a51d022c96@104.27.122.18:443?path=%2Fstream%2F
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
@@ -2973,6 +2961,8 @@ trojan://50414e45-4c5f-5a45-5553-e363f5a92c1a@104.27.94.228:443?path=%2Fstream%2
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MUSICLOVERS85%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40FarazV2ray
 
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
 
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40CONFIG7X&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
 
