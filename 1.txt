@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2nodes
+
+vless://e4bee0a4-ffdb-4898-b57f-8b4865b2a635@82.40.62.197:32580?security=reality&encryption=none&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://78941009-6b9c-4754-a89b-e94dc34a4aca@well.arosakforosh.ir:9932?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.krmkbckycnkKq29MKnNpZCtkqMKlO9q4svhCzMA5enw&host=amp-api-edge.apps.apple.com&type=ws&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
+
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBXUy1Ob25lIHwgQHYybm9kZXMifQ==
 
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=anyfile2file.com&fp=chrome&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
@@ -93,10 +99,4 @@ vmess://eyJhZGQiOiIxODUuMjA0LjE3MC4xMzAiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4x
 trojan://50414e45-4c5f-5a45-5553-87e305887235@104.21.64.113:443?path=%2Fstream%2FPANEL_ZEUS%2F87e305887235%2Floc-0&security=tls&insecure=0&host=ez-4e9ea0.ahmohmadaminah.workers.dev&type=ws&allowInsecure=0&sni=ez-4e9ea0.ahmohmadaminah.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
 vless://e60265c7-8b28-4b93-9a6e-c502c497cac3@199.232.78.159:80?path=%2F&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
-
-vless://e60265c7-8b28-4b93-9a6e-c502c497cac3@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-hysteria2://7nob86hyaj5rm0en@giftcard.gateway-stream.com:52027?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%7C%20%40LonUp_M
-
-hysteria2://7nob86hyaj5rm0en@giftcard.gateway-stream.com:52036?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%7C%20%40LonUp_M
 
