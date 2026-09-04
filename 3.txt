@@ -7464,3 +7464,7 @@ trojan://zebm0k1v-8kxj-isl9-iw78-nbrqi9ik0yb9@127.0.0.1:2080?security=tls&type=t
 
 trojan://3zvyc6qz-ebp7-03hx-nk4v-m6wz65e6xz10@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
+
+vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?&sni=201.24.49.117&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
+
