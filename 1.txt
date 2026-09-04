@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://7cdbhcga-46yp-bcuv-cmd7-iisw9og6ao2w@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.180:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
-
-vless://188c0927-b022-4478-86f7-be53449e2d8b@rgb.awextr.ir:2082?type=tcp&security=reality&sni=icloud.com&fp=qq&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
 vless://9323430f-0c13-4cd0-a84b-639fabcbe018@89.208.113.65:443?type=tcp&security=reality&sni=fr.plombir.me&fp=firefox&flow=xtls-rprx-vision&pbk=Vroc9K3YOwnMzCiCp3pkx2EtENF_cLk7GzXe_30nRVY&sid=af#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
 trojan://vs6zgy7f-4o0x-0x4h-gdv8-fr0hadq9ezcw@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -80,7 +74,13 @@ vless://f5a3bf49-07ca-0021-a96b-9606781e3600@2.26.147.116:443?encryption=none&fl
 
 vless://5b3fa84b-376e-400d-8a97-34e557b0d89c@83.136.208.168:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.lovelace.com&fp=firefox&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&sid=abd0f00f85f814a1&headertype=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
-vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@188.114.97.6:8080?encryption=none&type=ws&host=silent-feather-8539.sddadad2233122eew.workers.dev&path=%2FeyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
+vless://912db0bc-1d22-422b-997f-17be5291398f@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=hhmnl.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2_mod_shop
+
+vless://912db0bc-1d22-422b-997f-17be5291398f@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=cloudy.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2_mod_shop
+
+vless://912db0bc-1d22-422b-997f-17be5291398f@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=hajhy.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40v2_mod_shop
+
+vless://912db0bc-1d22-422b-997f-17be5291398f@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=afagh.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2_mod_shop
 
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=cdnjs.com&fp=qq&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&sid=17d334ad29b2ff40&headertype=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
