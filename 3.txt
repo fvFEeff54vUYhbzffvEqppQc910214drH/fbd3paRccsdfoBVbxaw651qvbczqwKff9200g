@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?type=tcp&headerType=none&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@72.56.75.54:443?security=reality&encryption=none&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app2.goonars.com&sid=c481d750#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40UnlimitConfig
-
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.103.114:80?type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.70.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://e241cac8-774c-4087-9cfd-4ef3ebcf27e8@104.194.144.99:8880?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=ios&host=&mode=auto&path=%2F&pbk=pSxoYzYVoyL4inHE8RtqU-IMHmpgJaMQX5OlRjEycDA&security=reality&sid=ed247b01&sni=amp-api-edge.apps.apple.com&spx=%2FQcDqFoRqpH2Hue6&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-Reality%20%7C%20%40UnlimitConfig
-
-vless://e241cac8-774c-4087-9cfd-4ef3ebcf27e8@104.194.144.99:9999?encryption=none&fp=ios&pbk=6y2IqT1RYHoPT4NoDL8tvHRFinO5HxJLXBmXK5Lr6ws&security=reality&sid=9d5b1b92582647b2&sni=amp-api-edge.apps.apple.com&spx=%2FNg6kMipBaEwYom3&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20022?type=raw&security=tls&sni=hk.catxstar.com&alpn=http%2F1.1&fp=chrome&headertype=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40DeamNet_proxy
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&security=reality&sni=rs4.univesalsrv.com&fp=firefox&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&type=grpc&authority=&serviceName=media.v1.StreamService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40daily_configs
@@ -1487,6 +1469,8 @@ vless://283665ab-54c2-4c59-ac55-5e8388558eba@188.114.97.6:8080?type=ws&host=27l4
 vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQHYybm9kZXMiLCJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsInBvcnQiOiIxMTAiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2nodes
 
 vless://2ca174cf-e5bd-45bb-afc8-18d0177d2619@109.169.84.96:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&sid=ff6975658b6cefce&sni=strapi.io#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
 
@@ -8219,4 +8203,16 @@ vless://0c78b433-e644-4249-9e56-86ab4c5106e2@144.31.213.199:443?security=tls&enc
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=edge&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+vless://f12734c7-0edc-4432-bfb3-b28886f5c4b9@pswed1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f12734c7-0edc-4432-bfb3-b28886f5c4b9@pitaly1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f12734c7-0edc-4432-bfb3-b28886f5c4b9@Amstrt1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&allowinsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=%2F%3F%54%45%4c%45%47%52%41%4d%2d%4d%41%52%41%4d%42%41%53%48%49%5f%4d%41%52%41%4d%42%41%53%48I%3Fed%3D512#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
