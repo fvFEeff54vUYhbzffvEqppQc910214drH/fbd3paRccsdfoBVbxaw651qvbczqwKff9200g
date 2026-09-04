@@ -7568,3 +7568,7 @@ vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:443?security=reality&e
 
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
 
+vless://88e17fa6-e187-4bc8-ba6a-5050d29b15ab@176.97.218.225:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@po7.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=po7.api3-max.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
+
