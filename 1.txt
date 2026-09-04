@@ -1,5 +1,31 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://e9zqj1kq-qa3k-4q87-3dnu-y2jn72as6p2v@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://vij4tgc9-mllp-iucn-iyc9-cz5dvabeioyh@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://bpb-trojan@172.66.44.87:443?sni=10-bPb-woRKEr-panEL.PaGES.dev&peer=10-bPb-woRKEr-panEL.PaGES.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.226:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
+
+vless://929c048f-f129-461c-9000-3411a7a6d22c@136.244.96.67:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d7430ae7-320c-4658-808b-3006d0627d82@85.17.61.196:443?mode=gun&security=reality&encryption=none&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&fp=chrome&type=grpc&serviceName=gun&sni=mint.ubuntuhosting.host&sid=3fa234ea9feaa048#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://60e2a548-96aa-4850-a279-1edab743c39b@uk1.cnyvpn.com:2083?security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=chrome&type=grpc&serviceName=remnagrpc&sni=autotrader.co.uk&sid=8b71da690c3d5d03#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://abca037b-bee5-41cc-a888-0668e4c66176@cze-01.node.lumixnet.com:443?security=reality&encryption=none&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cze-01.node.lumixnet.com&sid=bd8a588cebc3395a#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=kbfvtb.utady.ir#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://d3022533-50fa-4770-9332-c6423ee48818@Emarat.horlutr.ir:2087?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
 vless://d3022533-50fa-4770-9332-c6423ee48818@u------s------a.cd2-ger1.ir:2087?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
 vless://d3022533-50fa-4770-9332-c6423ee48818@f----r---ench.cd2-ger1.ir:2087?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
@@ -73,30 +99,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.218.146:80?security=none&typ
 vless://5efad8b5-df60-4d26-b943-c6d2a1a98526@104.31.16.215:2096?security=tls&sni=CafeBazarSoft98ir.misvn.ir.&type=ws&host=CafeBazarSoft98ir.misvn.ir&path=%2Fcf%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.44.93:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@103.170.233.160:4308?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://6927cc12-e336-47fa-bb6d-42f0f9b3fa68@up9lr.pastilbastani.ir:2096?security=reality&encryption=none&pbk=Yef9_YrfRICUYUYnwCwDy3w9vzs7ljBmlOsPU9OVa1k&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=bc6942c1d5fe984d#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-trojan://humanity@104.16.174.37:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
-
-trojan://humanity@104.16.174.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%B5%F0%9F%87%BE%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
-
-trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
-
-vless://756ea156-59e8-435f-96d0-80b10ead19db@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9cb31568-b474-4008-bda0-061afc328647@194.58.41.66:80?mode=gun&security=reality&encryption=none&authority=%2F---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&pbk=XeSkjs9n-lrs_EifCjgjiIhzdhI8v18z8WN3HEbi6G4&fp=firefox&type=grpc&serviceName=grpc&sni=www.autodesk.com&sid=3ce37bfdfe180598#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM-TOOTFFARANGI&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM-TOOTFFARANGI&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://5fb3ebfe-a998-4ffa-b854-3cffacbb9b67@91.107.241.29:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=94R5Qc5cek_AMwH904kAx4c-HriEjCYUAattL5ZfIXM&fp=chrome&spx=%2F&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=b58b#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40chillguy_vpn
-
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@31.76.84.43:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=translate.magazinetut.online#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@31.76.84.88:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=start.magazinetut.online#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
 
