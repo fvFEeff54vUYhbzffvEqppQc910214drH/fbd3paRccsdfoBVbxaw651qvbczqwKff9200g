@@ -7708,3 +7708,15 @@ vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?encryption=none&
 
 vless://XpnTeam-58@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--madshopx&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40v2ray1_ng
+
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&host=%2F%3FTELEGRAM--madshopx&headerType=none&fp=firefox&spx=%2F26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray1_ng
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40FreakConfig
+
+vless://aa79a37c-7b18-4184-b64f-1826c4b16e38@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=%2F2xyhZKY7A5P9zDc&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=43e72f85c3#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40FreakConfig
+
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40FreakConfig
+
