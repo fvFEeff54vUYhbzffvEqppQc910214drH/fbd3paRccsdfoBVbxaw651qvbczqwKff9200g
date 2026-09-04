@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40FreakConfig
-
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40FreakConfig
-
-vless://aa79a37c-7b18-4184-b64f-1826c4b16e38@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=%2F2xyhZKY7A5P9zDc&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=43e72f85c3#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40FreakConfig
-
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40FreakConfig
-
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.149.12.237:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@103.170.233.160:4308?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.34.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.1:80?type=ws&host=us3.rtacg.com&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
 
 vless://81d304dd-dfdd-4db3-9918-b1516dc3510d@188.114.97.3:2096?security=tls&sni=Nl.devminil.ir&type=ws&host=Nl.devminil.ir&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
@@ -37,6 +17,8 @@ vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@frl3.mechanicir.ir:38479?security=&
 vless://b857d532-430d-44d9-b8f2-000c8edf0573@frl3.mechanicir.ir:38479?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e1660c22-4a57-42c7-adba-e70f928cdf2c@176.97.218.14:8043?encryption=none&type=ws&path=%2F&host=two.armanx.space&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://e568dabd-3cf8-4af2-8b76-ce8ae60e9b4d@panel.nopperabo.dpdns.org:443?path=%2Fws%2Fvless%2Fe568dabd-3cf8-4af2-8b76-ce8ae60e9b4d%3Fed%3D2048&security=tls&alpn=h3&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -221,6 +203,8 @@ vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.116.201:443?security=reality&
 vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=firefox&spx=%2F567a77547d99226&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40mtmvpn
 
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?path=%2Fproxyip%3Dbpb.yousef.isegaro.com&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=unsafe&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
+
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40mtmvpn
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40mtmvpn
 
@@ -7713,4 +7697,14 @@ vless://c66d3204-7046-4fe3-84e1-22a815fdc1a6@frank.blueheartz.ir:1824?encryption
 vless://c66d3204-7046-4fe3-84e1-22a815fdc1a6@almaa.orangesms.ir:1824?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo&sid=8390ee7a5996648b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3614a2a2-b0db-43f7-9a34-b1248539d848@nnoip-dk-netherland-2ip.zelnora.ir:22189?mode=auto&path=%2F&security=reality&encryption=none&pbk=c3jseYoMisi9sF0Hf9fstRwvs5urkUnHERBZlWXieS4&host=amp-api-edge.apps.apple.com&fp=chrome&type=xhttp&sni=www.zelnora.ir&sid=a7bb3fcb6468d7f7#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://188c0927-b022-4478-86f7-be53449e2d8b@rgb.awextr.ir:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=www.zelnora.ir&fp=qq&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=www.zelnora.ir&fp=edge&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://XpnTeam-58@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
