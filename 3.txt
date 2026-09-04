@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&security=none&fp=edge&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://34305560-ccd1-4466-bbff-09e606f4bc90@144.31.242.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dk1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none&host=%2F--v2rayNplus--v2rayNplus--v2rayNplus--#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://d1ae5c78-3b70-40e6-899d-9f3650208368@grimness-backlogs.cdn-content.com:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=passport.yandex.ru&alpn=http%2F1.1&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&headertype=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
 vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app1.goonars.com:443?security=reality&encryption=none&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app1.goonars.com&sid=04e35a9e#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -79,6 +71,8 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?security=re
 vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=reality&encryption=none&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&host=%2F%3FBIA_TELEGRAM-%40mtmvpn&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=wyrebyte.com&sid=2757df499273bcb2#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#%F0%9F%87%A7%F0%9F%87%AC%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://34305560-ccd1-4466-bbff-09e606f4bc90@144.31.242.69:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&host=%2F--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk1.hat.onl&sid=76132b3b39704c44#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
 
