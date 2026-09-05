@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
-
-vless://59a0424b-d36b-4685-bac5-89d50d8969a8@188.114.97.6:8080?type=ws&host=billowing-snowflake-f056.63-f14.workers.dev&path=%2Fpyip#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
-
-vmess://eyJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDJjNjdhOC1kNzY5LTRkNzMtODMzYS1hYjZhY2RiODZlNmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAdjJub2RlcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-
-trojan://8qm3hvj0-8ru8-hovz-3tbg-fzxra0czcjc7@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://8ov25zwx-49ic-8rza-mnz8-tn7mlclo1dqy@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
 trojan://g1x68zqc-txo6-7e5f-wvww-eyw9ca7wp1hl@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@de.global-cdn.org:443?type=tcp&security=reality&sni=de.global-cdn.org&fp=edge&flow=xtls-rprx-vision&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&sid=f7d0420b8ab26060#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
@@ -265,4 +255,20 @@ vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?type=tcp&hea
 vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@2.27.160.58:443?headerType=none&sni=cdnv-img.perekrestok.ru&flow=xtls-rprx-vision&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&type=tcp&encryption=none&security=reality&fp=firefox&sid=671047edbaa38eef#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.75:443?fp=firefox&security=reality&sid=954c99065465428d&type=tcp&sni=dropbox.com&headerType=none&encryption=none&flow=xtls-rprx-vision&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&fp=firefox&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&alpn=h2&type=ws&host=c12.com&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://59a0424b-d36b-4685-bac5-89d50d8969a8@188.114.97.6:8080?type=ws&host=billowing-snowflake-f056.63-f14.workers.dev&path=%2Fpyip#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
+
+vmess://eyJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDJjNjdhOC1kNzY5LTRkNzMtODMzYS1hYjZhY2RiODZlNmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAdjJub2RlcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+
+trojan://8qm3hvj0-8ru8-hovz-3tbg-fzxra0czcjc7@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://8ov25zwx-49ic-8rza-mnz8-tn7mlclo1dqy@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
