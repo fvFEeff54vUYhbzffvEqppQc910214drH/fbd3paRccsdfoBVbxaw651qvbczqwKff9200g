@@ -22,3 +22,19 @@ vless://8007a579-e4e9-44dd-8f20-3811c6b269c3@199.232.78.159:443?path=%2F&securit
 
 vless://4c6e1341-f9b2-4d34-bb0c-6baba0688e87@194.110.207.89:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=chrome&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&sid=f6b5862c1f73ab80&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?mode=auto&path=%2FChOpIn&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=chopin.paxr.ir&type=xhttp&allowInsecure=0&sni=chopin.paxr.ir#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://c3f84246-8733-48a0-972f-cb08b3bb4efd@185.7.172.174:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40FreakConfig
+
+vless://bada4d81-e48f-4f27-9e65-d6f2a7bc42cb@66.33.22.232:50117?security=reality&encryption=none&pbk=MhgR0Z714KAusApSD3cfXK3AzetufNoVCHc6C4_TVBk&headerType=none&fp=ios&spx=%2F551101ec1ba8495&type=tcp&sni=nihongoacademy.jp&sid=5340c7ce#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://82142a22-74e5-4fce-ae80-9248a96b7af8@89.116.250.135:443?type=xhttp&encryption=none&path=%2F&host=alirezaxui.psmehdizamani.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=alirezaxui.psmehdizamani.ir#%F0%9F%87%B1%F0%9F%87%B9%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://82142a22-74e5-4fce-ae80-9248a96b7af8@88.216.67.230:443?type=xhttp&encryption=none&path=%2F&host=alirezaxui.psmehdizamani.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=alirezaxui.psmehdizamani.ir#%F0%9F%87%A8%F0%9F%87%BC%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://82142a22-74e5-4fce-ae80-9248a96b7af8@104.17.148.22:443?type=xhttp&encryption=none&path=%2F&host=alirezaxui.psmehdizamani.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=alirezaxui.psmehdizamani.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://82142a22-74e5-4fce-ae80-9248a96b7af8@104.16.47.8:443?type=xhttp&encryption=none&path=%2F&host=alirezaxui.psmehdizamani.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=alirezaxui.psmehdizamani.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://82142a22-74e5-4fce-ae80-9248a96b7af8@104.17.122.116:443?type=xhttp&encryption=none&path=%2F&host=alirezaxui.psmehdizamani.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=alirezaxui.psmehdizamani.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
