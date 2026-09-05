@@ -22,3 +22,19 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.167.151:22224?encryption=none&s
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.167.151:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40Outline_Vpn
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEB2Mm5vZGVzIiwiYWRkIjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiTTAxYzdCMnoyNkR0UUdFZS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+
+vless://22aa0302-f198-4be8-b7e3-a5bd739a5c2f@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiIyMy4xMzcuMjQ5LjExMCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImE3YWVlNjllLTZlMDItNDdkMS04MTcyLTcwMTg2NmJiYjI4YyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzAwMTEiLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBUQ1AtVExTIHwgQExvblVwX00iLCJzY3kiOiJhdXRvIiwic25pIjoiMjMuMTM3LjI0OS4xMTAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+
+vless://bfa85457-2210-4242-9f96-5f2113edddf2@kwna.ir:443?path=%2Fapi%2Fws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-2igmf.app-uovbiw.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=webapp-trexbridge-2igmf.app-uovbiw.workers.dev&fragment=tlshello%2C5%2C94%2C1%2C0&fragment2=1-1%2C109%2C1%2C1%2C355#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://4cf0a39d-b913-4497-9a7b-301cc0a31713@tunnn.qarmiko.ir:3456?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.xosPlQGSxKTAHMITfhxMS68lmNsknfHLrvziVWtIqTw&type=xhttp#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
+
+trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40LonUp_M
+
