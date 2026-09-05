@@ -28,5 +28,9 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?encryption=none&f
 
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv1.jarvesitw.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&security=reality&sid=8beb2706&sni=apiv1.jarvesitw.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
+vless://64f4d1c3-12fc-8070-c36f-774aaacca63f@69.46.46.50:443?path=%2Fws%2F64f4d1c3-12fc-8070-c36f-774aaacca63f&security=tls&alpn=http%2F1.1&encryption=none&host=ashi-production.up.railway.app&fp=ios&type=ws&sni=ashi-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://6c238961-ddc9-4878-8d28-a4214823a1bb@199.232.78.159:443?sni=ssl.fastly.com&fp=chrome&insecure=0&security=tls&allowInsecure=0&type=ws&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
 
