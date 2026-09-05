@@ -10,3 +10,21 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.177.61:22223?security=none&e
 
 vless://8546ebf8-5761-4b01-ae23-07d68c1433e9@web-production-08d89.up.railway.app:443?path=%2Fws%2Fvless%2F8546ebf8-5761-4b01-ae23-07d68c1433e9%3Fed%3D2048&security=tls&alpn=h3&encryption=none&insecure=0&host=web-production-08d89.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-08d89.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@darsadgir.ir:2087?mode=auto&path=%2FGoRbEh&security=tls&alpn=h2%2C%20http%2F1.1%2C%20h3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=ratatouille.rahmatokaduie.ir&type=xhttp&allowInsecure=0&sni=ratatouille.rahmatokaduie.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mehrosaboran
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.177.61:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://8546ebf8-5761-4b01-ae23-07d68c1433e9@web-production-08d89.up.railway.app:443?path=%2Fws%2Fvless%2F8546ebf8-5761-4b01-ae23-07d68c1433e9%3Fed%3D2048&security=tls&alpn=h3&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@ef.tarnishedking.ir:19088?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Wc8zy18AFoHjIldxYy0YrbZkplY8mY-UvvMHtlBSgyo&sid=5f0d8889eed11401&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@sw.mrhservice.ir:2087?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=06ep3nkkA60Jh8rWJSz3dCpLWxUPYLN0uZnESYsoQFo&sid=2b044515f70accef#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@brg.cloudmixsc.ir:15617?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=zAjmD7mwpdYpvo5W5iZvSJAJ1xnuXnFNEZAQ-NoSXwg&sid=8cf95f839e46a5c3#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@esmivo.fatehshahri.ir:20122?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=O91hVddmNmokfHl28XY9QcCE1RKrqtpuyoDjeGLA-HY&sid=553b916353b80ec5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@usx.chainmark.ir:20988?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vvSonT5X-mJfzu8RPx_QjIYDZtLGlkNmsLlsVVB8d34&sid=fe400bf742658194&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@hekmf.cloudmixsc.ir:8080?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=9k7vqYlIViSLwJ2_0hHXmCuHIdwcb-VwQnSo-xOsqyw&sid=94ac5ad2b0e2f978#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
