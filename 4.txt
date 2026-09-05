@@ -30,3 +30,35 @@ vless://3ee07848-0e0c-4ab3-84ee-099c8788d8c5@199.232.78.159:443?encryption=none&
 
 hysteria2://CnVfXXvMzh@72.56.92.120:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
 
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?type=ws&sni=pl4.lckdwn.ru#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://84c898c4-6990-4121-ae51-27d989f5ce39@pl3.lckdwn.ru:443?type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@72.56.75.54:443?encryption=none&security=reality&sni=app2.jarvesitw.ru&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@50.7.95.198:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&sni=www.samsung.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@app1.jarvestip.ru:443?security=reality&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&fp=qq&sni=www.samsung.com&flow=xtls-rprx-vision&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d6faa463-2d36-4229-853f-47f0a1305ef9@5.75.196.249:110?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d6faa463-2d36-4229-853f-47f0a1305ef9@91.228.227.172:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d6faa463-2d36-4229-853f-47f0a1305ef9@91.228.227.172:110?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&security=reality&sid=c481d750&sni=app2.jarvesitw.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@2.26.84.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ia6cEEqjnawIhBPzcHFWSNsQIOJcHQU5t5FebSphWGA&security=reality&sni=de-6.kihsuyhf8jkiugsxb.cfd&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://51231507-67c3-4141-ab08-a69eb121c716@138.124.67.80:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&security=reality&sid=16&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@2.26.81.93:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fJMi96b-899vgYCVQnHwxRwTBvlbnUy8dMdA2xkXMBY&security=reality&sni=de-5.kihsuyhf8jkiugsxb.cfd&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40LonUp_M
+
+hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#%F0%9F%87%B3%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
+
