@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@193.53.126.91:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=tls&sni=u643766u53fe439es2358.gogocs.xyz&alpn=h2%2Chttp%2F1.1&fp=firefox&headertype=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40DeamNet_proxy
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40DeamNet_proxy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
-
-vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-TLS%20%7C%20%40v2nodes
-
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?path=/8f2690e2d016&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
 
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=/trojan&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#%F0%9F%87%AE%F0%9F%87%A9%20WS-TLS%20%7C%20%40v2nodes
@@ -83,6 +75,8 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality
 vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.180:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-TLS%20%7C%20%40LonUp_M
 
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=/trojan&security=tls&fm={#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
 
@@ -2537,6 +2531,8 @@ vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@31.76.10.234:443?security=reality&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
 
@@ -6935,4 +6931,40 @@ vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?headerType=non
 vless://9e73a41e-1175-4d80-bfc5-8ba42a688161@tun2.shahrahsolutions.top:2448?type=tcp&encryption=none&host=ca.roomode.ir&security=tls&sni=ca.roomode.ir&fp=chrome&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
 
 vmess://eyJhZGQiOiJ1cy5qY25hcy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzLmpjbmFzLnZpcCIsImlkIjoiODFiMjhiOTYtZTE0YS00NjEwLWE4MmUtM2Y1MzYxYmU1ZmZjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwMDIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52021?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52026?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52030?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%B7%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52033?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AC%F0%9F%87%A7%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%B3%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52067?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%B9%F0%9F%87%B7%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52069?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52071?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40JKVPN
+
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52088?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40JKVPN
+
+vless://1d55a5e6-dfc8-485b-a18a-8c65a42cff17@151.242.168.238:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@50.7.95.198:443?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.42.163:443?type=ws&security=tls&encryption=none&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&path=%2F&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.93:2083?encryption=none&type=ws&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.42:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:443?encryption=none&type=ws&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.173:443?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.60:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
