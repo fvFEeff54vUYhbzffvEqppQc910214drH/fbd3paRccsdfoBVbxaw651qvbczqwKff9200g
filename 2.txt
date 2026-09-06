@@ -22,6 +22,20 @@ vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=/ws?ed=2560&
 
 vless://6c168fcc-2231-4f3b-8c1e-f6391692df4a@8bsibsh8wbbwihfhjskbbng-shape-3.mewivot154.workers.dev:8080?security=none&sni=&type=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
 
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443/?sni=hopp-germany-new.ddnsguru.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.18:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-20.moriarty-web.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://0afcdc48-917d-47e8-8adb-cbe6908baede@nl1.dzen-services.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&security=reality&sid=81ea&sni=nl1.dzen-services.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0afcdc48-917d-47e8-8adb-cbe6908baede@50.7.177.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&security=reality&sid=81ea&sni=nl1.dzen-services.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.165:8443/?sni=hopp-netherland-new.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443/?sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@193.42.12.34:18443?encryption=none&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp2.steptofsvo.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
 vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40LonUp_M
