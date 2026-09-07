@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20068?type=raw&security=tls&sni=hk.catxstar.com&alpn=http%2F1.1&fp=chrome&headertype=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40DeamNet_proxy
+
+vless://cb03068e-dabc-41f2-8046-50e3034d138d@gr.edge-cache.onevanet.ir:8876?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://59691413-4c83-4232-8a79-ff6dc376dd53@gr.edge-cache.onevanet.ir:8876?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
 vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?encryption=none&type=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 vless://68454e16-432d-4562-ba83-00b0da3ebb86@95.216.142.36:7443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
@@ -91,12 +99,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.119:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.119:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.119:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg==@103.160.63.199:31348#%F0%9F%87%AE%F0%9F%87%A9%20TCP-None%20%7C%20%40V2HUBIR
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Hysteria-TLS%20%7C%20%40LonUp_M
-
-vless://504b7e4c-b4cd-4483-ae6a-1305ee4ea9c3@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
