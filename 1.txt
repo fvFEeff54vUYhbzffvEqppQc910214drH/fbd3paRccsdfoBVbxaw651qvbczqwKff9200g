@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://j5m5kefe-ny3t-tfgb-ml1k-rdqvzxdh4bjo@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?type=tcp&security=reality&sni=dhlparcel.nl&fp=firefox&flow=xtls-rprx-vision&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&sid=3dad96f8693ea653#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.60:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
-
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?encryption=none&security=tls&sni=web-socket.tgdaosheng.ggff.net&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=ws&host=web-socket.tgdaosheng.ggff.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
-
-vless://f71957f3-29e0-d077-9b51-83da5cf31480@62.233.39.7:8443?encryption=none&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2rayBaaz
-
-vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.9:443?Telegram=VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone&encryption=none&security=reality&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
 vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.4:8443?Telegram=VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone&mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -51,6 +33,16 @@ vless://2feda6f7-8baa-4591-a851-1e2037a58572@31.77.111.31:43435?mode=gun&securit
 vless://XpnTeam-72@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NPV_78
 
 vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?encryption=none&type=tcp&security=reality&headerType=none&sni=tnt-cloud.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=6e5f2a3b&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://d3061322-9702-41b4-8f0c-8bd5fd68f169@162.159.82.123:2053?path=%2F&security=tls&encryption=none&insecure=0&host=du.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=du.roomode.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://d3061322-9702-41b4-8f0c-8bd5fd68f169@104.16.22.21:2053?path=%2F&security=tls&encryption=none&insecure=0&host=du.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=du.roomode.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f8be56fd-9382-4984-94dd-d19a611f220c@162.159.82.123:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ca.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=ca.roomode.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://eaf8abff-0fbf-4b64-8d8f-18c1757c75df@188.130.209.185:443?security=reality&encryption=none&pbk=vrtWpW_N3rBs9WEoV1Yz4uOYsci3Kpe7HitaYr4oQGc&host=%2F%3FBIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=images.mycdn-io.ru&sid=fbe42a5d4788bacc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -99,4 +91,12 @@ vless://3cc05123-0e5c-4ceb-9872-fcbf491446c8@146.75.119.82:80?type=ws&encryption
 vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@xnforo.ir:443?encryption=none&security=tls&sni=chopin.paxr.ir&type=xhttp&host=chopin.paxr.ir&path=%2FChOpIn&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayBaaz
 
 vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?encryption=none&security=tls&sni=chopin.paxr.ir&alpn=h2%2Chttp%2F1.1%2Ch3&type=xhttp&host=chopin.paxr.ir&path=%2FChOpIn&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22seqPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%2C%22sessionPlacement%22%3A%22header%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayBaaz
+
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://50d23ee5-96dd-4e77-9b6d-8aa9e8335cb9@t5rnllobbe35.dx4x.com:3939?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=jDLgjb0-BD4samYabw5rmOX4asnuJ1VhwaRgvdNWSxU&sid=b7c2547d2c6ddfea&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
+
+vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.9:443?encryption=none&security=reality&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2rayBaaz
 
