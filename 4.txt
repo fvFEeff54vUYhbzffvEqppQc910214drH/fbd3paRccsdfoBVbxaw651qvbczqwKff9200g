@@ -1,28 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://%4D%69%54%69%56%50%4E@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-ss-%6D%69%74%69%76%70%6E-----%6D%69%74%69%76%70%6E.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.72.183:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
 
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?path=%2Fproxyip%3Dbpb.yousef.isegaro.com&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=unsafe&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
-
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.102.198:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40manVPN
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40DeamNet_proxy
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.72.183:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40PrivateVPNs
-
-vless://daed6a81-9d8d-1c48-0007-21b8a0dd2da6@69.46.46.108:443?path=%2Fws%2Fdaed6a81-9d8d-1c48-0007-21b8a0dd2da6&security=tls&alpn=http%2F1.1&encryption=none&host=ivory-prairie-b189-production.up.railway.app&fp=ios&type=ws&sni=ivory-prairie-b189-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://f820088c-061a-662d-065d-056e0ee54274@69.46.46.109:443?path=%2Fws%2Ff820088c-061a-662d-065d-056e0ee54274&security=tls&alpn=http%2F1.1&encryption=none&host=azure-ember-6199-production.up.railway.app&fp=ios&type=ws&sni=azure-ember-6199-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://4066dc4c-c0b7-4c81-a9e9-00d3a767d36f@sw.edge-cache.onavinet.ir:3946?encryption=none&security=reality&type=tcp&headerType=none&sni=play.googleapis.com&fp=qq&pbk=tbQi9Zn0FPJkgvvAQjTOv86X2r9TSh2Df2Wh-Heh0As&sid=13020d9d20469d78#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://353aa403-02bb-4bfe-b40b-173711377cc9@edge-fl.onavinet.ir:2511?encryption=none&security=reality&type=tcp&headerType=none&sni=amd.com&fp=safari&alpn=h2%2Chttp%2F1.1&pbk=8jZsR1H0IF8ztPU3wrD1LRRGS_TELWuwHPSdCS1dpms&sid=6ab1180b768fc463#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://be39768d-9cee-4e2c-9861-38e7bfc44f90@#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
-
-vless://36fb0222-0a1a-43d6-980e-eb484f1ebebd@edge-fl.onavinet.ir:2511?encryption=none&security=reality&type=tcp&headerType=none&sni=amd.com&fp=safari&alpn=h2%2Chttp%2F1.1&pbk=8jZsR1H0IF8ztPU3wrD1LRRGS_TELWuwHPSdCS1dpms&sid=6ab1180b768fc463#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://c49f624c-387a-4340-aaff-5de491699309@185.199.108.151:80?mode=auto&path=%2F&security=none&encryption=none&host=cghkppv2868.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40LonUp_M
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.72.183:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
 
