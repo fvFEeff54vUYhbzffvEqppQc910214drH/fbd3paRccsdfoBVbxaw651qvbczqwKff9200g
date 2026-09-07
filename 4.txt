@@ -14,3 +14,19 @@ ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#%F0%9F%8C%90%20T
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.60:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?encryption=none&security=tls&sni=web-socket.tgdaosheng.ggff.net&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=ws&host=web-socket.tgdaosheng.ggff.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://f71957f3-29e0-d077-9b51-83da5cf31480@62.233.39.7:8443?encryption=none&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2rayBaaz
+
+vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.9:443?Telegram=VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone&encryption=none&security=reality&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.4:8443?Telegram=VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone&mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2feda6f7-8baa-4591-a851-1e2037a58572@109.121.44.61:443?security=reality&encryption=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3-m.perecmusic.ru&sid=4a1b0c7d#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
