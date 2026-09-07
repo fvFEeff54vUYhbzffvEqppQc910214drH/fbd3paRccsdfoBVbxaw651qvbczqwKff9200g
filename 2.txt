@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.t1a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2_mod_shop
-
-vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.d2a.syslogd.ir:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=mlkem768x25519plus.native.0rtt.pXEzueg8e8OZoPz_hGsx3Erz0ETvAAip9anVVdjurmA&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2_mod_shop
-
 vless://a7913e8e-56a7-435f-843e-ad71fbb8d218@5.75.195.244:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 trojan://MiTiVPN@151.101.56.7:443?path=%40mehrosaboran&security=tls&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
@@ -59,6 +55,30 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=r
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ISVvpn
+
+trojan://mof99tc8-oz2q-20a7-vgt9-srz0ti0fqacr@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://k597gd4o-1uhz-oapw-6gc1-jbdiii4sjhzf@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://wkwo7kp0-88av-2aip-miiu-1v1fs9ldvu60@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@104.19.229.21:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@172.67.221.242:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlpsTg@138.124.68.88:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40SimChin_ir
+
+ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA@64.177.32.29:8388#%F0%9F%87%AA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://b1248759-6565-450b-a4dc-09d4eeb1f22a@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=yaSharClass.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c496c9c8-5ea1-4746-8a2e-aca2137ca310@gr.rosoukhi.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=nhm1.ziclub-tbz.ir&path=%2F&security=tls&sni=nhm1.ziclub-tbz.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 trojan://1xsgaxhy-hfdx-p5jo-wu7x-nz3inu7i6n72@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
@@ -131,4 +151,8 @@ vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@s1b.syslogd.ir:443?path=%2Fpa-m-v2&
 vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.t3a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2_mod_shop
 
 vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@cf5.syslogd.ir:80?path=%2Fapi%2Fv2net&security=&encryption=mlkem768x25519plus.native.0rtt.Bb0Kae9TgkkhSSdtcgjp_CX99aQuYmeDzo8u6I2ISwk&host=user6333600ef0d70a15.ehsanwatchgallery.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-None%20%7C%20%40v2_mod_shop
+
+vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.t1a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2_mod_shop
+
+vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.d2a.syslogd.ir:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=mlkem768x25519plus.native.0rtt.pXEzueg8e8OZoPz_hGsx3Erz0ETvAAip9anVVdjurmA&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2_mod_shop
 
