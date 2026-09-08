@@ -30,3 +30,29 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40FarazV2ray
+
+vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?mode=auto&path=%2FChOpIn&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=chopin.paxr.ir&type=xhttp&allowInsecure=0&sni=chopin.paxr.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@58.153.148.126:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome&type=tcp&sni=updates.cdn-apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://91df5a86-fcdd-11ef-94aa-f23c913c8d2b@58.153.148.126:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome&type=tcp&sni=updates.cdn-apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@shop.jarorobo.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=b5d663e4e2e19d&sni=www.github.com&spx=%2Fd54e66f3a364350&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0c350e60-b7b4-4061-bd70-02280be45b09@p1real2.greewebservices.ir:1240?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_freex
+
+vless://Telegramjoin:TurboConfigs @82.40.62.11:9094?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=%2F&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_freex
+
+hysteria2://b0d431139ded4333aa805a1567c761bb@dep.charsoulink3.ir:53062?security=tls&obfs=salamander&obfs-password=t38lc9pdw1uhtgn6&insecure=0&sni=dep.charsoulink3.ir#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@www.canva.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@antar.cdkshop.ir:8086?encryption=none&fp=chrome&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&security=reality&sid=72&sni=shop-us-en.amd.com&spx=%2F2e36e48320a3459&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@abc.cdkshop.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=b5d663e4e2e19d&sni=www.github.com&spx=%2Fd54e66f3a364350&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@xyz.cdkshop.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=b5d663e4e2e19d&sni=www.github.com&spx=%2Fd54e66f3a364350&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://312301d1-0462-4685-a0d2-de87a8430b85@antar.cdkshop.ir:8087?encryption=none&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&security=reality&sid=4ad8131b3f3b&sni=shop-ca-en.amd.com&spx=%2Fa8a181525655a9f&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
