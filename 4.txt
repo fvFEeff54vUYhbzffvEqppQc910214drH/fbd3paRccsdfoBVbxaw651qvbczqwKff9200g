@@ -30,3 +30,21 @@ vless://44fff300-6307-46e2-b937-7c903375c57c@varzesh3.com:80?Telegram=Cfox_Serve
 
 vless://547f38ac-596d-429e-9f36-4be91b386a59@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+trojan://MiTiVPN@167.82.76.27:443?path=&security=tls&alpn=http%2F1.1&insecure=0&host=-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@150.241.68.208:443?encryption=none&allowInsecure=0&type=ws&path=%2Fcdn%2Fv3%2Flive&host=cf13.rumedia-cdn.com&alpn=http%2F1.1&insecure=0&fp=firefox&sni=cf13.rumedia-cdn.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=0e&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://b2ca657e-c135-4888-bc7d-a9f986789cc0@fRt.torflay.ir:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=HLpLMCvrPiRj4klewfrHBu0Yqz8EX6Hzk2v-vy44wQQ&fp=chrome&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=1e0815e664af2cd4#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40LonUp_M
+
