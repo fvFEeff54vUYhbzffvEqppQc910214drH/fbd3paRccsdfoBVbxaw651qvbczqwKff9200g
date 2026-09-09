@@ -1,34 +1,16 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://2f8clhum-pra6-ug8t-mh0w-jfqdzp07pf34@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.42.54:2053?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-trojan://lxca9jaa-89e4-kr5j-9w03-qjq9n4hjzilg@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.215:2087?security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-trojan://jgex8lxz-uijs-49ee-boai-946ehojochfb@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.215.97:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdSUEMtVExTIHwgQFJPTklOVlBOMSIsImFkZCI6IjQ1LjYzLjExNi43NSIsInBvcnQiOjIwODcsImlkIjoiMDIzOTc5ZjUtYjBjNy00YTFhLThhNzYtNzA0OTBkMzUyZjYxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0Ijoia2suYm9rZG9rMi5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJray5ib2tkb2syLm9ubGluZSJ9
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@188.114.97.6:443?type=ws&security=tls&fp=unsafe&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg1.univesalsrv.com:443?type=grpc&security=reality&sni=bg1.univesalsrv.com&fp=firefox&pbk=vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY&sid=954891aec4fe0be9#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40RONINVPN1
+vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp2.steptofsvo.com&sid=5c766813929a1fdd#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
 
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?type=tcp&security=reality&sni=dep.opngtr.nl&fp=firefox&flow=xtls-rprx-vision&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&sid=7d6b6b7a606c21cf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+ss://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAicG9ydCI6ICIxODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF8zOTg2IFx1ZDgzY1x1ZGYwZCBcdTI2YTFcdWZlMGYifQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
 
-vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@kshskjsjskeoekheueieie.nenenet1.ir:55777?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.O0QGHQMpSF3WNptiABMMcbXEtaaCf6Ql47WE6TX4CW0&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
-
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.40.152:2087?path=%2F&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&alpn=%40.networld_vpn-&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.171:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.67.217.240:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=unsafe#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.67.118.45:2087?type=ws&security=tls&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome&path=%2F&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.87:443?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://97dbc5f2-7972-45c8-9187-a1232a31e392@188.121.108.133:1819?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
-
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://97dbc5f2-7972-45c8-9187-a1232a31e392@188.121.108.133:1819?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
 
