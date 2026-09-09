@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://f5197f13-930e-4ce4-925e-973d703dd4e6@138.124.86.127:444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=acR3z7kRfCQEnfuCO1U3MFzTUXWQz9YqSe5RwbxafyE&sid=a1b2c3d4a1b2c3d4&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.140.10:62145?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40V2HUBIR
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40V2HUBIR
@@ -6949,4 +6943,34 @@ vless://50414e45-4c5f-5a45-5553-ecd5f45f8bea@ez-d1a88f.ezaccess13c3954.workers.d
 vless://50414e45-4c5f-5a45-5553-ecd5f45f8bea@ez-d1a88f.ezaccess13c3954.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2Fecd5f45f8bea&security=tls&encryption=none&insecure=0&host=ez-d1a88f.ezaccess13c3954.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-d1a88f.ezaccess13c3954.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://93c8a2a2-f83b-4325-8136-4e3ea5399819@marzban-node-production-716f.up.railway.app:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://q6mxxrp6-jesg-jxfc-si2r-ndzxxfqrrgke@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://78jeskby-669s-7d1h-xuno-nm2veargy7lj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://d4x18lu8-i5t8-5u2g-16my-cky2wdufl2vm@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?type=xhttp&security=reality&path=/&sni=ya.ru&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
+
+trojan://no61kyhl-zay1-2g7b-jrhm-r5eq907n2t0f@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://ghvpp7gy-3xii-uum7-ywem-xmfdyjiap92l@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://ozjkvb9p-g7v4-t8fm-piqx-x87z0p2mbji3@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyB8IEBST05JTlZQTjEiLCJhZGQiOiIxMzcuMTc1LjE1LjE5NyIsInBvcnQiOjM2MDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNDEzMTYxODIxMzUiLCJ0bHMiOiJ0bHMifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAUk9OSU5WUE4xIiwiYWRkIjoiMTA0LjIxLjQuMTQiLCJwb3J0IjoyMDg2LCJpZCI6IjdkOTNlOTkyLTQ4Y2YtNDJkNC04NGY4LTc1NzY4ZTgxNWE0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ==
+
+trojan://sghq3f16-3bxg-sa42-0w00-gqwbk4uw5xeg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://zjtef7cy-58jd-jw6y-e1h1-unz03vqahgk5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://sr60b33j-u55g-qfo3-n9kx-hq430r85hx0t@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
