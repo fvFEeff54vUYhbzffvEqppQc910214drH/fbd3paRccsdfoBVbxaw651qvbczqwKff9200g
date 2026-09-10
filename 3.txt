@@ -7066,3 +7066,23 @@ vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@192.145.31.5:8443/?type=tcp&encrypt
 
 vless://24aa2b95-11fb-4eb7-9dc0-251c304b6d68@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40Appsooner%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
+trojan://humanity@172.67.149.60:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_cartel
+
+trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_cartel
+
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=nl1.sferavpn.pro&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40v2ray_cartel
+
+vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@xnforo.ir:2087?encryption=none&type=xhttp&mode=auto&host=fish.kaftarkakolbesarwifi.ir&path=/FiShChIpS&extra=%7B%22xPaddingObfsMode%22:true,%22seqPlacement%22:%22header%22,%22xPaddingHeader%22:%22x-grpc-context%22,%22sessionIDPlacement%22:%22header%22,%22xPaddingKey%22:%22ctx%22,%22seqKey%22:%22Upload-Offset%22,%22mode%22:%22auto%22,%22sessionIDKey%22:%22Idempotency-Key%22,%22xPaddingBytes%22:%221-1%22,%22xPaddingMethod%22:%22tokenish%22%7D&security=tls&fp=chrome&sni=fish.kaftarkakolbesarwifi.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray_cartel
+
+vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@b2n.ir:2087?encryption=none&type=xhttp&mode=auto&host=fish.kaftarkakolbesarwifi.ir&path=/FiShChIpS&extra=%7B%22sessionIDKey%22:%22Idempotency-Key%22,%22seqKey%22:%22Upload-Offset%22,%22xPaddingKey%22:%22ctx%22,%22xPaddingHeader%22:%22x-grpc-context%22,%22sessionIDPlacement%22:%22header%22,%22xPaddingMethod%22:%22tokenish%22,%22xPaddingBytes%22:%221-1%22,%22xPaddingObfsMode%22:true,%22seqPlacement%22:%22header%22,%22mode%22:%22auto%22%7D&security=tls&fp=chrome&sni=fish.kaftarkakolbesarwifi.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray_cartel
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-33.moriarty-web.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-33.moriarty-web.com&alpn=h2&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
+
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&security=reality&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.39.125.70:2053/?type=ws&encryption=none&flow=&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://fa80d79a-0410-4e1c-8bc1-1f855e794860@vnet.korluma.ir:2087/?type=tcp&encryption=none&flow=&sni=play.google.com&security=reality&pbk=-TYsz4fk-n5bQw9DW0fPxhXiwnXFq61rSFkSpjcLrVY&sid=313bef465a6de318#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
