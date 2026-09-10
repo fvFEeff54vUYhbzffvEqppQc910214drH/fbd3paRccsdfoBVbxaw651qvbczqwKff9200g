@@ -14,3 +14,19 @@ vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@11.foodtry.ir:2083?type=tcp&securit
 
 vless://cc50ca48-b54a-42f3-afad-c54b136d1f14@5.75.195.244:40792?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=CkuULNczLmaVd-vabRfj3UpPd__M7BlrXivZ728Toyg&sid=546b264aac9b6fed#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be.40.126.22:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e.10.172.12:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vless://a70d8502-3306-5ed8-bf09-26675b773c9e@core-d79e53-5f2007-production.up.railway.app:443?path=%2Fws%2FJehdhsus&security=tls&alpn=http%2F1.1&encryption=none&host=core-d79e53-5f2007-production.up.railway.app&fp=chrome&type=ws&sni=core-d79e53-5f2007-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c2787132-05bf-5cb3-abfe-511aaaead78e@service-8d66c7-4da4ac-production.up.railway.app:443?path=%2Fws%2FYevdvdvd&security=tls&alpn=http%2F1.1&encryption=none&host=service-8d66c7-4da4ac-production.up.railway.app&fp=chrome&type=ws&sni=service-8d66c7-4da4ac-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://7f5a00d4-ce29-5e67-b39c-5fcbcb17c907@service-4be6b1-f7ea97-production.up.railway.app:443?path=%2Fws%2FUbdvdhdh&security=tls&alpn=http%2F1.1&encryption=none&host=service-4be6b1-f7ea97-production.up.railway.app&fp=chrome&type=ws&sni=service-4be6b1-f7ea97-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://2f35965a-9a9b-45fd-ba32-987296dfb6be.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiJ1cy1ub2hlc3Nzcy5wcml2bmV0LnN0b3JlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU3ZDRkOTIzLWM4ZjYtNGI5NC1iZjA1LWM1ZTA3YTgzZTJmNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMjgiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+trojan://qo4a9nddlgupzd93@193.148.253.210:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=&fp=chrome&ech=AGL%2BDQBeAAAgACDrJP%2FdVWMeomRtbuW9WXn79BFt4p%2F19elnElm1w9uwKAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA%3D%3D&type=ws&allowInsecure=0&sni=#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40UnlimitConfig
+
