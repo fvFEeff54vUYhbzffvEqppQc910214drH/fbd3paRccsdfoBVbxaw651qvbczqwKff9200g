@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.187.29:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://7dd0330c-de3d-4b7b-9b34-b034ded5a12f@zcs2i63s.danqela.ir:50303?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=apple.com&security=reality&fp=chrome&sni=check-host.net&pbk=rBrdXxzD9I11ZPwrjv2KX0l2JBROsrlkb0F30HriIAE&sid=57c0daf484ae6072#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40Tweety_Proxy
 
 vless://d8c6ed88-bff0-4494-a060-f618786e0e4a@49.12.45.2:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&security=reality&sid=95&sni=amp-api-edge.apps.apple.com&spx=%2FNpWro7SlTrmG8JR&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -1215,6 +1211,8 @@ vless://telegram-id-ArV2ray@185.146.173.237:80?Telegram=@V2RayTz,@V2RayTz&path=/
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.108:443?security=tls&sni=hka.ylks.link&type=ws&path=%2F%3Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.64:443?security=tls&sni=xint.ylks.link&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.187.29:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40FreakConfig
 
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@104.21.33.59:443?path=%2F6d2fed050b30&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=fcs013.getdcz.me&type=ws&allowInsecure=0&sni=fcs013.getdcz.me#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40FreakConfig
 
@@ -7211,4 +7209,20 @@ trojan://yaloxdwa6viz34nx@193.148.253.210:2053?path=%2F&security=tls&alpn=h2%2Ch
 vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=%2Fde2-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://f2900749-7cff-42b7-9566-dfb03840d374@any.zavqeron.ir:2053?path=%2Fde1-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=any.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vmess://eyJhZGQiOiIxOTMuMTQ4LjI1My4yMTAiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTkzLjE0OC4yNTMuMjEwIiwiaWQiOiI0ODc4YjgwZC03NjAyLTQ5OWMtYjc0Mi1iMDlhYzQzNTVlMGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZjEwIEhUVFBVcGdyYWRlLVRMUyB8IEBORVRNZWxsaUFudGkiLCJzY3kiOiJhdXRvIiwic25pIjoiMTkzLjE0OC4yNTMuMjEwIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
+
+vless://f11efb87-4c46-41a7-a0e3-d24ac22dfd99@94.237.102.164:443?security=reality&encryption=none&pbk=j7aGcYd-D_FA4I5VxfbDGLSG2xjTOXH9uaRLyMiE5gQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=b8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpveUhSbHZON1FUdGlKOEtvQ09NZjcwREt5SjU4eVMtYQ==@tunnel-us.onrovela.com:8090#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpveUhSbHZON1FUdGlKOEtvQ09NZjcwREt5SjU4eVMtYQ==@Tunnel-de.onrovela.com:8091#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpveUhSbHZON1FUdGlKOEtvQ09NZjcwREt5SjU4eVMtYQ==@Tunnel-Tr.onrovela.com:8092#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4878b80d-7602-499c-b742-b09ac4355e0b@193.148.253.210:8081?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=&fp=chrome&ech=AGL%2BDQBeAAAgACCbsdve%2FBQF58K32iWEwfN24VHz8gelEdam5tFXR2WqSAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA%3D%3D&type=httpupgrade&allowInsecure=0&sni=#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-TLS%20%7C%20%40UnlimitConfig
+
+trojan://yaloxdwa6viz34nx@193.148.253.210:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=&fp=chrome&ech=AGL%2BDQBeAAAgACDrJP%2FdVWMeomRtbuW9WXn79BFt4p%2F19elnElm1w9uwKAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA%3D%3D&type=ws&allowInsecure=0&sni=#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://4878b80d-7602-499c-b742-b09ac4355e0b@193.148.253.210:8081?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=193.148.253.210&fp=chrome&ech=AGL%2BDQBeAAAgACCbsdve%2FBQF58K32iWEwfN24VHz8gelEdam5tFXR2WqSAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA%3D%3D&type=httpupgrade&allowInsecure=0&sni=193.148.253.210#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-TLS%20%7C%20%40UnlimitConfig
 
