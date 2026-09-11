@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VoidStarNet
-
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VoidStarNet
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%F0%9F%8C%90%20TCP-None%20%7C%20%40VoidStarNet
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40VoidStarNet
-
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?encryption=none&security=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40daily_configs
 
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@fr-jan.ramcalshoping.ir:8088?encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&security=none&type=ws&host=play-apps-features.googleusercontent.com&path=%2Fbmi.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40daily_configs
@@ -1291,6 +1283,8 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?security=re
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#%F0%9F%87%B7%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@b2n.ir:2087?mode=auto&path=%2FFiShChIpS&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=fish.kaftarkakolbesarwifi.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fish.kaftarkakolbesarwifi.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40V2ray_confiig&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
 
@@ -6720,6 +6714,8 @@ vless://d2edc028-3452-46b5-8098-c22690cd4549@istan.zavqeron.ir:8444?security=rea
 
 vless://297640b5-7eed-49c5-b790-637a3a7cab3f@us.samanehha.io:800?mode=stream-one&path=%2F%3Fed%3D2048&security=none&encryption=none&host=us.samanehha.io&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40LonUp_M
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://d9d0f208-d582-41d5-bb7b-742671402810@nl4-6vkfut.vpvr4ib84nuv6hdkt.ru:3085?security=reality&encryption=none&pbk=ImWhg9OJ8xUd2Fj4ZkgnURYCABBqumTCqYZNRuxAf34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl4-6vkfut.vpvr4ib84nuv6hdkt.ru&sid=8ee637a5a05b603b#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
@@ -7015,4 +7011,10 @@ vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@2.56.122.126:443?security=reality&e
 vless://f85ba8bb-a3da-4389-a67a-2b0afde7bbc1@46.20.105.110:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://XpnTeam-13@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://2a0f8d3d-9b53-4173-9a32-ac7dcf51963b@93.89.218.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esta.pguard.shop&fp=firefox&pbk=c4pn-ktI_PMhD1zrq_XmvxwPvAQXfvR7ymn-8tAQJhI&sid=3109645fb86b6cee&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&insecure=1&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@91.107.144.42:443?security=reality&encryption=none&pbk=WlAXTWbhFDMJJHaXkpnbbxEBtQV3lZNoIH86pmYzMx8&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=f532fd0a180d3458#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
