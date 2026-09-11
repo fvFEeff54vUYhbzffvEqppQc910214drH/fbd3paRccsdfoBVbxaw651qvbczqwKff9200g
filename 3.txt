@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://0c350e60-b7b4-4061-bd70-02280be45b09@p1real2.greewebservices.ir:1240?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40irconfiig
-
-vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:8080?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?encryption=none&security=none&type=tcp&headerType=http&host=my.mashinbazi.athforce.ir#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40irconfiig
 
 vmess://eyJhZGQiOiJwb3JpLmNqbGlmZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6IjBhY2NkOTdlLWExNmMtNGQ0Zi1iMTlhLTg4M2Y3ZWEwZjQ4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMTAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUQ1AtTm9uZSB8IEBpcmNvbmZpaWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -53,6 +45,8 @@ hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52002?security=tls&obfs
 vless://60c23b42-898e-4a51-b63c-2716b84726c8@kshskjsjskeoekheueieie.nenenet1.ir:29524?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=mlkem768x25519plus.native.0rtt.mAwHzKOkD-IZDsIGPPQCfctKpUgPcx2K_zEIzGEkxlE&type=ws&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443/?type=grpc&encryption=none&flow=&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&path=%2Ffd5ba98a3970&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40LonUp_M
 
@@ -1909,6 +1903,8 @@ vless://a08af6fb-21af-4c99-99d6-a3361e7a8456@fsxhh.fastshop1.com:443?mode=packet
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.241.196:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@b2n.ir:2087?mode=auto&path=%2FFiShChIpS&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=fish.kaftarkakolbesarwifi.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fish.kaftarkakolbesarwifi.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:8080?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://0265873e-0ec7-4d73-9ce7-152df2df75f0@188.213.197.1:1819?alpn=h2%2Chttp%2F1.1&fp=chrome&ech=AGL%2BDQBeAAAgACCpalV4Ht5gjG%2B110TaqyOYm4Qz8nLRW8zwjPatxNzdUQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xMzAuMTg1LjEyMC4xMTAAAA%3D%3D&type=xhttp&sni=130.185.120.110&mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=130.185.120.110&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
 
