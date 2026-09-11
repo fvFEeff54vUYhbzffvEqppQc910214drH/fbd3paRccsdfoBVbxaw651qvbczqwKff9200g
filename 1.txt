@@ -22,6 +22,8 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%
 
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449#%F0%9F%87%AA%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
+vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@104.27.13.230:8443?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@s1b.syslogd.ir:443?path=%2Fpa-m-v2&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=prx.zirabserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=f4d5c2729dd475d0.zirabserver.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2_mod_shop
 
 vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@7372986326_0d69.d8a.syslogd.ir:9094?security=reality&encryption=mlkem768x25519plus.native.1rtt.GyZOGVzJNgfILFwidoIwx2yLP_tbij8AR7vdJq6rXho&pbk=jP1irR-5Pzc47yCA-K2BwNk3C-_TVFsypoU6snJUBSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.appengine.google.com&sid=8addd726284f12da#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2_mod_shop
@@ -97,6 +99,4 @@ vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@84.252.100.49:443?security=reality&encryption=none&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=flarora.ferreo.sbs&sid=1067b23f928e7618#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
