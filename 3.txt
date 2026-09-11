@@ -6966,3 +6966,5 @@ vless://26285e31-991f-5ca8-816a-b076a03a1cfe@69.46.46.6:443?path=%2Fws%2FHame&se
 
 vless://26285e31-991f-5ca8-816a-b076a03a1cfe@69.46.46.6:443?path=%2Fws%2FHame&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=app-906799-3e7ffb-production.up.railway.app&type=ws&allowInsecure=0&sni=app-906799-3e7ffb-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&type=xhttp&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40DeamNet_proxy
+
