@@ -6600,3 +6600,9 @@ vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?security=realit
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-2.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
