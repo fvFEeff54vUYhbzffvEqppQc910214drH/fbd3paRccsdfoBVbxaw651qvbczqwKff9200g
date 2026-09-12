@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?path=%2F6d2fed050b30&security=tls&encryption=none&insecure=0&host=fcs013.getdcz.me&fp=chrome&type=ws&allowInsecure=0&sni=fcs013.getdcz.me#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40ELiV2RAY
-
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=cf2.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf2.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40ELiV2RAY
-
-vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=%2Fapi%2Fv2%2Fstream&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40ELiV2RAY
-
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.218:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=localhost#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40ELiV2RAY
-
-trojan://humanity.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://4031838d-ba3d-4b28-8ff7-39d4fe537499@216.24.57.1:443?alpn=h2&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%225-10%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=145.baklajann.ru&mode=packet-up&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&insecure=0&host=145.baklajann.ru&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40UnlimitConfig
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.20:22222?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -156,7 +144,15 @@ vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?encryption=none&se
 
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=on.mcufa.pro#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.218:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
 vless://b511876c-e048-4653-a7e0-f3dc53f8a04f@103.83.86.31:8080?encryption=none&security=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
+
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?path=%2F6d2fed050b30&security=tls&encryption=none&insecure=0&host=fcs013.getdcz.me&fp=chrome&type=ws&allowInsecure=0&sni=fcs013.getdcz.me#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=cf2.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf2.rumedia-cdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=%2Fapi%2Fv2%2Fstream&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
 
 vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea@212.43.150.162:30650?encryption=none&fp=firefox&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&security=reality&sid=a38316da8ada&sni=play-apps-features.googleusercontent.com&spx=%2F02338540c001ea0&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
