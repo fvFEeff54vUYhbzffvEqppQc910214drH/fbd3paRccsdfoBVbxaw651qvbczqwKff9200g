@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://humanity@104.16.174.34:443?type=ws&security=tls&sni=www.ignitelimit.com&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-trojan://MiTiVPN@151.101.56.7:443?path=&security=tls&alpn=http%2F1.1&insecure=0&host=2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesskhodam
-
-trojan://MiTiVPN@167.82.76.27:443?path=%&security=tls&alpn=http%2F1.1&insecure=0&host=.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
-
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.237.81.88:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=fr.netnoor.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%0A%20%20%7D%0A%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#%F0%9F%87%B7%F0%9F%87%B4%20XHTTP-Reality%20%7C%20%40UnlimitConfig
-
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.143.233.238:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=is.asrarshimi.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.9.209.245:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=uu.hivaphone.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
-
 vless://7776e69b-fec4-4f52-b905-22ef016dc599.22.209.96:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=am.matialz.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40LonUp_M
 
 vless://f8ff9480-6fac-4dc2-a8ce-5d3ca348a60c@2.189.59.2:443?Telegram=@V2RayTz,@V2RayTz&security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-TLS%20%7C%20%40LonUp_M
@@ -387,6 +371,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06.46.199.235:8443?mode=auto&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=safari&type=xhttp&sni=s3.netavex.com&sid=e0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40LonUp_M
 
 vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@172.67.175.9:2083?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -6303,4 +6289,8 @@ vless://f751c2fe-0772-4613-a5df-12155d170b10@az-plus.guard-net.ir:2053?encryptio
 vless://f751c2fe-0772-4613-a5df-12155d170b10@full-game.high-net.ir:17595?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=status.play.google.com&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&pbk=cO9X7jpQMBGBREJtDiOpoiEygXFPvkS8CQjAxEawk1s&sid=cda75e9f52858109&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BF%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20010?type=raw&security=tls&sni=hk.catxstar.com&alpn=http%2F1.1&fp=chrome&headertype=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40DeamNet_proxy
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
