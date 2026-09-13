@@ -1,5 +1,19 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://qdob9ryb-p0u2-e4du-yx6u-z64iv0j82xsz@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://9vt5b741-dis3-dr36-380u-ymqdy0lowv83@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.117:443?type=tcp&security=reality&sni=g2.steptofsvo.com&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://533e12d0-f7d8-4b8e-983a-f5fa586a3519@2.27.59.147:2059?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=FtdsU_DLWDJ1Fk7NESJAy_S0ezFFL_gaslsFDF23KCw&sid=7fe0c1c54e89aaae#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40RONINVPN1
+
+trojan://tljczb4c-gq6y-l3hu-ft2x-i8f0bs216639@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://nxrle6sw-0z6q-0oms-r4hv-5qyxzsk0iqvk@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 trojan://i14mvcw4-c6bx-42o7-dy67-h6i2bd2jeggo@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQFJPTklOVlBOMSIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIEBQcm94eVZQTjExIn0=
@@ -80,23 +94,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22222?security=&encryp
 
 vless://a948fb83-9541-45db-88a9-c52a27038370@5.75.192.206:34255?path=5.75.192.206&security=&encryption=mlkem768x25519plus.native.0rtt.APWFWE0if8buWJAjWJOO9kEOCBja-VjMPlImFJGRJ1k&host=5.75.192.206&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.intel.com&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.173.252:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-vless://d7a53e22-0715-4301-9a60-b727c50090b3@www.brianmorgan.ir:53809?encryption=none&fp=chrome&pbk=zVga8Jj2V5F6xdMNDr1RCBQSr_89o8Rj532nOY3Lwmw&pqv=whxXYwH-5vNptd4U47aJ6rgTtOWF2DFGfCecqocvoMkRBgZhXdEWJgzT8HHFilthSNs_q9JyUnlmfJPEMmtycXvlVfNXrHhBtQdIfRMuP0DtW7jtT3nA2IlGZqbNdMe_clGpmAK96NBI4GbNMQX9Tshx12zy9pak_JxhL66hzZRNrPrUzWFOwTRqW-RLI9reU44keT6Bx5z18wZ_J-wauTZ-3lDkz9v9bBCiCkBHMzH_i_wnmRpwIFhzyDsiSvGW_VRyiFax6NBOxsLBL7Hr8Xb7ymwNp9er1oHBN5-ZOUy5A4uegz5d1NLaIoOiAdi4xlDdifJjvRvDDkLzBVYq9Bnul7_fOZHfIY8H9qOWezTiW8SMru0xuLfjscQnqKM4HOg9jo_OvE9j4-BjDcXW5_I-rA4KiKsDf0GNGHy7i3HexKYrTx9ptpjw6dkmDWOfmNZzqeC08PGOtFxYlhb7QBmikDpq0xBUCHfT0NeaQJo_bIizMtj1FIzjxM8RWOCK5zCTzNSP9EqsXWcW2E6sf0Pxb3SIEXfiWjT1CqQyqa1k-FX2vswBz-GeSoHYN-Wrk5e41ADBkjKMi6Uf2XVWZ6pm2Yg3yfxSx1nMh7JAblP9cTYngs34ZEFbm_m1XxFbrXNZYesrAoiQ6HZVW6DkWBiHqmDeKVHyWH-z5b0lsU0Q-WrYeMtspD3Uw9FdnYaJUE5NPypfxQ7hPcYvXKj4UjIVurZA0YetvMWYNqu4XqYMaKGDJW2vpgVd_Ws9q2iQEMITQJZiEBw_9k935OJhhZ01yFPWbSokN6adZVHVf-yquQ-jNv2IKpch6FZFzo0l_TFoP4s3gtQ9ayPwhiIyXXXBKpKqcblgR8OPgHZiNSLEc2R7qB0ts3s5qUDnvCHEA1eLXkcvQuOepQdrNgzuN6L0LPyG5zXthQHntexiMS3T0-buSiGfrDncmLPamLOzCHtMTxnLJlS-diLxUpWTtlWPbYfTFEQ0lD6y0-YSo-o3_14Ed8ntyY7h-PY4ht4h0XiRDJ063X4SvjaELIKn-GkSJ5cnJoxC2ZTJnY69obw-123BVChrZZD06ZQhNy9QlJnpIzt1133-Jp3W2hElM6RJUVABobmwlv4EKiWPrwYt120_hoNje3OYlJyx6ZE1yT5RShQ_rz0IC6rIRWiIP7Xe-byrMx3dZfUk6mvYdukzUndqXReOleDf_oMh2XTVP2YN2fPLxqPvNrz4FpsywPCeIhONp2HTxMkwQuE0sdmc0eZpGDu96imW59FM6ls-zxxTjXROLDTSdZskIIITQ0YrvvjO5K84nNl73a5QzyZICF8mBW5swpoyYzZAWWPjnN48Qe541yVRHEApTGqnw4r0KYC9ZPQKxxIGnMrhPeFoPe-2DMI50ncwdQD0MaPijK9Rxl_Ovc-vBbVCheDLFcVtRtqAcHc70s8AY2GpdfWYYP8fSH5E5jz_O3Qha85eJTFEKTZI9bcfasnKqtkvT9haafbFSgdyBRJ3wILixH29I6ekpPQggaldvl5AW_hYHGzwvs0UgpK5X9m1Kva68HFbbrDMzMMaQ5QF4Tok-60hNcXkZN_5WKax-Q0C19bA9r5Q5Mlry-aVaLrC2LwHJjCiF8Nnftj1nEoNbW5m9zcpcELjg0iBojNE7Gsz7NFfB-KkpdY0QiXq3t52T-bMuQIU7GSlrWHamx2IxakQ5JvWxfhavQEEFnXs0gZo5geRSOrOhx2Pxbxv-NgoRPBRespUHHtpA7sDEipk7Y322qBFZmObmKvbD9hhGatnHBhbBeLfHalcv1bMOX_XRtgB05_9tkl8PG_v4ts_Z5geasyUJOXH4XzJQVrbNxM6XasO4PaxteY00rz_giowyDKoG1haw9FopwW1ghL8ekWxWybzfiHPB-7uYTQ5aQ9pIfeR5AZoj6sarDqEktVbHmHvSdSJCUMI7f-YgNJb0AuXGFAdF9TPqWLqlY1euRCo8oFy0wnk7OnueOqISEBW4tjVidzmz9BrgxpK-6rsRautRwCODSY7P4t8oI3QuGCgJJOi-ixCc1TmeYxZF_OFtXxgXH1LUdKUQ98m1U9_RlgS46tVpfKcsDCW9bKPA4z6rrS2xYJypy6GES6Yp2m0ARDwzULYSH41TrZY8hsDSEFEcfitwwqkKGR_kYrqRArP8xDiMJCXkwCE_LzKqWbacreyKUQGr3teDz-oG-SrznglFRsibEMLg6Qcbu5GRP44F1BrlbCxTeulyotGIxiJCP89xoAp9Vv5oyheuSQOgps4qMqcvE9ujLXPUDraZzvizr4fEPUSitEhNOb6Tzsp9E0qV1BAQH_sU7S_v3-R9LcsoO1K6VjmiaBoRgQBjc3vgTb-VQdOnPrZ3O4IWWyeJkVKOE-BocfhLIZmzbPUhDdPO82sa1gY3-bGqtFlYz2BD45ZBstt0YREtAFJfyl53ukre-fHC7dbLwj8ORZ2lbxn1lWqB7jOMHfGA7B4KscHtoEP_toHveCA0lRyzwEV4fbUNwy360I9KI6LOM6AhtP7F5PkBPcRLvWcSF2KaEv-AhrY-OaLMR53SdaNyCdMFKQuTt7AyivsBST8_Rd3uCugiN0&security=reality&sid=522d7d5d23ac57&sni=play.google.com&spx=%2F905cba56b36c471&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
-
-vless://8b4c8451-7428-4372-99f1-e51bca938631@104.16.61.8:2086?security=none&type=ws&host=a1.virankade.site&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.96.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://a65d68c2-ef23-498d-9a56-d34fae42a125@185.238.228.143:8443?security=tls&sni=config1.radvin.online&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.31:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
