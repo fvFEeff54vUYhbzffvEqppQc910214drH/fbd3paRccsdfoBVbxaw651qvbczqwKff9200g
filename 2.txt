@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?sni=10-bpB-woRKer-pANeL.pAGes.dev&peer=10-bpB-woRKer-pANeL.pAGes.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:10860#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.50.174:2083?encryption=none&type=ws&path=%2Fproxyip%3D154.3.33.43&host=mianfei-73q.pages.dev&security=tls&sni=mianfei-73q.pages.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
@@ -348,6 +346,20 @@ vless://202996ee-ba6c-41f7-b303-073b9dc28cb8@media-dan1.team-pluss.ir:12345?secu
 
 vless://4891b572-0830-4d23-b1bf-e4f7d52f99e0@media-dan1.team-pluss.ir:12345?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vpnplusee_free
 
+vless://32113ca5-7059-47a4-ad5e-f8f9dded4ee0@91.107.254.245:443?security=reality&encryption=none&pbk=TIkdjXzDQ5RmrSB4r8QoStVHhQTNHX2fwm8izRQ07C0&headerType=none&fp=chrome&spx=%2FCV5QaPvdtL9li7K&type=tcp&flow=xtls-rprx-vision&sni=storage.googleapis.com&sid=511a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40planB_net
+
+vless://42d932cb-8768-41de-b57b-299252a493d2@193.160.71.249:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40planB_net
+
+vless://d7282b41-1f2a-47bb-8593-f464fd6b6d78@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
+
+vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://ab89519e-bda9-40e2-ba38-748763930796@104.18.10.166:80?encryption=none&security=none&sni=web-app-etypw.app-47t4n9.workers.dev&fp=ios&type=ws&host=web-app-etypw.app-47t4n9.workers.dev&path=%2Fapi%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://ab89519e-bda9-40e2-ba38-748763930796@web-app-etypw.app-47t4n9.workers.dev:443?encryption=none&security=tls&sni=web-app-etypw.app-47t4n9.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=web-app-etypw.app-47t4n9.workers.dev&path=%2Fapi%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://ab89519e-bda9-40e2-ba38-748763930796@www.speedtest.net:443?encryption=none&security=tls&sni=web-app-etypw.app-47t4n9.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=web-app-etypw.app-47t4n9.workers.dev&path=%2Fapi%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.21.7.147:8880?path=%2F&security=none&encryption=none&host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-None%20%7C%20%40manVPN
 
 vless://248b7825-58e7-41cc-899f-95e573e0127b@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=dry-violet-d6e0.38-431.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -507,4 +519,6 @@ trojan://1z06l3y3-u60h-jevu-9g8s-zvz56krtefxk@127.0.0.1:4080?security=tls&type=t
 trojan://bpb-trojan@2606:4700:310c::ac42:2c57:443?sni=10-BpB-worKeR-pAnEL.paGEs.dEV&peer=10-BpB-worKeR-pAnEL.paGEs.dEV&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?sni=maps.google.com&peer=maps.google.com&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?sni=10-bpB-woRKer-pANeL.pAGes.dev&peer=10-bpB-woRKer-pANeL.pAGes.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
