@@ -10,3 +10,5 @@ vless://8cc8bedd-5103-4d22-a79c-a88f1160055a@172.67.187.219:8880?security=none&t
 
 vless://76e2ac4f-2358-49d0-9732-31a414f2874a@marzban-node-production-db35.up.railway.app:443?path=%2Fvless&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://76e2ac4f-2358-49d0-9732-31a414f2874a@marzban-node-production-db35.up.railway.app:443?path=%2Fvless&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=marzban-node-production-db35.up.railway.app&type=ws&allowInsecure=0&sni=marzban-node-production-db35.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
