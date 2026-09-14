@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8.78.182.3:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
 vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8.78.182.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40LonUp_M
 
 vless://8687e743-c354-4d58-ac62-a6c2795e1f7e@08e8eb18f73305f9.drwsh.org:56460?mode=auto&path=%2Fb4920d9c064cfe38c0021723&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=9KepeuHMqhTZ1JIGAee8Jenw6ow9DUVhI0hyXcZHZSI&fp=edge&type=xhttp&sni=blog.jetbrains.com&sid=1f78a4c2e66f702c#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-Reality%20%7C%20%40LonUp_M
@@ -6497,4 +6495,6 @@ vless://7a657573-23af-768c-8a29-df415ddb68d8@185.170.166.123:2087?encryption=non
 vless://3a22ca95-bd99-4c6b-a799-f8f73930ea05@89.105.206.123:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=nl.convert-flow.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@138.124.245.191:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&security=reality&sni=bulka.blackbigdog.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@94.237.50.3:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
