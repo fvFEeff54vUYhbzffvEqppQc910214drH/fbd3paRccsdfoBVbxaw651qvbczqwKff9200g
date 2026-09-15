@@ -14,6 +14,8 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443?path=%2Ffree%2F1
 
 vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.server7peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=free.server7peekconfig.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.114:443?path=%2Fws%2FDefault&security=tls&alpn=http%2F1.1&encryption=none&host=cls-adf727hjid-62e3c1-production.up.railway.app&fp=chrome&type=ws&sni=cls-adf727hjid-62e3c1-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222/?type=tcp&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40vpnplusee_free
 
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087/?type=ws&encryption=none&flow=&path=%2F4bc027a44532#%F0%9F%87%B5%F0%9F%87%B1%20WS-None%20%7C%20%40vpnplusee_free
@@ -97,6 +99,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&e
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.12:80?type=ws&host=us3.rtacg.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.95:80?type=ws&host=kr1.175852.xyz&path=/abcde#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.100.237:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
