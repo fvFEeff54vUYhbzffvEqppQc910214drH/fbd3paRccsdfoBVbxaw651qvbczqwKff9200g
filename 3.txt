@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://d6c178d6-4594-4031-9870-2d5e1663d55d@209.50.60.243:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
 
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
@@ -35,6 +33,8 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryptio
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://d6c178d6-4594-4031-9870-2d5e1663d55d@142.132.178.235:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d6c178d6-4594-4031-9870-2d5e1663d55d@209.50.60.243:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
 vless://d4591af1-ab6e-4eb1-b0dd-3442abce5108@api.tenneltheducks.ir:2096?encryption=none&type=xhttp&mode=auto&host=DeGer-XhTt02.sezar.OrG&path=/ports/1106&security=tls&fp=chrome&sni=DeGer-XhTt02.sezar.OrG&alpn=h2,http/1.1&fragment=70-110,5-12,tlshello#%F0%9F%87%A8%F0%9F%87%BC%20XHTTP-TLS%20%7C%20%40LonUp_M
 
@@ -5463,4 +5463,14 @@ trojan://MITIVPN@199.232.78.101:443?sni=ssl.fastly.com&security=tls&alpn=http%2F
 vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?type=tcp&security=reality&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&fp=chrome&sni=www.microsoft.com&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://59d75dc8-0de0-452d-bf3b-10a4b1925abc@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@carina.yokkastars.com:3443?encryption=none&security=reality&sni=deepl.com&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&type=xhttp&path=%2Frex-xhttp&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40daily_configs
+
+vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.151.109:443?encryption=none&security=tls&sni=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&host=jdzit4e4urks.xwzohsebujps.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?security=reality&encryption=none&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&headerType=&fp=chrome&type=tcp&sni=apple.com&sid=0a427bc3#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
