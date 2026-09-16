@@ -1,12 +1,14 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://bcc661cc-4604-4610-95ee-60a469ca66f2@192.71.82.2:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=edge&type=httpupgrade&allowInsecure=0&sni=canal.apexistore.com#%F0%9F%87%B8%F0%9F%87%AA%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
 
-vless://e5e20d7b-86c0-44c0-87d1-5499bcb6e1cc@Mci.fullserver.sbs:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.wLNEi5IZJg-Hh7SO72oGlsc1AaUCAh4yhSh3w3F4c0c&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://5031eb36-7bae-4e72-8e3a-5e5ff039888a@66.33.22.227:36733?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt._DyrTWm8BsU6jZzAZbb77YIZ36ZMG8fO0pF3X-RCm2k&pbk=ePzdzD4Ei8LI-ITzOZ49WEYMXhzeKCdTzc6M4tWm5QI&fp=ios&spx=%2F&type=xhttp&sni=purple.ai&sid=de1d5a78fe64ec#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40LonUp_M
 
-vless://57ac42c6-14e9-4c94-85a8-01f09bf3aa43@2.27.20.17:443?encryption=none&type=grpc&security=reality&sni=vpn.xorealis.com&fp=firefox&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&sid=131df166be01a436&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40UnlimitConfig
+vmess://eyJhZGQiOiJObC5saW9uLWxpb24uaXIiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI5ZjBkMmViMS0xYjk3LTRiNmEtOGY0OS1hNTIxODY1MDgxNzEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgyNDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBUQ1AtVExTIHwgQExvblVwX00iLCJzY3kiOiJhdXRvIiwic25pIjoiTmwubGlvbi1saW9uLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-vless://e898ccd6-fa43-4740-974b-62e9f6fb9583@64.188.64.72:443?encryption=none&type=grpc&security=reality&sni=p.primarymaster.online&fp=chrome&pbk=UeKjZBRFTnsqCNxXYT2pkLtdiBfYq1KDVDHW_NQN-Cg&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40UnlimitConfig
+vless://68a98f9b-77e1-41ce-ba79-d74f0a87cfcb@nl.armankhan.shop:8043?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZZh7kdIiOal4hm8nkmCdeRDG4hRbhnTFu9XvVpiQuls&security=reality&sid=30&sni=shield.nvidia.hk&spx=%2F91c5d63e66b4821&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
-vless://729425fa-585b-458e-841a-ea30872d4ac2@45.144.54.2:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.uva.nl&fp=firefox&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBjcyI6IiIsInBvcnQiOiI0NDg2NyIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLU5vbmUgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
