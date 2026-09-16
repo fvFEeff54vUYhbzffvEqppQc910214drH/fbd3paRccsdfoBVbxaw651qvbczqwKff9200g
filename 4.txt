@@ -48,3 +48,7 @@ vless://24815ae9-b3b3-4b4d-b7d1-ac24ba19aefe@94.140.0.2:2053?path=%2F&security=t
 
 vless://ac64aec6-85ee-4fc7-b34b-60a7bcf236ec@91.186.216.100:7005?fp=ios&headertype=none&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&security=reality&sni=play.googleapis.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.245.94:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=tamashasdasaf3800.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.117:443?path=%2Fws%2FDefault&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=app-821120-2d167b-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-821120-2d167b-production.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
