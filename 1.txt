@@ -1,5 +1,17 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://MiTiVPN@199.232.78.20:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://MiTiVPN@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://oyixlxim-4ixx-woa7-5rob-8a4m4wmrelgw@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://19sojyv3-r7iv-r9px-zo3y-04bk783dwnty@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://qqhjtr3f-7xcw-6q06-cti3-zz0cu33fuze4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
@@ -50,13 +62,17 @@ vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.115:8444?encryption=none&
 
 vless://86134e7c-069f-49f6-9442-51866c1d02ad@85.9.211.29:443?mode=gun&security=reality&encryption=none&pbk=AiQfqyjIwZdDKmymDmsYg4axSMsOx-6BoGIOeYpNHTE&fp=chrome&spx=%2Fa2f8e743de1a111&type=grpc&sni=Play.google.com&sid=aa9ab516#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40UnlimitConfig
 
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+vless://c24a00a2-25d0-44c9-a9b2-bea637541ca7@tun2.liyusub.ir:444?encryption=mlkem768x25519plus.native.0rtt.TM-SaEZ3lETiAuS_Oj_U1yzGrJq3GCvVgzuBztET9RA&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBjaGlsbGd1eV92cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vless://c24a00a2-25d0-44c9-a9b2-bea637541ca7@tun.liyusub.ir:222?encryption=mlkem768x25519plus.native.0rtt.v5FSr8DU1UZ7fKqJf_PN5qxEfdzw5bHCbjUNQuDYXVU&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+vless://c24a00a2-25d0-44c9-a9b2-bea637541ca7@tun2.liyusub.ir:333?encryption=mlkem768x25519plus.native.0rtt.56B9k4uEc4YSKxNoCcS4YWkr3YAiZiTZPmv-ExmZoFk&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+vless://c24a00a2-25d0-44c9-a9b2-bea637541ca7@tun.liyusub.ir:555?encryption=mlkem768x25519plus.native.0rtt._HOPBOWXPUX8Ev5f5apKW_hWX2kDD1xFzV5mWFk9KyM&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c24a00a2-25d0-44c9-a9b2-bea637541ca7@tun2.liyusub.ir:666?encryption=mlkem768x25519plus.native.0rtt.voAmTasQLDt-qkLUu7-wHOiWabDjlv9LDZxlbsS-FBQ&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://03446511-2806-0021-b02f-f10d2d3a33c6@5.61.91.221:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=4a7b1c8d#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://be83425f-74c5-4b03-9c4b-20aa16322698@ch1.h1cloud.net:25720?security=reality&encryption=none&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=fddf99d4a4f55a48#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -83,20 +99,4 @@ vless://e898ccd6-fa43-4740-974b-62e9f6fb9583@64.188.64.72:443?security=reality&e
 trojan://jxwsizl0-ztxq-as2m-g8tf-bv8z2lj7ldat@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://49eeojko-ipyt-47sg-4g3w-0m2zta389b1z@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://o956t5mr-ctis-6gb2-5vlf-g8djv4q9lom9@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.trialkade.ir:443?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=AOt89Lj5xZ4Y0OsVT3HUlajl8iUiOHrd3yJ0WVvHzGw&sid=2f1b68592eb55247#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-trojan://tagy9lwe-a385-k3r4-wge5-xklbf8ani1tv@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://bgln4tgv-mk35-vslj-4z7b-ma9twuymunwd@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://reh1alq0-7sut-9wn4-tpaa-xmn1234kwcx4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://MiTiVPN@199.232.78.20:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://MiTiVPN@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
