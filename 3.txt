@@ -5016,3 +5016,9 @@ vless://2fa4235a-51a7-452b-a760-498951646043@any.zavqeron.ir:2053?type=ws&host=a
 
 vless://af0f9e11-425f-40a9-9c50-099e2d4c5a2a@servconfmmmddd.ir:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://Soliconf@69.46.46.19:443?path=%2Fws%2Fvless%2FSoliconf%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=solipanel-production-20b6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-20b6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://Soliconf@69.46.46.9:443?path=%2Fws%2Fvless%2FSoliconf%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=solipanel-production-20b6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-20b6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://Soliconf@69.46.46.19:443?path=%2Fws%2Ftrojan%2FSoliconf%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=solipanel-production-20b6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-20b6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
