@@ -1,20 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.180.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@tl.cdn-ozon.icu:8443?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=r7pcpz5158.cdn-ozon.icu#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
-
 vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@nl-api.cdn-ozon.icu:2443?mode=multi&security=reality&encryption=none&pbk=3J5mYA5NziIVJi77fRsx9dZPYWzLkvaIz-cCdZQvhn8&fp=firefox&type=grpc&serviceName=grpc-service&sni=nl-api.cdn-ozon.icu&sid=ab90218fde328913#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@it-api.cdn-ozon.icu:2443?mode=multi&security=reality&encryption=none&pbk=3J5mYA5NziIVJi77fRsx9dZPYWzLkvaIz-cCdZQvhn8&fp=firefox&type=grpc&serviceName=grpc-service&sni=it-api.cdn-ozon.icu&sid=ab90218fde328913#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://88a247b9-3e0b-4c0e-ba88-61fc63a9c5d1@tr.x8lab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=&fp=safari&type=tcp&sni=www.w3.org&sid=cd0b563c7e0ea754#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2_mod_shop
 
 vless://88a247b9-3e0b-4c0e-ba88-61fc63a9c5d1@nl2.x8lab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=&fp=firefox&type=tcp&sni=static.yandex.net&sid=669d7ae5e1611511#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2_mod_shop
 
 trojan://bVhfAPS7f_tagBb-G79z0zWB6L1yK84H@ru2.x8lab.org:9443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=ru2.x8lab.org#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2_mod_shop
+
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.180.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40SimChin_ir
 
 vless://e2bcabb9-877e-7820-5426-f6b4403fe6f5@69.46.46.35:443?path=%2Fws%2Fe2bcabb9-877e-7820-5426-f6b4403fe6f5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=solivpn-production-4e4c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solivpn-production-4e4c.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -5287,4 +5285,6 @@ trojan://telegram-id-privatevpns@13.37.180.245:22222?security=tls&alpn=http/1.1&
 vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.57.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@31.76.3.34:443?security=reality&encryption=none&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8a2b3c4d5e6f7012#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
