@@ -32,6 +32,8 @@ trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&alpn=http%2F1.
 
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40vpnplusee_free
 
+trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40vpnplusee_free
+
 vless://a8469f17-ad12-d0b3-8b32-287a620f881d@69.46.46.49:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2Fa8469f17-ad12-d0b3-8b32-287a620f881d&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=truttth-production.up.railway.app&fp=ios&type=xhttp&allowInsecure=0&sni=truttth-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://1e358d6d-5232-4f83-9979-fc880a90e54c@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -57,6 +59,10 @@ vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@151.101.56.6:443?path=%2F%3F---TOOT
 vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@172.67.152.71:8880?encryption=none&type=ws&host=little-pond-8731.81-68e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?security=none&type=ws&path=%2F&host=blue-water-924c.174-235.workers.dev&packetEncoding=xudp#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://257b0378-01c9-4ded-836d-f94df60bd19c@us-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=e67d9a00676f15ac#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:8443?security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&spx=%2FHesarWeb&type=grpc&serviceName=TunService&sni=www.epson.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
 
 vless://1f7524d0-d191-46a9-a6df-4844e37de66c@199.232.78.159:443?path=%2F&sni=ssl.fastly.com&encryption=none&allowInsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&security=tls&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -93,10 +99,4 @@ vless://70ef5717-4ed9-4890-b5f4-0589929a1165@www.chatgpt.com:2083?path=%2F&secur
 vless://70ef5717-4ed9-4890-b5f4-0589929a1165@172.66.146.2:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=lishmania.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=lishmania.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://70ef5717-4ed9-4890-b5f4-0589929a1165@104.16.75.76:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=lishmania.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=lishmania.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://70ef5717-4ed9-4890-b5f4-0589929a1165@172.66.146.2:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=lishmania.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=lishmania.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://8102891d-7b37-4dc5-8261-9474b59b5c63@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=vip.868068.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=vip.868068.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
-
-vless://id%3ADaredevil_404@31.185.108.48:443?mode=auto&path=%2FTelegramChannel%3A%40daredevil_404&security=tls&encryption=mlkem768x25519plus.random.0rtt.H4TEngoua4IvSuVQm_V-eUtsc1ZWzAyp47V-OJqFjcdJbRw56QiP3-JTtphA3iR7JfpNKWu9szw2gsu_sKR0xeVZTTZ8uGYADlwN82cqYCY_gqCFCpe4VWA_nkTDioJtc8Na1Fxg8BMe3JGY5yIC9Sdjjgo8Bqtg5eBkP7UX6YLLGlySAJKYT8hbTKTAhfEZQYnN4BySxowU46PCWasPBqkgSLvI_0QuGOtR0Uo2HrCufroBU9o0Iok8b4SIpMoCv4shPhTEo-CCOFiEQJEM9skBN9du7bMR3TLE1MB4SPNQASkIAEirTIa4xZBOwFrF8Pg9EBV8MWJq2fsVjbqRFyQt87VbY3MZyvCKsiokOOR2DyWIejKXPude-AE8IvJfnhITCoRtpHIS48toDYQ07zpVYoqRCCUKhLAEdmdIFSbGQbE9EBwSBfSmmeVPrruT0OrIMIQYRXo58jZWuJaGTekgSCZ77MxRE5SDzbamFDQvRkUmDypaLYjKh5FBnzduzXHJfKB61iWCHgeTVseyXVCSRBRVxHSC0PXAt2Wh_AmEAG26JcTNelm6NuIqPzk8sipqd3gxLOKtiDCAw4UftWwKfEgyWajALRxJYJDDTAi2UTygohMZ8_lpKstfKvkeZqXPFYw30lxDXfXJZ-aDZciTt1kV7sdNooKYEXJg9cOHQIdGIcaI6nq8_9Iln3SKnJMxKqzK-ElMDzysekOZ84ybqhFcWHaDu7J_rfp0bNlcyubDaQAjHtFdB5FTKzZcxJGAGhS0LHd4ABQS_Xe42iGQGbkh37O0LUK6rLlzRiF7ITAcbDOsN-OBUvpCFRa1OfOoWtMCuel_UQIgmHJwPrYH7tp4CzM_LsSDIUEqxhsvBPMAOujDYVNk-coGJaWtRmFK79KwYotiJUu1S3KAT9E94VIuLaQYDDQlwPidxVMbLEpefJEU1QgbkRAtBmAvIBMgnoEKEJEj6AoMZ3o1RroKzHOBH2pun8YRVMKgotSHtyOfWfBVjpy7_qyuQOFj4LdsCKAjEHIuGlpPNMyB8fXNkEyxI1Y6whVd1bqejQJPEOUED-RZA7jGr3JuTaJE_oi08HcenfyP4rESRZY8W6MxZTSnpimJx1lbzePBBIJYf_F298sOYfGqQ3otzTNFOWA_gGaqAisN0ibAOPa98MOtx_xtHrSMfgW-h5KnOVaE0OKRFcMX7-l7jYZ4dtl6YyYQBmMP8uh2nCFdH8B-gMYXncQSBpvJNegv3NqZIZFkW2c9ShCO79Z0FQB9kqA5KJukeobOs2W21pSG2kI6guFZZbtMgXaLmCYM85a1nKuvwRMdLUQEtmJbtOWyxpovqwDE7kiKwgKFUMCvJ1B4o9Je2xZ6zmdnlpmWDKkZEjcTKYwoQRwZh5pZDSsl6YcwbBE0zowBOgsHFpIc4gwqyBp2NLS-9ciTf0NdALGRDdZRr8GkfOUYQ6tlQstzFaqLh0VRiVGGE0BL-tJmGEeUd9iF7hJTsMN7vEQDpftABBN4ZUNGWli22XZxRDIUo1NJ05L8j4oSuULGbBjA8jhXNdBI_XE1SXoXdocbtybkz00&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=daredevil2.manufacturingcity.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=daredevil2.manufacturingcity.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40vpnplusee_free
 
