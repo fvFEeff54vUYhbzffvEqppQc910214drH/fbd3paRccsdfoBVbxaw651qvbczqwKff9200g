@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.3:443?path=%2F&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40SimChin_ir
-
-vless://b1dd5363-a160-4576-a500-845c11c08396@176.65.151.67:15241?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40UnlimitConfig
-
 vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.4:443?path=%2F&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
@@ -33,6 +29,8 @@ vless://Tlegram%3ANap_v2ray@65.109.193.102:9090?security=none&encryption=none&ho
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&host=c12.com&fp=firefox&type=ws&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
 
 vless://9016cdb1-f78f-3a26-3981-0dad54ceb3a6@eaglepanel-production-bc07.up.railway.app:443?path=%2Fws%2F9016cdb1-f78f-3a26-3981-0dad54ceb3a6&security=tls&alpn=h2&encryption=none&insecure=0&host=eaglepanel-production-bc07.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eaglepanel-production-bc07.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://b1dd5363-a160-4576-a500-845c11c08396@176.65.151.67:15241?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40LonUp_M
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6blRodGh3a3Rrb0lUVVlFUHFQNXArRmF6NkJHRVVJYzlKTXRJY0JrT2M1QT0=@vip.bitanick.top:6599?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
@@ -6647,4 +6645,6 @@ vless://d518b4e2-bd6e-4d4e-a26e-238154d8d60c@34.118.70.195:443?encryption=none&f
 vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@xnforo.ir:2087?mode=auto&path=%2FGoRbEh&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=ratatouille.rahmatokaduie.ir&type=xhttp&allowInsecure=0&sni=ratatouille.rahmatokaduie.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?security=reality&encryption=none&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=75adf1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
