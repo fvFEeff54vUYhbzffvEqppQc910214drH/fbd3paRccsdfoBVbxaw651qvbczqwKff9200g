@@ -1,8 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-trojan://telegram-id-privatevpns@13.37.180.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40UnlimitConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://5ea9ae84-3274-404e-a070-d8718e36ae11@188.225.57.223:443?mode=gun&security=reality&encryption=none&pbk=9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ&fp=qq&spx=%2F&type=grpc&serviceName=grpc_vless&sni=cloudcdn-m9-12.cdn.yandex.net&sid=8375b32501373f41#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
 
@@ -7447,4 +7445,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.38.139.23:8443?encryption=none&f
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://e8eee713-123e-4f84-8a58-0da7eb1fa7b1@176.65.151.237:12914?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40UnlimitConfig
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@138.68.142.165:2053/?type=ws&encryption=none&flow=&host=cdn8848.776676.xyz&path=%2Fresource%2Fchannel&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40vpnplusee_free
 
