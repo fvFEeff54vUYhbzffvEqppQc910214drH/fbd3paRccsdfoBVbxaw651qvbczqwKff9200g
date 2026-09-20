@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://qVsAsqGXNo@d8svyukbc1b1.dopwiz.com:52952?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://a63fe716-49f7-47fd-8307-2c730f46253f@191.101.113.19:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=191.101.113.19#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40UnlimitConfig
-
-vless://70ef5717-4ed9-4890-b5f4-0589929a1165@104.18.155.141:8443?path=%2F&security=tls&encryption=none&insecure=0&host=lishmania.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=lishmania.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.117:443?path=%2Fws%2FDefault&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-32d039-a64657-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-32d039-a64657-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://c8d51e6c-7c24-4474-b587-1e75cd2fc00e@85.9.219.170:443?security=reality&encryption=none&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=c7514dbbd2af28b5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40mtmvpn
 
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z0JQbDhNdVFVbi9QQkZWeStkS2lNY1BMNmMwRXJnaDhabW1HcU1JSDJOQT0@92.5.231.133:45819#%F0%9F%8C%90%20TCP-None%20%7C%20%40mtmvpn
@@ -56,6 +48,8 @@ trojan://huni8tbarjijayx6@t6.malwarewatch.info:1819?security=none&type=tcp#%F0%9
 
 trojan://huni8tbarjijayx6@t6.malwarewatch.info:8086?security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
+vless://70ef5717-4ed9-4890-b5f4-0589929a1165@104.18.155.141:8443?path=%2F&security=tls&encryption=none&insecure=0&host=lishmania.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=lishmania.dearhossein-taktaz.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://0534714a-cbe4-49f3-aaca-7b4b1c7366cc@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
@@ -69,6 +63,8 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.24.0.184:443?path=%2F%3FTELEGRA
 vless://8102891d-7b37-4dc5-8261-9474b59b5c63@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=vip.868068.xyz&type=ws&allowInsecure=0&sni=vip.868068.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.60.109:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.117:443?path=%2Fws%2FDefault&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-32d039-a64657-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-32d039-a64657-production.up.railway.app#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
@@ -7393,4 +7389,10 @@ vless://36d9003c-7240-40bc-af62-07c39f7a0b94@server20.peekconfig5.workers.dev:44
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.107.155.76:2053?path=%2Ftv%2Fmember%2Fauth%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://36d9003c-7240-40bc-af62-07c39f7a0b94@172.67.142.2:443?path=%2FeyJqdW5rIjoiYmNCdUhCVkFEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&encryption=none&insecure=0&host=server20.peekconfig5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=server20.peekconfig5.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://XpnTeam-12@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
+trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http%2F1.1&insecure=0&host=11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
+vless://ac3ef9c7-5732-4726-e7c6-3c73703987c7@151.101.56.6:443?path=%2F%3FTELEGRAM--BYA--CHANEL---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar--%40NexGozar---%40NexGozar---%40NexGozar---%40NexGozar&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
