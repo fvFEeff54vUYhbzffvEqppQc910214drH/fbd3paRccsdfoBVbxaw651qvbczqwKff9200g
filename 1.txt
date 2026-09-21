@@ -46,6 +46,8 @@ vless://5659b42c-636f-4563-ac41-87d565d0dd1e@172.67.161.104:8880?encryption=none
 
 vless://f35fb51f-8d34-49ec-80cb-7d04ffc1a69b@162.159.140.78:8880?encryption=none&fp=chrome&host=damp-sky-9aaa.224-8b4.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&sni=damp-sky-9aaa.224-8b4.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
 
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.60:2087?security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%3Fed%3D2560&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://60339d95-eacb-428d-88e4-caedaddf5159@104.105.81.195:51629?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=k89H-2EgOKgvOaLGXtLEbWI5YRjzoIfoDeRVXawIIBM&sid=398cd7a9beed4aa2&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.187.29:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
@@ -97,6 +99,4 @@ vless://c82760c4-6cbc-4e73-8724-da9008ee9710@5.160.198.183:8443?encryption=none&
 vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
 
 vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.34:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40daily_configs
-
-vless://fe7dd7d4-1cc3-4ab8-93cb-86496ac3d5b7@91.107.159.228:56539?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
