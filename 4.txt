@@ -20,3 +20,21 @@ vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@151.101.56.6:443?path=%2FTELEGRAM-T
 
 trojan://MiTIVPN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBUQ1AtTm9uZSB8IEB2Mm5vZGVzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBUQ1AtTm9uZSB8IEB2Mm5vZGVzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:8443?encryption=none&fp=safari&pbk=5oaCVJDTs_bOhuJIF1J98UAVQFu47Cu1TZoHme-jyxg&security=reality&sid=74e78273a1a1165e&sni=music.youtube.com&spx=%2F5d6419b84f0f531&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:8080?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=safari&security=tls&sni=www.sorfema.ir&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2087?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=safari&host=www.sorfema.ir&mode=auto&path=%2Fhome&pbk=PK0PiDQ8pQ4-KmQTEY7yMgI-UoDfexjuZflLSmZ24AU&security=reality&sid=36ff0d021373ca&sni=www.cloudflare.com&spx=%2Fc477261a69b63a6&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2082?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=play.google.com&path=%2F&security=tls&sni=www.sorfema.ir&type=httpupgrade#%F0%9F%87%B9%F0%9F%87%B7%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2052?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&security=tls&sni=www.sorfema.ir&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://e375739f-6911-4ae9-aeea-e241a5db756d@fin.chalghooz.com:2053?path=%2Ffintest&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fin.chalghooz.com&fp=chrome&type=ws&allowInsecure=0&sni=fin.chalghooz.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
