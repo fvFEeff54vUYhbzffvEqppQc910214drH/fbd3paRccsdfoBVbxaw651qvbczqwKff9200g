@@ -1,4 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.121:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://dd7be730-3170-4865-bb22-b587bdb5ceca@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.224.199:4443?mode=gun&security=reality&encryption=none&pbk=yDa-arZjNKChYG-g39fXo3MI65CABHK7yk2Q6ejJLkw&fp=firefox&type=grpc&sni=rtishevo.murka.fun&sid=9fcb7c3f5d8a#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40UnlimitConfig
 

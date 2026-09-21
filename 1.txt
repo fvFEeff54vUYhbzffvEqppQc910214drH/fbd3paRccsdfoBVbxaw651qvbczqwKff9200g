@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.121:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://dd7be730-3170-4865-bb22-b587bdb5ceca@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.224.199:4443?mode=gun&security=reality&encryption=none&pbk=yDa-arZjNKChYG-g39fXo3MI65CABHK7yk2Q6ejJLkw&fp=firefox&type=grpc&sni=rtishevo.murka.fun&sid=9fcb7c3f5d8a#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40UnlimitConfig
+
 vless://1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
 trojan://MiTIVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anotherme_night
@@ -93,10 +99,4 @@ vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBXUy1Ob25lIHwgQHYy
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2nodes
 
 vless://a8ce51a3-1845-4d06-b940-dd52b8cdf2ec@178.105.168.171:9443?security=reality&encryption=none&pbk=OvEpExEu-A6ZRSO1BddxIrQVCvLNcHCVlVpb8Gxzcxs&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&sni=shop.amd.com&sid=a16785338a#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2Fmtmvpn&security=tls&encryption=none&fm=D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
-
-trojan://MiTIVPN@151.101.56.7:443?path=%&security=tls&alpn=http%2F1.1&insecure=0&host=e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
-
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@f45n1.starzone.ir:10235?encryption=none&type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=184a6838386d384e&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
 
