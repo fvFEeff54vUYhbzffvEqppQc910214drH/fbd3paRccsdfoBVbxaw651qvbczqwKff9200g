@@ -52,6 +52,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
 
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?security=none&serviceName=vless&sni=%2Ftelegram_tm%28%40azarbayjab1&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-None%20%7C%20%40LonUp_M
 
 vless://5934b979-e128-4c90-a600-744b97bffc8c@188.114.97.6:443?encryption=none&security=tls&type=ws&host=5dktcuajb2a1jxix7csnrmeucg.mahrademami.workers.dev&path=/vl/Fi3kP8cNjBoo8UPv?ed=2560&sni=5dktcuajb2a1jxix7csnrmeucg.mahrademami.workers.dev&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp":#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
@@ -97,6 +99,4 @@ vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.44:3090?encryption=none&mo
 vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.45:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20GRPC-None%20%7C%20%40LonUp_M
 
 vless://d3991190-4644-5034-85db-46ef0c271de6@167.233.186.110:80?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?encryption=none&fp=chrome&host=calm-haze-d105.21-7cd.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
 
