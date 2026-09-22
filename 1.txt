@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://d929e993-8053-488a-8a22-0ae09f706a2e@171.22.114.98:443?security=reality&encryption=none&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=ef7db38f625526f5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@185.170.211.194:443?security=reality&encryption=none&pbk=eZXyfQzQgQSreAbhKSorx38cgnKmGuSOiQbthBfG5k0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=0e903b415d812c59#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.119.98:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
 vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@144.31.103.195:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl1.hys.braidx.tech#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%F0%9F%87%B7%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40FreakConfig
@@ -99,4 +93,10 @@ vless://9129b5f6-d771-4072-b065-c2fae7b034b4@199.232.78.159:443?path=%2F&securit
 vless://e054ea15-80b1-4d19-b422-6d6855c88364@pool.arosakforosh.ir:6422?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.i6xtvCpnlGhVOMcqCvCmYgV9f-NaHwGkQBvI0PTOeD4&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
 
 vless://45016458-a8c5-4e3f-814a-437145e4dd4f@87.120.165.52:443?security=reality&encryption=none&pbk=k3RpAUPrxLoiPxp2cG4oqReK1WEHGBbw8UeIbXpwfkQ&headerType=none&fp=qq&spx=%2Fca336042345d9f3&type=tcp&sni=play-apps-features.googleusercontent.com&sid=29801776d0854b#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?mode=auto&path=%2FChOpIn&security=tls&encryption=none&extra=&insecure=0&host=chopin.paxr.ir&type=xhttp&allowInsecure=0&sni=chopin.paxr.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmesskhodam
+
+vless://8ef58f28-1179-4dd9-9592-ca5e6b828eb5@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://8ef58f28-1179-4dd9-9592-ca5e6b828eb5@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
