@@ -26,3 +26,7 @@ vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?encryption=none&
 
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:80?encryption=none&type=ws&host=play.google.com&path=%2F&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40UnlimitConfig
 
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=firefox&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?sni=185.71.219.128&headerType=none&security=tls&allowInsecure=0&insecure=0&fp=safari&alpn=h2%2Chttp%2F1.1%2Ch3&type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40UnlimitConfig
+
