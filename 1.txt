@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+ss://YWVzLTI1Ni1nY206ekhySmN1dFhZcjZCVFlaYQ@212.192.13.81:8388#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40LonUp_M
+
+vless://1a6fa6be-0df0-4a1f-a63f-b88ba1ed2f97@ads-03.huge-b.com:8880?encryption=none&type=httpupgrade&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=none#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
+vless://1a6fa6be-0df0-4a1f-a63f-b88ba1ed2f97@ads-03.huge-b.com:2053?encryption=none&type=ws&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=tls&sni=ads-03.huge-b.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0b69eb3f-8413-4719-888f-43abe258f378@ads-03.huge-b.com:8880?encryption=none&type=httpupgrade&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=none#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
+vless://10816192-a927-4a4a-960d-3f54bbd681cc@ads-03.huge-b.com:8880?encryption=none&type=httpupgrade&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=none#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
+
+vless://0b69eb3f-8413-4719-888f-43abe258f378@ads-03.huge-b.com:2053?encryption=none&type=ws&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=tls&sni=ads-03.huge-b.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://10816192-a927-4a4a-960d-3f54bbd681cc@ads-03.huge-b.com:2053?encryption=none&type=ws&path=%2F%40Artemis_Vpn&host=ads-03.huge-b.com&security=tls&sni=ads-03.huge-b.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://cc01f435-d561-4525-bf1f-7a9876d33207@144.31.156.154:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40NPV_78
 
 vless://a6b29052-e9ba-4714-a43c-4a660f452c44@89.125.156.51:2027?security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deo.skysafe.online&sid=6ba7b8109dad11d1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -83,20 +99,4 @@ trojan://s3p0620t-2ei3-2diy-iafl-sov3z42uuw21@127.0.0.1:1080?security=tls&type=t
 trojan://f5z11wjz-enft-z5jz-9gi9-6pf5oyk9wtbl@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://lkfwbe8i-gwjc-f8qx-nzp7-ahaaj1ofufiz@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?type=tcp&security=reality&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://74d736fe-8ba6-42be-8a43-2973a18ef2ca@178.83.121.85:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40RONINVPN1
-
-vless://d65a82af-a403-405e-8b7b-27a68b830511@g1.haxat.bestvbest.ir:20610?type=tcp&security=reality&sni=doctor-yab.ir&fp=chrome&pbk=lcXIrYi2o8yXrYHR321qQ--5lqVT8a6TKbaGpYTq4CI&sid=1d1a8f9fefeff5e6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-trojan://m2h7zd5n-40qt-8ahj-5fb1-g0ewskk5cxwk@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://pau8h017-fddk-udox-g9cj-detn3nmry88i@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://jh6vkcwl-6xya-86ka-4yr2-cmrzd3poqf3x@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://LcICDcp%21jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&peer=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
