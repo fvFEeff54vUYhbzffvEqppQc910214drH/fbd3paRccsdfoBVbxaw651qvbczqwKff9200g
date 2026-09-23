@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@ndi.lavivas.org:2096?sni=ndi.lavivas.org&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://98926dce-3e74-440b-badd-8978d56c6723@167.233.32.53:6667?encryption=mlkem768x25519plus.native.0rtt.ZXgIKO9OgZBabbk3s73EeYRwW13dp_jRHY0e6Wh12DI&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://71f8b183-0e39-4174-a719-73ed6d6cf705@199.232.78.159:80?path=%2F&security=none&encryption=none&host=BlackGod.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
@@ -95,8 +99,4 @@ trojan://MITIVpN@151.101.56.90:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40Mi
 trojan://MITIVpN@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
-
-vless://a5055b0f-209b-4a49-8f1c-656b294bd463@tun5.momasvps.ir:6017?security=reality&type=xhttp&headerType=&path=%2Fpath&host=hostname&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=sni.kevnilo.ir&fp=firefox&pbk=vXYJc12Nn1vODQKN3WQdbG89eDNl_NxGTc7jmRtgBGc&sid=3bec2937ffa88b18#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40LonUp_M
-
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40FreakConfig
 
