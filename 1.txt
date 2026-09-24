@@ -40,6 +40,16 @@ vless://163130a7-42d6-40bf-9574-3d9eff14dcb2@153.76.185.150:3090/?type=grpc&encr
 
 vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@193.151.108.35:43000?security=reality&encryption=none&pbk=iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=&sid=75df7f65ba2a8155#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://395c1767-d1ae-41c3-98df-c52416556622@167.233.30.37:40450?security=none&encryption=none&host=paly.google.com%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bVZZZmQ5VXhJNUw1N3p1dHBKTHh1b3RES0J2aHJrMU04RW51VDZxbE4wPQ%3D%3D@94.130.68.139:2052#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80/?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=%2Fplatform108#%F0%9F%87%A8%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80/?type=ws&encryption=none&flow=&host=platform113.halalkhor.info&path=%2Fplatform113#%F0%9F%87%AE%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
 vless://f8497bb6-b6de-437f-ccde-f7aee0b8fcc9@uptrailmainideia.up.railway.app:443?path=%2Fws%2Ff8497bb6-b6de-437f-ccde-f7aee0b8fcc9&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=uptrailmainideia.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uptrailmainideia.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://ef99379d-3995-40a6-9c32-bb558cfc67c7@151.101.56.7:443?security=tls&type=ws&headerType=&path=%2F&host=italyji.global.ssl.fastly.net.&sni=ssl.fastly.com&fp=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -89,14 +99,4 @@ trojan://1825d805-78a6-4b2f-a3ae-d6c2fc40de15@fl-fc1026.aliagyu83.workers.dev:20
 vless://339a11d6-cb2b-4168-8dbe-35f49fa49c92@31.56.222.238:8080?security=reality&encryption=none&pbk=2GzRWhwRD6EwQUcI3YspMIo7xOUKOz_JQPbJsjjeMxg&headerType=none&fp=chrome&spx=%2F2bd93ebdde07b74&type=tcp&sni=www.goo.gl&sid=2e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://339a11d6-cb2b-4168-8dbe-35f49fa49c92@46.8.69.166:8080?security=reality&encryption=none&pbk=2GzRWhwRD6EwQUcI3YspMIo7xOUKOz_JQPbJsjjeMxg&headerType=none&fp=chrome&spx=%2F2bd93ebdde07b74&type=tcp&sni=www.goo.gl&sid=2e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@fea2cceea7fdf1b4.IROnlY4l.Ir:443?security=reality&encryption=none&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=storage-p2.googleapis.com&sid=37d86205006fe1fb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@4bfefcc22a8cef60.IROnlY4l.Ir:8080?path=%2F&security=&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
-
-vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@ba4fabefd5ebfa78.gOlrANg-sHOp.Ir:443?security=reality&encryption=none&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=storage-p2.googleapis.com&sid=37d86205006fe1fb#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@psc-6.weedly.top:2095?path=%2F&security=&encryption=none&host=806cf6df7d523ce3.certhost.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
-
-vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@psc-4.weedly.top:2095?path=%2F&security=&encryption=none&host=2b03e8c5caf60444.certhost.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
 
