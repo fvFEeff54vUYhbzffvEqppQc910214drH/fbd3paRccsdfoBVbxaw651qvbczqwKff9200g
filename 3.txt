@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://44e1105d-b46e-402f-933b-eaa136fcbb24@ndi.lavivas.org:2096?sni=ndi.lavivas.org&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://588152b9-2452-4495-be14-4b44eae3aa1f@5dccc2ba02c049e8.us-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=b684d13617792bb2#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://746fb893-5df4-42b2-92f0-842c370dcd6f@91.107.176.128:443?security=reality&encryption=none&pbk=-cQ1dKmc1JBTfQTXJM1WVOPtm76TFDSFSxPYZ2eGXx4&headerType=none&fp=chrome&spx=%2Fn0Wi8LmuRGyRQ2D&type=tcp&sni=storage.googleapis.com&sid=576cc5f8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40orange_vpns
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40orange_vpns
@@ -109,6 +103,8 @@ ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ@132.243.255.3:10090#%F0%9F%87%A8%F0%
 vless://588152b9-2452-4495-be14-4b44eae3aa1f@3cfb1b7e160a0559.de-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=malaco.nl&sid=b684d13617792bb2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2rayNG_Matsuri
 
 vless://588152b9-2452-4495-be14-4b44eae3aa1f@9a2a6a9663a1d454.fn-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2rayNG_Matsuri
+
+vless://588152b9-2452-4495-be14-4b44eae3aa1f@5dccc2ba02c049e8.us-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=b684d13617792bb2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2rayNG_Matsuri
 
 vless://98926dce-3e74-440b-badd-8978d56c6723@167.233.32.53:6667?security=none&encryption=mlkem768x25519plus.native.0rtt.ZXgIKO9OgZBabbk3s73EeYRwW13dp_jRHY0e6Wh12DI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2rayNG_Matsuri
 
@@ -1401,6 +1397,10 @@ vless://1ebc9a22-5845-4110-9e72-a555e99f3d92@104.16.22.21:2053?type=ws&encryptio
 vless://c98aa083-734a-4c16-9e9e-a979ee7867a9@d.v2.mahysamy.ir:8443?encryption=none&type=tcp&security=reality&sni=www.goo.gl&fp=chrome&pbk=ocEjHWXH55fdTMdqtEDGmIzRiUJBUveDqg-UpyeKmDQ&sid=4358ba2cf18b0741#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://c98aa083-734a-4c16-9e9e-a979ee7867a9@fv1.mahysamy.ir:8443?encryption=none&type=tcp&security=reality&sni=www.goo.gl&fp=chrome&pbk=ocEjHWXH55fdTMdqtEDGmIzRiUJBUveDqg-UpyeKmDQ&sid=08#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@ndi.lavivas.org:2096?sni=ndi.lavivas.org&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40NormanConfig
+
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40NormanConfig
 
 vless://622cd467-ae00-4afe-b7ee-15dca6b9649a@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=%2F&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
 
@@ -4571,4 +4571,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLU5vbmUgfCBAdjJu
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vk13V3RvWGpQOE5sNVJDT1RmdEZFVVF3U3QyQWVuNWVneTl5MEVWeGQzRT0=@130.61.234.86:59924#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@139.64.235.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
+
+vless://44ff6d71-319e-4bcb-a956-58d31290e45b@150.251.143.3:16857?&security=reality&flow=xtls-rprx-vision&pbk=lB6OaYmyeYYrTWzaE3U4Elp0TayJt4136HcLfnrdFQ0&sid=31&fp=firefox&sni=image.semiconductor.samsung.com&type=tcp&headerType=none&host=image.semiconductor.samsung.com&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
