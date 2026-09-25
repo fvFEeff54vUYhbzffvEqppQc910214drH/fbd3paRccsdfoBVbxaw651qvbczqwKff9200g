@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://XpnTeam-25@199.232.78.170:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -25,6 +23,8 @@ trojan://humanity@162.159.136.234:443?path=%2Fassignment&security=tls&insecure=0
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
 
 vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%BF%20GRPC-None%20%7C%20%40LonUp_M
+
+vless://XpnTeam-25@199.232.78.170:443?encryption=none&type=ws&host=Appxdn.global.ssl.fastly.net&fp=chrome&insecure=0&allowInsecure=0&path=%2F&sni=ssl.fastly.com&security=tls&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://MITIVpN@151.101.56.7:443?allowInsecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&insecure=0&fp=chrome&path=%2F&alpn=http%2F1.1&type=ws&sni=ssl.fastly.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -4891,4 +4891,10 @@ vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.72.103.3:443?mode=packet-up&pat
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22222?type=raw#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=stream-one&path=%2Fassets%2Fv2%2Fpkg#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40BigSmoke_Config
+
+vless://59dc89dd-873b-46c5-80a7-91437406fe8b@65.109.176.251:443?security=reality&encryption=none&pbk=QYf4bxG9Vh5Mr2jatCjRspBxTwfYFO0qWgP5YI2FJSY&headerType=none&fp=chrome&spx=%2FUCU3dDdgnBqZlIj&type=tcp&flow=xtls-rprx-vision&sni=storage.googleapis.com&sid=9a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://ac985675-ba59-42a2-a8c4-e4baffe4bbbc@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://a5f3e491-23aa-4293-a37a-93b20796adc2@lxv2xt3x.danqela.ir:64358?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=edge&pbk=SAEWzHGGBsp8haTh34RoN5NwoxiCgZzzJo7jWi-DJXw&sid=b5f4173070b1e044&spx=%2F070b1e044#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
