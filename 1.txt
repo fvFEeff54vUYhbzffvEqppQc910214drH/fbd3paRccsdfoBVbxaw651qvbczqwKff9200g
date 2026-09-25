@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://16f42b76-b7d5-4dd2-8d57-fe6bc51f8ebb@odin.trustpacket.ir:443?path=%2Ftr&security=tls&encryption=none&insecure=0&host=odin.trustpacket.ir&fp=chrome&type=ws&allowInsecure=0&sni=odin.trustpacket.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%F0%9F%87%AD%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@5.42.114.41:9892?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+hysteria2://my_super_password_123@open.w2m.ink:443?sni=open.w2m.ink&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Hysteria-TLS%20%7C%20%40LonUp_M
+
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
 
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality&type=tcp&sni=95.217.24.236&fp=firefox&flow=xtls-rprx-vision&sid=a32cfb5deca913ad&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
@@ -88,15 +96,7 @@ vless://8299e665-bd27-4bde-8038-e73337f7bd0d@151.101.1.194:80?path=%2F&security=
 
 vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@igyeqfz.videoruru.shop:443?mode=packet-up&path=%2Fv3%2Fb9305903%2Fsegments%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22512-1024%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%225000-8000%22%2C%22hMaxReusableSecs%22%3A%223600-7200%22%7D%2C%22seqKey%22%3A%22offset%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C%20text%2Fplain%2C%20*%2F*%22%2C%22Cache-Control%22%3A%22no-cache%22%7D%2C%22sessionKey%22%3A%22media_sid%22%2C%22seqPlacement%22%3A%22query%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22xPaddingBytes%22%3A%221-16%22%2C%22sessionPlacement%22%3A%22path%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22scMaxEachPostBytes%22%3A%22393216-786432%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22serverMaxHeaderBytes%22%3A131072%7D&insecure=0&host=igyeqfz.videoruru.shop&fp=firefox&type=xhttp&allowInsecure=0&sni=igyeqfz.videoruru.shop#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.254.77:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+vless://a43a9a45-7387-4faf-ad06-24b1ae181fdc@188.114.97.6:443?path=%2FeyJqdW5rIjoiVzg3NkFVRjZaUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=snowy-glade-85fa.arshiatakalloo88.workers.dev&type=ws&allowInsecure=0&sni=snowy-glade-85fa.arshiatakalloo88.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.254.77:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.254.77:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40PrivateVPNs
-
-vmess://eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-
-ss://eyJhZGQiOiAiMjE2LjEwNi4xODcuNjAiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgInBvcnQiOiAiMjIzMjQiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF83NTU4IFx1ZDgzY1x1ZGYwZCBcdTI2YTFcdWZlMGYifQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
-
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.12:443?security=reality&encryption=none&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=7bb730e3e6616d31#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+vless://16f42b76-b7d5-4dd2-8d57-fe6bc51f8ebb@crow.trustpacket.ir:2053?mode=auto&path=%2Fxhttp&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=crow.trustpacket.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=crow.trustpacket.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
 
