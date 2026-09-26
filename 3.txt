@@ -4916,3 +4916,33 @@ vless://cfed68c4-fc10-4638-b3ca-140e1e873797@45.148.30.199:443?security=reality&
 
 vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@185.4.113.161:443?mode=gun&security=reality&encryption=none&pbk=rWCtIIMsnh-bXbgPsxJrM5xAvH6PgywDeVZXhycEJk0&fp=firefox&type=grpc&sni=x5.ru&sid=4fe211a1#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40UnlimitConfig
 
+trojan://e75redyo-qd5m-wws9-rk0y-wp3zccguwur6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://ie5jj28v-2ded-m14j-15f6-mj8ch1ohq0zn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://a4ur989v-gugc-ksb6-d1ic-snxf59ub2s1w@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://79624664-22c0-43d9-b1a8-e2a0381588cb@179.237.85.97:443?type=tcp&security=reality&sni=pl8ksnn3q2mw.edgepop.lol&fp=safari&flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+trojan://h9bce0ry-ijpz-ggmg-qtxl-ht2etd8z8sl7@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://uh8pnof8-0dc1-4s4h-8ei4-k8ss8h753jug@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://4hsx3wes-mf6m-9ubp-c088-6ljua2wmn1rw@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFdTLU5vbmUgfCBAUk9OSU5WUE4xIiwiYWRkIjoiYW1pci5hbWlycG9ydC5pciIsInBvcnQiOjg4ODAsImlkIjoiYTJiYmE4NTgtZThjMi00MzhlLTlkYTUtNTI2ODdhMGFhMjAxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQFJPTklOVlBOMSIsImFkZCI6ImlyYW5oYW0uZm94bmltLmluZm8iLCJwb3J0Ijo3MDAwLCJpZCI6IjZmNGIxZTkyLTk0NDItNGJmZS1jMDJiLTE4Mzg1ZDk1MjdlYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQFJPTklOVlBOMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0=
+
+trojan://ea52jlor-jkyv-69eh-guqe-opn70i1eyy6a@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://0tqrkeuv-vc7k-lfab-zxg9-2x3hsty2j45x@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://gv1qo35t-fxmj-10y2-mo49-z82it0ie0d3w@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+vless://cfed68c4-fc10-4638-b3ca-140e1e873797@45.153.48.178:443?security=reality&encryption=none&pbk=P1AqrrfNQhPrEv6wAtwWvSsl3WDEN9X-8j4J74orXiA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=7713e6b2cb0e0804#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40UnlimitConfig
+
