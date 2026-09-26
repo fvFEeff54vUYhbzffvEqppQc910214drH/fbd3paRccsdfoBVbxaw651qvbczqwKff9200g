@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
-
-vless://c9ec2618-1946-4988-9bbe-d91fc2815371@91.107.170.161:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qqq91FxhIoUtIA2kWHKJ_DvWA8Z5f76N5cE5motNpE0&security=reality&sid=34ab0b62f9de3320&sni=storage.googleapis.com&spx=%2FcQdbG7aNUgCchtL&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://b2266dc5-cbcf-46b5-8efd-5769e897b18d@zedter.carshops3.ir:3264?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=S37yirFcGD7NHCZP56MxLDUcLBKgeoNtGcTy-g7cb0U&sid=9cf0ba293874da9c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://b2266dc5-cbcf-46b5-8efd-5769e897b18d@xerdaser.carshops4.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.uwJCQrbGK9FmXbfV2ePZw8xuw8FokB_Pr9BVEwH7zVI&pbk=7ew40h8O_hJ1JhOTujb90QDvjLCWWhABGwojLMpeDzM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=df461ddeab5a0bd2#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://b2266dc5-cbcf-46b5-8efd-5769e897b18d@zedter.carshops3.ir:3260?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=S37yirFcGD7NHCZP56MxLDUcLBKgeoNtGcTy-g7cb0U&sid=9cf0ba293874da9c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://b2266dc5-cbcf-46b5-8efd-5769e897b18d@feradeg.foodshoops1.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.uwJCQrbGK9FmXbfV2ePZw8xuw8FokB_Pr9BVEwH7zVI&pbk=7ew40h8O_hJ1JhOTujb90QDvjLCWWhABGwojLMpeDzM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=df461ddeab5a0bd2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://b2266dc5-cbcf-46b5-8efd-5769e897b18d@swersd.carshops4.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.uwJCQrbGK9FmXbfV2ePZw8xuw8FokB_Pr9BVEwH7zVI&pbk=7ew40h8O_hJ1JhOTujb90QDvjLCWWhABGwojLMpeDzM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=df461ddeab5a0bd2#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=%2F&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
 
 trojan://9SmhZnHv0G@api.ohbah.com:3004?security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40BigSmoke_Config
@@ -31,6 +11,10 @@ vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@185.171.202.106:443?flow=xtls-rprx-
 vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@62.60.152.1:56328?flow=xtls-rprx-vision&encryption=none&security=reality&sni=table.vkroom-it-service.xyz&pbk=iI1pc8k9-mIPHL2Dga-4n4h3KoBT68lN434nglpgm2M&sid=f3a9c21e8b6d4571&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
 
 hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40FreakConfig
+
+vless://c9ec2618-1946-4988-9bbe-d91fc2815371@91.107.170.161:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qqq91FxhIoUtIA2kWHKJ_DvWA8Z5f76N5cE5motNpE0&security=reality&sid=34ab0b62f9de3320&sni=storage.googleapis.com&spx=%2FcQdbG7aNUgCchtL&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVnZnUDBCejY5aHNFclBCdnFLYndR@p1tun4.greewebservices.ir:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
