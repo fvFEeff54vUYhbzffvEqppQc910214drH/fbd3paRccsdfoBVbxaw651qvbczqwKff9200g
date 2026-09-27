@@ -50,3 +50,11 @@ vless://64d64c94-79bb-4404-8195-63e2bc4622fb@91.107.155.110:8080?encryption=none
 
 vless://64d64c94-79bb-4404-8195-63e2bc4622fb@198.105.123.153:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
+vless://64d64c94-79bb-4404-8195-63e2bc4622fb@65.109.218.12:5050?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
+
+vless://6c0c6fc2-1092-4b66-982b-320f49f95bc3@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pokerrr.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://6c0c6fc2-1092-4b66-982b-320f49f95bc3@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=looazjboijji.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://484990c6-8a29-4ac8-8c60-b8d911ff49ed@192.209.62.143:34342?security=reality&encryption=none&pbk=lyzDzDe-gZf5XFFHoqb_C0UTed90cvor000xeOCI_Vs&fp=safari&spx=%2FPOST&type=xhttp&sni=bigip-mydesktop.oracle.com&sid=1b7470e8#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40UnlimitConfig
+
