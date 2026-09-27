@@ -20,3 +20,17 @@ vless://7faa65a6-b43b-413e-9480-a81fae3d0c49@185.255.114.91:8443?encryption=none
 
 vless://ff53c555-e602-4546-96b5-2420dd0c3e5f@95.85.231.139:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=g02r.andy-link.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=abcd1234&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vmess://eyJhZGQiOiI5MS4xMDcuMTYyLjE0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZWY1MTFhZi00MWEzLTRjOTItYWZhNi0zMTM5MDE2ZjhlOTMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjUwNjkiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://363e5ed1-ad1d-40d6-bfad-33f29ba0cc87@4.spotify24.ir:8080?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://363e5ed1-ad1d-40d6-bfad-33f29ba0cc87@77v2.paniz-atila.ir:8080?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
+
+vless://162ff214-21c8-4963-a80a-6200cbad787e@holnnnattyfba.senbilarsin.ir:2087?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.b7usrPMJaBr7FhJLgc4npYeURNEi_k9jd_fAIxrJpDk&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22uplinkHTTPMethod%22%3A%22PUT%22%7D&pbk=rlByYziO7yJWQCnkpK88xaStGr8g2pVys2gm6d96LiI&fp=firefox&type=xhttp&sni=google.de&sid=8069057c6c9717b9#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://9ef511af-41a3-4c92-afa6-3139016f8e93@91.107.162.148:1819?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://8d0f652c-3caa-4570-a138-668364f3d25e@172.67.131.125:443?path=%2Fvl%2FzInkY7qcXuM6P1AZTQ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sqqfq0vy-l4v0qa0zlxnjd79-ykvkw.mrmamali.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SqqfQ0vy-l4v0qA0ZLxNJd79-ykvkw.mRmamaLi.WoRKerS.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
