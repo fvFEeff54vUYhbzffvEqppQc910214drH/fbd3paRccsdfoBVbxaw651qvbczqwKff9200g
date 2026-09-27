@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://3728d3fa-e004-47b9-b334-9f0723efeef2@159.69.91.8:80?type=ws&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
+
+vless://Default@69.46.46.66:443?alpn=http%2F1.1&type=ws&security=tls&insecure=0&encryption=none&sni=app-bde44c-537d35-production.up.railway.app&host=app-bde44c-537d35-production.up.railway.app&allowInsecure=0&fp=chrome&path=%2Fws%2FDefault#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://Default@69.46.46.86:443?host=app-bde44c-537d35-production.up.railway.app&alpn=http%2F1.1&allowInsecure=0&path=%2Fws%2FDefault&sni=app-bde44c-537d35-production.up.railway.app&encryption=none&security=tls&fp=chrome&insecure=0&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
 ss://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAicG9ydCI6ICIxODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF84NDU3IFx1ZDgzY1x1ZGYwZCBcdTI2YTFcdWZlMGYifQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
 
 vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInBvcnQiOiIyMjMyNCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQExvblVwX00ifQ==
@@ -93,10 +99,4 @@ vless://412301b2-8715-4afd-b2f0-9768c63669f2@pk-play.mobileemdad.top:443?encrypt
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@trn5.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://35dab1a4-512d-42f7-8d03-36a3d7593687@info.moscowtour.world:443?security=tls&encryption=none&insecure=1&type=grpc&serviceName=travel.tours.v1.BookingService&allowInsecure=1&sni=info.moscowtour.world#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
-
-vmess://eyJhZGQiOiJjYS5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmMmQ3ZjBkMi05NTIwLTRkNWMtOTcxNC01OGNjMTM4NTEzYTgiLCJuZXQiOiJncnBjIiwicGF0aCI6ImFwaSIsInBvcnQiOiIyMDk2IiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgR1JQQy1UTFMgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-
-vless://131549f9-3912-d262-0226-d4c41535f453@newyork-production-77b0.up.railway.app:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2F131549f9-3912-d262-0226-d4c41535f453&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=newyork-production-77b0.up.railway.app&fp=ios&type=xhttp&allowInsecure=0&sni=newyork-production-77b0.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://35dab1a4-512d-42f7-8d03-36a3d7593687@about.almatydev.college:443?security=tls&encryption=none&insecure=1&type=grpc&serviceName=edu.campus.v1.StudentService&allowInsecure=1&sni=about.almatydev.college#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
 
