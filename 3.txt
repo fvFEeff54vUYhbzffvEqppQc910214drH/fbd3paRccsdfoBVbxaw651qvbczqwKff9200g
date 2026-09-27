@@ -4850,3 +4850,15 @@ vless://6f73611a-bfd9-4712-9f33-fda2da70332a@201.51.4.39:443?security=tls&encryp
 
 vless://4a3ea497-2430-4d72-b8c4-291187e5cd75@162.159.82.123:2053?path=%2F&security=tls&encryption=none&insecure=0&host=du.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=du.roomode.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40NPV_78
 
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=llm-api.sofurry.dpdns.org&sni=llm-api.sofurry.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&sni=admin.betust.net#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.73:9873?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@app26.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&sni=app26.betust.net#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.26:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=nilka.failspace.top#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
