@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8299e665-bd27-4bde-8038-e73337f7bd0d@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://8299e665-bd27-4bde-8038-e73337f7bd0d@151.101.65.57:80?path=%2F&encryption=none&host=simorghtrr.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://56c0076f-6969-4534-aba0-f72f173dcfe6@94.237.72.74:8880?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://3ffd5705-5af4-40ad-b310-c29df0c9d2ca@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=7wwwspeedtestnet.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://8299e665-bd27-4bde-8038-e73337f7bd0d@199.232.78.159:80?path=%2F&security=&encryption=none&host=simorghgr.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@igyeqfz.videoruru.shop:443?mode=packet-up&path=%2Fv3%2Fb9305903%2Fsegments%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22512-1024%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%225000-8000%22%2C%22hMaxReusableSecs%22%3A%223600-7200%22%7D%2C%22seqKey%22%3A%22offset%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C%20text%2Fplain%2C%20*%2F*%22%2C%22Cache-Control%22%3A%22no-cache%22%7D%2C%22sessionKey%22%3A%22media_sid%22%2C%22seqPlacement%22%3A%22query%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22xPaddingBytes%22%3A%221-16%22%2C%22sessionPlacement%22%3A%22path%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22scMaxEachPostBytes%22%3A%22393216-786432%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22serverMaxHeaderBytes%22%3A131072%7D&insecure=0&host=igyeqfz.videoruru.shop&fp=firefox&type=xhttp&allowInsecure=0&sni=igyeqfz.videoruru.shop#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40UnlimitConfig
-
 vless://dac0bd30-008f-42c9-b377-bfc0dcfa6f0b@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2RAYROZ
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2RAYROZ
@@ -4997,4 +4985,8 @@ vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?encryption=none&
 vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.25.195:443?encryption=none&type=tcp&security=reality&headerType=none&sni=app25.betust.net&fp=random&insecure=0&allowInsecure=0&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&sid=a16bc894&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://8ffcf2e4-6e64-4647-b8ce-473b4287cff5@germany.hetzner.sldbflapxkw.vpxpp.ir:1819?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&ech=AHf%2BDQBzAAAgACDGY9m3ZvdYTvJ34CXJSrMXoxROIjBQCKj1Mr%2Bma3z4YgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADACRnZXJtYW55LmhldHpuZXIuc2xkYmZsYXB4a3cudnB4cHAuaXIAAA%3D%3D&type=tcp&allowInsecure=0&sni=germany.hetzner.sldbflapxkw.vpxpp.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
+
+vless://1cefdbfd-6032-43d5-ac13-f58b4498e2f7@172.67.152.71:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=royal-salad-175d.306.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://127f705c-f0bc-49e2-be27-d9fca7fd5a78@31.76.249.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3&sni=akde2.serveroff.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
