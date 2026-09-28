@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&type=ws&host=primevideo.com&security=none&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
-
-vless://eea1c59d-70fd-4829-8ed7-21ddfe55a0da@194.62.249.27:8118?encryption=none&security=reality&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&headerType=none&sni=play.googleapis.com&type=tcp&fp=ios#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.245.210:22224?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40FarazV2ray
 
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
@@ -31,6 +25,8 @@ vless://35dab1a4-512d-42f7-8d03-36a3d7593687@185.241.208.241:8443?security=reali
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://d70bbb1f-8c6c-40f6-9b09-33b0f575c2f9@91.107.133.246:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lxxT_BXt2FflnppeojhoOM9wbWmutFJXu7uT6RntxyQ&security=reality&sid=8d8a18a83a8b4a08&sni=storage.googleapis.com&spx=%2FrvNURf40TQAix11&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2ray_confiig
 
 vless://25a591db-5715-4517-b0c5-ca3449541ea9@91.107.133.246:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.googleapis.com&fp=chrome&pbk=lxxT_BXt2FflnppeojhoOM9wbWmutFJXu7uT6RntxyQ&sid=05488b46&spx=%2FFJ62AOrrYX6QEQU&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
 
@@ -1195,6 +1191,8 @@ vless://4517ce5b-9637-4d2c-9ea6-b0cd403ae33b@31.15.16.19:443?encryption=none&sec
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@trn9.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
 trojan://r6lygvrt9mjaydoq@45.157.118.23:30775?fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22header%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22type%22%3A%22mkcp-legacy%22%7D%5D%7D&mtu=1350&security=none&tti=20&type=kcp#%F0%9F%87%B3%F0%9F%87%B1%20KCP-None%20%7C%20%40LonUp_M
+
+vless://eea1c59d-70fd-4829-8ed7-21ddfe55a0da@194.62.249.27:8118?encryption=none&security=reality&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&headerType=none&sni=play.googleapis.com&type=tcp&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@gga3.montago-shop.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=in.tradingview.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -4801,4 +4799,12 @@ vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@13.143.166.112:443?encryption=none&
 vmess://eyJhZGQiOiIxOTguNTcuMjcuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fm=&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
+vless://77d4980b-e093-4109-96e9-1c595cac64f9@sub.karmatel.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RJDcO8CJm4u3MvZvFkNU6KVEaNI970g3hhc7ww2HUAo&pbk=5zz9zO6NO8dP02YJCCFfPA5f-S2SRLsSeYYICnKtRwc&headerType=none&fp=chrome&spx=%2F67b657c795c2c27&type=tcp&sni=varzesh3.com&sid=e3ab70c616de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
+
+vless://77d4980b-e093-4109-96e9-1c595cac64f9@sub.karmatel.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RJDcO8CJm4u3MvZvFkNU6KVEaNI970g3hhc7ww2HUAo&pbk=5zz9zO6NO8dP02YJCCFfPA5f-S2SRLsSeYYICnKtRwc&headerType=n…#None%20TCP-Reality%20%7C%20%40V2rayBaaz
+
+vless://39f5bb5d-03a3-42bb-9720-c93148eaad02@188.114.97.7:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&security=tls&sni=ro1.b0w.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B7%F0%9F%87%B4%20XHTTP-TLS%20%7C%20%40netmelli15
+
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40vpnplusee_free
 
