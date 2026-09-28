@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@131.123.42.16:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bolgarka.drop0chka.work&sid=ff776ff77be48b88#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-ii.subaru-volga.com:443?security=reality&encryption=none&pbk=Fy5oUXHjwXPsnyRzZAHohjOd4dYkDj9mlIhr-Xh6tTc&headerType=none&fp=random&type=tcp&sni=lineartronic-ii.subaru-volga.com&sid=6fddaa#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2rayNG_Matsuri
 
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
@@ -21,6 +17,10 @@ vmess://eyJhZGQiOiI0Ni4yOS4zNC4xNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://482514e8-2979-4628-acf3-d04f607c4f12@87.199.199.45:8443?mode=auto&path=%2Fdocs&security=reality&encryption=none&pbk=OLYlJTMhedAAGN8KFqvOzyh7kobkqY7D8gi8oHMVGG0&host=nlo.ufogame.tech&fp=firefox&type=xhttp&sni=nlo.ufogame.tech&sid=3af1b5c2#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40LonUp_M
 
 vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stf94fd.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=stf94fd.rumedia-cdn.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@131.123.42.16:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bolgarka.drop0chka.work&sid=ff776ff77be48b88#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-ii.subaru-volga.com:443?security=reality&encryption=none&pbk=Fy5oUXHjwXPsnyRzZAHohjOd4dYkDj9mlIhr-Xh6tTc&headerType=none&fp=random&type=tcp&sni=lineartronic-ii.subaru-volga.com&sid=6fddaa#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=ios&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -4641,4 +4641,20 @@ vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@tunnel.hosting-96.ir:443?path=%2Fpr
 vless://9a162e37-4483-4190-85da-5d27f469d022@my.koloshami.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=my.koloshami.ir&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://9a162e37-4483-4190-85da-5d27f469d022@my.koloshami.ir:2053?path=%2F&security=none&encryption=none&host=my.koloshami.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://162ff214-21c8-4963-a80a-6200cbad787e@s8596.paslanmaz.ir:6645?security=reality&encryption=mlkem768x25519plus.native.0rtt.10qBV2GE2iTjpQdazyCqabcwmqEwXRzeYhC5BLjxE3Q&pbk=PLNPsyduvF-5DBmPL0h8YrYbUczxQu7MsLCvTP_4S1o&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=5549d5c40430aa81#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.39.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=nvidia.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&type=tcp&sni=web.eitaa.com&fp=firefox&flow=xtls-rprx-vision&sid=90ec9bba2019&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://humani#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vless://79367d62-aaa2-3a71-42cf-9ffe1f04e9b1@victoryprovpn-production-d0b8.up.railway.app:443?insecure=0&mode=packet-up&host=victoryprovpn-production-d0b8.up.railway.app&allowInsecure=0&sni=victoryprovpn-production-d0b8.up.railway.app&path=%2Fxhttp-siz10%2Fpacket-up%2F79367d62-aaa2-3a71-42cf-9ffe1f04e9b1&alpn=h2%2Chttp%2F1.1&security=tls&type=xhttp&fp=ios&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://e55a46d5-b655-b13a-9edd-3a2769b44d14@victoryprovpn-production-2e4c.up.railway.app:443?insecure=0&host=victoryprovpn-production-2e4c.up.railway.app&allowInsecure=0&sni=victoryprovpn-production-2e4c.up.railway.app&path=%2Fws%2Fe55a46d5-b655-b13a-9edd-3a2769b44d14&alpn=http%2F1.1&security=tls&type=ws&fp=ios&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://f019cf04-1893-4e06-8ab7-627c7506fb94@turkey2d.rarqilo.ir:2050?headerType=http&host=play.googleapis.com&security=none&encryption=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
