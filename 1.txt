@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://c27e9b8b-52ea-43e2-b491-aaca7d955cd4@91.107.245.59:443?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Shh_Proxy
+
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
+
 vless://13cddba4-64ff-4691-a9d2-7603dcfb44e1@crow.trustpacket.ir:2053?mode=auto&path=%2Fxhttp&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=crow.trustpacket.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=crow.trustpacket.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
 
 vless://13cddba4-64ff-4691-a9d2-7603dcfb44e1@odin.trustpacket.ir:443?path=%2Ftr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=odin.trustpacket.ir&fp=chrome&type=ws&allowInsecure=0&sni=odin.trustpacket.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
@@ -93,10 +99,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.226.165:22223?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.226.165:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://f59c7b51-afc0-4e32-bcfb-9da0af355e76@varzesh3.com:80?encryption=mlkem768x25519plus.native.0rtt.cjwaUg7DKG2TZrfYn6e_dHjdlB9S4qE7rMiahyj3cFA&security=none&type=ws&headerType=none&path=%2Fws&host=base.yuwe.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0%3D@130.61.232.1:59924#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0@130.61.232.1:59924#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
-
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@192.209.62.152:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=kosta6.api3-max.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayBaaz
 
