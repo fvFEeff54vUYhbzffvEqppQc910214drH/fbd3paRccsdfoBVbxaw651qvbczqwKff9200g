@@ -12,3 +12,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.11.115:22222?encryption=none
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.11.115:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
+trojan://MiTiVPN@151.101.56.255:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&path=Telegram%20%3A%20%40Daily_Configs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
