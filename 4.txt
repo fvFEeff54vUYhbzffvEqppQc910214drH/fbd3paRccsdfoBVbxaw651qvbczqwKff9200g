@@ -22,3 +22,27 @@ vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryp
 
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?encryption=none&security=tls&sni=server-ir-3.ariyuz.org&insecure=0&allowInsecure=0&type=ws&path=%2Fpage%3D2#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmess_ir
+
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr.setlisting.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Outline_ir
+
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&host=%2F%3F--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Outline_ir
+
+vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Outline_ir
+
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://00ff2a7d-f04b-4640-9ed7-468d8e42f6fe@178.154.227.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wl-4-2.nodes.ac&fp=qq&pbk=Yoh3T5ra4qSt7RebGXUM1xB1HUdIQPSzoxJkfxk-eTk&sid=6cafe8ea554e106b&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://humanity@172.64.147.166:443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%2A%2A%2A%F0%9F%87%A8%F0%9F%87%B3%2A%2A%2A#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
+
+trojan://humanity@104.20.42.250:443?security=tls&sni=www.calmloud.com&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%20%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:443?#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
