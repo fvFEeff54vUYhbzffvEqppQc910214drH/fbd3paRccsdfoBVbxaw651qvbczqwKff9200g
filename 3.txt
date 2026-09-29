@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40PrivateVPNs
-
-vless://693c9449-47c4-4818-9203-17b551b373dc@fin7.karmatel.ir:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RJDcO8CJm4u3MvZvFkNU6KVEaNI970g3hhc7ww2HUAo&pbk=5zz9zO6NO8dP02YJCCFfPA5f-S2SRLsSeYYICnKtRwc&headerType=none&fp=chrome&spx=%2Fbc03f6c166a6759&type=tcp&sni=varzesh3.com&sid=e3ab70c616de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://fa30976d-06dc-343c-9eef-6ed32ac1f73b@victoryprovpn-production-ea69.up.railway.app:443?path=%2Fws%2Ffa30976d-06dc-343c-9eef-6ed32ac1f73b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=victoryprovpn-production-ea69.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-ea69.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://94663382-705f-4457-b01b-5f2453120954@33a8ff70-a5b4-4f44-b8f3-99a9904f7f34.fly.dev:443?encryption=none&security=tls&type=ws&host=33a8ff70-a5b4-4f44-b8f3-99a9904f7f34.fly.dev&path=/ws/94663382-705f-4457-b01b-5f2453120954&sni=33a8ff70-a5b4-4f44-b8f3-99a9904f7f34.fly.dev&fp=chrome&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://0422ee7e-b216-4cf1-b193-842e432ff233@pl.iramnovira.com:443?security=reality&encryption=none&pbk=qQsjMiQdwd5U97jSseGl21jkEEJ3yiGE-ESfzIH1oiQ&headerType=none&fp=edge&type=tcp&sni=edge.com&sid=bf0902b60c587c3c#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://3de14568-697f-4e42-af7c-0f9d7897f4ae@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
 trojan://MiTiVPN@167.82.76.7:443?path=%2F%3FDailyConfigs--DailyConfigs&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
@@ -65,6 +51,10 @@ vless://dc31fe25-d91d-4691-94cb-1085d31ab4f8@188.34.184.151:80?path=%2F&security
 vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@66.33.22.237:54233?encryption=none&security=reality&sni=api.semiconductor.samsung.com&fp=chrome&pbk=ntf3pNCrpc032JJ_Jzxlx22zOHAK8hp8Bokvu1lwECY&sid=42094280bbc2e396&spx=%2Fc515e4d33aba3eb&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@66.33.22.234:47078?encryption=none&security=reality&sni=au-images.shop.samsung.com&fp=chrome&pbk=GVAbecF6i4oCyWF7VrfM0UXfTmqXmDkCQLNRjXIcEjQ&sid=76ea8d6be88f0c56&spx=%2F5ce2165b6af2ebe&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e2a4dbed-1353-44ac-b4ff-51dcfdc58dcf@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pannn1.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -4511,4 +4501,22 @@ vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?encryption=none&flow
 vless://b90b424c-6053-415c-8547-16f996331d63@134.255.252.76:9999?encryption=none&security=reality&sni=varzesh3.com&fp=chrome&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&sid=0731&spx=%2FN5rLmYZAAhURETl&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
+
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.92.229:8443?encryption=none&security=tls&sni=srv55.hamiibar.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=srv55.hamiibar.com&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?encryption=none&security=none&fp=firefox&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%A7%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQlJFUGpRRmNyOTcwNk4wdzVVZ1JLeV9ZRFUySEhkLQ%3D%3D@pnelnetx44.co99.win:1080#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
+
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
