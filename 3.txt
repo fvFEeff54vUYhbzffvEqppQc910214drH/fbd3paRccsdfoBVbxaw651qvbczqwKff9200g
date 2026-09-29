@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://33938142-2f48-48a3-9180-28476cf586f4@82.152.223.82:443?mode=auto&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=savesafe.top&sid=62b6d6e64d461d78#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40chillguy_vpn
-
-vless://127f705c-f0bc-49e2-be27-d9fca7fd5a78@akit.serveroff.net:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akit.serveroff.net&sid=832d9228ddd3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://2c0109e7-8d35-4d20-a076-0d4eb9eb444d@104.21.78.194:443?path=%2Fcloude&security=tls&encryption=none&insecure=0&host=ger.chalghooz.com&fp=chrome&type=ws&allowInsecure=0&sni=ger.chalghooz.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://2e8601fb-5446-47f7-9ccd-937d7a874fb8@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40FreakConfig
@@ -101,6 +93,8 @@ vless://6c0c6fc2-1092-4b66-982b-320f49f95bc3@199.232.78.159:443?path=%2F&securit
 vless://6c0c6fc2-1092-4b66-982b-320f49f95bc3@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vmess://eyJhZGQiOiI3Ny45MC4xMS4xNzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWFmYTUyM2YtMzQ3Mi00ZWZjLWYxYzUtNmNlMjViMzkxMGE5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxNzY2MiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHYycmF5MV9uZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
+
+vless://33938142-2f48-48a3-9180-28476cf586f4@82.152.223.82:443?mode=auto&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=savesafe.top&sid=62b6d6e64d461d78#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray1_ng
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray1_ng
 
