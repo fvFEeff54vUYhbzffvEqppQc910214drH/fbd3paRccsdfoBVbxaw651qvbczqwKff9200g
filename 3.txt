@@ -4440,3 +4440,25 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?security=&encrypt
 
 vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
+vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&type=ws&path=/&packetEncoding=xudp#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2a701f21-2347-4eb2-813e-4867ad819272@91.107.191.154:53353?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://fe1ece85-a654-4ca4-a58a-88551ab4b8f0@main-thunder-9fe446-spd.dev-team-f6b2e7.workers.dev:443?path=%2Fws%2Ffe1ece85-a654-4ca4-a58a-88551ab4b8f0&security=tls&encryption=none&insecure=0&host=main-thunder-9fe446-spd.dev-team-f6b2e7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=main-thunder-9fe446-spd.dev-team-f6b2e7.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://2d110fb6-54b4-4a98-9422-c62aa55eb2c7@net-bridge-ce29f4ac.platform-2378e9.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=net-bridge-ce29f4ac.platform-2378e9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=net-bridge-ce29f4ac.platform-2378e9.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://c013e67c951e5086724068f9dca3e499@net-bridge-ce29f4ac.platform-2378e9.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&insecure=0&host=net-bridge-ce29f4ac.platform-2378e9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=net-bridge-ce29f4ac.platform-2378e9.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://daec49f8-7249-4482-842f-6b1bd6b566c7@sr13.fixdata.shop:443?security=reality&encryption=none&pbk=B6VyAZjMvG_oA9SosuYymVqYlhrWqDR2WrEcEUXdyTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g13.fixdata.shop&sid=dd281f7022d023c5#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://dabb5d60-4ac7-4982-bb01-11502e85b192@ukraine-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=ukraine-emergency-service.relqino.ir&fp=chrome&type=ws&allowInsecure=0&sni=ukraine-emergency-service.relqino.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://dabb5d60-4ac7-4982-bb01-11502e85b192@usa-emergency-service.relqino.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=usa-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=usa-emergency-service.relqino.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://373da2c2-d136-44d2-9e81-fc9755473464@94.130.188.195:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40LonUp_M
+
