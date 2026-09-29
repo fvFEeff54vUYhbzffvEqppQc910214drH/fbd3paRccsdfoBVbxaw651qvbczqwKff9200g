@@ -86,6 +86,8 @@ trojan://9z77isx3-gqh3-6uuc-om51-bs93m3czaqcg@127.0.0.1:2080?security=tls&type=t
 
 trojan://revz98gz-6n4n-vxcs-6x7l-x0m96ntpunda@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
 
 vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?security=reality&encryption=none&pbk=-LuhwN_cSgNr7nYIfCcu_XAjviKVSGwVGHxmB-s1AD0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e3a4bdfe3d6fd8ec#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
@@ -97,6 +99,4 @@ vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@94.249.225.106:443?security=reality
 vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@31.41.33.28:443?security=reality&encryption=none&pbk=LoNdOt7VfAYaPYIIZVqRb8ZkZf1PwKZOiJ93kn5SlTM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.oculon.online&sid=503f1935#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?mode=gun&security=reality&encryption=none&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&fp=chrome&spx=%2F974725c6b785df8&type=grpc&serviceName=grpc&sni=support-shield.nvidia.no&sid=bf6f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://25284368-40d5-4abe-9f56-54a07e88a7af@nl2.404vn.space:37951?security=reality&encryption=none&pbk=O6ZOpoz4sxon8iHxCd5EEvx2K9NUThd4SvOCBEvADEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.404vn.space&sid=a9e21fd097d019c6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
