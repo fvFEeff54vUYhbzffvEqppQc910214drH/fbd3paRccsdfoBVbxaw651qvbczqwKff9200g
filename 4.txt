@@ -1,24 +1,16 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@147.45.61.31:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=iris-04.rita-cloud.com&sid=26c501a781437581&fp=safari&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Va3lSho
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.96.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-571299667-direct.mbghalibaf.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
 
-vless://e8b3f952-cd1b-4881-872e-b8d03399a6df@153.76.185.100:3090?security=none&allowInsecure=0&encryption=none&type=grpc&mode=multi&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Va3lSho
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40LonUp_M
 
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?encryption=auto&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
+ss://XpnTeam-49@199.232.78.160:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
-vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?encryption=auto&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
+vless://bc221702-dd43-4642-a203-24d8d6a81165@159.195.253.15:8443?path=%2Fau1&security=tls&encryption=none&insecure=0&host=au1.pad-service.com&fp=safari&type=ws&allowInsecure=0&sni=au1.pad-sservice.lat#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40LonUp_M
 
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?encryption=auto&host=aidrivercat.org&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40oneclickvpnkeys
+vless://606a5b23-2c53-4994-b698-b11bb0dc8418@165.231.177.58:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6abb6a21.ferrin.uk#%F0%9F%87%AA%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
-vless://5168cf48-d959-439a-b65c-b1c08bfdb188@31.56.222.98:57779?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=&mode=auto&path=%2F&pbk=ISSDOUkhmz4dJSuacaa-w4D6IoUV1VvkkaBhAhnlQXg&security=reality&sid=4821601e29&sni=www.goo.gl&type=xhttp#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40oneclickvpnkeys
+vless://ebd6f9cc-441d-41bc-b4fe-2ace69a5d0e8@185.22.235.47:443?path=%2Fapi%2Fv1%2Fevents&security=tls&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=no1.moremmra.zip#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?encryption=none&fp=&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&security=reality&sid=ee93f78385e68258&sni=es-us.vida-estilo.yahoo.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40oneclickvpnkeys
-
-vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&security=reality&sid=db46e2946fc466fd&sni=deepl.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40oneclickvpnkeys
-
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=grok.setlisting.ru&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40oneclickvpnkeys
-
-vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.224:2096?encryption=none&host=stf4f33.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=stf4f33.rumedia-cdn.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40oneclickvpnkeys
-
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&host=milan.adaspoloandco.com&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40oneclickvpnkeys
+vless://f67eee2b-3cdd-4a3b-b30b-d4aec3d33132@199.232.78.159:443?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
