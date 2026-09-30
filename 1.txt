@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://XpnTeam-50@199.232.78.160:443?path=%2F&allowInsecure=0&encryption=none&insecure=0&type=ws&alpn=http%2F1.1&fp=chrome&sni=ssl.fastly.com&security=tls&host=Appxdn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://bc4c0c9f-ab46-4f2c-8305-ab8b3d019fd7@93.114.98.247:443?encryption=none&type=tcp&security=reality&sni=storage-p2.googleapis.com&fp=chrome&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&sid=37d86205006fe1fb&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://XpnTeam-51@199.232.78.160:443?sni=ssl.fastly.com&security=tls&encryption=none&type=ws&fp=chrome&allowInsecure=0&alpn=http%2F1.1&insecure=0&host=Appxdn.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@172.67.92.203:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=edgetunnel-4uw.pages.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=edgetunnel-4uw.pages.dev&path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
@@ -91,12 +99,4 @@ vless://8f326645-c4c4-4749-ada1-a7255d8f1c81@049r0lwt.selqora.ir:51595?security=
 vless://8f326645-c4c4-4749-ada1-a7255d8f1c81@049r0lwt.selqora.ir:51595?security=reality&encryption=none&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ea36049247370f47#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://7451454d-a345-45b5-d6ed-c35cf38c53dc@s2.zynetraq.ir:2087?mode=auto&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s2.zynetraq.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s2.zynetraq.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
-
-vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
-
-vless://e2ddf6f7-92bd-44ba-ab8e-e4750c3ebe33@xn-nl-b.rzfp.ir:8080?security=none&encryption=none&host=ftp.heanet.ie&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40FreakConfig
-
-vless://d74e7091-297e-4fa1-a100-bc1e753161c1@g1.sabet1.blazevx.ir:31913?mode=auto&path=%2F&security=reality&encryption=none&pbk=u8QXW7crvuXyOf305UfxBrr7Pa9epO1fK2rpPxmJ4lc&fp=chrome&type=xhttp&sni=cdn.eiger.io&sid=9053a51b5337ae12#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40FreakConfig
-
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40FreakConfig
 
