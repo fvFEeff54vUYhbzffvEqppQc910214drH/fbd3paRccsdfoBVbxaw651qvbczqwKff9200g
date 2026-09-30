@@ -4788,3 +4788,5 @@ vless://69e728f3-34d2-466a-aa57-d2e9864b624c@93.114.98.12:443?encryption=none&se
 
 vless://69e728f3-34d2-466a-aa57-d2e9864b624c@93.114.98.12:8443?encryption=mlkem768x25519plus.native.0rtt.Gi_b9s0yHG3xnVi6bnd_J_o31PoZCDPxkXlFJKcRyyE&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
+trojan://mitivpn@167.82.76.7:443?path=%2F&allowInsecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&sni=ssl.fastly.com&security=tls&alpn=http%2F1.1&fp=chrome&insecure=0&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
