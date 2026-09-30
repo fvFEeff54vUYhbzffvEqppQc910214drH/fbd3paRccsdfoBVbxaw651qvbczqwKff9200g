@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?encryption=none&type=grpc&security=reality&sni=bg5.univesalsrv.com&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService&mode=gun#%F0%9F%87%A7%F0%9F%87%AC%20GRPC-Reality%20%7C%20%40DeamNet_proxy
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBARGVhbU5ldF9wcm94eSIsImFkZCI6IjEyOS4xNDYuNzcuMjQ4IiwicG9ydCI6IjM5NDk1IiwiaWQiOiJmODM2YzczNi04N2ZjLTRmZGUtYWFiYy0wMDg1N2VjZGZmM2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4In0=
 
 trojan://humanity@185.18.250.245:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
@@ -99,4 +95,8 @@ vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.226:9891?encryption=non
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40proxymaann
 
 vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&host=fl.subnimnet2.ir&path=%2Fws&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40proxymaann
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.161:9891?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40proxymaann
+
+vless://8e6104da-f178-49ea-b559-1fd69562baae@us-2886e62c11.sishka.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&sid=573ce23c40deba10&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40proxymaann
 
