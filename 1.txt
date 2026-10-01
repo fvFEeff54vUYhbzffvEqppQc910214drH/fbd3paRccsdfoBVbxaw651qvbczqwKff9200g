@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@195.26.26.68:25288?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=waypoint.connectserverix.com&fp=safari&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&sid=9e15546f267baa64&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
 vless://08117346-6de0-407c-a53b-89b6c6e1e2f4@81dfbc47661b59f3.SDdSaSk.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
 
 vless://55af8466-53cd-46f4-aef9-5378f5ac34a4@n2.akan1.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=home.akan1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=home.akan1.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
@@ -95,8 +99,4 @@ vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?security=tls&en
 vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=kayko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
