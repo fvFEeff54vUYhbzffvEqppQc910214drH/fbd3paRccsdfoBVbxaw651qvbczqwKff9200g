@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://XpnTeam-50@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
-
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
-
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.125:443?security=reality&encryption=none&pbk=Y0OENG_faNE37KNgR5p6fnuIXmoES6sVuCFnWsbUzUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.code-sandbox.blog&sid=d1d479faa1c1d92f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
-
 vless://8e6104da-f178-49ea-b559-1fd69562baae@se-7ee2de0e.sishka.network:443?security=reality&encryption=none&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se-7ee2de0e.sishka.network&sid=023d4c88fb030f39#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
@@ -1999,4 +1991,12 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAVjJIVUJJUiIsImFkZCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2HUBIR
+
+ss://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBWMkhVQklSIiwiYWRkIjoiODQuMTcuNDEuMiIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJVUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBAUmF5ZGlrYWx4IHwgMTAxMjY5In0=
+
+vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.superbuba.top&sid=9c2378562188c3cb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
