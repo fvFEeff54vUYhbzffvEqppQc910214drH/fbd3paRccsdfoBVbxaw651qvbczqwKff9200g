@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
-
-vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=%2F&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
-
-vless://528e1c80-1e7a-433f-af5f-d89529e12f31@9b4d080c1db4d00f.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40UnlimitConfig
-
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
@@ -15,6 +9,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%2
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.234.217.115:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:4453?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=%2F&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#%F0%9F%87%AA%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pan2e.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
@@ -10085,6 +10081,8 @@ vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=realit
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
 vless://dea63487-c6e6-447a-b314-934dd2366d65@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=%2F%3Fed%3D2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
