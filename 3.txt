@@ -13684,3 +13684,7 @@ vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&en
 
 vless://%58pnTeam-64@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
 
+vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mehrosaboran
+
+vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@rf947dce8bedbf38c.salzivo.ir:80?security=&encryption=mlkem768x25519plus.native.0rtt._BGNNTwB8gF9F2xXOSLqzOuscTUEpG1TwlKMdNSpmg8&host=support-shield.nvidia.it&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
