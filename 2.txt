@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@ee.monkora.org:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://4643976f-85fa-40cf-9e58-ea28b50f253b@188.225.25.22:443?security=reality&encryption=none&pbk=EGtADikSkaFxgD3pnzm2qqM299GfxMV7ZJs1_NewK30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
-
 vless://49e33010-5f34-4b01-b343-8f9e4ff9dd57@136.244.109.181:644?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -91,24 +87,6 @@ trojan://humanity@172.67.118.45:443?type=ws&sni=www.volumeroot.com&fp=chrome&alp
 vless://565507e7-46f2-4d41-9ab7-7e19c21d1e16@109.176.202.125:4325?security=reality&encryption=mlkem768x25519plus.native.0rtt.wZEJaAdEMVKwYuSEwEkQAD2Qz0dXaUK9x4i_x_5eaCY&pbk=DFyAOGrSq4gsd_QrnmMSFiWk-HQdhJm_ZziUSu0ctSs&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=www.technolife.com&sid=9eba9a9afc481e6f#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@82.152.132.195:443?security=reality&encryption=none&pbk=tbQ_5ZgBOwC63hLOYKQkYKBKIuTgJ13oxtWblB2pjGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&sid=ddeed294#%F0%9F%87%B7%F0%9F%87%B4%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
-
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.116.201:443?security=reality&encryption=none&pbk=ho99K9SlOhJxolr4nVfw8SV4Z1yI22KaKaxUfk2o8jE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://08d77a58-37b6-4984-8455-ab1945c4ce8f@104.20.19.131:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=1.ksladoaofkdk.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=1.ksladoaofkdk.dpdns.org&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@de13.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@fastly.vexogf.ir:9443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YO2IIMfb_rukoknmG-91KRGGNb7BE1aBcr_-XKQkVXY&sid=f0c56d4f73d757f0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@de5.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@de23.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@199.232.78.159:80?encryption=none&security=none&type=ws&host=yaSharClass.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40LonUp_M
-
-vless://db0e6f46-5395-4dc9-8e52-3d2d4f1a9768@de6.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVGltMUxEdVlEYV9zeThiY1lRWDhDQk0xYjlTVW5BQw==@tun.banet.online:3767#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -239,4 +217,8 @@ vless://af2bf319-ba88-4fec-8317-2b6a8cee96d1@31.77.158.132:443?security=reality&
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.40.25:20998#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@ee.monkora.org:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@188.225.25.22:443?security=reality&encryption=none&pbk=EGtADikSkaFxgD3pnzm2qqM299GfxMV7ZJs1_NewK30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
 
