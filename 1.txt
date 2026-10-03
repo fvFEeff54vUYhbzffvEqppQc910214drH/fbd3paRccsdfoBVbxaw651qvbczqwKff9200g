@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40FreakConfig
-
-vless://ba8f75b9-c876-428d-a6ab-b88eb037d14d@95.182.93.25:18570?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&fp=chrome&spx=%2F55ee6311735fe50&type=xhttp&sni=www.sony.hr&sid=27f776b4e5a093#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40FreakConfig
-
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@se.novarairam.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=cDuARQPoMfEIeIUxAPJMbACKsG3knXN2ovWiDQGWEhE&sid=645868f57304040b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@dk.novarairam.ir:8880?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=b8404ntvN41a4-2x8Bf4dr_1uoDQs_wNKRC2_Jx7BR4&sid=fe1c8989777ba056#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -99,4 +95,8 @@ vless://4e3ba5d7-377c-4199-8c18-00e36ff036ff@185.53.209.67:443?security=reality&
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-nick.failspace.top:443?type=tcp&security=tls&sni=at-nick.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40LonUp_M
 
 vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-1-832.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-1-832.mirra.now&security=tls&fp=firefox&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=random&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sid=65149fc5ba&spx=%2FEL8OY1VX47km1uf&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@mori-md.failspace.top:443?type=tcp&security=tls&sni=mori-md.failspace.top&fp=safari&alpn=h2&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%A9%20TCP-TLS%20%7C%20%40LonUp_M
 
