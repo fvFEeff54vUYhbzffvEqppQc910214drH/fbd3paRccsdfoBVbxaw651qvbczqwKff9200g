@@ -13780,3 +13780,5 @@ vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.242.247.44:443?security=reality
 
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
