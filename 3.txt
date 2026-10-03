@@ -13882,3 +13882,5 @@ vless://454431fc-71e2-42b1-b375-5b55dd06666a@78.153.155.149:443?&security=realit
 
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?&security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://23986425-d3a5-5e13-8bab-299745777a8d@69.46.46.231:443?path=%2Fws%2F15&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=srv-d07d84-894931-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=srv-d07d84-894931-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
