@@ -2,3 +2,25 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray1_ng
+
+vless://7907dd24-e3f8-4151-a1b2-2608ac4b322e@b2n.ir:443?mode=auto&path=%2FMeOw&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&insecure=0&host=milan.gorbeh3.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=milan.gorbeh3.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray1_ng
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray1_ng
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
+
+vless://86c0996e-817e-409f-a732-ff9ef94917bd@s3.bamans.uk:443?mode=stream-up&path=%2F3a6b3b038ea34622bd1e13ec5798ab03&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=s3.bamans.uk#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray1_ng
+
+vless://ca29cfd4-6c34-467e-8fac-89f7029353e5@allnet-germany1.gamekim2.com:3000?security=tls&encryption=none&insecure=0&host=marz-subs.gamegh2.ir&headerType=none&type=tcp&allowInsecure=0&sni=marz-subs.gamegh2.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.119.60:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.119.60:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.119.60:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiJzci12aXA3LmFyd2FuZHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliMDg0Mjg3LTY2MTItNDg3Yi1hZGVkLWYxYTcyNGQ5NmYzYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjIwMDUyIiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+
+vless://2fcba93c-bc54-4b63-836b-fca818c561aa@sub.skyshopnet.ir:2087?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.-wbZo9oiH_UQwWnuuh1H2ny2lZa6fBIKc4AWLvQfUhY&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=b42Xubb8eIIqpQWiqtDkuOg7zy6HPUwXl1nXLZQdEVQ&host=panel.skyshopnet.ir&fp=chrome&spx=%2F04cc676d893b000&type=xhttp&sni=www.sony.dk&sid=94#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
