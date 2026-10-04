@@ -16,3 +16,9 @@ vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-2.srv.dvzh.net:443?security=real
 
 vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-1.srv.dvzh.net:443?path=%2Fupload%2Fsession&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=de-1.srv.dvzh.net&fp=firefox&type=ws&allowInsecure=0&sni=de-1.srv.dvzh.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
+trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=1&sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://ca29cfd4-6c34-467e-8fac-89f7029353e5@allnet-germany1.gamekim2.com:3000?security=tls&encryption=none&insecure=0&host=mrz-allnet-aaxc.gamekim1.com&headerType=none&type=tcp&allowInsecure=0&sni=mrz-allnet-aaxc.gamekim1.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40UnlimitConfig
+
