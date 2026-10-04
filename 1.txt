@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.235.166:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40manVPN
+
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
+
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.amazon.com&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.apple.com&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910&headertype=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40DeamNet_proxy
@@ -36,9 +40,13 @@ vless://b36563cc-ac26-42f2-99b2-0ceaa7647342@p2real5.greewebservices.ir:1350?enc
 
 vless://b36563cc-ac26-42f2-99b2-0ceaa7647342@p2tun0.greewebservices.ir:28820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&type=xhttp&security=tls&sni=dey.lnmarketplace.net&fp=firefox&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40DeamNet_proxy
+vless://83021686-64bf-4a68-9fba-1f8addb07e18@151.101.1.194:80?path=%2F&security=&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Capoit
 
-vless://e3fa9dbe-d9da-4ceb-922b-4bdd606f15bf@91.107.173.154:24443?encryption=none&security=reality&sni=www.hetzner.com&fp=chrome&pbk=ONXkR_4NBawKFk_O-_tfrl5NkGwKwiH4N0_9yvSjZj0&sid=4e838508835b3fb4&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+vless://83021686-64bf-4a68-9fba-1f8addb07e18@151.101.65.57:80?path=%2F&security=&encryption=none&host=simorghtrr.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Capoit
+
+trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecure=1&alpn=h2&type=grpc&serviceName=grpcbeast#%F0%9F%87%A8%F0%9F%87%BF%20GRPC-None%20%7C%20%40v2nodes
+
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
 
 trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
 
@@ -91,12 +99,4 @@ trojan://U%26RdRdcsoeB%3BVU9.IO@172.67.167.173:8443?type=ws&security=tls&sni=Te0
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?encryption=none&type=ws&security=tls&sni=bab-6.site&fp=chrome&host=bab-6.site&path=%2Fvws%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=pkg.go.dev&fp=chrome&pbk=RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s&sid=457ae5b8bef4d1b3&headertype=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40DeamNet_proxy
-
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
-
-vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.microsoft.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=73a9e631a09b&headertype=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40DeamNet_proxy
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQERlYW1OZXRfcHJveHkiLCJhZGQiOiIxNjcuODguNjMuNTkiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&type=grpc&security=reality&sni=bg2.univesalsrv.com&fp=firefox&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&serviceName=api.v2.PushService&mode=gun#%F0%9F%87%A7%F0%9F%87%AC%20GRPC-Reality%20%7C%20%40DeamNet_proxy
 
