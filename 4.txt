@@ -20,3 +20,15 @@ vless://Mar@69.46.46.70:443?path=%2Fws%2FMar&security=tls&alpn=http%2F1.1&encryp
 
 vless://Mar@69.46.46.81:443?path=%2Fws%2FMar&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cloud-61ce61-905652-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cloud-61ce61-905652-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@nice.iranapplecenter.com:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiJtaHplZGlyLnF6ei5pbyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjdmODRiMWVmLWI4MDQtNGQ1MC05MDc5LTE3MTgzYmY0NjE3MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDU4NCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1UTFMgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJtaHplZGlyLnF6ei5pbyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+vless://81ac00c6-dfba-4bd4-9729-cb3defb15bb8@sub.skyshopnet.ir:443?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2F9bfb58c9fa22201&type=xhttp&sni=www.sony.com.mx&sid=7bc1b614#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://81ac00c6-dfba-4bd4-9729-cb3defb15bb8@sub.skyshopnet.ir:80?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.LkWPSIfsDWtJMYMInME1hyNGJ4fA6qT9qPshjgYrT3c&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hWQNka_B_4CBdrU608qJ0ukLPsxVoR9pCBnmy35EGX0&host=panel.skyshopnet.ir&fp=chrome&spx=%2F0c6387055c49b4f&type=xhttp&sni=www.gpuopen.com&sid=40be0a1893bc95#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://df9f5aca-eda0-428f-a752-e53866153d12@89.185.81.95:8765?security=reality&encryption=none&pbk=Da_s-Cgqm5kqaIbCgXVJdrq_KF7fCQveRByRhKUzonc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=r-b8a34c.vless.monster&sid=7bf47eabf939728b#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c916acaa-c87e-4c18-b8b6-5b2966cdb52a@147.125.185.1:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dd86f.lecomain.com&fp=safari&pbk=9DRoNAXYVYthauhy5V8ydH1kgFXAExg0uKBK-iRXwwc&sid=536b9798&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40UnlimitConfig
+
