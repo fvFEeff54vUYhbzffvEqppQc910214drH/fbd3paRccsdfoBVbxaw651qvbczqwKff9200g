@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.228:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.126:9892?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.187:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?security=none&%3Bencryption=none&%3Bhost=&%3BheaderType=none&%3Btype=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
@@ -90,9 +84,13 @@ vless://97ea212a-280c-4b4d-bf57-48f58738f55e@media.qeshmdiar.ir:8086?encryption=
 
 vless://d9090ce9-388b-45b9-9e84-64eac5522b8a@179.198.49.84:47000?security=reality&encryption=none&pbk=EJrtmRT2Acb9nNj8Yc-nfPxRprxkF52zpDcnmJ0qNS0&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=96bb9775a5#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.228:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
+
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.187:62145?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.197.109:62145?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.187:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.228:62145?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40UnlimitConfig
 
@@ -1853,6 +1851,8 @@ vless://%58pnTeam-64@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&en
 vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mehrosaboran
 
 vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@rf947dce8bedbf38c.salzivo.ir:80?security=&encryption=mlkem768x25519plus.native.0rtt._BGNNTwB8gF9F2xXOSLqzOuscTUEpG1TwlKMdNSpmg8&host=support-shield.nvidia.it&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.126:9892?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?encryption=none&type=grpc&security=reality&sni=rs1.univesalsrv.com&fp=chrome&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&authority=%2FV2rayBaaz&serviceName=node.v2.ObjectService&mode=gun#%F0%9F%87%B7%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40DeamNet_proxy
 
@@ -3947,4 +3947,6 @@ vless://19513b1b-d29a-4f3e-ba9a-888261e4e048@45.131.212.231:443?security=reality
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@132.243.231.4:443?security=reality&encryption=none&pbk=zWDvtTWK-cWWwHDMHMXcOpQy4k3EKp7yw-5e0wTZAUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-se1.cloud-cdn.xyz&sid=5efa80b939612291#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 trojan://jqc8qbvdoh8nklk8@206.1.100.62:8080?security=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.109.35:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
