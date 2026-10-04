@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://df73212d-0481-4528-89eb-6aa322d05e50@85.133.247.103:38495?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://MdVpnSec@91.99.199.145:443?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://3b0637f3-916e-470c-aa32-2e2b2b0de1b9@151.101.215.120:443?alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&host=ovd13.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
@@ -21,6 +25,8 @@ vless://2782d0d7-9b73-46f0-ae68-01a4942d8177@104.234.138.246:2083?encryption=non
 trojan://mitivpn@167.82.76.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://mitivpn@167.82.76.27:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
 trojan://mitivpn@167.82.76.27:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_official
 
@@ -93,10 +99,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.103.48:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.103.48:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.103.48:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
-
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
-
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http%2F1.1&encryption=none&fp=chrome&host=&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&sni=&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.21.35.244:2083?security=tls&sni=Site.check-looks.space&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
