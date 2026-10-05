@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://39a4fc8e-1991-45dc-9a70-89169df89ec9@91.107.249.200:9090?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://9804f109-f750-4dec-9c3a-091982320501@91.107.244.192:9090?security=none&encryption=mlkem768x25519plus.native.0rtt.bq1M9Mo7StSetydCuYnVBzGMeKNBRamRZfzcZEiulEY&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@104.21.63.20:443?encryption=mlkem768x25519plus.native.0rtt.w1I7CbDjtUEuIIfxyGWH6dGP1c12r0D4CQaXPHtQJn8&security=tls&type=ws&headerType=none&path=%2F&host=ggg3.meligoli-fin.com.tr&sni=ggg3.meligoli-fin.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@mci.miligol-pol.com.tr:8443?encryption=mlkem768x25519plus.native.0rtt.7rlBgrwJgxELNLI0N_IPXnnaw5c5TCBwTn3YSzeVkhY&security=tls&type=ws&headerType=none&heartbeatPeriod=30&path=%2F&host=iransw.miligol-pol.com.tr&sni=iransw.miligol-pol.com.tr&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@gi.meligoli-fin.com.tr:443?encryption=mlkem768x25519plus.native.0rtt.w1I7CbDjtUEuIIfxyGWH6dGP1c12r0D4CQaXPHtQJn8&security=tls&type=ws&headerType=none&path=%2F&host=ggg3.meligoli-fin.com.tr&sni=ggg3.meligoli-fin.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://5lz4igth-sjzd-xii3-wj1f-4ggrzxrvhr6a@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://tmquzqr0-xbix-jsjz-jyq5-irga3c0o8oyq@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://15fzxx9e-fzes-50tb-s745-hey3ukspok9k@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTVJ5bzFla2ZKMGV4R25BVmNLZTZn@p2tun3.greewebservices.ir:1030#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
 vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
@@ -21,8 +37,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%
 vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?security=reality&encryption=none&pbk=NJrlB9wz9ctlwMOIK8Jp7Ml25j77QlFOjpha1lEktkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a9acf81b8773e1e#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.61:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls…#None%20TCP-Reality%20%7C%20%40vpnsal
 
 vless://436fa4be-430f-4f59-8d01-8492926b2501@88.99.225.79:46647?security=reality&encryption=none&pbk=QNO9iBFY6Rh0POOWFNtMWd46jagrc6t-gPbA9eqEeUw&headerType=none&fp=chrome&spx=%2Fc9a81d0a0b1a4b8&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=68d3f0df3f577938#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
@@ -113,20 +127,4 @@ vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@188.213.198.25:37003?encryption=mlk
 vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@gir.miligoli.com.tr:8443?encryption=mlkem768x25519plus.native.0rtt.YqCXY6j6C_WtSA9P_xIDZQrOq78YCFWUKbMfP_GIq0o&security=tls&type=ws&headerType=none&path=%2F&host=fr.miligoli.com.tr&sni=fr.miligoli.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@104.21.63.20:8443?encryption=mlkem768x25519plus.native.0rtt.YqCXY6j6C_WtSA9P_xIDZQrOq78YCFWUKbMfP_GIq0o&security=tls&type=ws&headerType=none&path=%2F&host=fr.miligoli.com.tr&sni=fr.miligoli.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://39a4fc8e-1991-45dc-9a70-89169df89ec9@91.107.249.200:9090?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-vless://9804f109-f750-4dec-9c3a-091982320501@91.107.244.192:9090?security=none&encryption=mlkem768x25519plus.native.0rtt.bq1M9Mo7StSetydCuYnVBzGMeKNBRamRZfzcZEiulEY&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@104.21.63.20:443?encryption=mlkem768x25519plus.native.0rtt.w1I7CbDjtUEuIIfxyGWH6dGP1c12r0D4CQaXPHtQJn8&security=tls&type=ws&headerType=none&path=%2F&host=ggg3.meligoli-fin.com.tr&sni=ggg3.meligoli-fin.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@mci.miligol-pol.com.tr:8443?encryption=mlkem768x25519plus.native.0rtt.7rlBgrwJgxELNLI0N_IPXnnaw5c5TCBwTn3YSzeVkhY&security=tls&type=ws&headerType=none&heartbeatPeriod=30&path=%2F&host=iransw.miligol-pol.com.tr&sni=iransw.miligol-pol.com.tr&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@gi.meligoli-fin.com.tr:443?encryption=mlkem768x25519plus.native.0rtt.w1I7CbDjtUEuIIfxyGWH6dGP1c12r0D4CQaXPHtQJn8&security=tls&type=ws&headerType=none&path=%2F&host=ggg3.meligoli-fin.com.tr&sni=ggg3.meligoli-fin.com.tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://5lz4igth-sjzd-xii3-wj1f-4ggrzxrvhr6a@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://tmquzqr0-xbix-jsjz-jyq5-irga3c0o8oyq@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://15fzxx9e-fzes-50tb-s745-hey3ukspok9k@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
