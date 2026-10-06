@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@195.19.166.71:443?sid=ee911749edaad12c&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&headerType=none&type=tcp&encryption=none&sni=viva.keeneticdocs.ru&security=reality&fp=firefox&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?flow=xtls-rprx-vision&sni=nl2.reddotcorp.org&headerType=none&encryption=none&sid=1be482b8e08aa0ef&type=tcp&security=reality&fp=safari&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?security=none&encryption=none&host=stigmata.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40UnlimitConfig
 
 vless://6b5d6852-0b29-4fb7-afa3-8904638bc1b5@188.213.198.25:5456?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.lmTuJzP_UcH5ThrWl5pCFPVsehutrNnyTRDVbSUP7mo&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
@@ -139,6 +133,8 @@ vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?security=real
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray1_ng
 
 vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy888.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy888.iiproxy.com&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&host=iiproxy888.iiproxy.com&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@195.19.166.71:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=viva.keeneticdocs.ru&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.71.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=-u9DSQ5RMebplY_ti-Vy4BJP9dEoQ1lTOvjoxK8CqS4&sid=10358810&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
@@ -359,6 +355,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryp
 vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&fp=chrome&type=xhttp&mode=auto&path=%2FMeh%3Fdi#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40orange_vpns
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#%F0%9F%8C%90%20WS-None%20%7C%20%40orange_vpns
+
+vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?security=reality&encryption=none&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.reddotcorp.org&sid=1be482b8e08aa0ef#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40orange_vpns
 
 vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@45.66.162.82:443?security=reality&encryption=none&pbk=PAWRAe-0-jggLpRHVSL2ModH3fJq6LP1emUeopncJU4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.networksuite.cloud&sid=20a29d0e0817696b#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -3821,4 +3819,12 @@ vless://d79e5263-aae8-4de4-a235-3edf9e3aa330@199.232.78.133:443?vcn=www.speedtes
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YlF1Q1U1L0k4cmhkY0R6R3B1OWlkZFpxM3lqeTlwek5wZXJSZkdGeHJVcz06QlhWNGRGQlR0b3ZBSEY4aHE3a24wbVlhMERBNTVKWnNucHJCemVUakdBUT0@31.57.185.180:24693#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aFBnSVpGM0RTZHZSMXVHUGhab2hCdz09Okx6dmc3bnVHRE9JcXNvNjg1NTNlTlE9PQ@usina.color-shop.ir:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://vmae3g17-ugna-x4t1-93ur-jdnxctu92or3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://3n3uoaty-mxu9-ue2i-euk8-1qocwtldtlz7@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://4oal7oo6-ba74-xyv4-f5fe-9jn00h2m7fyl@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.36.178.160:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
