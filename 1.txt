@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206ZkJ0SWJIV0M5bkxBRWREVXlrMnRzR2lWekd3R1FZZ1g@holl2.noirex.ir:8404?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_freex
-
-ss://YWVzLTI1Ni1nY206ZkJ0SWJIV0M5bkxBRWREVXlrMnRzR2lWekd3R1FZZ1g@nether2.noirex.ir:8403?type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_freex
-
 ss://YWVzLTI1Ni1nY206ZkJ0SWJIV0M5bkxBRWREVXlrMnRzR2lWekd3R1FZZ1g@fin3.noirex.ir:8401?type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_freex
 
 ss://YWVzLTI1Ni1nY206ZkJ0SWJIV0M5bkxBRWREVXlrMnRzR2lWekd3R1FZZ1g@fin3.noirex.ir:8400?type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_freex
@@ -78,6 +74,12 @@ vless://304ce976-6acf-45e0-8e9c-c776beed2bba@tun-2.appii.ir:8023?security=realit
 
 vless://304ce976-6acf-45e0-8e9c-c776beed2bba@fastly2.videobazi.com:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=tv21.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
 
+vless://65f00119-a3c9-4d7a-8113-2d3276fe4116@104.19.4.176:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mb.motdrp.dpdns.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=mb.motdrp.dpdns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
+
+vless://6132cead-8cdb-495c-a286-0b019ea33026@ir.raexa.ir:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=o00_7BsGDMrBx7oQxq15hYd1rhnyMsmj1d5VtQhXLHo&fp=chrome&type=xhttp&sni=www.aparat.com&sid=af41267c3f2fccda#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://a6b0de33-c8be-4c7a-a3ca-1ec69bf7c626@auz.felfelsazan.ir:4431/?type=ws&encryption=none&path=%2F&host=auz.felfelsazan.ir&security=tls&fp=chrome&alpn=h2%2Ch3&sni=auz.felfelsazan.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://6b342fc8-ab13-4777-b97a-28c0b88d26fd@87.107.169.115:3143?security=reality&encryption=none&pbk=vV-2PCr-5vRmTKEYAMpJtbLLQ2RVlxlYrhb48e_2viE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e9ace586b5e2d038#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40bored_vpn
@@ -97,6 +99,4 @@ vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@163.245.52.91:443?encryption=none&f
 vless://a739237f-b79e-46a2-bb82-4f3667d9570c@sub.skyshopnet.ir:443?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2Fd42073e345f0bcc&type=xhttp&sni=www.sony-africa.com&sid=478c35fe20793152#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.200.68:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.200.68:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
