@@ -4,3 +4,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%8
 
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40manVPN
 
+trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@179.254.80.36:8443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=flf.serverstats.ru#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=7dae9c0cs220.gogocs.xyz&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u7dae9c0cs220.gogocs.xyz#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@ru.federal-usa.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@82.163.7.43:7443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=node18.overcdn.ru#%F0%9F%87%A8%F0%9F%87%AD%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://045dea0e-b802-42e8-aeb8-b8049e15aea0@213.182.213.31:8080?security=reality&encryption=mlkem768x25519plus.xorpub.0rtt.vDpDg_mSJL2mljs50slksTOWjsRFX8fDYSNINLSZmlk&pbk=qEdNLEE3XO_XAo8m_u7ft-tKxTG5fV0bb9h1laYafng&headerType=http&fp=chrome&spx=%2F994766cd5648fa0&type=tcp&sni=search.google.com&sid=f410#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206YXZRNmhMVGZ4cGR4THQ2al9wWlRXakUtbjNVeXNaXzE=@deeco1.routenode.online:8090#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
