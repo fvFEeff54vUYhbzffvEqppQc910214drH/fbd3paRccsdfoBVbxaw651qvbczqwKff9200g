@@ -4688,3 +4688,13 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&e
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40i10VPN
 
+vless://4879655a-bd1c-44d7-a7d8-0207f19a823f@010uk.nimhub.ir:1024?security=none&type=xhttp&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D&path=%2F&encryption=mlkem768x25519plus.native.0rtt.EDtyRxeL3JTbtKk2D89oTFHnAhqXVD3Y_GYYDh7C_xo&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
+
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@31.56.187.208:34451?path=%2FShamanXHTTP2026&security=tls&encryption=none&insecure=0&host=ee-2e06d85dc0.shamanapp.online&fp=firefox&type=xhttp&allowInsecure=0&sni=ee-2e06d85dc0.shamanapp.online#%F0%9F%87%AA%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgSFRUUFVwZ3JhZGUtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
