@@ -4802,3 +4802,5 @@ vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443?path=%2F%3FTELEG
 
 trojan://mitivpn@199.232.78.160:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=141.98.7.193#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
+
