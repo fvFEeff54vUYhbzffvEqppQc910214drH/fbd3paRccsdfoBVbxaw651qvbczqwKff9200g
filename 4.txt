@@ -32,3 +32,11 @@ vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.74:443?encryption=none&flow
 
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.100:8443/?insecure=1&sni=grape-test-italy.dynuddns.net#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
 
+vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?encryption=auto&host=151.243.173.119&path=%2Fvmess-ws&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40oneclickvpnkeys
+
+vless://9804f109-f750-4dec-9c3a-091982320501@91.107.249.185:6065?encryption=mlkem768x25519plus.native.0rtt.bq1M9Mo7StSetydCuYnVBzGMeKNBRamRZfzcZEiulEY&headerType=http&host=testspeed-foreign.tci.ir&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
+
+vless://afd1fb0c-7c51-4c4c-a1ed-07e8493030d2@65.109.176.245:2023?encryption=none&headerType=http&host=testspeed-foreign.tci.ir&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
+
+vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
+
