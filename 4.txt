@@ -10,3 +10,25 @@ vless://eac04622-531b-0002-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=rea
 
 vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun01.greewebservices.ir:38830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4f&allowInsecure=1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.mobocomcloud.ir:443?encryption=none&security=tls&sni=www.mobocomcloud.ir&fp=chrome&alpn=http%2F1.1&ech=www.mobocomcloud.ir%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2FMoboCloud%2FOTA%2FGermany#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@comoiran.ir:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=comoiran.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.comoiran.ir:443?encryption=none&security=tls&sni=www.comoiran.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=www.comoiran.ir&path=%2Fapi%2Fv1%2Fflights%2Fdest-de%2Fprice-stream#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@cdn-serverdl3.kgo.info:443?encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ttdwtFfULlEfv_Y29gODrXqh0CarKTldMtmD3sdA4XA&security=tls&sni=cdn-serverdl3.kgo.info&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=www.tgju.org%2Budp%3A%2F%2F8.8.8.8&type=xhttp&path=%2FDownload%2FServer%2FRoute-32001%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingKey%22%3A%22_File%22%2C%22xPaddingHeader%22%3A%22Download%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@cdn-serverdl2.kgo.info:443?encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ttdwtFfULlEfv_Y29gODrXqh0CarKTldMtmD3sdA4XA&security=tls&sni=cdn-serverdl2.kgo.info&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=www.tgju.org%2Budp%3A%2F%2F8.8.8.8&type=xhttp&path=%2FDownload%2FServer%2FRoute-32001%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingKey%22%3A%22_File%22%2C%22xPaddingHeader%22%3A%22Download%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@cdn-serverdl6.kgo.info:443?encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ttdwtFfULlEfv_Y29gODrXqh0CarKTldMtmD3sdA4XA&security=tls&sni=cdn-serverdl6.kgo.info&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=www.tgju.org%2Budp%3A%2F%2F8.8.8.8&type=xhttp&path=%2FDownload%2FServer%2FRoute-32001%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingKey%22%3A%22_File%22%2C%22xPaddingHeader%22%3A%22Download%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
+vless://eac04622-531b-0009-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://eac04622-531b-000d-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://eac04622-531b-0007-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://eac04622-531b-0002-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
