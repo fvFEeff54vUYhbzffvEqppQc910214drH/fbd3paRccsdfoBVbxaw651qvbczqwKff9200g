@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://mitivpn@151.101.38.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn--vip.global.ssl.fastly.net&sni=jjl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://mitivpn@199.232.78.160:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-2--vip.global.ssl.fastly.net&sni=mitivpn.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.137:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcde#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=ssl-mitivpn.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn-4--vip.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -979,6 +975,8 @@ trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?insecure=0&security=tls&headerType=none&type=tcp&encryption=none&sni=141.98.7.193&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
 
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?headerType=none&security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
+trojan://mitivpn@199.232.78.160:443?type=ws&allowInsecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&security=tls&alpn=http%2F1.1&sni=mitivpn.fastly.com&insecure=0&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
@@ -4823,4 +4821,8 @@ vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.98.215:8880?security=none&ty
 vless://0783c6fc-16a8-46ff-a408-a099d2f6f3ac@hz-online-balancer.nyxenpro.ir:2080?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=www.yahoo.com&fp=edge&pbk=A2-_TVXJkWh9CZ7aD4NT9CsfAalIAn9r3BYXNJ3vhlc&sid=6ee75d75c8607846#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@104.18.36.122:8880?security=none&type=ws&path=/&host=sweet-truth-ccdb.134-7e9.workers.dev&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
+
+vless://a95c18d0-1b39-4bc7-8521-b62b5ab3f3f7@fun.zovip2.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=toping.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=toping.zovip2.ir#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://xT_9eHKNiZh2sgedtMvCBA@ws1.poee.ir:8443?security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40UnlimitConfig
 
