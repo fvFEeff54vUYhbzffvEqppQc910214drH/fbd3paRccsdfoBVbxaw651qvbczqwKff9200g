@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.181:9443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static.vkimages.io&sid=2f49bccf11150ef2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://ea85694a-67f1-47ca-b2d7-1fc0a8138fa1@146.75.59.186:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=loogggaboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Axontriol.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
-
 vless://ea85694a-67f1-47ca-b2d7-1fc0a8138fa1@199.232.78.159:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=az_man-eski_naro_Pesar_jOon.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Axonsstriol.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://44bd6953-bb51-422d-bc44-d38ce005bb6e@65.109.215.173:2091?security=none&encryption=mlkem768x25519plus.native.0rtt.KWut9-MlmP77D3iHyRedEYXjtaAhlMfm3UHzqqQwnh4&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40LonUp_M
@@ -102,18 +98,6 @@ trojan://zbsn168r-tibx-ej8d-d7d7-l1td47u5ohqv@127.0.0.1:4080?security=tls&type=t
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBST05JTlZQTjEiLCJhZGQiOiJta2gzLmJsYW5rdS5tZSIsInBvcnQiOjQ0MywiaWQiOiIyNDVlN2MyMy0wMDU3LTQ3YTQtZjJmMC0wNzc3MmUzMzM4ZmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJmcmVlc2VydmljZS5ibGFua3UubWUiLCJwYXRoIjoiL3dzczI2MjY4P2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmcmVlc2VydmljZS5ibGFua3UubWUifQ==
 
-vless://eb3168be-aa17-45f0-a41f-1e9c035f6f44@104.20.32.111:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&sni=app.bitzynet.xyz&mode=auto&path=%2Fpath&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22seqPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22sessionIDLength%22%3A%226-16%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%2C%22sessionPlacement%22%3A%22header%22%2C%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&insecure=0&host=app.bitzynet.xyz&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
-
-vless://eb3168be-aa17-45f0-a41f-1e9c035f6f44@172.64.148.162:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&sni=app.bitzynet.xyz&mode=auto&path=%2Fpath&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22seqPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22sessionIDLength%22%3A%226-16%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%2C%22sessionPlacement%22%3A%22header%22%2C%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&insecure=0&host=app.bitzynet.xyz&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWcyZ2szWlB3ejZYTUdOOUFHeTh4R0tIanU5dENZMg@Eygelshoven-NL.mrapanel.shop:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
-
-vless://e9f0d84f-8cd7-446c-b0ac-a5791615f90e@Pl.zelnora.ir:8880?encryption=mlkem768x25519plus.native.0rtt.NmNUzjF_sxUbeW1OSngrq9VeZBdC8TQOH2WelxMTjEw&security=none&type=xhttp&headerType=none&path=%2F&host=Pl.zelnora.ir&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://1ce0eed7-d193-4d30-a444-2df70f09e4d7@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://1ce0eed7-d193-4d30-a444-2df70f09e4d7@dns6.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://e9f0d84f-8cd7-446c-b0ac-a5791615f90e@NlS3.zelnora.ir:8443?mode=auto&path=%2F&security=none&encryption=none&host=NlS3.zelnora.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
@@ -191,4 +175,8 @@ vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.128:443?security=reality&
 vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.234:443?security=reality&encryption=none&pbk=cS56IG5_BBEWAaHtdgWR60KNp3JQI_ngA90zpL-ayGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xazs.puffixhosting.com&sid=8a13fef0be67eb1e#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.64:443?security=reality&encryption=none&pbk=HJDY6_qs1vZY2c7ExBa2ai4W2OwwD0EUDCUMIdzT9VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fish.puffixhosting.com&sid=282a48e3b803fb2f#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.181:9443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static.vkimages.io&sid=2f49bccf11150ef2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://ea85694a-67f1-47ca-b2d7-1fc0a8138fa1@146.75.59.186:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=loogggaboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Axontriol.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
