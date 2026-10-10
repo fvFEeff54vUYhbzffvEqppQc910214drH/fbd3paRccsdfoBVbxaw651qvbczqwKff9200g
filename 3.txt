@@ -4436,3 +4436,5 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=
 
 vless://88aefb0c-cdbf-489f-9e6b-9be5b5fd5a11@13.143.172.203:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=13.143.172.203#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
 
+trojan://c73bb1ef-2676-442d-99c3-7473a351c236@thugicd.thugiping.com:443?security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=thugiping.thugiping.com#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40UnlimitConfig
+
