@@ -6,3 +6,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?security=none&t
 
 vless://8d790ba0-5407-441b-b545-8ab369c591ce@150.251.141.90:443?security=reality&encryption=none&pbk=2f_7ERsv1xlrHryC9Fmaw5D8_Dgo3B5pP0OMctsCngs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=n1.coconutsvpn.com&sid=3b3afe877e7dec9b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://5ea90a32-909e-45d2-8525-7e19c0f9d854@146.75.57.111:443?encryption=none&security=tls&sni=play.google.com&fp=chrome&alpn=h2&vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&host=enxelfona.global.ssl.fastly.net&path=%2Ffast&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
+
