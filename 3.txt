@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8f502ed8-e703-4678-b5d8-885260dda802@153.76.185.114:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40chillguy_vpn
-
-vless://d7da7571-6be4-4d8d-9272-35a53b3b9de2@de5phvgxbfi001fdwvijtyjcwxdw7bzu7.fanavarancenter24.ir:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=dex5phvgxbfi001fdwvijtyjcwxdw7bzu7.fanavarancenter24.ir#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40UnlimitConfig
-
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://8f502ed8-e703-4678-b5d8-885260dda802@153.76.185.114:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%F0%9F%87%A8%F0%9F%87%BF%20GRPC-None%20%7C%20%40LonUp_M
@@ -463,6 +459,8 @@ vless://df5dc160-3764-4e6b-805d-1286ea701310@www.iplocation.net:8880?type=ws&hos
 vless://30a88c40-581e-4952-aa4c-8af95686ede0@rapid-lab-95ef.173-74c.workers.dev:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
 
 vless://d7da7571-6be4-4d8d-9272-35a53b3b9de2@de1n7335e761sttkq0z0ohxj03vcjruyu.fanavarancenter24.ir:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=dex1n7335e761sttkq0z0ohxj03vcjruyu.fanavarancenter24.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40FreakConfig
+
+vless://d7da7571-6be4-4d8d-9272-35a53b3b9de2@de5phvgxbfi001fdwvijtyjcwxdw7bzu7.fanavarancenter24.ir:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=dex5phvgxbfi001fdwvijtyjcwxdw7bzu7.fanavarancenter24.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40FreakConfig
 
 vless://1d943027-46ec-40ad-9d98-db8d29439d60@cdn.foxxxy.online:443?mode=packet-up&path=%2Fcdn-assets%2F140b64d243b88b8aaaa0cf651c6979bf&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22x_data%22%2C%22xPaddingHeader%22%3A%22X-Request-Token%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkChunkSize%22%3A1024%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22query%22%2C%22scMaxEachPostBytes%22%3A4096%2C%22uplinkDataPlacement%22%3A%22cookie%22%2C%22scMinPostsIntervalMs%22%3A10%7D&insecure=0&host=cdn.foxxxy.online&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.foxxxy.online#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40FreakConfig
 
@@ -4381,4 +4379,6 @@ vless://bffafdda-4515-41f3-8744-82a94de32c6f@senfi.animereze.site:1443?mode=gun&
 vless://1bda2ae7-b597-4704-95a8-29c0f76324ba@de.vmagnum.win:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=api-v3-1bda2ae7.vmagnum.win#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40UnlimitConfig
 
 vless://51d039b4-6232-43fa-9161-46748776317c@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pannn1.global.ssl.fastly.net&sni=google.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://5abd299c-59e8-46e1-98ec-fec6ea20bec3@199.232.78.159:443?path=%&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
 
