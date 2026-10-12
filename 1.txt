@@ -24,6 +24,10 @@ vless://c519b048-576f-4dc4-bf1d-357e20d9b527@104.19.138.1:443?path=%2F%3FTelegra
 
 vless://c519b048-576f-4dc4-bf1d-357e20d9b527@cayosh.fastshot.net:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cayosh.fastshot.net&fp=chrome&type=ws&allowInsecure=0&sni=cayosh.fastshot.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://5abd299c-59e8-46e1-98ec-fec6ea20bec3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---mehrosaboran&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://2036e83f-9e61-49e3-a619-048014579ab3@tamiiiiz.aryan-sport.ir:2095?path=%2F&security=none&encryption=none&host=dr.aryan-sport.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40NormanConfig
+
 hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@157.22.240.206:28152?security=tls&alpn=h3&insecure=0&sni=alb1337.zaebalsanoproxyklinus.lol#%F0%9F%87%A6%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
@@ -95,8 +99,4 @@ vless://6338c01a-310e-42c3-bf4f-2a20e161054b@freede.aiage.work:443?security=real
 vless://dd437937-bc8a-4122-9b69-eefcaf94a7e6@4eeb7e9ddfb7df2b.luxob.savfuma.ir:60403?encryption=none&security=reality&sni=adsterra.com&fp=chrome&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&sid=01b26296a225953b&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://e7548825-01c7-404d-a7c0-4d0df6331656@188.114.97.6:2083?encryption=none&security=tls&sni=cdnnet.nidu.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&host=cdnnet.nidu.ir&path=%2Fsssa&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@153.76.161.58:2096?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=random&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
-
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40DeamNet_proxy
 
