@@ -5238,3 +5238,21 @@ vless://517736fa-17b6-4fc5-a77a-43627e3f526b@199.232.78.159:443?path=%2F&securit
 
 vless://517736fa-17b6-4fc5-a77a-43627e3f526b@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pannn1.global.ssl.fastly.net&sni=google.com&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://741ba434-b9d0-40fe-bc09-5a9d4e981691@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://71b753e5-e086-4f30-b131-d36b75ba6918@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://bf65eee6-634c-4b6b-8d26-d8ab3547ff9f@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://4af24487-4963-407d-8044-727efaa4446c@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://86c0996e-817e-409f-a732-ff9ef94917bd@172.67.195.196:443?security=tls&sni=s3.bamans.uk&type=http&host=s3.bamans.uk&path=%2F3a6b3b038ea34622bd1e13ec5798ab03&alpn=h2#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://ec3acb5f-38f3-4374-b91b-36f41b8a414a@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiI4OC4xOTguOTEuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNkMTQ0NDVhLWEzMGEtNDk3My1iNjhhLTA0MzdhOTM3OWIyYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgVENQLU5vbmUgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://02a6e480-81d8-40b7-95d4-de59081337c4@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://ae8aa74e-e344-45e6-a87a-04b8b9349a5d@176.108.242.15:1505?mode=gun&security=reality&encryption=none&pbk=5nRL3eh_pQWHdej0It-V9mOapVLSi4PgkgjG9iqhpSw&fp=qq&spx=%2F&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=a5bd715862513387#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40LonUp_M
+
