@@ -20,3 +20,27 @@ vless://c30f6d7a-fcec-489c-9a60-3c872bff991c@p1tun0.greewebservices.ir:38820?sec
 
 vless://dfc3077e-b013-4fcb-a500-df3e210e88b0@193.233.130.118:14430?sni=193.233.130.118&type=ws&headerType=none&host=193.233.130.118&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.154.209:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.154.209:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.154.209:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40PrivateVPNs
+
+vmess://eyJhZGQiOiIxODguMTIxLjEyMC44NiIsImlkIjoiYjA0YmEzMWItMGY3OS00ZTlhLWI5NWUtY2JhYzkwODI0NzVhIiwibmV0IjoidGNwIiwicG9ydCI6MTEzNTgsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@play.paner-145.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play.paner-145.online#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2_mod_shop
+
+vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2_mod_shop
+
+vless://f37f88ef-c57e-00f6-9b16-659ff67530b7@193.29.225.83:10443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40v2_mod_shop
+
+vless://e2236167-aff5-4539-b6c2-c234634ca807@easipingop1.up.railway.app:443?path=%2Fcdn%2F090fd6e1-7371-41a4-b22e-a95c84ced63d%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=easipingop1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=easipingop1.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://bbee1819-eb73-4e6b-9ae2-731ce71af50b@h1.my-gaming.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=www.goo.gl&security=reality&fp=firefox&sni=fiber.google.com&pbk=cK_94OUHUIlKj8H6bzCYhcuB7T3MGj0DtmYgWVaBpTU&sid=1c458fbab491d849#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://Trojan@82164024@jp.tronsg.com:443?security=tls&%3Binsecure=0&%3BheaderType=none&%3Btype=tcp&%3BallowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40UnlimitConfig
+
