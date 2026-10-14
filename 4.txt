@@ -28,3 +28,21 @@ vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?security=reality&s
 
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
 
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?security=tls&sni=hk1.sanfen001.pics#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY20677+977+9Ww@162.159.38.119:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://humanity@144.31.205.106:443?security=tls&sni=www.volumeroot.com&type=ws&path=/assignment&Host=www.volumeroot.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.50:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=random&alpn=http/1.1&type=ws&path=/vless-ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?security=tls&sni=cuddly-sheepdog.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-2.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-2.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://0aea8614-26c7-474d-aac9-a1c0b1b751ff@188.114.97.6:2083?mode=auto&path=%2Fsssa&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdnnet.nidu.ir&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&allowInsecure=0&sni=cdnnet.nidu.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
