@@ -6,3 +6,5 @@ trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-s1.glob
 
 trojan://mitivpn@167.82.64.46:443?path=%2F---%40V2ray_AM---%40V2ray_AM%2F---%40V2ray_AM---%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=play.google.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?alpn=h2%2Ch3&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=fi.quic.best&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40UnlimitConfig
+
