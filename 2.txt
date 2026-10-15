@@ -224,29 +224,9 @@ vless://6b042879-f382-46ce-8965-866186eb7e33@216.234.140.15:47832?security=reali
 
 vless://64c05afc-ce81-4ba0-b697-afa04da1427e@198.23.169.170:443?security=reality&encryption=none&pbk=FOl1qibUWpTggolWp30DD7VQ9_xKHZPEPVQs0sQs3gI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&sid=2128e27b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?encryption=none&type=ws&security=tls&sni=nl5.hap-plus.ru&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fv1%2Fevents&host=nl5.hap-plus.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
+vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.ie&sid=85cd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://5739bb35-2806-4d45-81e2-186e96d7e10b@15cfc1ed4b3a8f65.tunvi.w-ert.org:451?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
-
-vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-vless://aff31950-093e-49e7-9646-63a8dcb7182d@104.143.219.174:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40LonUp_M
-
-trojan://humanity@57.128.183.108:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://humanity@95.85.32.57:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://humanity@46.101.143.59:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://humanity@168.235.125.93:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://humanity@146.185.141.92:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
-
-trojan://humanity@151.236.14.87:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-1.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-1.ardesnode.ru&sid=9ea74b83f4993ca9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://af3a7e12-989a-454c-fcae-d00fd50c5237@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2056%3F%2FTELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40JKVPN
 
