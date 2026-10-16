@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://pebkcrnu-enef-p9rn-6p0n-xi2vvaxn6a8s@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://ceccjx8r-fyaj-ljwx-nifr-e93nq9s2aied@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?type=xhttp&security=reality&path=/@custom_config&sni=yahoo.com&fp=chrome&pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&sid=4b272f845593#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
+
+vless://3ed41dfc-0d38-4379-a470-c815673dc504@pubsub.m2ip-video.cloud:8443?type=tcp&security=reality&sni=peplow-labs.info&fp=firefox&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
 trojan://medlxbl8-hgpn-6zxi-96sy-03f1zcs2dfxo@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -78,8 +86,6 @@ vless://c14eee11-379a-4982-81f6-660d21810734@66.33.22.245:40768?encryption=none&
 
 vless://10be16ce-f009-4be0-acfb-5040359f0aaf@69.46.46.113:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=node-production-8cf3.up.railway.app&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
 
 vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
@@ -93,10 +99,4 @@ vless://50414e45-4c5f-5a45-5553-6f51879c0594@one-for-all.levikogjgfdd.ir:2053?en
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://116956de-332b-4c0a-9503-1fec7b16060e@199.232.78.128:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shabakefilmnet.fun&fp=chrome&type=xhttp&sni=api.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
-
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGFAMTc2LjMyLjMyLjEwODoxODQ0Mw==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
