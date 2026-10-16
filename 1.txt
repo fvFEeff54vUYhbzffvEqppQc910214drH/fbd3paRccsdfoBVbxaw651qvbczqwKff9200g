@@ -1,5 +1,19 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@44.248.233.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&security=reality&sid=21270a66&sni=aws.amazon.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@cz.pythonmakemigreat.wiki:61374?encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=&host=cz.pythonmakemigreat.wiki&mode=packet-up&path=%2F&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&security=reality&sni=cz.pythonmakemigreat.wiki&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c7282af7-a52f-4a65-af60-ae5852f2bf36@131.143.180.87:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZxdYEReKF-M_vIMpZWVMHf7ixDZmzIg-6Xt7IzstgwE&security=reality&sid=16e300b06a6a7413&sni=www.logitech.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?encryption=none&host=45.137.43.168&path=%2Fvless&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-None%20%7C%20%40LonUp_M
+
+vless://80e6a144-0041-4ebf-b5e4-850095c2a8ee@3.72.50.236:1002?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNG1VTXk0amprZmtYblNrdXFNbWdsTEZkZldtVmVIRQ@vexnet.zqpm.ir:8443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://98cf7d81-d174-4043-8659-7d631e20a005@ui1.netlixa.ir:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=ui1.netlixa.ir&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40UnlimitConfig
@@ -82,21 +96,7 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&
 
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&sni=www.volumeroot.com&alpn=http%2F1.1&fp=unsafe&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.volumeroot.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.apple.com&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910&headertype=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40DeamNet_proxy
+trojan://humanity@141.101.115.104:443?type=ws&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
 
-vless://88b744bb-8ac7-484e-a376-136193452a2c@72.56.241.230:443?mode=gun&security=reality&encryption=none&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4&type=grpc&serviceName=api.v1.StreamService&sni=max.ru&sid=aabbccdd#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40planB_net
-
-vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
-
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.236.155:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
 
