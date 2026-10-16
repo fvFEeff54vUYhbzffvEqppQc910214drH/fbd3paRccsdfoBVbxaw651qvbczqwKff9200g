@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
+
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ISVvpn
 
 vless://3ca21a1e-5ec3-4724-9890-8c28e22bdbb2@146.75.59.186:443?encryption=none&security=tls&sni=gemini.google.com&alpn=h2&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&mode=auto&host=fcdsxalkkkp.global.ssl.fastly.net&path=%2F&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F122.0.0.0%20Mobile%20Safari%2F537.36%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ISVvpn
@@ -97,6 +99,4 @@ vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#%F0%9F%87%A7%F0%9F%87%BE%20WS-None%20%7C%20%40LonUp_M
 
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&host=sino.bestsellers1.site&security=tls&sni=sino.bestsellers1.site&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=%2Fvless&security=none&type=ws#%F0%9F%87%A7%F0%9F%87%BE%20WS-None%20%7C%20%40LonUp_M
 
