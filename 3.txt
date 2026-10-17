@@ -4152,3 +4152,17 @@ vless://91312d1f-87b8-d98d-5f76-32b1ce8fe03a@46.38.146.244:49194?security=&encry
 
 vless://xBotCenter@[2a13:7c00:3:14:f816:3eff:febb:19b3]:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=chrome&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&host=freetoplay-2.tetris-game.world&type=ws&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%87%B2%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@31.77.126.2:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@31.59.140.189:443?security=reality&encryption=none&pbk=vSa3rWZfq5OftXO2RSgggbTOxbHlWGTLpP8bNDki3wk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nl1.aiage.work&sid=adcbde41b1cf27ba#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
