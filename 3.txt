@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://36918dcb-18ed-4857-91b5-c23c04aff614@104.105.108.105:443?security=reality&encryption=none&pbk=NpLxdCOOBjBKekpZEe4U2lsnLO1nd6g2dyN_qpRsO3o&headerType=none&fp=chrome&spx=%2FEhzLJqhoyQxv&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=66fc26309a36b121#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://6b4c3431-3006-4f05-a7bb-b838ebb85977@wst.fun-market.ir:443?authority=&encryption=none&fp=chrome&pbk=jaiiFiwfD2p_bOWdwUxMQUq1n8pB4IHE4gf7X1RlvR8&security=reality&serviceName=&sid=de0f8ea9800d&sni=api.receptivity.io&spx=%2F1ee2b2489c537b9&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
-vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=/HesarWeb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://e5544327-834c-455a-9db5-2454c788fa17@109.104.106.101:443?security=reality&encryption=none&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=d1-ro.cloud-cdn.xyz&sid=48d6ed723454f6db#%F0%9F%87%B7%F0%9F%87%B4%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://9d981e91-ed04-41f9-b8f1-b993c1585d4d@31.77.29.47:443?security=reality&encryption=none&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2ray_confiig
 
 vless://c3db7657-88ce-42a6-b998-1e0364b277ac@87.242.127.113:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
@@ -20,6 +10,10 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=realit
 
 vless://c3db7657-88ce-42a6-b998-1e0364b277ac@cdn-ixr.whitenw.net:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
 
+vless://36918dcb-18ed-4857-91b5-c23c04aff614@104.105.108.105:443?security=reality&encryption=none&pbk=NpLxdCOOBjBKekpZEe4U2lsnLO1nd6g2dyN_qpRsO3o&headerType=none&fp=chrome&spx=%2FEhzLJqhoyQxv&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=66fc26309a36b121#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://6b4c3431-3006-4f05-a7bb-b838ebb85977@wst.fun-market.ir:443?authority=&encryption=none&fp=chrome&pbk=jaiiFiwfD2p_bOWdwUxMQUq1n8pB4IHE4gf7X1RlvR8&security=reality&serviceName=&sid=de0f8ea9800d&sni=api.receptivity.io&spx=%2F1ee2b2489c537b9&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40chillguy_vpn
+
 trojan://humanity@104.18.4.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
@@ -29,6 +23,8 @@ trojan://mitivpn@167.82.64.46:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%
 trojan://mitivpn@199.232.78.160:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn--s2.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://mitivpn@146.75.57.238:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn--s3.global.ssl.fastly.net&sni=www.google.com&alpn=http%2F1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=/HesarWeb#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://d388ae42-9a9e-405b-bab5-f4b3537b9974@82ee5f8ac18eee71.IROnlY4l.Ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.H64M-vcrJABLwg9tt4yaIbBBgkRwt7kEXQlxismNK2g&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
