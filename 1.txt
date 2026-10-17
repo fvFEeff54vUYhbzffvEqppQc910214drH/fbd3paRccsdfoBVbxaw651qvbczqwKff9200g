@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
@@ -88,15 +90,13 @@ vless://cc880d02-4faf-4d22-bc87-2088256aa4e4@turk.karmatel.ir:2083?alpn=h2%2Chtt
 
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?type=tcp&security=reality&encryption=none&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40UnlimitConfig
 
-vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.apple.com&fp=firefox&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&sid=e8daed2d&headertype=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40DeamNet_proxy
-
-vless://telegram-id-ArV2ray@84.32.102.152:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40manVPN
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLU5vbmUgfCBARGVhbU5ldF9wcm94eSIsImFkZCI6IjQ3LjI0NC4xMjAuMTk3IiwicG9ydCI6IjM2NzAzIiwiaWQiOiI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
-
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?security=reality&type=tcp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40UnlimitConfig
+vless://adc788dc-332c-41c1-8148-03a5bd092a6f@3.140.185.66:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HN3vSvTNrcW9ZYJJR_nFCi_luUww0dmx9iW8wD-leWU&security=reality&sid=33&sni=www.pypi.org&spx=%2Fbcca87c01553870&support-x25519mlkem768=true&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.166.199:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.166.199:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.166.199:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
+
+vless://08042e25-2db6-4c82-bc2e-f496ecac33e1@170.39.216.98:1001?encryption=none&type=xhttp&mode=stream-one&host=www.samanehha.io&path=/?ed%3D2048&security=none#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-None%20%7C%20%40LonUp_M
 
