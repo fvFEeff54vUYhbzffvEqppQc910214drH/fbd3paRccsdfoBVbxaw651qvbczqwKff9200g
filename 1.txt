@@ -24,6 +24,8 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stre
 
 ss://YWVzLTEyOC1nY206NjJlYzhiNjctZjZmMy00YzgzLTk4ZDgtNzEyZTk2NmY3NWM5@ruot.ayucloudservices.nl:40013#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
+trojan://UX82473651@3.35.207.188:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
 vless://12323c70-a6f5-4002-a26c-fed1ba636917@#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
 
 vless://cbd9b987-5c4e-4e1e-98a7-c536a2ef9b4c@47.74.25.186:443?security=reality&encryption=none&pbk=UV7__YdzfWp-3GchdNfcEYBT4__lSrV1lTm4fas_EnQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=4160be8d5de9b80f#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40LonUp_M
@@ -84,6 +86,8 @@ vless://42a3ae88-8146-4ea8-9a82-181d061f6cf6@web.tivexabot.ir:443?encryption=non
 
 vless://42a3ae88-8146-4ea8-9a82-181d061f6cf6@web.tivexabot.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=web.tivexabot.ir&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
 
+trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=firefox&type=ws&allowInsecure=0&sni=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206ZDQ2MzQ5OTQtMGU1My00YTU5LTkyZTctZjk5OTc1NWI4NzZm@ruot.ayucloudservices.nl:22044#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
@@ -95,8 +99,4 @@ vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@k2.cloud--vpn.site:443?path=%2F&sec
 trojan://5ffee9b2-4514-4719-97b3-67810ece038d@ali-panel-1.terhav.workers.dev:443?type=ws&host=ali-panel-1.terhav.workers.dev&path=%2Fvertex&security=tls&fp=chrome&sni=ali-panel-1.terhav.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-dynmedia-1.microsoft.com&fp=ios&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&sid=aae6d935&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2nodes
-
-trojan://cMCQxnflDO@31.76.10.180:36508?security=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?encryption=none&host=randomquaint.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=randomquaint.net&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
 
