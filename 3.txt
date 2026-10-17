@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://a1de4564-e4db-478c-b986-dad72faf4ad0@185.27.44.127:43335?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://6b042879-f382-46ce-8965-866186eb7e33@216.234.140.15:47832?security=reality&encryption=none&pbk=hDRm-rHVu-ClNhBhPfp-JUGtFM91NGjlhVf-JjnPCnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=058ea2b1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
 
 trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
@@ -87,6 +83,8 @@ vless://e7a4decb-631e-422b-9749-7e8f54618308@13.143.174.145:443?security=reality
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
 
 vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443?security=reality&encryption=none&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi2.yservice.help&sid=abcd1234#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://a1de4564-e4db-478c-b986-dad72faf4ad0@185.27.44.127:43335?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://YWVzLTI1Ni1nY206WWpjNVkyVXdZVFF3TlRJMU1tTXlObUUzTmpnd09UQm1Nak5rTURFNA@188.121.121.178:9112?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -501,6 +499,8 @@ vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality
 vless://64c05afc-ce81-4ba0-b697-afa04da1427e@198.23.169.170:443?security=reality&encryption=none&pbk=FOl1qibUWpTggolWp30DD7VQ9_xKHZPEPVQs0sQs3gI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&sid=2128e27b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
 vless://0dfaf133-be36-436a-bdad-a7b53ae58b30@131.143.180.110:443?security=reality&encryption=none&pbk=ABZFDD3Ne57Q0i7skCnEpyUVTKTdMhm3aqJ9mwLZ7lw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=62169cb853fb7503#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
+
+vless://6b042879-f382-46ce-8965-866186eb7e33@216.234.140.15:47832?security=reality&encryption=none&pbk=hDRm-rHVu-ClNhBhPfp-JUGtFM91NGjlhVf-JjnPCnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=058ea2b1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
 vless://64c05afc-ce81-4ba0-b697-afa04da1427e@198.23.169.170:443?security=reality&encryption=none&pbk=FOl1qibUWpTggolWp30DD7VQ9_xKHZPEPVQs0sQs3gI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&sid=2128e27b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
@@ -4113,4 +4113,12 @@ vless://b859e648-4e71-4db3-920a-dc7390046f11@3.140.252.133:443?encryption=none&f
 vless://292cc7ff-a9d7-41d7-8ac5-f1f0b7603f86@94.184.18.164:33210?encryption=mlkem768x25519plus.native.0rtt.scty-IEInkE4eGcsJW9CFpyTH4Ezo3NyZBO3U-SkuC0&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://49ebeaaf-f6d1-4a11-b5ba-dc0fca90a9a2@51.75.118.5:20205?path=%2Fvless-ws&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?sni=213.176.92.168&type=ws&headerType=none&host=213.176.92.168&path=%2Fvless#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?fp=qq&host=213.176.92.168&path=%2Fvless&security=none&sni=213.176.92.168&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40UnlimitConfig
+
+vless://6cb0c201-6bd1-4ec8-8105-c675a848ffd8@86.54.42.49:50467?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40UnlimitConfig
+
+vless://6cb0c201-6bd1-4ec8-8105-c675a848ffd8@86.54.42.49:59043?encryption=none&host=&path=%2F&security=none&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7%20HTTPUpgrade-None%20%7C%20%40UnlimitConfig
 
