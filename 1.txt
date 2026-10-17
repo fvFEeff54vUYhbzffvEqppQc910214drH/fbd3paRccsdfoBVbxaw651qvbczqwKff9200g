@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
+
 vless://a8a6aba0-bbe4-4eaa-8bb7-98601ef162bc@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=omid-3x-ui.abolfzlllll.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=omid-3x-ui.abolfzlllll.us.ci#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://17acda85-dada-41dd-8add-ad0ad179fc91@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40LonUp_M
@@ -95,8 +99,4 @@ vless://8bd04756-3beb-4348-82c9-d35453df50ce@201.58.176.73:20324?type=tcp&header
 vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?sni=213.176.92.168&type=ws&headerType=none&host=213.176.92.168&path=%2Fvless#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?fp=qq&host=213.176.92.168&path=%2Fvless&security=none&sni=213.176.92.168&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://6cb0c201-6bd1-4ec8-8105-c675a848ffd8@86.54.42.49:50467?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://6cb0c201-6bd1-4ec8-8105-c675a848ffd8@86.54.42.49:59043?encryption=none&host=&path=%2F&security=none&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7%20HTTPUpgrade-None%20%7C%20%40UnlimitConfig
 
