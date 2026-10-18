@@ -4070,3 +4070,13 @@ trojan://mitivpn@167.82.64.46:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiT
 
 trojan://mitivpn@167.82.64.46:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
+trojan://qKqgMJPzm%2FOIdljS%2BQ1vRGcQfIgAFGVr%2BdWGhkzEuaY%3D@13.140.91.117:11128?security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
+
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@ops5788tugfuy.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ops5788tugfuy.localip.ir&type=ws&allowInsecure=0&sni=ops5788tugfuy.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@fert6.localip.ir:2087?encryption=none&security=tls&sni=fert6.localip.ir&alpn=http%2F1.1&type=ws&host=fert6.localip.ir&path=%2Fhokm#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&security=tls&sni=kala.fortresshost.ir&fp=chrome&alpn=h2&type=xhttp&host=kala.fortresshost.ir&path=%2FMeh%3Fdi%3D443&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://38d97d6f-b640-4eb0-9891-bbaf2061d6db@191.44.47.164:25565?security=reality&encryption=none&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kookas.fi&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
