@@ -1,5 +1,19 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://waf75bx8-dj6d-o6mz-88if-lhxdn4gk8hs9@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://cdcbsnu4-b5qc-xz5i-418r-3f7i5eyv0nke@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://tdt674fa-g2eg-gqd9-v8sw-z373swaizqno@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://656a11ef-c5e0-4b0d-9e2a-b72a00731195@dns11.m3hrzd.ir:8030?type=tcp&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://a034eba2-8b2c-40af-9233-629c45b40fc2@pol4.fytpn.com:56789?type=xhttp&security=reality&path=/assets/v1/sync&sni=pol4.fytpn.com&fp=firefox&pbk=yrMMb8_Y0VqpDqAHdAQR2ovZySZBMSCTPzuYeft8zjk&sid=a2aa#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40RONINVPN1
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+vless://192a06cc-d80b-1459-1cca-0a5a3a03beb8@about.gitlab.com:8443?insecure=0&allowInsecure=0&host=jHgGiUg0.vArZeShFoTsAl.iR.&sni=jHgGiUg0.vArZeShFoTsAl.iR&path=%2F%3Fed%3D80&vcn=dns.google&security=tls&pcs=A5303BBDAE7251CF4B5C0400C2BB810770D2FBA49D71FC9A5C844E3039E131DE&extra=%7B%0A++%22xPaddingBytes%22+%3A+%22100-1000%22%0A%7D&encryption=none&type=xhttp&fp=chrome&alpn=http%2F1.1%2Ch2&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40UnlimitConfig
+
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#%F0%9F%87%B7%F0%9F%87%B4%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
@@ -85,18 +99,4 @@ vless://9f9b66ba-e964-4e0e-be38-293134868a67@gadfather.zovip2.ir:443?path=/gropc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#%F0%9F%87%AE%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5001#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
-
-vless://60d32a6a-4c9a-4032-b698-5b4dc07ad18b@NL.1.diginoisb.ir:8080?path=%2Falamslspakwnspapalnsbdlzalwndkspamsjlsd&security=tls&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.m3LIw9UPRiYGMPco5qNk5o8RVhH6pwvWAbmlAuz9RmY&insecure=0&host=panel.ir.www.vpxpp.ir&fp=chrome&ech=AGj%2BDQBkAAAgACDYlpaPRcKIDmVeQaWPyO%2FGL32AcEBUqdGeOE5Ezn2YPwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVwYW5lbC5pci53d3cudnB4cHAuaXIAAA%3D%3D&type=ws&allowInsecure=0&sni=panel.ir.www.vpxpp.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://XpnTeam-20@199.232.78.160:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://XpnTeam-19@199.232.78.160:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@129.101.121.70:8443?security=reality&encryption=none&pbk=xX9ZxZRrF_EER9-8fOegxR97HV5KaMaftAD7eq10UXw&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=75dd7e79a7876314#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
