@@ -8,3 +8,5 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@66.151.40.60:8444?mode=gun&security
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Outline_Vpn
 
+vless://8bcdddb3-3154-49e1-ab64-1998e1131c02@ip1.fastt.ir:2096?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=commm.varzeshfotsal.ir&type=xhttp&sni=commm.varzeshfotsal.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40UnlimitConfig
+
