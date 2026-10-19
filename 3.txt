@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40DeamNet_proxy
-
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=reality&encryption=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.travel#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://d98ea2df-448d-4361-8535-b5fd2bae3da6@51.75.118.5:20205?path=%2Fvless-ws&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40UnlimitConfig
-
-vless://KanalV2vip007@69.46.46.124:443?path=%2Fws%2FKanalV2vip007&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api-5f128f-1edb96-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=api-5f128f-1edb96-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?encryption=none&type=grpc&security=reality&sni=md4.univesalsrv.com&fp=firefox&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&serviceName=hub.v1.ApiService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40DeamNet_proxy
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&type=grpc&security=reality&sni=md1.univesalsrv.com&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&authority=TELEGRAM@MARAMBASHI_MARAMBASHI&serviceName=hub.v1.RelayService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40DeamNet_proxy
@@ -37,6 +29,8 @@ trojan://Trojan@82164024@92.118.150.146:443?security=tls&insecure=0&headerType=n
 vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&sni=www.cloudflare.com&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://03162983-cdfb-48b9-8367-f4e4d5e5822a@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d98ea2df-448d-4361-8535-b5fd2bae3da6@51.75.118.5:20205?path=%2Fvless-ws&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
@@ -585,6 +579,8 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2Fcart%2Fd
 vless://a6be5bea-aac3-45d9-9997-c2f600a0ae37@tamiiiiz.aryan-sport.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.aryan-sport.ir.&type=xhttp&allowInsecure=0&sni=s4.aryan-sport.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=reality&encryption=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.travel#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://f36b76da-6c4a-44c9-b6ad-4dbd374c7227@Join.ShhProxy.Site:443?path=%2F&security=tls&encryption=none&host=ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org.&type=ws&sni=ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org.#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
 
@@ -4011,4 +4007,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.116:22223?encryption=none
 trojan://mitivpn@167.82.64.46:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn-s3-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.116:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real33.greewebservices.ir:1330?encryption=none&type=tcp&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
