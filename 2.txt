@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&security=reality&sni=cdn4-81.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=abe4a59b9f2407e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
 vless://3ed41dfc-0d38-4379-a470-c815673dc504@pubsub.m2ip-video.cloud:8443?type=tcp&security=reality&sni=peplow-labs.info&fp=firefox&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
 trojan://xnzkw81s-ajx4-oqvj-8ryn-jzujq7eg5le6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -76,7 +78,15 @@ vless://22136b20-6365-4ae6-b21a-799a00ab1346@5.35.37.162:8080?security=reality&e
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sid=861ac7d66953e55f#%F0%9F%87%B7%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40LonUp_M
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray1_ng
+vless://16188ecf-2dcd-40d7-898b-60461f125978@gr-v.onlinernet.ir:40018?security=&encryption=mlkem768x25519plus.native.0rtt.fY8z33cAh9Nb0X4JZQ0IK19FkjA-F_z2NeJNUGWAwBs&host=connectivitycheck.android.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
+
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e0c4d@hoert1rert.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.48.17:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://05355ffb-a8f3-473b-cb9c-c8401897b03f@199.232.239.239:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2056&host=mpkoe7ypcibr80p102020.global.ssl.fastly.net&sni=www.firefox.com&alpn=h2&fp=firefox&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBMb25VcF9NIiwiYWRkIjoieEdxT3BpaUpMRGdhZWROUS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiODc5NTg2MGI5MmU3NDMxNmFhMzJiMTk2NDM1MWU3NzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoieEdxT3BpaUpMRGdhZWROUS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InhHcU9waWlKTERnYWVkTlEudi4zZG5zLnZpcCJ9
 
@@ -251,6 +261,4 @@ trojan://fgl0uydm-egrs-r5vv-3kj9-g7al4u9gta11@127.0.0.1:2080?security=tls&type=t
 trojan://7ehhcxsk-e7ol-z7pf-z296-byy0mka2uaza@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?type=tcp&security=reality&sni=aig.keeneticdocs.ru&fp=chrome&flow=xtls-rprx-vision&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&sid=a7268acdcfef5862#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&security=reality&sni=cdn4-81.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=abe4a59b9f2407e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
