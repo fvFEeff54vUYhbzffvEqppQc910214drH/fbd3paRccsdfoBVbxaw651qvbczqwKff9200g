@@ -1,5 +1,17 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://lcb0qk0s-oir2-1v67-d160-27h8x3hf5123@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://f87v183c-haw2-s416-i7lf-39r4b6tl5h7c@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://3vzvcwi0-3dkg-h0cp-d0bq-a1nn96agxfj8@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAUk9OSU5WUE4xIiwiYWRkIjoiMTA0LjMxLjE2LjEwNCIsInBvcnQiOjgwLCJpZCI6IjEyYzI1YjUwLWY2YzctMTFlZC1iMjMwLTIwNWM2ZDVmNWQ3OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3FtYmRreXpuIn0=
+
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
 trojan://mitivpn@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 trojan://mitivpn@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=Nazar.ac.ir%2Budp%3A%2F%2F78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
@@ -87,16 +99,4 @@ vmess://eyJhZGQiOiIxMDQuMTkuNy44NCIsImFpZCI6MSwiaG9zdCI6IjEwNC4xOS43Ljg0IiwiaWQi
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=pl1.dedushka.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2ray_official
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22222?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22222?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22222?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
 
