@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://af995167-b04c-4896-b8bc-715dc008746e@3.72.50.236:1002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
-
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@2.59.253.251:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://497f5381-3533-4c6a-939c-66eb3a7de108@cdn.topingr.ir:443?path=%2Fgropcdn&security=tls&encryption=none&insecure=0&host=cdn.topingr.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.topingr.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
@@ -51,6 +47,8 @@ vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%87%B7%F0%9F%87%B4%20TCP-None%20%7C%20%40DeamNet_proxy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpickc3dnBxOGFkOVVLaEczWUdmOHpB@3.123.35.248:1001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://af995167-b04c-4896-b8bc-715dc008746e@3.72.50.236:1002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vmess://eyJhZGQiOiIzLjcyLjUwLjIzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0Y2QxODNmOC05OWU2LTQzZTUtYTc3OC1lNTk4OWZhNWFjMjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
@@ -3831,4 +3829,6 @@ vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@177.202.96.106:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pl3.wolffast.net&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&sid=8718c58d3d51db59&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@201.58.150.14:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=jp1.wolffast.net&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
