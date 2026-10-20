@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://01113702-2775-41e4-9aab-1277c5c4fc93@pl.grizzlysite.buzz:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%7D%7D&insecure=0&host=host.taghvimtime.ir&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40UnlimitConfig
-
-vless://5cf1dffb-9403-fe0f-fb71-495819f02a0c@multipanel-production-722f.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-722f.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/5cf1dffb-9403-fe0f-fb71-495819f02a0c&host=multipanel-production-722f.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://mitivpn@167.82.64.46:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://e531609c-63f6-4b14-a422-eb346c4b29be@162.159.152.4:2052?path=%2F&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=vpnosiris2.aryan-sport.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40FarazV2ray
@@ -635,6 +625,8 @@ trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn
 trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sid=501ab3325b77e1ca#%F0%9F%87%A7%F0%9F%87%AC%20GRPC-Reality%20%7C%20%40LonUp_M
 
@@ -1861,6 +1853,8 @@ vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@[2607:5300:205:200::8aeb]:8080?secu
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -3813,4 +3807,8 @@ vless://8750acf2-9156-4a06-acdc-8fdd4a0d43f5@nr3.nryj.ir:27014?security=&encrypt
 vless://LoHFkPM55elEOz@185.253.116.46:443?security=reality&encryption=none&pbk=RQ4Z91En99W1IloruReNIuqeIY1PHfrd-Unv7XL--jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=11a7579d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://30ed2f7b-35c1-49ca-8d9f-687983382360@199.232.78.160:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%&security=tls&alpn=h2&encryption=none&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=www.firefox.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmesskhodam
+
+vless://05355ffb-a8f3-473b-cb9c-c8401897b03f@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2056%2F%3FTELEGRAM--BYA--CHANEL---@JKVPN…#None%20TCP-None%20%7C%20%40JKVPN
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40UnlimitConfig
 
