@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://mi%69tivpn@188.114.97.6:443?security=tls&alpn=http%2F1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://m%69tivpn@188.114.97.6:443?security=tls&alpn=http%2F1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://35eb914a-f7c2-4ffa-8503-1bf30df0f1a5@13.140.92.21:80?type=tcp&pbk=rtYs5r9380Y2zvtXBFfaBbnypJQ7_1x_uYu0cLpOXk4&fp=chrome&spx=%2Fad7d3612c9c5309&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&encryption=none&sid=d8fee47b2d3d94&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://9b0ae636-a50b-4667-bbe0-22a0600610a5@sable56.fars-remen.ir:8445?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=73da8baa63f8d537#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@66.90.106.228:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=au1.wolffast.net&sid=8718c58d3d51db59#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -91,12 +99,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.57.31:22224?security=none&en
 vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@32831f83b52565c1.tunvi.w-ert.org:448?encryption=none&fp=chrome&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&security=reality&sid=ca4134a0ed2592b6&sni=www.aparat.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@tun2.w-ert.org:447?encryption=none&fp=chrome&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&security=reality&sid=ca4134a0ed2592b6&sni=www.aparat.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2rayBaaz
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.160.58:22222?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dea52dae-2472-45ab-8a22-dd8d7ac21e4b@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&host=copy&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmesskhodam
-
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
