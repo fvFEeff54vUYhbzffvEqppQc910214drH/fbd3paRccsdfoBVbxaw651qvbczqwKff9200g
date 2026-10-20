@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://82ibgphr-dlhu-djcg-7fuh-7tb3xecrdehv@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://lnsyfr2l-eq2k-bbff-qvbl-winngphsi3o1@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://8is1w7nj-tx8f-3lnd-uf3y-xpx1u5osbiy1@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?type=tcp&security=reality&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?type=tcp&security=reality&sni=www.apple.com&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=cc80ef#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:8443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
+
+vless://ab834a92-3f04-4a08-a509-b651a614ff0d@de-3a.healingfluence.com:5000?security=reality&encryption=none&pbk=FhMWFvLreYsLAVipnrvcbHBoYpNC0E9-Jt-ThM6f0Hk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=ddfc44847a83078c#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
 vless://0953978c-b95b-48c6-accf-8391fa76fd82@fr.duolingoo.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=TFeykT78-BSVFNbxjfVqgwVu5FA84fFdBSbfAY8xpgY&sid=8d696f0e09350a53&type=xhttp&path=%2F&mode=auto#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40LonUp_M
 
 vmess://eyJhZGQiOiJub2RlOC5saXVkb25naG9lLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm9kZTgubGl1ZG9uZ2hvZS5jb20iLCJpZCI6IjQ3MDUwZTRlLTk2NWQtNDFjYS05NzZkLTczYzFmMTFlNjkwNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ob2U4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6Im5vZGU4LmxpdWRvbmdob2UuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
@@ -83,20 +99,4 @@ vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?path=%2F&security
 vless://9c30c142-274b-4c7a-8dc6-0eefa3ca2e71@ir4.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=9ed2fa&sni=nobitex.ir&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://9c30c142-274b-4c7a-8dc6-0eefa3ca2e71@ir5.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=070a23aed243&sni=nobitex.ir&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://9c30c142-274b-4c7a-8dc6-0eefa3ca2e71@usa4.mobileemdad.top:443?encryption=none&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=377d&sni=stripe.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
-hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
-
-hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
-
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
-
-hy2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443/?sni=slopllex.app#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
 
