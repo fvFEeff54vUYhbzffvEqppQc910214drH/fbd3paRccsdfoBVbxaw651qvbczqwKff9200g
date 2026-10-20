@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://Trojan%4082164024@108.61.186.37:443?allowInsecure=1&sni=#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40UnlimitConfig
-
 vless://2ffa91fe-e1cc-4c44-a90a-45002feae978@aelix-al.safire-soleiman.ir:6311?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#%F0%9F%87%A6%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40UnlimitConfig
@@ -3779,4 +3777,14 @@ vless://34ec2f5f-2f9d-4927-b6f8-13ac07814b6a@sourceforge.net:2052?path=%2F&secur
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&fp=chrome&type=ws&allowInsecure=0&sni=2.HI-L.IM#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@193.124.91.69:9443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:12443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=GunService#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:10443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@212.119.42.120:8445?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=GunService#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@95.181.213.250:8443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20TCP-None%20%7C%20%40UnlimitConfig
 

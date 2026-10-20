@@ -1,5 +1,15 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:12443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=GunService#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:10443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@212.119.42.120:8445?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=GunService#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@95.181.213.250:8443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20TCP-None%20%7C%20%40UnlimitConfig
+
 vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicGNzIjoiIiwicG9ydCI6IjUyMDgwIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgVENQLU5vbmUgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
 
 vless://4d70f5ee-a94a-4d5d-8ad2-2b90283df466@pp-fx2.firelinkservers.ir:443?mode=auto&path=%2Fplas&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&insecure=1&host=ussweath.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
@@ -89,14 +99,4 @@ vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@146.75.59.186:443?encryption=none&s
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&path=%2F&headers=%7B%0A++%22Host%22%3A+%22copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.%22%0A%7D#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vless://041b2265-0d0a-4290-9439-25b6a0e15b6e@tun.centeriran.shop:443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2F&security=tls&sni=2sdfsxc.centeriran.shop&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://%6D%69%74%69%76%70%6E@188.114.97.6:443?path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F--%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=de.%6D%69%74%69%76%70%6E.in.net&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.%6D%69%74%69%76%70%6E.in.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
-
-trojan://%6D%69%74%69%76%70%6E@b2n.ir:443?path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F--%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=de.%6D%69%74%69%76%70%6E.in.net&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.%6D%69%74%69%76%70%6E.in.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
-
-vless://891b8403-db54-43a5-83de-f10610cd60f2@199.232.78.160:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40WanCloudFA&security=tls&alpn=h2&encryption=none&insecure=0&host=WanCloud.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=Firefox.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
-
-trojan://lcb0qk0s-oir2-1v67-d160-27h8x3hf5123@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://f87v183c-haw2-s416-i7lf-39r4b6tl5h7c@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
