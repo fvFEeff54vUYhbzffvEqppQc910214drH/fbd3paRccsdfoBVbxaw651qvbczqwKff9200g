@@ -3938,3 +3938,17 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=realit
 
 vless://3e16033f-71d8-417b-abea-7756253f3c3d@tun2.w-ert.org:42924?security=reality&sni=www.aparat.com&fp=chrome&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&sid=ca4134a0ed2592b6&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
 
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&sni=de12.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://50f5776f-1596-4e7c-8d96-4823553fa437@188.114.97.6:443?encryption=none&security=tls&sni=abol.vpn-abol.us.ci&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22delays%22%3A%5B%220%22%5D%2C%22length%22%3A%221%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22maxSplit%22%3A%220%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%2C%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22delays%22%3A%5B%221%22%5D%2C%22length%22%3A%221%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22maxSplit%22%3A%2211%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&type=ws&host=abol.vpn-abol.us.ci&path=%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://4a57bd75-867b-4565-b7c0-8b1745582d9c@aws.k2.sync-bridge.ir:108?security=reality&encryption=none&pbk=O6Gc11tW75kMjQziGXMGpgs3ftpHG7Y8tgkxPV_ELgQ&headerType=none&fp=chrome&spx=%2F85f5320c5f53e71&type=tcp&sni=aws.amazon.com&sid=b392a8fb#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://XpnTeam-30@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://XpnTeam-29@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://888074c0-3600-4bed-8a3f-cabd32e7d719@tamiiiiz.aryan-sport.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+null%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+null%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22cMaxLifetimeMs%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22hKeepAlivePeriod%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%7D%7D&host=dr2.aryan-sport.ir&fp=firefox&type=xhttp&sni=dr2.aryan-sport.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40UnlimitConfig
+
