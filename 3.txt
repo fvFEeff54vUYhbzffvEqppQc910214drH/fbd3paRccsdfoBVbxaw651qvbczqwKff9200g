@@ -3868,3 +3868,17 @@ vless://5f8b8abc-500e-4e36-8da1-126f8af09184@tookan.freedv.site:2082?encryption=
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
 
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-None%20%7C%20%40manVPN
+
+vless://16188ecf-2dcd-40d7-898b-60461f125978@de3.onlinernet.ir:40018?security=&encryption=mlkem768x25519plus.native.0rtt.fY8z33cAh9Nb0X4JZQ0IK19FkjA-F_z2NeJNUGWAwBs&host=connectivitycheck.android.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
+
+vless://16188ecf-2dcd-40d7-898b-60461f125978@de3-allnet.onlinernet.ir:22000?security=reality&encryption=none&pbk=IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=connectivitycheck.android.com&sid=1b0fa065866978d2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?path=%2Freal&security=&encryption=none&host=www.goo.gl&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40chillguy_vpn
+
+vless://ed6c724c-435f-4f83-a781-f57579af320b@reaza.localip.ir:443?path=%2F9d9fdbc18c834cffab4276811501fbae&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gbi.els1v0u3t31v.info&type=ws&allowInsecure=0&sni=gbi.els1v0u3t31v.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+vless://6a9bd5bf-7fb1-4f42-a49a-141077ea669f@216.24.57.3:443?mode=auto&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=mobile.zandix.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40chillguy_vpn
+
