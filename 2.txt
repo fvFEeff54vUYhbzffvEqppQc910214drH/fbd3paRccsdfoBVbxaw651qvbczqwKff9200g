@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@193.124.91.69:9443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
 vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:12443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=GunService#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
 
 vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:10443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
@@ -20,7 +22,7 @@ vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?security=none&en
 
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40UnlimitConfig
 
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=0&sni=it1.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
@@ -101,6 +103,4 @@ vless://0ce64d87-af8f-4c92-a6a5-d8498f7c9acc@104.18.32.47:2053?encryption=none&s
 vless://34ec2f5f-2f9d-4927-b6f8-13ac07814b6a@sourceforge.net:2052?path=%2F&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=vpnosiris.aryan-sport.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40LonUp_M
 
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&fp=chrome&type=ws&allowInsecure=0&sni=2.HI-L.IM#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@193.124.91.69:9443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
 
