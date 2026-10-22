@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://6e97c504-ea17-4594-bca4-7444e7761eb7@asia.pastilles.site:6642?security=none&encryption=mlkem768x25519plus.native.0rtt.FC7XufvPL89r3U_xYR6PC7t4MnykH8Gd7H7vy4u5c3M&headerType=none&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://09859b46-a560-40ec-8e3d-941a4394d67d@static.80.222.99.91.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.105.32.99.88.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://09859b46-a560-40ec-8e3d-941a4394d67d@static.171.159.225.46.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.171.159.225.46.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://d917fa44-c27f-4e75-b380-2100d12dc1ac@162.251.0.5:22796?mode=gun&security=reality&encryption=none&pbk=p8IKY8IL2qQRc3Ae8bhle4a59D1N_iUaIPex4rriUB4&fp=chrome&type=grpc&sni=it.nvidia.com&sid=2c887bc3404d3d45#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40UnlimitConfig
-
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcEZkeV94NXpzbUowR3F4T3FQR0t3@3.72.50.236:1001#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcEZkeV94NXpzbUowR3F4T3FQR0t3@63.180.248.105:1001#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -49,6 +37,8 @@ vless://cd5cd7f6-f714-45b6-ae5c-fbac0c48e375@146.75.57.111:443?encryption=none&s
 vless://6035b7aa-d53b-478e-8b4f-f6b3d58598f5@146.75.57.111:443?vcn=firefox.com&mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&host=server14.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40UnlimitConfig
 
 vmess://eyJhZGQiOiI4OS4xMjQuMjUxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzNWVhM2U2LWRkYzUtNGQ3MS04ZjdhLTc4YTBiMzI4ZTAxNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM0MDIiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+
+vless://6e97c504-ea17-4594-bca4-7444e7761eb7@asia.pastilles.site:6642?security=none&encryption=mlkem768x25519plus.native.0rtt.FC7XufvPL89r3U_xYR6PC7t4MnykH8Gd7H7vy4u5c3M&headerType=none&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicGNzIjoiIiwicG9ydCI6IjUyMDgwIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgVENQLU5vbmUgfCBATG9uVXBfTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
 
@@ -935,6 +925,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encry
 vless://888074c0-3600-4bed-8a3f-cabd32e7d719@tamiiiiz.aryan-sport.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20null%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20null%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22cMaxLifetimeMs%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%7D%7D&insecure=0&host=dr2.aryan-sport.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=dr2.aryan-sport.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40meliproxyy
 
 vless://888074c0-3600-4bed-8a3f-cabd32e7d719@tamiiiiz.aryan-sport.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20null%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20null%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22cMaxLifetimeMs%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%7D%7D&insecure=0&host=dr.aryan-sport.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=dr.aryan-sport.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40meliproxyy
+
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40meliproxyy
 
 vless://888074c0-3600-4bed-8a3f-cabd32e7d719@tamiiiiz.aryan-sport.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20null%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20null%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22cMaxLifetimeMs%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%7D%7D&insecure=0&host=dr6.aryan-sport.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=dr6.aryan-sport.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40meliproxyy
 
@@ -4405,4 +4397,6 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@162.35.8.62:443?security=reality&en
 vless://9c794bb7-54fe-4acd-844a-a26209af36c3@185.58.115.62:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se2.gderevievsvideos.fyi&sid=7271129440ade8fa#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://dd688bb9-41d9-4eb7-b5eb-6175f612cdb6@n1.fazelino.site:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=api.fazelino.site&path=%2Fapi%2Fget&security=tls&sni=api.fazelino.site&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanConfig
+
+vless://12e67610-dd93-4fe0-80de-251e1aa3f4ab@199.232.78.159:80?encryption=none&host=rb24.ir&path=ws%2F%3Fed%3D2048%2F%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%2F%3F2048&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40UnlimitConfig
 
