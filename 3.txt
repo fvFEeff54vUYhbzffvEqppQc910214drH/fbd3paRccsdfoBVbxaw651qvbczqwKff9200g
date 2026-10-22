@@ -4136,3 +4136,13 @@ vless://c8b1c602-4a4f-4578-97a1-4216055f80d1@epam.com:443?path=%2F&security=tls&
 
 vless://886dd025-1864-4c41-ac16-d81617de9b92@18.217.105.95:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40UnlimitConfig
 
+vless://87720557-77bc-4205-9b1f-5836a6303fd1@ir2.fastraytel9880.ir:36193?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=&fp=chrome&type=tcp&sni=panelm.fastraytel9880.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://7a6e1e77-46ed-4f3f-960e-8f49810f0255@95.134.250.190:8080?security=reality&encryption=none&pbk=YuQJBPkwrRR0EBNknG2ZDWhyCWCV5YMJFj1DlC8F5RU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gov.sg&sid=4e37af843f76e999#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://7a6e1e77-46ed-4f3f-960e-8f49810f0255@3.24.240.43:8080?security=reality&encryption=none&pbk=aNDybVWg8W1Qsb9axMedBFNakasmttOLEjg2vU1XjRM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.australia.gov.au&sid=bfedcdcbaade3176#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+hysteria2://Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw@3.24.240.43:8090?security=tls&alpn=h3&insecure=1&pinSHA256=bb46df74363ee41d18ff090a5e6994f80133c300d5a04487cb371291cac12fec&sni=3.24.240.43#%F0%9F%87%A6%F0%9F%87%BA%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+hysteria2://Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw@185.139.7.254:8090?security=tls&alpn=h3&insecure=1&pinSHA256=2c493e8f41c3ae58555c5c124cf88ea9a8367551a44a4c6806df9d08f0b49776&sni=185.139.7.254#%F0%9F%87%AC%F0%9F%87%A7%20Hysteria-TLS%20%7C%20%40LonUp_M
+
