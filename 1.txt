@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t15.qifei.app:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40ConfigV2rayNG
@@ -50,17 +48,15 @@ vless://153900df-5824-4b55-98c4-418c5baea523@146.75.59.186:443?encryption=none&s
 
 vless://83abe167-fc44-4402-b12a-ba76c54d9da7@docs.sslforfree.shop:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=docs.sslforfree.shop&path=%2F&security=tls&sni=docs.sslforfree.shop&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
 
-vless://b613a1d8-964d-478a-85d3-c0267f6d6016@94.139.180.136:3350?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.TqiXxNvPDMY9ox1ug5S0b18eHZ6yNCMYCG0qdc-PuVY&pbk=-l1xlrYsq1pzXuuwR-cD-N4rbW7Ey1RGp5Tv3jPgVRk&fp=chrome&type=xhttp&sni=play.google.com&sid=f2a6f2b79ee4829a#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+trojan://humanity@104.21.33.59:443?type=ws&security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
-vless://9ab3a362-1518-496d-b08d-eced45cec936@gb.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.srv.dvzh.net&sid=d30f9d846a7c8cba#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20TCP-None%20%7C%20%40LonUp_M
 
-vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDEzYWU4M2YtMGI1ZS00MGQwLTkxNmUtMjg5ODM5NDhiZjc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MTMwMCIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://ae3bce5c-4c69-4ede-ae9d-d6e87b665ca8@95.135.125.154:1080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
-vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDEzYWU4M2YtMGI1ZS00MGQwLTkxNmUtMjg5ODM5NDhiZjc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1ODgxOCIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://f2a1f964-7cfb-435f-abb2-2969bd595c75@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=albaniji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
-vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDEzYWU4M2YtMGI1ZS00MGQwLTkxNmUtMjg5ODM5NDhiZjc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1Mzg0MiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-
-vless://92a4056a-38d6-49d0-8bd2-600e55af1e9f@45.85.117.174:443?security=reality&encryption=none&pbk=rF4J_igTFQRUXEaY351LiZG0Ea4OuNpOakuAbqT0bAw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=088faf47#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+vless://f2a1f964-7cfb-435f-abb2-2969bd595c75@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=italyma.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://0fff9d5c-1e28-4d85-931b-7220ea2ebe20@tulip.amydoodles.com:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fsetare&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&insecure=0&host=Mze09.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
 
@@ -99,4 +95,8 @@ vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?encryption=none&f
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?security=reality&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiJkZWZlLnN5bmMtYnJpZGdlLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlZmUuc3luYy1icmlkZ2UuaXIiLCJpZCI6IjM4NmM1MzIyLTQ4YWEtNGZjMS04MTRmLTJmZjZjMzRkNzdlMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9jaGFubmVsQGF3c180NDMiLCJwb3J0IjoiNDQzIiwicHMiOiJUZWwtQFR1bmRlcl9WcG7wn5SrNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZWZlLnN5bmMtYnJpZGdlLml yIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#None%20TCP-None%20%7C%20%40Tunder_vpn
+
+vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?allowInsecure=1&encryption=none&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
 
