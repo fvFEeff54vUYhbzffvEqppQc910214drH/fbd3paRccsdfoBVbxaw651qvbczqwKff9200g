@@ -3730,3 +3730,5 @@ vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?type=tcp&security=
 
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&peer=139.180.146.200&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://507dd62c-85b3-40d3-9872-c0dad4f9e229@dtun.codmaxx.ir:5050?path=video&security=tls&encryption=none&insecure=0&host=dpt.codmaxx.ir&type=ws&allowInsecure=0&sni=dpt.codmaxx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
+
