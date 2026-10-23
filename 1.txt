@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?type=tcp&security=reality&sni=zsit.eu-cdn294.com&fp=firefox&flow=xtls-rprx-vision&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&sid=cd2d53510b4df2a8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://a5ce10af-5e95-4eb3-ab87-bf4f95cb059b@212.100.171.154:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=8u8r2iWMt8Isz2ZNRbn3g4cfldhcePRB-1hxGYLTnSg&sid=aa6582cf25e243ce#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+trojan://6tjplt0v-ggth-2cxt-pbiu-xy4ndb350kpf@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://j7m3dsej-8jso-bouj-g4zj-icsuk2r4qqm5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 trojan://jk5eup8o-4w0q-xnoh-adh7-uah27x5yxt7p@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?type=tcp&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&sid=21270a66#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
@@ -40,9 +48,13 @@ trojan://xepxjecn-7eqa-ncu1-161p-hfgcpj0w4sgp@127.0.0.1:4080?security=tls&type=t
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
 
-vless://XpnTeam-39@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+vmess://eyJhZGQiOiI4OS40Mi4xOTYuMjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkBBYm9sTmV0QVNfYm90IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 
-vless://XpnTeam-40@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+vless://fcdfed39-51aa-4bb5-beb7-61b0357e36b9@146.75.57.238:443?alpn=h2&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&security=tls&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&mode=auto&allowInsecure=0&sni=cdn.akamai.steamstatic.com&type=xhttp&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%220-0%22%0A%7D&encryption=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://19914099-ea53-43d4-b37c-707ea94ec834@ok7.zapkey.ir:30081?headerType=none&fp=chrome&sid=f37739a5&type=tcp&encryption=none&pbk=5smJ5dVuo4RwjuTf6tvuT89-z9Qg9Enof8GGRbnSXnc&security=reality&sni=www.speedtest.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -87,16 +99,4 @@ vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?security=re
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=site.check-looks.space#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2048&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40planB_net
-
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@de2.wrenandroad.space:443?mode=auto&path=%2Fconnect%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=t4k236yDGdnUbfJSBl3KR7JzyLReVVRWEiVHMaE72XI&host=de2.wrenandroad.space&fp=chrome&type=xhttp&sni=de2.wrenandroad.space&sid=9b2e8eb7fea9860b#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40planB_net
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%36%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-trojan://mitivpn@167.82.64.46:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&path=%2F%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---%40SIL3NTVPN---&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSus---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
