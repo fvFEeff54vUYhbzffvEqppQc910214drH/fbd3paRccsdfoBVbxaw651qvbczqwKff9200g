@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40chillguy_vpn
-
 vless://27658cc6-fbd3-4871-8a56-2ef9ccee27a8@tun.parsturbo5.ir:3621?mode=gun&security=reality&encryption=none&authority=31.57.105.171&pbk=d_Xf0DMnTEh2Mxh3_qF73BuhpSjqr7QYQs00mbI88R4&fp=chrome&type=grpc&sni=google.com&sid=9235fd30b1f7eb4d#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://27658cc6-fbd3-4871-8a56-2ef9ccee27a8@tun.parsturbo5.ir:2529?mode=gun&security=reality&encryption=none&authority=194.5.207.192&pbk=d_Xf0DMnTEh2Mxh3_qF73BuhpSjqr7QYQs00mbI88R4&fp=chrome&type=grpc&sni=google.com&sid=9235fd30b1f7eb4d#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40LonUp_M
@@ -153,6 +143,8 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.15.27:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
 
 vless://888074c0-3600-4bed-8a3f-cabd32e7d719@tamiiiiz.aryan-sport.ir:2053?allowInsecure=1&alpn=h2&encryption=none&fp=firefox&security=tls&sni=dr6.aryan-sport.ir&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40UnlimitConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22224?encryption=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40UnlimitConfig
 
 vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@pass.zqpm.ir:20727?encryption=none&type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
 
@@ -4341,4 +4333,18 @@ vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&security=re
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
 
 vless://db4d7975-00da-4db6-a2f6-328f75209cad@docs.sslforfree.shop:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=docs.sslforfree.shop&fp=chrome&type=ws&allowInsecure=0&sni=docs.sslforfree.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:8010?encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&security=none&type=tcp&headerType=http&path=%2F&host=netmeli.korluma.ir#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:14256?encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&security=none&type=tcp&headerType=http&path=%2F&host=netmeli.korluma.ir#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:15088?encryption=mlkem768x25519plus.native.0rtt.cvVZFxCx1D3ly-0N5EXakc6tYVadDChlE35mpu3MvwU&security=none&type=tcp&headerType=http&path=%2F&host=netmeli.korluma.ir#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:22068?encryption=mlkem768x25519plus.native.0rtt.Bu8yO8-6D_u_FmDErot6eFF0r-mdLO4d5dtUReMad3k&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@45.144.48.81:45780?encryption=mlkem768x25519plus.native.0rtt.Ugjk5eGoAZFbowp9QBKMLIKaJ-AdQOx2UE5ymx5lgW0&security=none&type=tcp&headerType=http&path=%2F&host=netmeli.korluma.ir#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://8bd5d470-fa2e-4be4-adb0-5f42ac2b2bd6@Bab.zqpm.ir:20727?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://8bd5d470-fa2e-4be4-adb0-5f42ac2b2bd6@patrick.zqpm.ir:20727?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
