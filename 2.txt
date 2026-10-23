@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
-
-vless://%58pnTeam-42@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
-
-vless://%58pnTeam-41@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@www.qarvian.ir:443?path=%2F%3FTELEGRAM--FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE--TELEGRAM&security=tls&encryption=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headers=%7B%0A++%22Host%22%3A+%22copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.%22%0A%7D#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://XpnTeam-42@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
 
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@gb2.murainternet.network:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
@@ -31,6 +17,8 @@ vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2ff@1.bmi.ir.asopardaz.ir:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&security=reality&sid=e915&sni=timeline.www.cloudflare.com&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40anty_filter
 
 trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
@@ -158,18 +146,6 @@ vless://9f5f0438-0d05-44a0-b9bd-a2b91780b2a0@146.75.59.186:443?encryption=none&h
 
 vless://8ae57ee0-31d0-41cc-9aae-2a17d1645147@199.232.78.159:80?encryption=none&host=rb24.ir&path=ws%2F%3Fed%3D2048%2F%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%2F%3F2048&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40UnlimitConfig
 
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&fp=random&type=xhttp&sni=tg1.cdnphotos.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2RAYROZ
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&fp=random&type=xhttp&sni=tg1.cdnphotos.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2RAYROZ
-
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23Telegram—V2ray_confiig&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2ray_confiig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram—V2ray_confiig&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
-
-vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@[2607:5300:205:200::8aeb]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&host=%2F%3FTelegram—V2ray_confiig&headerType=none&fp=chrome&spx=%2Fb53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?security=tls&sni=firefox.com&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
@@ -227,4 +203,18 @@ vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?allowInsecure=1&
 vless://TelegramSoonTeam@v2.x0netbot.com:26240?security=reality&encryption=none&pbk=8JAwBHA2qkWEsUq0KZTXV7otTkunRNhrHDw3n-cNYVY&headerType=&fp=chrome&spx=%2F4e7681b09aab65f&type=tcp&sni=bg-call-donation-alpha.goog&sid=aa37a051c2bec9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
 
 vless://TelegramSoonTeam@v2.x0netbot.com:14383?security=reality&encryption=none&pbk=8JAwBHA2qkWEsUq0KZTXV7otTkunRNhrHDw3n-cNYVY&headerType=&fp=chrome&spx=%2F4e7681b09aab65f&type=tcp&sni=bg-call-donation-dev.goog&sid=4d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_official
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_official
+
+vless://%58pnTeam-42@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-41@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@www.qarvian.ir:443?path=%2F%3FTELEGRAM--FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE--TELEGRAM&security=tls&encryption=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headers=%7B%0A++%22Host%22%3A+%22copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.%22%0A%7D#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://XpnTeam-42@199.232.78.160:443?allowInsecure=1&encryption=none&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
