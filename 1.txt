@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://kct5wasa-eabn-5qz6-cnso-pf6kgbr2erb1@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://r7zl8drd-cq6j-qm21-wsne-gnnu0j97oegb@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://iutmjnhz-fc8t-1jxe-fecl-85h07u8l87t4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999#%F0%9F%8C%90%20TCP-None%20%7C%20%40ISVvpn
 
 vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@159.195.196.138:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -91,12 +99,4 @@ vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?security=tls&sni=
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@88.216.57.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=us2.accessboy.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@us2.accessboy.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us2.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://49883404-5bd4-42fc-9cb4-913980e278ad@199.232.239.239:443?alpn=h2&encryption=none&fp=chrome&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%3Fed&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@188.114.97.6:8080?security=none&type=ws&path=%2Fvl%2FyLWNcuUuw1jlJpkDhGy%3Fed%3D2560&host=fornewiran.ade-1000.workers.dev&packetEncoding=xudp#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40RONINVPN1
 
