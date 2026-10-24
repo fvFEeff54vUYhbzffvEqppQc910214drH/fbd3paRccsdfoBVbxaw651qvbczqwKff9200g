@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://a7acfc48-8973-41f0-a9d1-a8c7160296e7@31.57.250.226:12252?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=31.57.250.226&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://14415d04-2319-4e55-b7e0-971cffb7a802@31.57.250.226:41009?encryption=mlkem768x25519plus.native.0rtt.pkFqaCHZzEFoOFDh455ylE1e_NLdwy_v4HmfOqQbtms&fp=chrome&pbk=fhzEU5OA_KYpB98zTBUOvjzFiH0q74xvrZvvJO72nFA&security=reality&sid=f82c202b&sni=blog.api.www.cloudflare.com&spx=%2Fe70b4626be3f37b&support-x25519mlkem768=true&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiIzMS41Ny4yNTAuMjI2IiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJpZCI6ImE4MDIxZTdiLWFiYjAtNDZiZC1iODYyLTJjZGEwMjExZDUwMCIsIm5ldCI6InRjcCIsInBvcnQiOjEwMzgyLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBUQ1AtVExTIHwgQExvblVwX00iLCJzY3kiOiJhdXRvIiwic25pIjoiMzEuNTcuMjUwLjIyNiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+trojan://humanity@172.66.1.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@88.216.69.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B1%F0%9F%87%B9%20WS-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@172.64.190.13:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://8ae57ee0-31d0-41cc-9aae-2a17d1645147@199.232.78.159:80?encryption=none&host=rb24.ir&path=ws%2F%3Fed%3D2048%2F%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%40GHOFLSHCAN%2F%3F2048&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40UnlimitConfig
+
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40daily_configs
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
@@ -83,20 +99,4 @@ vmess://eyJhZGQiOiIxOTUuMjYuMjYuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJhZGQiOiIxOTUuMjYuMjYuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTEwOWNkNi1lOGIwLTQ5NTctYTliYi03MWFhNjhiNTZmNmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE0Mjc2IiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
 vmess://eyJhZGQiOiIxOTUuMjYuMjYuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTEwOWNkNi1lOGIwLTQ5NTctYTliYi03MWFhNjhiNTZmNmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI2NDU5IiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-
-vless://b7e719d2-ffb0-4f36-aaf2-e64ee0584fd6@ghff.amin0087.ir:55241?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000-1000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=play.google.com&fp=chrome&pbk=vp_ZS7A65jVK9_TQg-8IHA68_xL8NZYBLg_fIPLL0gs&sid=5f98167277c659f1#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40UnlimitConfig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.160:443?encryption=none&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2F&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?encryption=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F&security=tls&sni=firefox.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://2f5cfa10-43e5-4912-800d-557308a26a29@45.95.96.198:443?security=reality&encryption=none&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yw0ein72.cloudydigital.net&sid=0492eabdb9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206WkdVd01XRTFabUl5WmpBME9EUTVabUUwTlRrMk1ESXdOakl3TmpGag@37.32.30.203:9147#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
