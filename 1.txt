@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2nodes
+
+trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?allowInsecure=1&sni=jus134.pacemakere.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@188.114.97.6:8080?security=none&type=ws&path=/138.2.74.219-28616&host=nautica-cff.kloningstrife002.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -95,8 +99,4 @@ vless://b2a5be99-cc0a-4eb3-9509-c14212a7b407@62.60.207.73:80?alpn=h2%2Chttp%2F1.
 vless://34851fc1-c4bb-4b17-a815-bc17c09e11a0@82.202.157.123:5002?path=media.playback.v1.SessionGateway&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=br1.centermass.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@162.35.8.62:443?mode=gun&security=reality&encryption=none&pbk=uUWYLl2Fdhr74k9o5WacesJjvsCwLiOHccgfR23TIk4&fp=chrome&type=grpc&serviceName=aa7f1b042f73&sni=9bc578g.us4.h1clayd.click&sid=29b29106d4769e3a#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
 
