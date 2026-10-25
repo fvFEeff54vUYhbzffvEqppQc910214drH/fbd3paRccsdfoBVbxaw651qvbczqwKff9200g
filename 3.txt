@@ -1,26 +1,10 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.237.199:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40UnlimitConfig
-
-vless://ae96c700-940d-412e-8096-ad7b35ba3e66@104.143.219.16:3090?encryption=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40UnlimitConfig
-
-vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.86.39.13.49.clients.your-server.de:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=static.75.209.109.65.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
-
-vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&sid=7c&spx=%2F&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
-
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&allowInsecure=1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://61747651-8a4c-40de-becd-174dc32e7495@3d98be61142753f3.tunvi.w-ert.org:50855?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&allowInsecure=1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@af14ee75949b3b21.tunvi.w-ert.org:42924?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&allowInsecure=1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40UnlimitConfig
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40UnlimitConfig
-
 vless://7c66f237-2551-4ab4-ac68-190d4e53b52e@206.1.103.204:22396?security=&encryption=mlkem768x25519plus.native.0rtt.kqldn7ZykneqX7M8yutsk7Tr0vLLILzCA1NBh8piaX4&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.237.199:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://lkyi0d15-aeq9-ik77-sl88-rcyxdyji4vhg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
@@ -930,6 +914,8 @@ trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&p
 
 vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.86.39.13.49.clients.your-server.de:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.75.209.109.65.clients.your-server.de#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40FarazV2ray
 
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
 vless://XpnTeam-40@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
 
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40UnlimitConfig
@@ -1506,6 +1492,8 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggf
 
 vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.114.180.233.167.clients.your-server.de:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=static.196.249.107.91.clients.your-server.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
 
+vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.86.39.13.49.clients.your-server.de:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=static.75.209.109.65.clients.your-server.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
+
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFRDUC1UTFMgfCBAdjJub2RlcyIsImFkZCI6IjE1OC4xNjAuMTgwLjE2NSIsInBvcnQiOjI0MjEyLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJjNThjMTIwNS1iMzA4LTQxNmYtODUwMy1jMDQ1NTdhYmY5M2QiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?path=%2Ftyxyws&security=tls&encryption=none&host=jp3.yohototo.top&type=ws&sni=jp3.yohototo.top#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
@@ -1869,6 +1857,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=non
 vless://ea611ed3-29b1-4d8c-bad6-27fa3cbbe0be@varzesh.com.tiket.paxaro.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.160:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
@@ -4059,4 +4049,10 @@ vless://%58pnTeam-24@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe8
 vless://%58pnTeam-35@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
 
 vless://%58pnTeam-36@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40chillguy_vpn
+
+trojan://jf49lmby-c5rc-dakd-3rzz-1h8nri7c5f77@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://dqsditvq-m4f6-4uih-5lw7-y44plelm7d08@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://oh9awtws-8a0m-l6bw-ff28-mcn9nrj3dl1d@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
