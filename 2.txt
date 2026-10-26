@@ -1,20 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://o65wq9p7-2lbr-gsxu-6v4i-i1w03gbjs8pn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40LonUp_M
 
-trojan://w26gwl3y-3znp-tckr-7znt-z8um902hycu2@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
-
-trojan://3pecpn3j-y7l8-3cy6-g1no-0ekkmlxar4jg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://mlnjoaa9-6b4y-gt2z-f4mv-2bktyha5tyh8@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://1e66elda-zn1c-r6be-9j0f-aafcnzkfm9q4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&peer=resources.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?sni=de5.dedushka.top&peer=de5.dedushka.top&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=ios&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40LonUp_M
 
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -115,4 +103,28 @@ trojan://humanity@185.114.72.31:2053?sni=www.calmlunch.com&peer=www.calmlunch.co
 trojan://MiTiVPN@167.82.101.75:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://wdx5qkwi-p8li-nf0q-sm2a-b1m2aey209u3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://o65wq9p7-2lbr-gsxu-6v4i-i1w03gbjs8pn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://w26gwl3y-3znp-tckr-7znt-z8um902hycu2@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+trojan://3pecpn3j-y7l8-3cy6-g1no-0ekkmlxar4jg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://mlnjoaa9-6b4y-gt2z-f4mv-2bktyha5tyh8@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://1e66elda-zn1c-r6be-9j0f-aafcnzkfm9q4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&peer=resources.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?sni=de5.dedushka.top&peer=de5.dedushka.top&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.0.181:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40LonUp_M
+
+trojan://humanity@104.21.33.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
