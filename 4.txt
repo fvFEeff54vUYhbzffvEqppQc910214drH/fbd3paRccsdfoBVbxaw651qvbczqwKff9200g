@@ -12,3 +12,15 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.249.88:22224?encryption=none
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.249.88:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&type=grpc&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&spx=%2FHesarWeb&authority=%2F&serviceName=hub.v1.SyncService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40DeamNet_proxy
+
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40DeamNet_proxy
+
+vless://4b1be712-774c-4b65-8491-a3339e124a70@155.117.232.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&security=reality&sid=336c2cff6e3717c4&sni=node-usa.blok-signalon.top&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIn0=
+
+vmess://eyJhZGQiOiI4Mi40MC42My44NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiODIuNDAuNjMuODciLCJpZCI6Ijc3ZmFiMzA4LWZlNTAtNGY2Mi1hZmUwLTcxNmMyZDQ0M2EzMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9rZGxzcGFvc3hqa2Ftd3pha3MiLCJwY3MiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
+
+vless://d0136cca-a5a5-4c70-87dd-ce2ef76b7f82@199.232.20.113:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=&security=tls&encryption=none&extra=&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmesskhodam
+
