@@ -1,5 +1,21 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:33390?security=&encryption=mlkem768x25519plus.native.0rtt.ONczc3TmCgninz2GXEQIvlmbVKGF7P-xdZly1ejYkl4&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:44200?security=&encryption=mlkem768x25519plus.native.0rtt.qTxPpQV9reLuJU_K9qGb8uVFezor5TG7nCc_8xOBJFc&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://3a210017-4e89-4f09-85dc-5971643b4181@jasper53.wannexo.ir:47607?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
 vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:42002?security=&encryption=mlkem768x25519plus.native.0rtt.x8try52PFaTDSgZvj01fbRsH43gXD5Dx0S3yX1QkuB8&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
 vless://50414e45-4c5f-5a45-5553-69547ad5c919@5.78.238.71:443?path=%2Fstream%2FPANEL_ZEUS%2F69547ad5c919&security=tls&encryption=none&insecure=0&host=tuzbkaezua0s.bardia2626vosogh-b797.workers.dev&type=ws&allowInsecure=0&sni=tuzbkaezua0s.bardia2626vosogh-b797.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
@@ -260,12 +276,6 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.121:443?security=reality
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.218:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.218:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.218:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
-
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjE4OTAxIiwicHMiOiJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
 vless://0ecd76fc-6888-44d2-b97f-4f9ba66c55f2@91.107.247.174:443?security=reality&encryption=none&pbk=MjBRMMMBFIu4jSHSdDzdK4VPczAVkC1GHhHvugU3myI&headerType=none&fp=chrome&spx=%2Fd8a10c7b6873457&type=tcp&sni=gspe121-rh-ssl.ls.apple.com&sid=b263a86044be000e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -305,20 +315,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:80
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:33390?security=&encryption=mlkem768x25519plus.native.0rtt.ONczc3TmCgninz2GXEQIvlmbVKGF7P-xdZly1ejYkl4&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
-
-vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:44200?security=&encryption=mlkem768x25519plus.native.0rtt.qTxPpQV9reLuJU_K9qGb8uVFezor5TG7nCc_8xOBJFc&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
-
-vless://3a210017-4e89-4f09-85dc-5971643b4181@jasper53.wannexo.ir:47607?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
