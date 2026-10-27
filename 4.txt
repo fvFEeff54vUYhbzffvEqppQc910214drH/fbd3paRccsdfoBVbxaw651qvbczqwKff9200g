@@ -4,3 +4,17 @@ vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&
 
 vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
 
+vless://0df2a7c5-9ff9-46d2-9e57-f6201e725f56@static.114.180.233.167.clients.your-server.de:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.99.149.107.91.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://Pass-Client-1@171.22.119.74:8446?security=tls&allowInsecure=1&type=grpc&serviceName=grpc-video-call#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://aa0faee3-a4f1-4073-a1ec-a108c948adc5@vpn1.aantoshin.ru:2087?security=reality&sni=api.vk.com&fp=firefox&pbk=REEIQ_PfKFRYuhTX1Ex-JxfTJhwCryeGlCszQOG7Mmc&sid=8ed34d466d05d404&spx=/d5c6c1fd662e5fb&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24048?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
+
+trojan://humanity@162.159.140.245:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://261cdc0d-9a73-4b75-b61b-e99980e3d668@#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
