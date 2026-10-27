@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://ha6b2oi2-oz07-ock5-ux9o-doqt6h3rfhgu@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://rsid6zwh-1jiy-k55h-scdc-md7txgxsye6i@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
-
-trojan://asz5uqu3-an98-1x7q-537p-t4wrvd03ad6f@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://dzl2afs3-z77o-dssi-n4ry-klbgz793gfcn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://kkv2fsdi-66ee-mz9w-t1bu-r8balx50esuf@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://16571fd5-5c8a-44ae-99fa-a354565e500b@45.65.112.23:2087?path=%2Fws-tls&security=tls&encryption=none&host=b5.dl-netprime.com&fp=firefox&type=ws&sni=b5.dl-netprime.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://5028942d-7ac8-4f82-871c-dc1efb8ef2dc@199.232.129.192:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
-
 vless://5028942d-7ac8-4f82-871c-dc1efb8ef2dc@151.101.36.99:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 trojan://MiTiVPN@151.101.56.101:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
@@ -156,9 +136,23 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&enc
 
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
-vmess://eyJhZGQiOiJ0dW4xLndhcnpob3N0LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJpZCI6ImM2Njg1ZGJiLWRlZDMtNGMzYy1iMmM1LWY2MzE4OTJhM2ZlNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjA1MiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://bdaf42dd-f75b-4594-d5f8-51c0feeb8406@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40LonUp_M
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdHp1QjBmTmFfWDNJbzMxSWplZlZCcFloOGZ6bWZfUg==@dns22.m3hrzd.ir:1353#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdHp1QjBmTmFfWDNJbzMxSWplZlZCcFloOGZ6bWZfUg%3D%3D@dns22.m3hrzd.ir:1345#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://117a5775-9532-44c4-9a1e-6233f77f39fe@ir.durwinvip61.ir:53729?security=reality&encryption=mlkem768x25519plus.native.0rtt.RtbS2p6cM0J99JfEutcqB8Lkr1kRG0m8dGBgOdtak24&pbk=701tM6WIRcgIYSoiugOaAF3Ynq66z2LfMk3hTrlRgHc&headerType=none&fp=ios&type=tcp&sni=aparat.com&sid=f11b7d129a40d1aa#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://e17b1c07-de04-4734-a6ec-5a6ea45dc39c@fastspeedshop.shopmannew.ir:2082?alpn=h2%2Chttp%2F1.1&fp=chrome&type=xhttp&sni=fastspeedshop.shopmannew.ir&mode=auto&path=%2Fxhttp&security=tls&encryption=mlkem768x25519plus.native.0rtt.dZJqIUgBawg6SKXLX_Tb85I-5SyvZW8qCnEJoir5XS4&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fastspeedshop.shopmannew.ir&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://e17b1c07-de04-4734-a6ec-5a6ea45dc39c@fastspeedshop.shopmannew.ir:2087?fp=chrome&type=xhttp&sni=blog.api.www.cloudflare.com&sid=3aa8&mode=auto&path=%2Fxhttp&security=reality&encryption=mlkem768x25519plus.native.0rtt.YaSSjKRKB_4KkNMNSi8v-slWAfDM6YUsVLUrwEKRBGs&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=DTthbTBf2-1oVj9Sl3FinOeA1oI8nlHqfeCF5u0TfGo&host=fastspeedshop.shopmannew.ir&spx=%2F22f76aa8893ceab&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://e17b1c07-de04-4734-a6ec-5a6ea45dc39c@fastspeedshop.shopmannew.ir:8888?mode=gun&security=tls&encryption=mlkem768x25519plus.native.0rtt.n9OEif7_ptEnUyMYy8A5jJ759QeYlY-fNZ8GjV768CM&insecure=0&fp=chrome&ech=AGT%2BDQBgAAAgACClB7OWU%2B1FQLwYoSOz1oXUCeQ0218laahgo9bCDDqlTwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABFtYWluLmJhY2syYmFjay5pcgAA&type=grpc&serviceName=grpc&allowInsecure=0&flow=xtls-rprx-vision&sni=fastspeedshop.shopmannew.ir#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-TLS%20%7C%20%40LonUp_M
+
+vless://e17b1c07-de04-4734-a6ec-5a6ea45dc39c@fastspeedshop.shopmannew.ir:8585?path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.kUvO6FEfAdXM4WqS0xT5STYHcykbXdKjCa6BRUZzCD4&insecure=0&host=fastspeedshop.shopmannew.ir&fp=chrome&ech=AGT%2BDQBgAAAgACAwSB15Qsd%2BmvgHV%2FJzf069kU6zIzQRS5%2FCWrXbE29EKwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABFtYWluLmJhY2syYmFjay5pcgAA&type=httpupgrade&allowInsecure=0&flow=xtls-rprx-vision&sni=fastspeedshop.shopmannew.ir#%F0%9F%87%B5%F0%9F%87%B1%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
+vless://eaa079d0-feba-417e-93c0-10c0c925f497@tik1.netbazshop.ir:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=tuk2.netbazshop.ir&mode=stream-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&sni=sslcert.okamii1.ir#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vmess://eyJhZGQiOiIxODUuMTkuMzMuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwOWE1YzZiLTJhYjctNDllYi04NzczLTg0ZTQ2ZGY5NjUwZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTk0MDIiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 
@@ -223,4 +217,24 @@ trojan://humanity@141.193.213.11:443?sni=www.calmloud.com&peer=www.calmloud.com&
 trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://p6f20i3i-1wat-qksx-oi8p-nsipmu714cov@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://ha6b2oi2-oz07-ock5-ux9o-doqt6h3rfhgu@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://rsid6zwh-1jiy-k55h-scdc-md7txgxsye6i@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40RONINVPN1
+
+trojan://asz5uqu3-an98-1x7q-537p-t4wrvd03ad6f@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://dzl2afs3-z77o-dssi-n4ry-klbgz793gfcn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://kkv2fsdi-66ee-mz9w-t1bu-r8balx50esuf@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://16571fd5-5c8a-44ae-99fa-a354565e500b@45.65.112.23:2087?path=%2Fws-tls&security=tls&encryption=none&host=b5.dl-netprime.com&fp=firefox&type=ws&sni=b5.dl-netprime.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://5028942d-7ac8-4f82-871c-dc1efb8ef2dc@199.232.129.192:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
 
