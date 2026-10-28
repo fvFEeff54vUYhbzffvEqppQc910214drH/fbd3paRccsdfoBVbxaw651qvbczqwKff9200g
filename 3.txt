@@ -1,24 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%E2%80%94%40&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
+vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40chillguy_vpn
 
-vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=frenchanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
-
-vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabgermanyoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
-
-vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=lofinlaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40FarazV2ray
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
-
-vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40FarazV2ray
-
-vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjA4MCIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjA4MCIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNoaWxsZ3V5X3ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 trojan://%6D%69%74%69%76%70%6E@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
 
@@ -60,6 +44,8 @@ vless://dbaf690b-620f-44bf-9467-b4934e162989@doryan.ertebatgoostar.ir:80?path=%2
 
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&host=play.google.com&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=66ded2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
 vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDhmNDViYmItZTg0ZC00YWQ1LWFhNjMtOTcwZjEzNDViMTY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1NzA3MiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -97,6 +83,8 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
+
+vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
@@ -276,6 +264,8 @@ vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?pcs=CD6E838B9BF
 
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40GiveVPN
 
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabgermanyoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40GiveVPN
+
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40GiveVPN
 
 vless://a6ff5c61-d081-4582-8a63-682cf0d1c6e5@45.142.106.122:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lex-star-bomba.org#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40GiveVPN
@@ -288,9 +278,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjNUVjg4eGNGNTJkLXg3THVUY1Z5dmJ1Z0NicVMxcQ@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjNUVjg4eGNGNTJkLXg3THVUY1Z5dmJ1Z0NicVMxcQ@dns3.m3hrzd.ir:8044#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%E2%80%94%40&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
+
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=frenchanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
 
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=lofinlaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
+
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2ray_confiig
 
 hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@193.23.216.156:443?security=tls&insecure=0&sni=crt.onecloudstream.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
