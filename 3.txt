@@ -5352,3 +5352,19 @@ trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46293?allowInsecure=1&sni=ph001.z
 
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ca001.zestapp778.com:32355?encryption=none&type=tcp&security=tls&sni=ca001.zestapp778.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40UnlimitConfig
 
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us001.zestapp778.com:54857?encryption=none&type=tcp&security=tls&sni=us001.zestapp778.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+vless://82b5eb9d-62d8-4d9d-ab1c-211c9dba1628@141.193.213.21:8443?type=ws&encryption=none&path=%2Fcs&host=asia.csmaster.store&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=asia.csmaster.store#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@87.120.126.49:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gers.connect-qik.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@185.18.250.252:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@162.159.36.20:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
