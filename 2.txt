@@ -1,5 +1,19 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://4hponmp5-m3dk-eqsb-z33r-70sme3ro60pj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://805zh2vm-nums-jm07-5iyp-fhjhekaolx30@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@jsv-ir.jmovies.ir:443?type=tcp&security=reality&sni=aparat.com&fp=firefox&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://4b1be712-774c-4b65-8491-a3339e124a70@nl-all.vless-bitrhythmia.top:443?type=grpc&security=reality&sni=nl-all.vless-bitrhythmia.top&fp=firefox&pbk=WJrP73M7px11xkHKhmEMKnaqUR-DPZnKbR2m_N3TwEE&sid=724d6cab#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40RONINVPN1
+
+trojan://dz1b6goc-bd5d-5z6z-546s-anfdtyi25sjl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://oplmzy9r-1749-v6k4-6foy-38kp2f4hlbrb@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
 trojan://o4jvd2am-xhve-26l7-izlz-hjzflbevk23l@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdSUEMtVExTIHwgQFJPTklOVlBOMSIsImFkZCI6Ijk1LjE3OS4xNjAuMTE3IiwicG9ydCI6MjA4NywiaWQiOiI5MmFmYzk2ZS02M2M5LTQyMGEtOWE1Yy00MTBmNTI5ZDhiMjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidHR0dHR0dHR0dHQuYW5veDAwMS5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0dHR0dHR0dHR0dC5hbm94MDAxLm9ubGluZSJ9
@@ -142,16 +156,6 @@ vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80/?type=ws&e
 
 vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@95.133.245.250:2027/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deo.skysafe.online&security=reality&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@185.168.208.190:47443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=hz7rzdHvTAVwfy48pa6313yBF-sV7V0svvPVnl95bgY&sid=ae97246a8f799854&sni=us-1.waspguard.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://50414e45-4c5f-5a45-5553-5dd075c8ae9b@104.25.199.149:80?security=none&type=ws&path=/api/ws&host=web-app-gjn19f.z0zxy6ehuwgs.workers.dev&packetEncoding=xudp&sni=web-app-gjn19f.z0zxy6ehuwgs.workers.dev#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6MTgwMDAsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiItPlVTIChARGVhbU5ldF9Qcm94eSkifQ==
-
-vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6IjE4MDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@game.digilcala.shop:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=game.digilcala.shop&fp=chrome&type=ws&allowInsecure=0&sni=game.digilcala.shop#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2_mod_shop
 
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@site.walking-with-death.space:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=site.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=site.walking-with-death.space#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2_mod_shop
@@ -279,18 +283,4 @@ vless://683f302b-ab0f-4778-a85d-51b49ae669a1@status-us.uferbuslub.com:443?type=t
 vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?type=tcp&security=reality&sni=aig.keeneticdocs.ru&fp=chrome&flow=xtls-rprx-vision&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&sid=a7268acdcfef5862#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
 
 trojan://057p9rry-xnr7-6co3-ae38-5yyc3ibl4pzj@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://4hponmp5-m3dk-eqsb-z33r-70sme3ro60pj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://805zh2vm-nums-jm07-5iyp-fhjhekaolx30@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@jsv-ir.jmovies.ir:443?type=tcp&security=reality&sni=aparat.com&fp=firefox&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
-
-vless://4b1be712-774c-4b65-8491-a3339e124a70@nl-all.vless-bitrhythmia.top:443?type=grpc&security=reality&sni=nl-all.vless-bitrhythmia.top&fp=firefox&pbk=WJrP73M7px11xkHKhmEMKnaqUR-DPZnKbR2m_N3TwEE&sid=724d6cab#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40RONINVPN1
-
-trojan://dz1b6goc-bd5d-5z6z-546s-anfdtyi25sjl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://oplmzy9r-1749-v6k4-6foy-38kp2f4hlbrb@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
