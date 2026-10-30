@@ -1,5 +1,31 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://humanity@104.18.192.53:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+trojan://humanity@104.20.55.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://abca037b-bee5-41cc-a888-0668e4c66176@2.27.210.119:443?mode=auto&path=%2Fconv4%2Fstream%2F75e7a0a0a0b9e6e202c990e54f5c5ecc&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=4f070970.con.metricdraft.tech#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+trojan://humanity@172.67.161.247:443?path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=swz.proxyplankton.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://7a4bf57c-ebbe-4779-a469-9d803e6c29fd@157.22.241.244:8443?security=reality&encryption=none&pbk=e6RrKgiMRFZEKHn7bcpQHV_skmM-45eX6-G92U0tykY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msk1.nexfile.net&sid=edc4c30c#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?path=%2F&security=tls&encryption=none&insecure=0&host=194.87.143.165&fp=ios&type=ws&allowInsecure=0&sni=wsru1.wba-pn.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
@@ -184,6 +210,24 @@ vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6IjE4MDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@game.digilcala.shop:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=game.digilcala.shop&fp=chrome&type=ws&allowInsecure=0&sni=game.digilcala.shop#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@site.walking-with-death.space:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=site.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=site.walking-with-death.space#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@p2p.walking-with-death.space:2053?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=p2p.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=p2p.walking-with-death.space#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@client.walking-with-death.space:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=client.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=client.walking-with-death.space#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@wp.walking-with-death.space:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=wp.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=wp.walking-with-death.space#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@opt.walking-with-death.space:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=opt.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=opt.walking-with-death.space#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@sso.walking-with-death.space:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sso.walking-with-death.space&fp=chrome&type=ws&allowInsecure=0&sni=sso.walking-with-death.space#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@game.digilcala.shop:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=game.digilcala.shop&fp=chrome&type=ws&allowInsecure=0&sni=game.digilcala.shop#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2_mod_shop
+
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@game.digilcala.shop:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=game.digilcala.shop&fp=chrome&type=ws&allowInsecure=0&sni=game.digilcala.shop#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2_mod_shop
+
 trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
@@ -203,30 +247,4 @@ trojan://humanity@104.16.34.14:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://humanity@172.67.161.247:443?path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://humanity@172.67.64.188:443?path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://humanity@104.18.192.53:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://humanity@104.20.55.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://abca037b-bee5-41cc-a888-0668e4c66176@2.27.210.119:443?mode=auto&path=%2Fconv4%2Fstream%2F75e7a0a0a0b9e6e202c990e54f5c5ecc&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=4f070970.con.metricdraft.tech#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://humanity@172.67.161.247:443?path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=swz.proxyplankton.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://7a4bf57c-ebbe-4779-a469-9d803e6c29fd@157.22.241.244:8443?security=reality&encryption=none&pbk=e6RrKgiMRFZEKHn7bcpQHV_skmM-45eX6-G92U0tykY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msk1.nexfile.net&sid=edc4c30c#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40ConfigV2rayNG
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
