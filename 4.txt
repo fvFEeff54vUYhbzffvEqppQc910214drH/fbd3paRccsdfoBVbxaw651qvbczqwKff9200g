@@ -86,3 +86,9 @@ trojan://wkn5mgxf-gh2i-45ds-6gj6-5fdqjyvnfrii@127.0.0.1:2080?security=tls&type=t
 
 trojan://rtmic23y-e3qy-m4f8-grw5-u2uyrjjk6trr@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&type=xhttp&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40DeamNet_proxy
+
+vless://e6d4e8d2-d1fd-4c1e-8b86-b812e187941b@195.26.26.56:443?security=reality&encryption=none&pbk=ebu4fMRt44lcyq5jaBuHTyay54XscBWrNyyzCXjOTF4&headerType=none&fp=chrome&spx=%2F4281dd0d76e3183&type=tcp&sni=www.sony.com&sid=9188#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://2bf0da19-3cda-4d26-8b09-65abb0628f29@13.140.90.42:8080?mode=gun&security=reality&encryption=none&pbk=5jjxdCZyLfMWU_gTxS5JZ6GWhf5OKCPnD5fIUd2O9SI&fp=chrome&spx=%2Faba5e8d6f5d1169&type=grpc&sni=www.goo.gl&sid=2f#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
