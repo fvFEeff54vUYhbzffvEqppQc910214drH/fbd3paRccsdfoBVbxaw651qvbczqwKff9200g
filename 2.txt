@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
+vless://09f30c46-3964-41ce-882a-72aee83ddd42@65.109.211.81:465?path=%2F&security=tls&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
+
 trojan://humanity@104.17.206.147:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://humanity@104.17.206.147:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
@@ -140,19 +146,27 @@ vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000?type=tcp&secur
 
 vmess://eyJhZGQiOiIxMzAuOTQuMTYuMTA5IiwiaWQiOiJmODhjMTRiNC0wNTZkLTQ3MzEtOTNmNC02NmEyY2IwOTY3MmIiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLXdzIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQifQ==
 
-vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@us.qik-fin.uk:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=us.qik-fin.uk#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40LonUp_M
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
 
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&host=%2Fmade_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
+vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@172.67.208.235:2096?host=courses.mftplus.qzz.io&path=%2FeyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=courses.mftplus.qzz.io&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
-vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsImlkIjoiODNiMDlhNjQtMWVhZi00YzRkLTg5ZWQtODY2ZDRiNmI4MTE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?sni=api.connectingpeoplewithgreatjobs.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40UnlimitConfig
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBXUy1Ob25lIHwgQExvblVwX00iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://3bcbd7ef-e05b-4745-a1de-5ecf98dd2fb6@104.17.31.208:2083?host=pol.netvia.ir&path=%2Fwss&security=tls&sni=pol.netvia.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
-vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6MCwiaG9zdCI6IjE3Mi42Ni4wLjI1MSIsImlkIjoiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1Ob25lIHwgQExvblVwX00iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://humanity@185.18.250.252:443?security=tls&type=ws&sni=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
 
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?sni=resources.unlockyourfuturefindyourperfectcareer.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
+vless://9a1acad0-081d-4a40-9541-f544865225bb@94.249.189.87:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=FX23FdMBb-cdr29rzlCrh4tAWgqwhjaV3zXm3kW3fX0&sid=561eb502&fp=chrome&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@8.47.69.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40UnlimitConfig
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40UnlimitConfig
 
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjA0IiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
@@ -311,10 +325,4 @@ vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&en
 trojan://humanity@104.21.102.36:443?path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vmess://eyJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5ncHRjbG91ZGFpLmNvbSIsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBDb25maWdWMnJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5ncHRjbG91ZGFpLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
-
-trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@65.109.211.81:465?path=%2F&security=tls&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
