@@ -5146,3 +5146,11 @@ vless://adb08572-e2b9-4cde-aebb-70abbf558a20@FlameNova.waldron.ir:48146?security
 
 vless://e6a40cc3-6add-4c68-9cbf-8ddff88434bd@195.26.26.56:443?security=reality&encryption=none&pbk=ebu4fMRt44lcyq5jaBuHTyay54XscBWrNyyzCXjOTF4&headerType=none&fp=chrome&spx=%2F5c4efa353a0347b&type=tcp&sni=www.sony.be&sid=9188#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://d342d11e-d224-4463-b982-532309285094@104.18.47.73:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&host=MTMVPN&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40mtmvpn
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40manVPN
+
