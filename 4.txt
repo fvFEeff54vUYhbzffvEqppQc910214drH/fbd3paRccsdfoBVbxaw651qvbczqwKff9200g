@@ -18,3 +18,15 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%8C%90%20TCP-None
 
 vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=9f1fc5a631ef3126&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
+vless://e043dd53-4069-4b2f-9db4-0901034361c3@ip.mellivmess.com:2082?path=%2Fwexf&security=&encryption=none&host=xu.netiop.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
+
+vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:21280?encryption=none&security=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%7C%20%40LonUp_M
+
+vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:27060?encryption=none&fp=chrome&pbk=55dHJ98JJF5OyKLOqF8ACF3PYFCq_1ax89TmIQEFDGM&security=reality&sid=16&sni=www.cloudflare.com&spx=%2Fd35593c25c982a9&support-x25519mlkem768=true&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:10464?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=31.56.27.50&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:47713?encryption=none&fp=chrome&pbk=oiz3MQDg1mpTgpPeZ9fCQyUqda3Sgflzg85LryTL8lM&security=reality&sid=6d&sni=microsoft.com&spx=%2Fd0a106581194888&support-x25519mlkem768=true&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiIzMS41Ni4yNy41MCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaWQiOiI2NTMyZjM3YS0zYjMxLTRiMGEtODM3MC1hZDUwYTdlNzk4MzEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyNjc4MiwicHMiOiJcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZmIgVENQLVRMUyB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IjMxLjU2LjI3LjUwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
