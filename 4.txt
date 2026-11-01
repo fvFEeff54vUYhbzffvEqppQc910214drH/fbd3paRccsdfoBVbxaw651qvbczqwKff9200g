@@ -10,3 +10,25 @@ vless://45e70574-a1f1-46c8-ae7a-c0320e4eee2d@146.75.59.186:443?pcs=CD6E838B9BFE3
 
 vless://3b6a63bc-26b8-4e74-ae1f-ef14b9b6a738@hiweb.my.id:443?alpn=http%2F1.1&encryption=none&fp=chrome&headerType=http&host=&path=%2F%40rotexvpn&security=tls&sni=hiweb.my.id&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
 
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@79.175.102.64:18443?mode=auto&path=%2Fcdn%2Fingest&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22328-1060%22%7D&pbk=EgXwMBzSh55Cln_g_ElwV9EF8ijDmd9A1ZotQzdKRlw&fp=firefox&type=xhttp&sni=edge-event.cfd&sid=694eb64512caabef#%F0%9F%87%B8%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@89.149.203.154:53443?mode=auto&path=%2Fapi%2Fv3%2Fpipeline&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22224-1124%22%7D&pbk=EgXwMBzSh55Cln_g_ElwV9EF8ijDmd9A1ZotQzdKRlw&fp=firefox&type=xhttp&sni=api-auth-unit.online&sid=694eb64512caabef#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@143.246.216.62:52443?mode=auto&path=%2Fupload%2Fobjects&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22288-1348%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=api-bridge.cfd&sid=624ef62512cfcbef#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@45.154.96.230:52443?mode=auto&path=%2Fsync%2Fobjects&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22120-2036%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=queue-ingest-hub.cfd&sid=624ef62512cfcbef#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@93.123.46.44:13443?mode=auto&path=%2Fapi%2Fv3%2Fobjects&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22384-1492%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=smartgate.cyou&sid=624ef62512cfcbef#%F0%9F%87%A6%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@205.237.110.34:52443?mode=auto&path=%2Fapi%2Fv2%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%2296-2020%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=api-gateway.cyou&sid=624ef62512cfcbef#%F0%9F%87%AE%F0%9F%87%B9%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@205.237.110.38:4443?mode=auto&path=%2Fassets%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22184-932%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=api-ledger.cyou&sid=624ef62512cfcbef#%F0%9F%87%AB%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@188.137.158.151:6443?mode=auto&path=%2Fassets%2Fmetrics&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22328-1716%22%7D&pbk=fFJh1sXeJ-z5aQjbqnwdBrFsQL1PmjNCT0hPj50T7Xg&fp=firefox&type=xhttp&sni=edge-metric.cfd&sid=694eb64512cfabef#%F0%9F%87%A6%F0%9F%87%B9%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@80.47.17.174:53443?mode=auto&path=%2Fmedia%2Fingest&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22216-1604%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=ssoauthhub.cyou&sid=624ef62512cfcbef#%F0%9F%87%B5%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@72.56.37.135:52443?mode=auto&path=%2Fapi%2Fv2%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%2296-2020%22%7D&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=firefox&type=xhttp&sni=api-gateway.cyou&sid=624ef62512cfcbef#%F0%9F%87%AE%F0%9F%87%B9%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@179.43.138.201:52443?mode=auto&path=%2Fmedia%2Fchunks&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22240-916%22%7D&pbk=cK7MUTyQoobwHzW4LrD9wIcxEeACfGTsmjDBei6QxT8&fp=firefox&type=xhttp&sni=edge-queue.cyou&sid=357cbab681784da9#%F0%9F%87%A8%F0%9F%87%AD%20XHTTP-Reality%20%7C%20%40v2_mod_shop
+
