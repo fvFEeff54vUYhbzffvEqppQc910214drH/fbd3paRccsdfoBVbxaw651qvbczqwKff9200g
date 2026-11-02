@@ -4136,3 +4136,19 @@ hysteria2://a332374087c34a23b93bfa211c89dcdb@sorinp.hibyeacademy.ir:8447?sni=Sor
 
 vless://507774a6-58dd-436f-97aa-3ba35ab98085@172.67.154.17:443?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=s2p.open-ml.ir&path=%2Fwarp2#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://507774a6-58dd-436f-97aa-3ba35ab98085@104.18.32.47:2096?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=xhttp&host=s2p.open-ml.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://507774a6-58dd-436f-97aa-3ba35ab98085@172.67.154.17:2096?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=xhttp&host=s2p.open-ml.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://507774a6-58dd-436f-97aa-3ba35ab98085@104.18.32.47:2053?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=xhttp&host=s2p.open-ml.ir&path=%2Fwarp4&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://507774a6-58dd-436f-97aa-3ba35ab98085@104.18.32.47:443?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=s2p.open-ml.ir&path=%2Fwarp2#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://507774a6-58dd-436f-97aa-3ba35ab98085@172.64.154.211:2096?encryption=none&security=tls&sni=s2p.open-ml.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=xhttp&host=s2p.open-ml.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMzI4NTk4Ni01ODA0LTQxZWEtYTAwYi03ZjM4NDFkMjYyY2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBUQ1AtTm9uZSB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.109.69:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.109.69:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
