@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40GiveVPN
-
-vless://d3117332-c109-48ea-#None%20TCP-None%20%7C%20%40v2rayngvpn
-
-vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?security=tls&sni=us3.shtil.io&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
-
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
@@ -27,6 +21,28 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.43.120:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.43.120:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40LonUp_M
+
+vless://39c56b7e-9299-4d65-82b6-eb2efb1689da@tunn.pasmazy1.ir:9708?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=pP8WEPXWuKzBf4Qq4JSFmSQVQCP_ifeI-u9LcxEWvHw&sid=b82a9bd161c6395f&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40daily_configs
+
+vless://39c56b7e-9299-4d65-82b6-eb2efb1689da@tunn.pasmazy1.ir:2130?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=uf_wrB2mvTBPdVq5ghi9iQhde7c50zpdTJ2WWGHXHHQ&sid=4700e3e2a0b19070&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGYi05QlpZRm84RG56anhTUjJ2XzVQM3ZJQjdUVFR2Rw@tunn.pasmazy1.ir:7366?#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
+
+vless://39c56b7e-9299-4d65-82b6-eb2efb1689da@tunn.pasmazy1.ir:1462?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=MAkYuPf-gK04xzX3epCM7wr6i0nyxZh8sBhPO_cbqRE&sid=80faf6f018dab000&type=tcp&headerType=none&host=dynu.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@34.222.228.125:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://86d5fd71-3051-412e-a3f7-d803101afe2a@151.101.1.242:443?encryption=none&security=tls&sni=opener-calcine.video-streams.org&fp=chrome&type=ws&host=opener-calcine.video-streams.org&path=%2Fws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://a843dcb2-5281-480d-88f7-2c7b42d96275@199.232.78.120:443?encryption=none&security=tls&sni=community.fastly.steamstatic.com&alpn=h2&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=germanyi.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@146.75.57.111:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://ef3d730e-185e-4f2c-b716-26d113046bf2@96.44.178.67:52280?security=reality&encryption=mlkem768x25519plus.native.0rtt.OlJfCBHcXFHdwQZ8mmwZOB82LB_P9yCuVvL3dQ2Pgns&pbk=Dqi139W6LrS-hHFHhcIxQPY4lb6t54kZFrB2XEPr9A8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shop-eu-fr.amd.com&sid=dccdbd1d7b98b1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcl9pUGluZw@46.8.69.253:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -191,4 +207,10 @@ vless://6f3f7209-acaf-4609-83a9-ead51c8a65a1@n1.fllow.ir:443?authority=&encrypti
 vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.154:190?flow=xtls-rprx-vision&encryption=none&security=reality&sni=waldes.amusnetnot.site&fp=chrome&pbk=t59o65kEgrYZDGHg3AayZmzmNMsTI8LIqfRXopVyCAY&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003?#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
+
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40GiveVPN
+
+vless://d3117332-c109-48ea-#None%20TCP-None%20%7C%20%40v2rayngvpn
+
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?security=tls&sni=us3.shtil.io&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40UnlimitConfig
 
