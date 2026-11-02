@@ -1,5 +1,17 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://fc804d74-ccaa-4384-a039-d537d20f2e7c@50.116.41.151:8443?security=reality&encryption=none&pbk=9hG9nmShHeXSjfpz992ZorgQDZIFVH1wznpFJa_zxHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.googleapis.com&sid=0014f33f095d8704#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@[2607:5300:205:200::8aeb]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?path=&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40GiveVPN
 
 vless://d3117332-c109-48ea-#None%20TCP-None%20%7C%20%40v2rayngvpn
@@ -87,16 +99,4 @@ vless://da89d8eb-6575-482b-8a8e-53d2c3fa7d09@104.16.174.36:2053?mode=auto&path=%
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@se.mimowhat.online:443?sni=se.mimowhat.online&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
 
 hy2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183/?hop_interval=10&sni=kp09bn7y.easyiran.org&obfs=salamander&obfs-password=egnqz8stetfo2ci9#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40LonUp_M
-
-vless://c924eed3-040a-a4f0-8255-80467b23a7f2@122.8.47.2:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&mode=gun&authority=&serviceName=TunService#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40LonUp_M
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiIxOTUuMjYuMjYuMTYyIiwiaWQiOiJiYTY5OWMyYy03MjMyLTRjYTQtOTA2Ni04NDg1YTczY2EzNzIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNzA0NCwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxOTUuMjYuMjYuMTYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY5NTc3YTgzLTZmN2ItNDI0NC1hYTA2LTViOTFhNzNmMDdlNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzcwNDQiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
-
-vless://ae5c34f0-98d1-41bf-99f4-012cf865154e@194.32.214.94:2096?security=reality&encryption=none&pbk=O0i8MT5R__tGAOnvqJjRk4ygGV4EF2Yq4VMKG4Cj4V0&host=sm.novexora.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=2d5781f528d99a29#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40mtmvpn
 
