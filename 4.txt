@@ -18,3 +18,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@62.132.3.104:8443?allowInsecure=1&a
 
 vless://26524cce-d514-4014-a426-365fb266a14d@64.227.115.28:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=xy1ej.stream-node-us.danfeng.qzz.io&path=%2Fdanfeng&security=tls&sni=xy1ej.stream-node-us.danfeng.qzz.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40LonUp_M
 
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40orange_vpns
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40orange_vpns
+
