@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray1_ng
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
-
 vless://1f862a91-69b8-4f69-a457-02595c7bcd8c@iron2.zokfune.ir:443?mode=stream-one&path=%2Findex.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22scMaxConcurrentPosts%22%20%3A%20100%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%201000000%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%2030%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&insecure=0&host=iron2.zokfune.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=iron2.zokfune.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40mtmvpn
 
 vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtmvpn
@@ -419,6 +413,10 @@ vmess://eyJhZGQiOiIxMDkuNzAuNzQuNzgiLCJpZCI6IjQ0YTAwZTc0LTU5YzQtNGMxZC04MGNjLTVk
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
 
 vless://87af6c30-55ce-446b-9a7b-d82abc683293@18.219.73.42:443?encryption=none&fp=chrome&pbk=GMHIBvSiXrCP3eAsPUKYpenhPCv_Q-YQYALUev-sGFM&security=reality&sid=f5&sni=huddles.amazon.com&spx=%2F3565e0167318865&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
 
@@ -2757,6 +2755,8 @@ vless://754aa943-ab43-41ec-9791-c0e77d9fbfef@79.141.164.81:443?mode=gun&security
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
 vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
