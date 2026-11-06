@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
-
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plYW1pci50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDUxYjdlZGEtNDAxYi00ZmFmLWJhZGItZDUyZGIzZDY0MDBlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MzgzIiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAY2hpbGxndXlfdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAdjJyYXluZ3ZwbiIsImFkZCI6Im9jdHB1czIuZ3Ntb25saW5lLmlyIiwicG9ydCI6IjgwODAiLCJpZCI6IjA4ZTcwZDRmLWM0MWUtNDkwNy04MjA1LTlhN2QzYzczMDI4YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzbmFwcC5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIiLCJwY3MiOiIiLCJ2Y24iOiIiLCJlY2giOiIiLCJwcXYiOiIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesskhodam
@@ -681,6 +677,8 @@ vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&
 vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
 
 vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&headerType=none&type=tcp&sni=graphs.4cdn.de&sid=371f6e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Tunder_vpn
 
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@5.230.216.85:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Tunder_vpn
 
@@ -5393,4 +5391,8 @@ vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&
 vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:2053?encryption=none&security=tls&type=xhttp&sni=flatcrest.net&fp=ios#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&type=tcp&sni=indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@[2607:5300:205:200::8aeb]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2Fb53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40tik7net_vpn
+
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
 
