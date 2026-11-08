@@ -32,3 +32,7 @@ vless://V2XNET@94.237.83.139:443?mode=auto&path=%2Fuser&security=tls&alpn=h3%2Ch
 
 vless://XpnTeam-101@167.82.64.7:443?encryption=none&type=xhttp&security=tls&path=%2F&host=Xpnteam.global.ssl.fastly.net&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40UnlimitConfig
 
+vless://XpnTeam-100@167.82.64.7:443?encryption=none&type=xhttp&security=tls&path=%2F&host=Xpnteam.global.ssl.fastly.net&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40UnlimitConfig
+
+vless://3eaa7bb5-32b9-4974-9d0d-5741a00afb09@109.70.74.81:433?security=reality&encryption=none&pbk=OSGjZgIStwWeUHX8K_3u7UrA3L3Pw1WNaMj65hgh-Sg&headerType=none&fp=chrome&spx=%2F847013a6450a458&type=tcp&sni=www.speedtest.net&sid=64d966b7939a#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40UnlimitConfig
+
