@@ -1,8 +1,16 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_sss.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&type=grpc&security=reality&sni=md1.univesalsrv.com&fp=chrome&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&authority=%2F%3FTELEGRAM--V2ray_confiig&serviceName=hub.v1.RelayService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40DeamNet_proxy
 
-vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_ss.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2053&host=sunny-comet-55.curiocar.com&sni=sunny-comet-55.curiocar.com&fp=edge&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_s.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmesskhodam
+vless://7051be15-386d-4bb2-a35a-fd6085befc43@ca.api.bzzzq.fun:443?security=reality&encryption=none&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ca.api.bzzzq.fun&sid=5b2e7a14c0d9f832#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://feee6821-523c-43f2-ddb8-ab56c4db133e@199.232.237.245:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2%2Chttp%2F1.1&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ayek1.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://8af1ac56-283b-4fc5-bb33-6892498a0592@gw200.itlearn.top:443?mode=packet-up&path=%2Flivestreamcontent&security=tls&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A2%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22100-200%22%2C%22hMaxReusableSecs%22%3A%22300-600%22%7D%2C%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkDataPlacement%22%3A%22header%22%7D&insecure=0&host=gw200.itlearn.top&fp=firefox&type=xhttp&allowInsecure=0&sni=gw200.itlearn.top#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#%F0%9F%87%B7%F0%9F%87%B4%20XHTTP-Reality%20%7C%20%40LonUp_M
 
