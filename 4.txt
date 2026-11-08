@@ -18,3 +18,9 @@ vless://c1f87d4d-3ea2-4378-925a-b4942e930a7d@5.104.74.25:8443?security=reality&e
 
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ch1.japancase.site:443?security=reality&encryption=none&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ch1.japancase.site&sid=aafcd65859993991#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40LonUp_M
 
+vless://261cdc0d-9a73-4b75-b61b-e99980e3d668@[2001:41d0:701:1100::b4b7]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.05JPC3_8Wu_AICg4N1Iwi-wygGesw78y5dQUFNT_UwE&pbk=vKnJBC8MN4hGDqu7_C6luBwjVnhq9Wjb6BWkuK_8_z0&headerType=none&fp=chrome&spx=%2F697894d38cc69ce&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=dee5ab9e&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40planB_net
+
+vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8445?security=reality&encryption=none&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&fp=edge&type=grpc&serviceName=grpc-reality&sni=codifyr.ru&sid=d16860c57700c886&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40planB_net
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40planB_net
+
