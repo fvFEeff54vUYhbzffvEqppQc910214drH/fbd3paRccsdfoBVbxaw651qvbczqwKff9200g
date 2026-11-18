@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://21c24d1c-d938-495a-b33f-957bc65d301f@nd.bazzay.ru:443?security=reality&encryption=none&pbk=ZwMEL1FEHRGDKBNqSLnpHwSiEUPvY7vTk_cUIczPnEQ&headerType=none&fp=firefox&spx=%2FfJRoqEgUdYb9rdY&type=tcp&flow=xtls-rprx-vision&sni=detectportal.firefox.com&sid=b21d9c9270653002#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
-
 vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.170.205:8443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=8f3c6e2a1b5d4f09&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://11adad6a-9e43-4d21-bfff-75b06f0d6f0e@xray2-direct-mci1-fs-ce.freesocks.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
@@ -327,6 +325,8 @@ vless://4242ca92-87a4-434f-8d10-5ef49b39ef54@yek.razendns.dpdns.org:443?encrypti
 vless://44b5f8a4-11c0-4f69-b0e2-47c2fc05293b@mou789ihj-production.up.railway.app:443?encryption=none&security=tls&sni=mou789ihj-production.up.railway.app&fp=chrome&alpn=http%2F1.1&type=ws&host=mou789ihj-production.up.railway.app&path=%2Fapi%2FDP8gZ2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
 
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=finalnsdger.global.ssl.fastly.net.&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://21c24d1c-d938-495a-b33f-957bc65d301f@nd.bazzay.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=detectportal.firefox.com&fp=firefox&pbk=ZwMEL1FEHRGDKBNqSLnpHwSiEUPvY7vTk_cUIczPnEQ&sid=b21d9c9270653002&spx=%2FfJRoqEgUdYb9rdY&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
 
 vless://XpnTeam-125@167.82.64.7:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&host=Xpnt5eam.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40daily_configs
 
@@ -4323,4 +4323,6 @@ ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@178.162.254.38:8388#%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZzR6ZTJicHUwd3N5NnM2@78.47.201.144:1008#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
 
 vless://58496cc0-0b97-41b4-9401-4df570957a02@46.8.231.56:46600?encryption=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsInBvcnQiOiI4MCIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjU3LjEyOS4xMzIuMjIzIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiI1Ny4xMjkuMTMyLjIyMyIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 
