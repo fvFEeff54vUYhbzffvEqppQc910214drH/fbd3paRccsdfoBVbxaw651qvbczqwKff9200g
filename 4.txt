@@ -12,3 +12,17 @@ vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?mode=aut
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40LonUp_M
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.11.154:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
+
+ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#%F0%9F%87%B1%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
+
+vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?flow=xtls-rprx-vision&security=tls&sni=cdn4.velmoradigital.store&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://0001f119-4d6d-42ae-b2f0-d07ed4694381@144.31.179.156:2053?flow=xtls-rprx-vision&fp=chrome&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&security=reality&sid=cc981b746a300649&sni=www.samsung.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://fa80a2a1-edb1-461a-b94b-e360b8574e27@104.21.1.213:443?security=tls&sni=media-0a02cd.aiacademyhub.org&fp=chrome&type=ws&host=media-0a02cd.aiacademyhub.org&path=%2F27ae75d08381b6af#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://12910384-1ef8-40a3-818a-57277063ea66@144.31.214.68:8443?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=vlgrpc&sni=kk-fr2-21468.testkknegr.online#%F0%9F%87%AB%F0%9F%87%B7%20GRPC-TLS%20%7C%20%40LonUp_M
+
