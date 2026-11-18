@@ -6,3 +6,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.89.220:22224?encryption=none
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.89.220:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
 
+vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20010?encryption=none&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
+
+vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20Hysteria-TLS%20%7C%20%40LonUp_M
+
