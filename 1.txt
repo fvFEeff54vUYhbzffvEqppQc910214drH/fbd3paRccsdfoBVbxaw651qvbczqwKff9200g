@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65cdn4.velmoradigital.store:2443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.103:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%AC%F0%9F%87%AA%20GRPC-None%20%7C%20%40LonUp_M
-
-vless://0001f119-4d6d-42ae-b2f0-d07ed4694381144.31.179.156:2053?security=reality&encryption=none&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=cc981b746a300649#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://1b0b1650-5125-43a1-a6bb-9886623f4bf9trsv1.ranfelo.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
-
-vless://1b0b1650-5125-43a1-a6bb-9886623f4bf9trsv1.shimobile.net:443?security=reality&encryption=none&pbk=TOHxnZsUo-bxkD3kd_PluEPqyOAXEKIuG1xU9ZmOWwY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.plnitude.com&sid=f0c8653f3aa404fc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
-
 vless://171bcc4b-1d9d-45d6-8d29-25d41f8ea758tvall.pgbox.cloud:2053?security=reality&encryption=none&pbk=25GskP4F6-OS143WrCH1I9bjM-Uu7lX3wp0VMMr8Tzg&headerType=none&fp=chrome&spx=%2FPy02g22HhBUVqo7&type=tcp&sni=www.filimo.com&sid=b3a666eceba0d9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65leviko-nl1780.shopingggg.ir:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
@@ -25,6 +15,24 @@ hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com&insecure=1#%F0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLU5vbmUgfCBATG9uVXBfTSIsImFkZCI6IjQ1Ljc2LjEwMC4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImVlMjkyN2Y2LWI3NmEtNDAxMS05NTdjLWZlN2M0ODY1YjM2YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3dzIiwidGxzIjoiIn0=
 
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.167:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%AC%F0%9F%87%AA%20GRPC-None%20%7C%20%40LonUp_M
+
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQExvblVwX00iLCJhZGQiOiI4NC4xNy40MS4yIiwicG9ydCI6IjE4MDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3dlcyIsImhvc3QiOiJVUzAzMjAyMS5zc2dyZWVuLm9yZyIsInRscyI6IiJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFRDUC1Ob25lIHwgQExvblVwX00iLCJhZGQiOiI2NC4xNzYuMzQuMTAyIiwicG9ydCI6IjQ2MTMwIiwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+trojan://123456@34.94.152.229:443?fp=chrome&sni=us.ctt25.uk#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40LonUp_M
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d95f222c-3a63-47f8-8e61-af83e1f143f5@172.235.63.167:443?encryption=none&fp=&path=%2Fws&pbk=oxf_WPNwjjrO2uknpE9vbM9uwiQ4vbasL-Bgy3lwCHg&security=reality&sid=dd78b5c3&sni=itunes.apple.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-Reality%20%7C%20%40LonUp_M
+
+vless://ac28b793-b9cb-4795-8a49-311595469328@172.233.129.187:443?encryption=none&fp=&path=%2Fws&pbk=iNGO54Z98Rf8PR858MMTGjqGaEEOpcqEFSrZJbeGtlY&security=reality&sid=4a979563&sni=itunes.apple.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-Reality%20%7C%20%40LonUp_M
+
+vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-Reality%20%7C%20%40LonUp_M
 
 vless://a2816850-dbff-4f1c-a18a-559079c5fcad@Iran.powerpanel.space:443?security=none&encryption=mlkem768x25519plus.native.0rtt.JhFafu3WxlVo6xMe01oUXCPAFQoc4bt5updF83mIthE&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
 
@@ -91,12 +99,4 @@ vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.11.154:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
 
 ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#%F0%9F%87%B1%F0%9F%87%B9%20TCP-None%20%7C%20%40LonUp_M
-
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?flow=xtls-rprx-vision&security=tls&sni=cdn4.velmoradigital.store&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%B4%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://0001f119-4d6d-42ae-b2f0-d07ed4694381@144.31.179.156:2053?flow=xtls-rprx-vision&fp=chrome&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&security=reality&sid=cc981b746a300649&sni=www.samsung.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://fa80a2a1-edb1-461a-b94b-e360b8574e27@104.21.1.213:443?security=tls&sni=media-0a02cd.aiacademyhub.org&fp=chrome&type=ws&host=media-0a02cd.aiacademyhub.org&path=%2F27ae75d08381b6af#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
