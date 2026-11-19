@@ -5352,3 +5352,23 @@ vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&
 
 vless://29627b5f-502c-4596-84f0-be07a1dd8bd5@31.57.185.176:443?security=reality&encryption=none&pbk=WSRUkuuId9FFfLjGfsCbl5ZXpV0I2ERCo35SKPPEQHY&headerType=none&fp=chrome&spx=%2Fd875449d15fd7d4&type=tcp&sni=www.cloudflare.com&sid=d6a589#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@201.24.48.120:443?encryption=none&security=tls&type=xhttp&sni=orchard.elvano.website&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://c2de4998-c75d-49fa-9413-66d1f9aed9c4@167.82.76.31:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fsetare&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&insecure=0&host=canoenkd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#%F0%9F%87%AC%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://6d477a1e-40ec-4e27-940a-d398092e63af@5.104.74.117:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://a4a03a70-47c1-4c5f-89d6-dd9d3d2c5ada@188.116.27.6:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.sony.co.uk&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sid=1174#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=ams2.shtil.io&fp=safari&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
+
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&type=xhttp&sni=sorrel-gate.cdn.cachefleet.com&fp=chrome&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://68a19895-7b8e-1620-8055-6aeab39515b2@129.101.107.31:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ya.ru&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&sid=542a83882d6461d5#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=absolute-disaster.org&fp=firefox&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:443?encryption=none&security=tls&type=xhttp&sni=cloudehouse24.ru&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40LonUp_M
+
