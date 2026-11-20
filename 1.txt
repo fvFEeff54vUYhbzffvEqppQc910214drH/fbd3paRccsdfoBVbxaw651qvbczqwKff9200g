@@ -1,5 +1,25 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+trojan://a9bja4p4-5w8n-cdex-dw32-61o8gd0b93lp@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://i3o8upap-iiev-o9l8-zjv4-getg7iq91wb5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://s2qarsel-8w4m-x4zm-j3rp-xdu1t2f2culj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?type=tcp&security=reality&sni=zsit.eu-cdn294.com&fp=firefox&flow=xtls-rprx-vision&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&sid=cd2d53510b4df2a8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&sid=a44ff7d2e80213c2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40RONINVPN1
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/Telegram-MTMVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://fab8709f-376d-4d20-866f-f9cdd7f0dcd7@46.8.68.45:4380?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.34:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.iloverussia2026.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
@@ -79,24 +99,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
 vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAQ29uZmlnVjJyYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bGo1clhsd3B5cFAwS3UwbnpXT2w4aGFBNlI5OHZMb0NzWTh2bWRHbWZsND0@129.146.38.236:50356#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@harbor.gerqix.online:443?path=%2Fapi%2Fde1%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=harbor.gerqix.online#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&encryption=none&insecure=0&host=vpn-rating.space&fp=chrome&type=ws&allowInsecure=0&sni=vpn-rating.space#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&encryption=none&insecure=0&host=kuruish.org&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=daily-author.ru#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=discovergreatjobsandadvanceyourcareer.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 
