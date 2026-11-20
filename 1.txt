@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://e0158453-8fe9-4797-99fd-e955cf266ac6@46.38.142.75:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22noSSEHeader%22%3A+false%2C+%22xPaddingObfsMode%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443?mode=packet-up&path=%2Fapi-test&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A16384%2C%22scMinPostsIntervalMs%22%3A10%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkChunkSize%22%3A4096%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%7D&insecure=0&host=eecdn.fius.dev&fp=firefox&type=xhttp&allowInsecure=0&sni=eecdn.fius.dev#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuY0lrdWJtb0RHc2w=@208.69.78.133:443#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40LonUp_M
+
 vless://0269c212-2480-4546-b912-3e6c63ebf665@du5g.altheora.ir:3920?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.4Jb6jrSt_LOKTca06bM-c5TVlLkFoEU8mkyWQ_uYXxw&pbk=D-Vn6ucy_v_Pre-QtXpL4jbjYUcnqX88QndrXyBwrnA&fp=chrome&type=xhttp&flow=xtls-rprx-vision&sni=ea.com&sid=ac526236a4be0913#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40chillguy_vpn
 
 vless://bc5c220e-6c87-4465-a495-acfb1790feda@188.72.112.1:443?security=tls&sni=edge-de3.gramstar.online&alpn=h2%2Ch3%2Chttp%2F1.1&fp=firefox&type=xhttp&host=edge-de3.gramstar.online&path=%2Fuploadfiles%2F&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%222048-4096%22%2C%22scMinPostsIntervalMs%22%3A%221-8%22%2C%22seqKey%22%3A%22offset%22%2C%22seqPlacement%22%3A%22query%22%2C%22serverMaxHeaderBytes%22%3A32768%2C%22sessionIDKey%22%3A%22sid%22%2C%22sessionIDPlacement%22%3A%22query%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22HEAD%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40LonUp_M
@@ -91,12 +99,4 @@ vless://02073765-76e0-46d0-9109-82ccb48d3c6f@129.153.71.28:28863?encryption=none
 vless://fa45096d-bed0-ad80-c773-23c300000018@104.21.108.4:443?type=ws&security=tls&fp=chrome&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%F0%9F%87%AE%F0%9F%87%AA%20TCP-None%20%7C%20%40LonUp_M
-
-vless://cda4db41-d347-4b9e-9519-7408d81f3416@46.8.69.218:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.kRj1lYuq4A7jfLZlVIX_AbbTldNIOA0j5PjD14N9_1Q&host=tgju.org&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-vless://92a188aa-2e86-4557-bd30-b2079a70f824@uuyjnfbv.localip.ir:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=uuyjnfbv.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.114.98.0:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=o685y.save-node.com&type=ws&allowInsecure=0&sni=o685y.save-node.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://c3fb747f-d13e-499d-a74e-011dc7a37dcd@45.32.92.77:443?mode=auto&security=reality&encryption=none&pbk=RapOOhzVPwQkqWmy53QARzFMMI2QwE9PwdGY-CD_GFU&fp=chrome&type=xhttp&sni=telly.js7k.com&sid=f5c5ca1c#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40LonUp_M
 
