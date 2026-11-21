@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-trojan://o1pch3v2-gmr6-qx6f-ausx-xpr23ce2u23l@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://lld85oml-gmss-6pij-foh0-vkr52shoj8va@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://9mlk6q44-35ht-h849-y165-cqo6vsh4pzpc@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
-
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
 trojan://gHQP0D7D15@104.25.239.113:2053?sni=marvdasht.phonecomparisonblog.org&peer=marvdasht.phonecomparisonblog.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
@@ -92,6 +84,10 @@ vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjowLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5z
 
 vmess://eyJhZGQiOiIxNzIuNjQuMTU1LjIwOSIsImFpZCI6MCwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQExvblVwX00iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-france1.09vpn.com&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
 vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=%2Fvless%2F&sni=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -131,4 +127,12 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBST05JTlZQTjEiLCJhZGQi
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyB8IEBST05JTlZQTjEiLCJhZGQiOiIxMDcuMTQ5LjExOS40MyIsInBvcnQiOjM3MDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8wNDAzMTgxNDI1MDciLCJ0bHMiOiJ0bHMifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQFJPTklOVlBOMSIsImFkZCI6InRyLmdhbWVjZW50ZXJ2aXAuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJkNDllMmJmMC1jNjUyLTRhNzItYjE1My1iMTIyYWIyZjIzZDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0=
+
+trojan://o1pch3v2-gmr6-qx6f-ausx-xpr23ce2u23l@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://lld85oml-gmss-6pij-foh0-vkr52shoj8va@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://9mlk6q44-35ht-h849-y165-cqo6vsh4pzpc@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
+
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40RONINVPN1
 
