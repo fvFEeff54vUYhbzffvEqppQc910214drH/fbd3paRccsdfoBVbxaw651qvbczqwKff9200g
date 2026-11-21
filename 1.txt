@@ -82,21 +82,21 @@ trojan://vP%21XvZBNdw.e%2AddSgmH%21@188.114.96.0:2096?path=/tr/lqCTAonDgcErIZylZ
 
 trojan://e7TTceggMwUMg%2BaFN%3AF4@172.66.47.18:443?security=tls&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev&fp=chrome&type=ws&path=%2Ftr%2FSIeRkg2QvR2Zcpu0SeEMow%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&obfs=salamander&obfs-password=v0qq015d7c8zgzu7#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40daily_configs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.146.80:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
 
-vless://39aa059a-f489-44f4-9697-9be96438b1ac@du5g.altheora.ir:3924?encryption=mlkem768x25519plus.xorpub.0rtt.0mfCI2lyeB42JAaGW6__Muo41TEAbk7nDrR4nExbrSs&flow=xtls-rprx-vision&security=tls&sni=login.zanjanphone.ir&fp=chrome&type=ws&host=login.zanjanphone.ir&path=%2Flogin#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.146.80:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40VlessConfig
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@leviko-nl8920.shopingggg.ir:443?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.146.80:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40PrivateVPNs
 
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@172.67.67.89:2087?encryption=none&security=tls&sni=ns4t32a2zc38o0on-ghqgwsswrh4mqda.pages.dev&fp=chrome&type=ws&path=%2F&host=ns4t32a2zc38o0on-ghqgwsswrh4mqda.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://a90a8089-1367-4aa0-bf77-ce74d0786bdb@95.163.209.247:443?encryption=none&security=reality&sni=seedance25.neuroseti.info&fp=firefox&pbk=87MlVLlUdyNhLfxhktmWtzp6UAInFjzwvyVg1A7Zgz8&sid=03f1e073fa9e42ac&type=xhttp&path=%2Fapi%2Fgenerate#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-Reality%20%7C%20%40LonUp_M
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+vless://4e932df2-a06a-4043-861c-87fe8d217aae@95.179.145.100:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=184a6838386d384e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://72f10005-8849-4072-b081-db3258c1350f@188.114.97.3:443?type=ws&security=tls&fp=chrome&host=xa6jgykbpcfy6na3tt4zeefsquy2x5kank9hmzdqieofbqkbv3kukzmdfsssaaa.b5mq1ob64b.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+trojan://e7TTceggMwUMg%2BaFN%3AF4@188.114.97.0:443?path=%2Ftr%2FK6yFgCX8e93ySqOO4K%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=apkd964o1oghltghht0l0of.pages.dev&fp=android&type=ws&allowInsecure=0&sni=Apkd964o1oghltGhhT0L0oF.PAGEs.DeV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@172.67.74.177:2087?security=tls&type=ws&path=%2F&host=ns4t32a2zc38o0on-ghqgwsswrh4mqda.pages.dev&packetEncoding=xudp&sni=ns4t32a2zc38o0on-ghqgwsswrh4mqda.pages.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
+trojan://e7TTceggMwUMg%2BaFN:F4@172.66.47.18:443?security=tls&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev&fp=chrome&type=ws&path=/tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@8.39.125.64:443?type=ws&security=tls&fp=chrome&host=ahmad99hoseini.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
+trojan://vP%21XvZBNdw.e%2AddSgmH%21@188.114.96.3:2096?path=/tr/ZFttmjSqvda5ohOQ?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=n0q4XPrJ2D4X4PRCQ29L8JKCZd0.pAGES.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40LonUp_M
 
