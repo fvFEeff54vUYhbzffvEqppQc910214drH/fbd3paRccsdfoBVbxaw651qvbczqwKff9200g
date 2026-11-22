@@ -20,3 +20,7 @@ vless://0d7568a8-12c7-45ec-9d1a-c820441e6362@netherlands.vpnserverhub.com:443?en
 
 vless://0d7568a8-12c7-45ec-9d1a-c820441e6362@cdn-nl.vpnserverhub.com:8080?encryption=none&type=ws&path=%2Fvpn-secure-cdn&security=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40LonUp_M
 
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2nodes
+
+vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTY5LjE5Ny4xNDIuMjIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNjkuMTk3LjE0Mi4yMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
