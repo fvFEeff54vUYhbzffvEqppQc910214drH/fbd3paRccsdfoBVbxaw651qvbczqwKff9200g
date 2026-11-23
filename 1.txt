@@ -26,6 +26,8 @@ vless://566a19dc-591e-4ddf-a727-2b95d68ae4a5@195.201.225.248:8443?encryption=mlk
 
 vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiODQuMTcuNDEuMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBvcmFuZ2VfdnBucyIsInNuaSI6Ijg0LjE3LjQxLjIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsIm5hbWUiOiJVUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBAUmF5ZGlrYWx4IHwgRkMxNUNFIiwic2N5IjoiYXV0byJ9
 
+vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?security=reality&encryption=none&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=1b2a3f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40chillguy_vpn
+
 hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&obfs=salamander&obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&insecure=0&sni=216.73.157.142#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40vmesskhodam
 
 vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&headerType=none&type=tcp&sni=graphs.4cdn.de&sid=371f6e#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
@@ -97,6 +99,4 @@ hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&obf
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843/?type=tcp&encryption=none&flow=&security=tls&sni=deproxy2.lckdwn.ru&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
 
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=gb1.wba-pn.ru&fp=qq#%F0%9F%8C%90%20WS-TLS%20%7C%20%40LonUp_M
-
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&security=tls&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40LonUp_M
 
