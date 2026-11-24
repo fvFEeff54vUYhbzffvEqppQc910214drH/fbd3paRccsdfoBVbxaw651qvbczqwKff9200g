@@ -7136,3 +7136,19 @@ trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&
 
 vless://83a8fde4-62d6-41ae-85a8-0cef7504027c@t3.g-boot.ir:443?mode=auto&path=%2F8802c2c55be0&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=t3.g-boot.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=t3.g-boot.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
+vless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=%2Fws%2F2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://b856294d-5767-4878-8cf5-c1d5ffbfb284@dl1.mbndadwsdf132131.torkey.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&pbk=MnhL-gBMmVwS3TDfl6rMbGmMhfpFCQQ1QCuefgztY2U&sid=7670b1aff090e4f0#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://fc1aae3b-e361-416c-aebf-cebdcceedae9@107.181.112.141:2087?encryption=none&security=tls&sni=107.181.112.141&fp=chrome&alpn=h2%2Chttp%2F1.1&type=httpupgrade&host=107.181.112.141&path=%2F%3FTelegram---BALENET---BALENET---BALENET---BALENET#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-TLS%20%7C%20%40LonUp_M
+
+vless://fc1aae3b-e361-416c-aebf-cebdcceedae9@107.181.112.141:8443?encryption=none&security=tls&sni=107.181.112.141&fp=firefox&alpn=http%2F1.1&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22header%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22type%22%3A%22mkcp-legacy%22%7D%5D%7D&type=kcp&headerType=none&mtu=1350#%F0%9F%87%BA%F0%9F%87%B8%20KCP-TLS%20%7C%20%40LonUp_M
+
+vless://fc1aae3b-e361-416c-aebf-cebdcceedae9@107.181.112.141:2053?encryption=none&security=tls&sni=107.181.112.141&fp=chrome&alpn=http%2F1.1&type=xhttp&host=107.181.112.141&path=%2F%3FTelegram---BALENET---BALENET---BALENET---BALENET&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+vless://fc1aae3b-e361-416c-aebf-cebdcceedae9@107.181.112.141:2083?encryption=none&security=tls&sni=107.181.112.141&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&type=xhttp&host=107.181.112.141&path=%2F%3FTelegram---BALENET---BALENET---BALENET---BALENET&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40LonUp_M
+
+hysteria2://5ictxgawam84vgrp@107.181.112.141:2098?sni=107.181.112.141&obfs=salamander&obfs-password=7922smqtd5qm70fu#%F0%9F%87%BA%F0%9F%87%B8%20Hysteria-TLS%20%7C%20%40LonUp_M
+
