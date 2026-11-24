@@ -1,22 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.143.3:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.143.3:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.143.3:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
-
-vmess://eyJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwiYWRkIjoieDkudG9wc3BlZWRhcmFzaC5jb20iLCJpZCI6IjE5OTQ2MDYwLTc3NDUtNGI0OC1hZTM1LWEwNTQyYjdkNzA3MSIsInBvcnQiOiI0MjE4OCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQExvblVwX00iLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
-
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
-
-vless://e7e0da99-901a-4b1e-9f5c-17d5d0923edd@cdn.shop.mygharehshop.ir:41230?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.shop.mygharehshop.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@5.175.221.25:443?headerType=none&encryption=none&security=reality&sid=f5a3723f6b3bf8f0&type=tcp&flow=xtls-rprx-vision&pbk=Es-vDVGU36WaD2qXnoxHV_nCLfo6I2mUCB4WDcSCBXE&sni=mepladu.klyck.online&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?insecure=0&allowInsecure=0&headerType=none&security=tls&sni=171.22.183.167&type=tcp&flow=xtls-rprx-vision&encryption=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40LonUp_M
-
-vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?flow=xtls-rprx-vision&insecure=0&headerType=none&sni=2gcnbpjzq4go.cloud-kmt.com&encryption=none&allowInsecure=0&security=tls&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40LonUp_M
+vless://83a8fde4-62d6-41ae-85a8-0cef7504027c@t3.g-boot.ir:443?mode=auto&path=%2F8802c2c55be0&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=t3.g-boot.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=t3.g-boot.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws&sni=---%40external_net---%40external_net---%40external_net---%40external_net---%40external_net#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40FreakConfig
 
@@ -245,8 +231,4 @@ vless://83a8fde4-62d6-41ae-85a8-0cef7504027c@ir.g-boot.ir:443?mode=auto&path=%2F
 trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@ir.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
 
 vless://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=9a597f16c2171bab#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
-
-trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
-
-vless://83a8fde4-62d6-41ae-85a8-0cef7504027c@t3.g-boot.ir:443?mode=auto&path=%2F8802c2c55be0&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=t3.g-boot.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=t3.g-boot.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40LonUp_M
 
