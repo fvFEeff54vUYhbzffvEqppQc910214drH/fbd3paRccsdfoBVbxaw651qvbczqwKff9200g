@@ -28,3 +28,7 @@ vless://ed809ef1-338d-4355-b9e8-2de0e522202f@216.24.57.1:2095?security=none&type
 
 vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.30.178:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40LonUp_M
 
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2rayngvpn
+
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&fp=qq&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2rayngvpn
+
