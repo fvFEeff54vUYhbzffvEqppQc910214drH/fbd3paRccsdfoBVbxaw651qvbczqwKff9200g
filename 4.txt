@@ -4,3 +4,9 @@ vless://90711def-edd4-42da-ba1d-b2046b86b50a@free-server.techsonic.dev:443?sni=t
 
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?sni=185.200.199.122&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
+vless://05f0037e-bf24-49e6-8c71-5560e9324144@3at0z.sannest.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+vless://d82f939a-8a29-eb33-3aa2-08fc2817f6e2@freenetxbot.ahbpanel.ir:2053?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://d82f939a-8a29-eb33-3aa2-08fc2817f6e2@freenetxbot.ahbpanel.ir:2083?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=grpc&serviceName=vw&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40LonUp_M
+
