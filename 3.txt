@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.233.226:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
-
 vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2_mod_shop
 
 vless://88c56216-3061-4f77-dc86-6ca903299b64@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=firefox&type=xhttp&sni=community.fastly.steamstatic.com&mode=packet-up&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22repeat-x%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22Referer%22%2C%22xPaddingKey%22%3A%22x_padding%22%7D&insecure=0&host=cloudnet2026-4.global.ssl.fastly.net.global.prod.fastly.net&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40v2_mod_shop
@@ -6535,4 +6533,26 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.218.240:22224?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.218.240:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40FreakConfig
+
+vless://52406fc7-b008-4985-8de1-4bc43b2b873a@hw7.jirjirakirani.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw7.jirjirakirani.com.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://76f48d1f-113a-4f4a-b67b-ecc8dc172218@hw7.jirjirakirani.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw7.jirjirakirani.com.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw3.modemjibi.com.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=st3b6e5.rumedia-cdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://978d2a58-bd01-4b61-b953-dc8e66728460@hw8.iranichergh.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw8.iranichergh.com.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://08c97940-7646-494c-82f5-7bc19b973281@mail2.besttotaldns.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=mail2.besttotaldns.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ifi1.modemjibi.com.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=191.217.215.228#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@188.114.98.0:443?path=%2F700gvl&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=fr-free.fastestrelay.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://4562df9b-0b3f-460d-8d44-50526febcb41@intfloat.omsapplications.com:8080?security=tls&alpn=h3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=intfloat.omsapplications.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2rayNG_Matsuri
 
