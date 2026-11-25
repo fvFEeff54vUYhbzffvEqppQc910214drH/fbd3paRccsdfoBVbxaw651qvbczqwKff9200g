@@ -7020,3 +7020,17 @@ vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@82.152.141.139:443?security=reality
 
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?security=reality&encryption=none&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&fp=firefox&type=grpc&serviceName=grpc&sni=passport.yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40LonUp_M
 
+vless://2f12e5b5-6ce7-47ab-88b9-6110c1a3fc60@179.254.94.184:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=q49v36UVMNsNION3nn-cQU6_8VwgM_psm1s5z7XVaWc&sid=e6052385636f0700#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiJpci5kZWdlcmlzLmlyIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiYXBhcmF0Lnplcm9zc3J6LmlyIiwiaWQiOiI3NGJiMTM3ZC05OTZlLTRhNDktYWQ0MS1jMGNiZTFmYTg5ZmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODQ1OCwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtVExTIHwgQExvblVwX00iLCJzY3kiOiJhdXRvIiwic25pIjoidmlwLnplcm9zc3J6LmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40LonUp_M
+
+vless://f0759ea5-08d3-481b-8b0a-f277aabbafb3@46.8.103.141:57801?mode=gun&security=reality&encryption=none&pbk=2nDTIBwF8WaGUbfuwwjRiOBrmUm25XpepbH0blYj92g&fp=chrome&spx=%2Ffbc4f3c03d8d465&type=grpc&sni=led.samsung.com&sid=7f#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40LonUp_M
+
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?security=tls&sni=shuma.ccwu.cc&type=ws&fp=chrome&allowInsecure=1&path=/&host=shuma.ccwu.cc#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40LonUp_M
+
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40LonUp_M
+
