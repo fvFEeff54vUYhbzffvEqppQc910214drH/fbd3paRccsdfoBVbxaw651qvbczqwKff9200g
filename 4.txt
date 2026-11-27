@@ -16,3 +16,21 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.127.1:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
+
+vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgVENQLVRMUyB8IEBMb25VcF9NIiwic2N5IjoiYXV0byIsInNuaSI6ImRlLnpob3UteXVmYW4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@192.99.151.230:8388#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40LonUp_M
+
+vless://8a18247c-be3c-4059-b1ea-eca16426f72d@static1.berluno.ir:1155?security=reality&encryption=none&pbk=Tqaj1t2O6IgtkpPSv864aEteMBYI8soPDCYsaJ93BRE&host=www.yahoo.com&headerType=none&fp=edge&spx=%2Fexample&type=tcp&sni=tgju.org&sid=6ab3373ea7da156f#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://05f0037e-bf24-49e6-8c71-5560e9324144@3at0z.sannest.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40LonUp_M
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0%3D@43.160.213.146:8388#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40LonUp_M
+
+vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?mode=packet-up&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=reality&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%2210000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&host=google.com&fp=chrome&type=xhttp&sni=play.google.com&sid=07529200e1fe#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40LonUp_M
+
+vless://b856294d-5767-4878-8cf5-c1d5ffbfb284@dl1.mbndadwsdf132131.torkey.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&pbk=MnhL-gBMmVwS3TDfl6rMbGmMhfpFCQQ1QCuefgztY2U&sid=7670b1aff090e4f0#%F0%9F%87%AE%F0%9F%87%B7%20TCP-Reality%20%7C%20%40LonUp_M
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.127.1:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40LonUp_M
+
