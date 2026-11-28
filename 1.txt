@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://0f856f56-822f-49f6-b059-1dfb17466755@78.141.219.108:4083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40LonUp_M
+
 vless://a38f5da6-ce38-4270-9ced-12a4df9b2811@139.28.241.152:443?mode=packet-up&path=%2Fapi-test2&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A16000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scMaxBufferedPosts%22%3A30%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%2C%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A50%2C%22hMaxRequestTimes%22%3A600%2C%22maxConcurrency%22%3A%2216-32%22%7D%2C%22uplinkDataPlacement%22%3A%22header%22%7D&insecure=0&host=origin2.pd-service.shop&fp=qq&type=xhttp&allowInsecure=0&sni=origin2.pd-service.shop#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40LonUp_M
 
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.15.46:5555#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40LonUp_M
@@ -97,6 +99,4 @@ vless://a299e0aa-1613-476b-b488-8ee8337d9ae1@154.197.64.252:443?encryption=none&
 vless://201e0019-2e79-4147-8a09-e510d630abeb@57.129.130.57:52014?encryption=none&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40LonUp_M
 
 vless://85432578-96fd-4613-a255-e235a81cc94b@185.16.110.62:2052?ed=2052&eh=Sec-WebSocket-Protocol&encryption=none&host=cd90.u8o.lol&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40LonUp_M
-
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@5.188.72.82:443?security=reality&encryption=none&pbk=4yLVV3M8vaHpurPJ2NvTwhWkhWmsNxPYtQMwEHYQBxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=natakeh743.lkfnvflknsdn.com&sid=e6accea441fd1d07#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
